@@ -1,0 +1,19 @@
+HELIX    1   1 SER A   71  LEU A   77  5                                   7    
+HELIX    2   2 GLY A   94  ASP A   96  5                                   3    
+HELIX    3   3 THR A  100  TRP A  118  1                                  19    
+HELIX    4   4 SER A  139  GLY A  144  5                                   6    
+HELIX    5   5 LYS A  158  ALA A  169  1                                  12    
+SEQRES   1 A  160  GLY SER GLY PRO LEU THR PRO LEU ALA TYR LYS GLN PHE          
+SEQRES   2 A  160  ILE PRO ASN VAL ALA GLU LYS THR LEU GLY ALA SER GLY          
+SEQRES   3 A  160  ARG TYR GLU GLY LYS ILE THR ARG ASN SER GLU ARG PHE          
+SEQRES   4 A  160  LYS GLU LEU THR PRO ASN TYR ASN PRO ASP ILE ILE PHE          
+SEQRES   5 A  160  LYS ASP GLU GLU ASN THR GLY ALA ASP ARG LEU MET THR          
+SEQRES   6 A  160  GLN ARG CYS LYS ASP LYS LEU ASN ALA LEU ALA ILE SER          
+SEQRES   7 A  160  VAL MET ASN GLN TRP PRO GLY VAL LYS LEU ARG VAL THR          
+SEQRES   8 A  160  GLU GLY TRP ASP GLU ASP GLY HIS HIS SER GLU GLU SER          
+SEQRES   9 A  160  LEU HIS TYR GLU GLY ARG ALA VAL ASP ILE THR THR SER          
+SEQRES  10 A  160  ASP ARG ASP ARG SER LYS TYR GLY MET LEU ALA ARG LEU          
+SEQRES  11 A  160  ALA VAL GLU ALA GLY PHE ASP TRP VAL TYR TYR GLU SER          
+SEQRES  12 A  160  LYS ALA HIS ILE HIS CYS SER VAL LYS ALA GLU ASN SER          
+SEQRES  13 A  160  VAL ALA ALA LYS                                              
+DBREF  3N1R A   40   195  UNP    Q62226   SHH_MOUSE       40    195             

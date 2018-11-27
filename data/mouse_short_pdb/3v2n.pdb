@@ -1,0 +1,30 @@
+HELIX    1   1 LEU A   29  GLU A   67  1                                  39    
+HELIX    2   2 LEU B   29  GLU B   67  1                                  39    
+HELIX    3   3 LEU C   29  GLU C   67  1                                  39    
+HELIX    4   4 LEU D   29  GLU D   67  1                                  39    
+HELIX    5   5 LEU E   29  GLU E   67  1                                  39    
+SEQRES   1 A   45  MET ASP LEU ALA PRO GLN MET LEU ARG GLU LEU GLN GLU          
+SEQRES   2 A   45  THR ASN ALA ALA LEU GLN ASP VAL ARG GLU LEU LEU ARG          
+SEQRES   3 A   45  GLN GLN VAL LYS GLU ILE THR PHE LEU LYS ASN THR VAL          
+SEQRES   4 A   45  MET GLU CYS ASP ALA CYS                                      
+SEQRES   1 B   45  MET ASP LEU ALA PRO GLN MET LEU ARG GLU LEU GLN GLU          
+SEQRES   2 B   45  THR ASN ALA ALA LEU GLN ASP VAL ARG GLU LEU LEU ARG          
+SEQRES   3 B   45  GLN GLN VAL LYS GLU ILE THR PHE LEU LYS ASN THR VAL          
+SEQRES   4 B   45  MET GLU CYS ASP ALA CYS                                      
+SEQRES   1 C   45  MET ASP LEU ALA PRO GLN MET LEU ARG GLU LEU GLN GLU          
+SEQRES   2 C   45  THR ASN ALA ALA LEU GLN ASP VAL ARG GLU LEU LEU ARG          
+SEQRES   3 C   45  GLN GLN VAL LYS GLU ILE THR PHE LEU LYS ASN THR VAL          
+SEQRES   4 C   45  MET GLU CYS ASP ALA CYS                                      
+SEQRES   1 D   45  MET ASP LEU ALA PRO GLN MET LEU ARG GLU LEU GLN GLU          
+SEQRES   2 D   45  THR ASN ALA ALA LEU GLN ASP VAL ARG GLU LEU LEU ARG          
+SEQRES   3 D   45  GLN GLN VAL LYS GLU ILE THR PHE LEU LYS ASN THR VAL          
+SEQRES   4 D   45  MET GLU CYS ASP ALA CYS                                      
+SEQRES   1 E   45  MET ASP LEU ALA PRO GLN MET LEU ARG GLU LEU GLN GLU          
+SEQRES   2 E   45  THR ASN ALA ALA LEU GLN ASP VAL ARG GLU LEU LEU ARG          
+SEQRES   3 E   45  GLN GLN VAL LYS GLU ILE THR PHE LEU LYS ASN THR VAL          
+SEQRES   4 E   45  MET GLU CYS ASP ALA CYS                                      
+DBREF  3V2N A   27    71  PDB    3V2N     3V2N            27     71             
+DBREF  3V2N B   27    71  PDB    3V2N     3V2N            27     71             
+DBREF  3V2N C   27    71  PDB    3V2N     3V2N            27     71             
+DBREF  3V2N D   27    71  PDB    3V2N     3V2N            27     71             
+DBREF  3V2N E   27    71  PDB    3V2N     3V2N            27     71             

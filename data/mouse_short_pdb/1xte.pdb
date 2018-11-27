@@ -1,0 +1,19 @@
+HELIX    1   1 TYR A   45  PHE A   59  1                                  15    
+HELIX    2   2 PRO A   60  ALA A   63  5                                   4    
+HELIX    3   3 ASP A   77  VAL A   96  1                                  20    
+HELIX    4   4 TYR A   98  ASN A  103  1                                   6    
+HELIX    5   5 HIS A  104  LEU A  111  1                                   8    
+HELIX    6   6 SER A  115  GLN A  119  5                                   5    
+SEQRES   1 A  154  MET ASP TYR LYS GLU SER CYS PRO SER VAL SER ILE PRO          
+SEQRES   2 A  154  SER SER ASP GLU HIS ARG GLU LYS LYS LYS ARG PHE THR          
+SEQRES   3 A  154  VAL TYR LYS VAL LEU VAL SER VAL GLY ARG SER GLU TRP          
+SEQRES   4 A  154  PHE VAL PHE ARG ARG TYR ALA GLU PHE ASP LYS LEU TYR          
+SEQRES   5 A  154  ASN SER LEU LYS LYS GLN PHE PRO ALA MET ALA LEU LYS          
+SEQRES   6 A  154  ILE PRO ALA LYS ARG ILE PHE GLY ASP ASN PHE ASP PRO          
+SEQRES   7 A  154  ASP PHE ILE LYS GLN ARG ARG ALA GLY LEU ASN GLU PHE          
+SEQRES   8 A  154  ILE GLN ASN LEU VAL ARG TYR PRO GLU LEU TYR ASN HIS          
+SEQRES   9 A  154  PRO ASP VAL ARG ALA PHE LEU GLN MET ASP SER PRO ARG          
+SEQRES  10 A  154  HIS GLN SER ASP PRO SER GLU ASP GLU ASP GLU ARG SER          
+SEQRES  11 A  154  THR SER LYS PRO HIS SER THR SER ARG ASN ILE ASN LEU          
+SEQRES  12 A  154  GLY PRO THR GLY ASN PRO HIS ALA LYS PRO THR                  
+DBREF  1XTE A    1   154  UNP    Q9ERE3   SGK3_MOUSE       7    160             

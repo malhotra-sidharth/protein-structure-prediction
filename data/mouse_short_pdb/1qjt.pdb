@@ -1,0 +1,16 @@
+REMARK 650 HELIX                                                                
+HELIX    1   1 LEU A    9  SER A   14  1                                   6    
+HELIX    2   2 VAL A   18  VAL A   26  1                                   9    
+HELIX    3   3 ALA A   36  SER A   46  1                                  11    
+HELIX    4   4 ASP A   50  ALA A   60  1                                  11    
+HELIX    5   5 LYS A   70  GLN A   84  1                                  15    
+HELIX    6   6 SER A   90  LEU A   94  5                                   5    
+SEQRES   1 A   99  LEU SER LEU THR GLN LEU SER SER GLY ASN PRO VAL TYR          
+SEQRES   2 A   99  GLU LYS TYR TYR ARG GLN VAL GLU ALA GLY ASN THR GLY          
+SEQRES   3 A   99  ARG VAL LEU ALA LEU ASP ALA ALA ALA PHE LEU LYS LYS          
+SEQRES   4 A   99  SER GLY LEU PRO ASP LEU ILE LEU GLY LYS ILE TRP ASP          
+SEQRES   5 A   99  LEU ALA ASP THR ASP GLY LYS GLY VAL LEU SER LYS GLN          
+SEQRES   6 A   99  GLU PHE PHE VAL ALA LEU ARG LEU VAL ALA CYS ALA GLN          
+SEQRES   7 A   99  ASN GLY LEU GLU VAL SER LEU SER SER LEU SER LEU ALA          
+SEQRES   8 A   99  VAL PRO PRO PRO ARG PHE HIS ASP                              
+DBREF  1QJT A    7   105  UNP    P42567   EP15_MOUSE       7    105             

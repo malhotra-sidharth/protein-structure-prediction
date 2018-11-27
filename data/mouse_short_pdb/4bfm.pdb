@@ -1,0 +1,43 @@
+HELIX    1   1 LYS A    2  LEU A    8  1                                   7    
+HELIX    2   2 LYS A   44  GLY A   48  1                                   5    
+HELIX    3   3 LEU A   51  SER A   63  1                                  13    
+HELIX    4   4 LEU A   94  ASP A  102  1                                   9    
+HELIX    5   5 SER A  105  GLN A  126  1                                  22    
+HELIX    6   6 LYS A  134  GLU A  136  5                                   3    
+HELIX    7   7 SER A  171  ALA A  175  5                                   5    
+HELIX    8   8 ALA A  176  ILE A  180  5                                   5    
+HELIX    9   9 GLY A  187  GLY A  205  1                                  19    
+HELIX   10  10 ASN A  213  GLY A  224  1                                  12    
+HELIX   11  11 SER A  233  LEU A  244  1                                  12    
+HELIX   12  12 SER A  253  ASN A  259  1                                   7    
+HELIX   13  13 HIS A  260  GLN A  265  1                                   6    
+HELIX   14  14 ASP A  283  ARG A  295  1                                  13    
+HELIX   15  15 SER A  297  SER A  306  1                                  10    
+HELIX   16  16 ASP A  311  HIS A  330  1                                  20    
+SEQRES   1 A  334  MET LYS ASP TYR ASP GLU LEU LEU LYS TYR TYR GLU LEU          
+SEQRES   2 A  334  TYR GLU THR ILE GLY THR GLY GLY PHE ALA LYS VAL LYS          
+SEQRES   3 A  334  LEU ALA CYS HIS VAL LEU THR GLY GLU MET VAL ALA ILE          
+SEQRES   4 A  334  LYS ILE MET ASP LYS ASN ALA LEU GLY SER ASP LEU PRO          
+SEQRES   5 A  334  ARG VAL LYS THR GLU ILE ASP ALA LEU LYS SER LEU ARG          
+SEQRES   6 A  334  HIS GLN HIS ILE CYS GLN LEU TYR HIS VAL LEU GLU THR          
+SEQRES   7 A  334  LYS ASN LYS ILE PHE MET VAL LEU GLU TYR CYS PRO GLY          
+SEQRES   8 A  334  GLY GLU LEU PHE ASP TYR ILE ILE SER GLN ASP ARG LEU          
+SEQRES   9 A  334  SER GLU GLU GLU THR ARG VAL VAL PHE ARG GLN ILE LEU          
+SEQRES  10 A  334  SER ALA VAL ALA TYR VAL HIS SER GLN GLY TYR ALA HIS          
+SEQRES  11 A  334  ARG ASP LEU LYS PRO GLU ASN LEU LEU PHE ASP GLU ASN          
+SEQRES  12 A  334  HIS LYS LEU LYS LEU ILE ASP PHE GLY LEU CYS ALA LYS          
+SEQRES  13 A  334  PRO LYS GLY ASN LYS ASP TYR HIS LEU GLN GLU CYS CYS          
+SEQRES  14 A  334  GLY SER LEU ALA TYR ALA ALA PRO GLU LEU ILE GLN GLY          
+SEQRES  15 A  334  LYS SER TYR LEU GLY SER GLU ALA ASP VAL TRP SER MET          
+SEQRES  16 A  334  GLY ILE LEU LEU TYR VAL LEU MET CYS GLY PHE LEU PRO          
+SEQRES  17 A  334  PHE ASP ASP ASP ASN VAL MET ALA LEU TYR LYS LYS ILE          
+SEQRES  18 A  334  MET ARG GLY LYS TYR GLU VAL PRO LYS TRP LEU SER PRO          
+SEQRES  19 A  334  SER SER ILE LEU LEU LEU GLN GLN MET LEU GLN VAL ASP          
+SEQRES  20 A  334  PRO LYS LYS ARG ILE SER MET ARG ASN LEU LEU ASN HIS          
+SEQRES  21 A  334  PRO TRP VAL MET GLN ASP TYR SER CYS PRO VAL GLU TRP          
+SEQRES  22 A  334  GLN SER LYS THR PRO LEU THR HIS LEU ASP GLU ASP CYS          
+SEQRES  23 A  334  VAL THR GLU LEU SER VAL HIS HIS ARG SER SER ARG GLN          
+SEQRES  24 A  334  THR MET GLU ASP LEU ILE SER SER TRP GLN TYR ASP HIS          
+SEQRES  25 A  334  LEU THR ALA THR TYR LEU LEU LEU LEU ALA LYS LYS ALA          
+SEQRES  26 A  334  ARG LEU GLU HIS HIS HIS HIS HIS HIS                          
+DBREF  4BFM A    1   326  UNP    Q61846   MELK_MOUSE       1    326             

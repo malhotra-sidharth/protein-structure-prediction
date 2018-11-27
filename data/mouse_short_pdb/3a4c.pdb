@@ -1,0 +1,15 @@
+JRNL        TITL 2 CONSERVATION OF THE WINGED HELIX FOLD IN                     
+HELIX    1   1 CYS A  453  SER A  479  1                                  27    
+HELIX    2   2 MET A  487  SER A  497  1                                  11    
+HELIX    3   3 SER A  503  LEU A  518  1                                  16    
+HELIX    4   4 ASP A  540  GLU A  555  1                                  16    
+SEQRES   1 A  106  ARG CYS PRO GLU GLN GLU LEU ARG LEU GLN ARG LEU GLU          
+SEQRES   2 A  106  ARG LEU PRO GLU LEU ALA ARG VAL LEU ARG ASN VAL PHE          
+SEQRES   3 A  106  VAL SER GLU ARG LYS PRO ALA LEU THR MET GLU VAL VAL          
+SEQRES   4 A  106  CYS ALA ARG MET VAL ASP SER CYS GLN THR ALA LEU SER          
+SEQRES   5 A  106  PRO GLY GLU MET GLU LYS HIS LEU VAL LEU LEU ALA GLU          
+SEQRES   6 A  106  LEU LEU PRO ASP TRP LEU SER LEU HIS ARG ILE ARG THR          
+SEQRES   7 A  106  ASP THR TYR VAL LYS LEU ASP LYS ALA VAL ASP LEU ALA          
+SEQRES   8 A  106  GLY LEU THR ALA ARG LEU ALA HIS HIS VAL HIS ALA GLU          
+SEQRES   9 A  106  GLY LEU                                                      
+DBREF  3A4C A  452   557  UNP    Q8R4E9   CDT1_MOUSE     452    557             

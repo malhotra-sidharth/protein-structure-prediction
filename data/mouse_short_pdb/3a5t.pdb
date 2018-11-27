@@ -1,0 +1,33 @@
+REMARK 650 HELIX                                                                
+HELIX    1   1 ASP A   26  VAL A   30  1                                   5    
+HELIX    2   2 ARG A   35  GLN A   39  1                                   5    
+HELIX    3   3 LYS A   46  SER A   99  1                                  54    
+HELIX    4   4 ASP B   26  VAL B   30  1                                   5    
+HELIX    5   5 ARG B   35  GLN B   39  1                                   5    
+HELIX    6   6 LYS B   46  SER B   99  1                                  54    
+SEQRES   1 A  107  GLY SER HIS MSE GLY THR SER LEU THR ASP GLU GLU LEU          
+SEQRES   2 A  107  VAL THR MSE SER VAL ARG GLU LEU ASN GLN HIS LEU ARG          
+SEQRES   3 A  107  GLY LEU SER LYS GLU GLU ILE ILE GLN LEU LYS GLN ARG          
+SEQRES   4 A  107  ARG ARG THR LEU LYS ASN ARG GLY TYR ALA ALA SER CYS          
+SEQRES   5 A  107  ARG VAL LYS ARG VAL THR GLN LYS GLU GLU LEU GLU LYS          
+SEQRES   6 A  107  GLN LYS ALA GLU LEU GLN GLN GLU VAL GLU LYS LEU ALA          
+SEQRES   7 A  107  SER GLU ASN ALA SER MSE LYS LEU GLU LEU ASP ALA LEU          
+SEQRES   8 A  107  ARG SER LYS TYR GLU ALA LEU GLN ASN PHE ALA ARG THR          
+SEQRES   9 A  107  VAL ALA ARG                                                  
+SEQRES   1 B  107  GLY SER HIS MSE GLY THR SER LEU THR ASP GLU GLU LEU          
+SEQRES   2 B  107  VAL THR MSE SER VAL ARG GLU LEU ASN GLN HIS LEU ARG          
+SEQRES   3 B  107  GLY LEU SER LYS GLU GLU ILE ILE GLN LEU LYS GLN ARG          
+SEQRES   4 B  107  ARG ARG THR LEU LYS ASN ARG GLY TYR ALA ALA SER CYS          
+SEQRES   5 B  107  ARG VAL LYS ARG VAL THR GLN LYS GLU GLU LEU GLU LYS          
+SEQRES   6 B  107  GLN LYS ALA GLU LEU GLN GLN GLU VAL GLU LYS LEU ALA          
+SEQRES   7 B  107  SER GLU ASN ALA SER MSE LYS LEU GLU LEU ASP ALA LEU          
+SEQRES   8 B  107  ARG SER LYS TYR GLU ALA LEU GLN ASN PHE ALA ARG THR          
+SEQRES   9 B  107  VAL ALA ARG                                                  
+SEQRES   1 C   15   DC  DT  DG  DA  DT  DG  DA  DG  DT  DC  DA  DG  DC          
+SEQRES   2 C   15   DA  DC                                                      
+SEQRES   1 D   15   DG  DT  DG  DC  DT  DG  DA  DC  DT  DC  DA  DT  DC          
+SEQRES   2 D   15   DA  DG                                                      
+DBREF  3A5T A   21   123  UNP    O54790   MAFG_MOUSE      21    123             
+DBREF  3A5T B   21   123  UNP    O54790   MAFG_MOUSE      21    123             
+DBREF  3A5T C    1    15  PDB    3A5T     3A5T             1     15             
+DBREF  3A5T D    1    15  PDB    3A5T     3A5T             1     15             

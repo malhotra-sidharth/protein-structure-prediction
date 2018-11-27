@@ -1,0 +1,6 @@
+KEYWDS    POLY (L-PROLINE) II HELIX, CONTRACTILE PROTEIN                        
+HELIX    1   1 SER A    5  GLY A   10  1                                   6    
+SEQRES   1 A   32  MET ALA ASP GLU SER SER ASP ALA ALA GLY GLU PRO GLN          
+SEQRES   2 A   32  PRO ALA PRO ALA PRO VAL ARG ARG ARG SEP SEP ALA ASN          
+SEQRES   3 A   32  TYR ARG ALA TYR ALA THR                                      
+DBREF  2JPW A    1    32  UNP    P48787   TNNI3_MOUSE      1     32             

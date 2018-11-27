@@ -1,0 +1,22 @@
+HELIX    1   1 SER A   16  GLU A   35  1                                  20    
+HELIX    2   2 ASN A   36  LEU A   60  1                                  25    
+HELIX    3   3 ASP A   70  VAL A   81  1                                  12    
+HELIX    4   4 VAL A   81  GLY A   88  1                                   8    
+HELIX    5   5 ASN A  110  ASP A  114  5                                   5    
+HELIX    6   6 ASN A  129  MET A  141  1                                  13    
+HELIX    7   7 ASP A  153  GLY A  157  5                                   5    
+SEQRES   1 A  180  MET SER ARG GLN ALA ASN ARG GLY THR GLU SER LYS LYS          
+SEQRES   2 A  180  MET SER SER GLU LEU PHE THR LEU THR TYR GLY ALA LEU          
+SEQRES   3 A  180  VAL THR GLN LEU CYS LYS ASP TYR GLU ASN ASP GLU ASP          
+SEQRES   4 A  180  VAL ASN LYS GLN LEU ASP ARG MET GLY TYR ASN ILE GLY          
+SEQRES   5 A  180  VAL ARG LEU ILE GLU ASP PHE LEU ALA ARG SER ASN VAL          
+SEQRES   6 A  180  GLY ARG CYS HIS ASP PHE ARG GLU THR ALA ASP VAL ILE          
+SEQRES   7 A  180  ALA LYS VAL ALA PHE LYS MET TYR LEU GLY ILE THR PRO          
+SEQRES   8 A  180  SER ILE THR ASN TRP SER PRO ALA GLY ASP GLU PHE SER          
+SEQRES   9 A  180  LEU ILE LEU GLU ASN ASN PRO LEU VAL ASP PHE VAL GLU          
+SEQRES  10 A  180  LEU PRO ASP ASN HIS SER ALA LEU ILE TYR SER ASN LEU          
+SEQRES  11 A  180  LEU CYS GLY VAL LEU ARG GLY ALA LEU GLU MET VAL GLN          
+SEQRES  12 A  180  MET ALA VAL GLU ALA LYS PHE VAL GLN ASP THR LEU LYS          
+SEQRES  13 A  180  GLY ASP GLY VAL THR GLU ILE ARG MET ARG PHE ILE ARG          
+SEQRES  14 A  180  ARG ILE GLU ASP ASN LEU PRO ALA GLY GLU GLU                  
+DBREF  1WC8 A    1   180  UNP    O55013   TPC3_MOUSE       1    180             

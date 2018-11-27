@@ -1,0 +1,15 @@
+HELIX    1   1 ARG A   10  GLN A   22  1                                  13    
+HELIX    2   2 ILE A   28  CYS A   32  5                                   5    
+HELIX    3   3 ALA A   35  PHE A   45  1                                  11    
+HELIX    4   4 LEU A   60  GLY A   79  1                                  20    
+HELIX    5   5 ASN A   97  SER A  110  1                                  14    
+SEQRES   1 A  115  GLY SER SER GLY SER SER GLY GLN ARG ARG HIS ASP MET          
+SEQRES   2 A  115  LEU ALA TRP ILE ASN GLU SER LEU GLN LEU ASN LEU THR          
+SEQRES   3 A  115  LYS ILE GLU GLN LEU CYS SER GLY ALA ALA TYR CYS GLN          
+SEQRES   4 A  115  PHE MET ASP MET LEU PHE PRO GLY SER ILE ALA LEU LYS          
+SEQRES   5 A  115  LYS VAL LYS PHE GLN ALA LYS LEU GLU HIS GLU TYR ILE          
+SEQRES   6 A  115  GLN ASN PHE LYS ILE LEU GLN ALA GLY PHE LYS ARG MET          
+SEQRES   7 A  115  GLY VAL ASP LYS ILE ILE PRO VAL ASP LYS LEU VAL LYS          
+SEQRES   8 A  115  GLY LYS PHE GLN ASP ASN PHE GLU PHE VAL GLN TRP PHE          
+SEQRES   9 A  115  LYS LYS PHE PHE ASP SER GLY PRO SER SER GLY                  
+DBREF  1V5K A    8   109  GB     7106301  NP_031922       15    116             

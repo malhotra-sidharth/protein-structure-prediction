@@ -1,0 +1,14 @@
+COMPND   2 MOLECULE: PAIRED AMPHIPATHIC HELIX PROTEIN SIN3B;                    
+KEYWDS    PAIRED AMPHIPATHIC HELIX REPEAT; TRANSCRIPTIONAL REPRESSOR,           
+HELIX    1   1 ALA A   13  PHE A   24  1                                  12    
+HELIX    2   2 ASP A   27  SER A   43  1                                  17    
+HELIX    3   3 ASP A   47  PHE A   59  1                                  13    
+HELIX    4   4 HIS A   62  LEU A   73  1                                  12    
+SEQRES   1 A   80  GLY SER SER GLY SER SER GLY VAL HIS VAL GLU ASP ALA          
+SEQRES   2 A   80  LEU THR TYR LEU ASP GLN VAL LYS ILE ARG PHE GLY SER          
+SEQRES   3 A   80  ASP PRO ALA THR TYR ASN GLY PHE LEU GLU ILE MET LYS          
+SEQRES   4 A   80  GLU PHE LYS SER GLN SER ILE ASP THR PRO GLY VAL ILE          
+SEQRES   5 A   80  ARG ARG VAL SER GLN LEU PHE HIS GLU HIS PRO ASP LEU          
+SEQRES   6 A   80  ILE VAL GLY PHE ASN ALA PHE LEU PRO SER GLY PRO SER          
+SEQRES   7 A   80  SER GLY                                                      
+DBREF  2CR7 A    8    74  UNP    Q62141   SIN3B_MOUSE     32     98             

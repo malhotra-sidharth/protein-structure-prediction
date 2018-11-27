@@ -1,0 +1,28 @@
+HELIX    1   1 THR A  174  HIS A  195  1                                  22    
+HELIX    2   2 HIS A  195  GLU A  201  1                                   7    
+HELIX    3   3 GLU A  201  ILE A  206  1                                   6    
+HELIX    4   4 GLU A  216  PHE A  221  1                                   6    
+HELIX    5   5 ASP A  237  LYS A  240  5                                   4    
+HELIX    6   6 GLY A  243  GLN A  249  1                                   7    
+HELIX    7   7 GLN A  250  TYR A  257  1                                   8    
+HELIX    8   8 THR A  282  GLN A  287  1                                   6    
+HELIX    9   9 PRO A  296  GLU A  300  5                                   5    
+HELIX   10  10 VAL A  321  GLY A  336  1                                  16    
+SEQRES   1 A  221  GLY GLY LEU GLU LYS ASP PHE LEU PRO LEU TYR PHE GLY          
+SEQRES   2 A  221  TRP PHE LEU THR LYS LYS SER SER GLU THR LEU ARG LYS          
+SEQRES   3 A  221  ALA GLY GLN VAL PHE LEU GLU GLU LEU GLY ASN HIS LYS          
+SEQRES   4 A  221  ALA PHE LYS LYS GLU LEU ARG HIS PHE ILE SER GLY ASP          
+SEQRES   5 A  221  GLU PRO LYS GLU LYS LEU GLU LEU VAL SER TYR PHE GLY          
+SEQRES   6 A  221  LYS ARG PRO PRO GLY VAL LEU HIS CYS THR THR LYS PHE          
+SEQRES   7 A  221  CYS ASP TYR GLY LYS ALA ALA GLY ALA GLU GLU TYR ALA          
+SEQRES   8 A  221  GLN GLN GLU VAL VAL LYS ARG SER TYR GLY LYS ALA PHE          
+SEQRES   9 A  221  LYS LEU SER ILE SER ALA LEU PHE VAL THR PRO LYS THR          
+SEQRES  10 A  221  ALA GLY ALA GLN VAL VAL LEU THR ASP GLN GLU LEU GLN          
+SEQRES  11 A  221  LEU TRP PRO SER ASP LEU ASP LYS PRO SER ALA SER GLU          
+SEQRES  12 A  221  GLY LEU PRO PRO GLY SER ARG ALA HIS VAL THR LEU GLY          
+SEQRES  13 A  221  CYS ALA ALA ASP VAL GLN PRO VAL GLN THR GLY LEU ASP          
+SEQRES  14 A  221  LEU LEU ASP ILE LEU GLN GLN VAL LYS GLY GLY SER GLN          
+SEQRES  15 A  221  GLY GLU ALA VAL GLY GLU LEU PRO ARG GLY LYS LEU TYR          
+SEQRES  16 A  221  SER LEU GLY LYS GLY ARG TRP MET LEU SER LEU THR LYS          
+SEQRES  17 A  221  LYS MET GLU VAL LYS ALA ILE PHE THR GLY TYR TYR GLY          
+DBREF  2XMI A  159   378  UNP    P16330   CN37_MOUSE     159    378             

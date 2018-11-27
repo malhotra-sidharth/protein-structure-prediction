@@ -1,0 +1,5 @@
+HELIX    1   1 ASN A   10  THR A   21  1                                  12    
+SEQRES   1 A   36  SER GLN HIS GLY ARG THR GLN ASP GLU ASN PRO VAL VAL          
+SEQRES   2 A   36  HIS PHE PHE LYS ASN ILE VAL THR PRO ARG THR PRO PRO          
+SEQRES   3 A   36  PRO SER GLN GLY LYS GLY ARG GLY LEU SER                      
+DBREF  2LUG A    1    36  UNP    F6VME3   F6VME3_MOUSE    97    132             

@@ -1,0 +1,53 @@
+HELIX    1   1 VAL A   45  ARG A   48  5                                   4    
+HELIX    2   2 ASP A   75  LYS A   87  1                                  13    
+HELIX    3   3 GLU A   89  LEU A   96  1                                   8    
+HELIX    4   4 SER A  103  HIS A  119  1                                  17    
+HELIX    5   5 ALA A  130  PHE A  134  5                                   5    
+HELIX    6   6 ASP A  142  SER A  161  1                                  20    
+HELIX    7   7 ASP A  168  GLY A  183  1                                  16    
+HELIX    8   8 PHE A  199  LEU A  204  1                                   6    
+HELIX    9   9 PRO A  246  PHE A  259  1                                  14    
+HELIX   10  10 CYS A  264  LYS A  270  1                                   7    
+HELIX   11  11 LYS A  272  VAL A  277  1                                   6    
+HELIX   12  12 GLN A  287  LYS A  309  1                                  23    
+HELIX   13  13 SER A  313  SER A  329  1                                  17    
+HELIX   14  14 ASN A  336  MET A  353  1                                  18    
+HELIX   15  15 ASP A  355  TYR A  374  1                                  20    
+HELIX   16  16 SER A  378  LEU A  395  1                                  18    
+HELIX   17  17 ASN A  397  GLY A  417  1                                  21    
+HELIX   18  18 HIS A  420  SER A  432  1                                  13    
+SEQRES   1 A  433  MET ARG ALA GLU ALA ARG GLY GLY LEU GLU ARG PHE CYS          
+SEQRES   2 A  433  SER ALA GLY LYS GLY ARG GLY LEU ARG ALA LEU ARG PRO          
+SEQRES   3 A  433  PHE HIS VAL GLY ASP LEU LEU PHE SER CYS PRO ALA TYR          
+SEQRES   4 A  433  ALA CYS VAL LEU THR VAL GLY GLU ARG GLY HIS HIS CYS          
+SEQRES   5 A  433  GLU CYS CYS PHE ALA ARG LYS GLU GLY LEU SER LYS CYS          
+SEQRES   6 A  433  GLY ARG CYS LYS GLN ALA PHE TYR CYS ASP VAL GLU CYS          
+SEQRES   7 A  433  GLN LYS GLU ASP TRP PRO LEU HIS LYS LEU GLU CYS SER          
+SEQRES   8 A  433  SER MET VAL VAL LEU GLY GLU ASN TRP ASN PRO SER GLU          
+SEQRES   9 A  433  THR VAL ARG LEU THR ALA ARG ILE LEU ALA LYS GLN LYS          
+SEQRES  10 A  433  ILE HIS PRO GLU ARG THR PRO SER GLU LYS LEU LEU ALA          
+SEQRES  11 A  433  VAL ARG GLU PHE GLU SER HIS LEU ASP LYS LEU ASP ASN          
+SEQRES  12 A  433  GLU LYS LYS ASP LEU ILE GLN SER ASP ILE ALA ALA LEU          
+SEQRES  13 A  433  HIS GLN PHE TYR SER LYS TYR LEU GLU PHE PRO ASP HIS          
+SEQRES  14 A  433  SER SER LEU VAL VAL LEU PHE ALA GLN VAL ASN CYS ASN          
+SEQRES  15 A  433  GLY PHE THR ILE GLU ASP GLU GLU LEU SER HIS LEU GLY          
+SEQRES  16 A  433  SER ALA ILE PHE PRO ASP VAL ALA LEU MET ASN HIS SER          
+SEQRES  17 A  433  CYS CYS PRO ASN VAL ILE VAL THR TYR LYS GLY THR LEU          
+SEQRES  18 A  433  ALA GLU VAL ARG ALA VAL GLN GLU ILE HIS PRO GLY ASP          
+SEQRES  19 A  433  GLU VAL PHE THR SER TYR ILE ASP LEU LEU TYR PRO THR          
+SEQRES  20 A  433  GLU ASP ARG ASN ASP ARG LEU ARG ASP SER TYR PHE PHE          
+SEQRES  21 A  433  THR CYS GLU CYS ARG GLU CYS THR THR LYS ASP LYS ASP          
+SEQRES  22 A  433  LYS ALA LYS VAL GLU VAL ARG LYS LEU SER SER PRO PRO          
+SEQRES  23 A  433  GLN ALA GLU ALA ILE ARG ASP MET VAL ARG TYR ALA ARG          
+SEQRES  24 A  433  ASN VAL ILE GLU GLU PHE ARG ARG ALA LYS HIS TYR LYS          
+SEQRES  25 A  433  SER PRO SER GLU LEU LEU GLU ILE CYS GLU LEU SER GLN          
+SEQRES  26 A  433  GLU LYS MET SER SER VAL PHE GLU ASP SER ASN VAL TYR          
+SEQRES  27 A  433  MET LEU HIS MET MET TYR GLN ALA MET GLY VAL CYS LEU          
+SEQRES  28 A  433  TYR MET GLN ASP TRP GLU GLY ALA LEU LYS TYR GLY GLN          
+SEQRES  29 A  433  LYS ILE ILE LYS PRO TYR SER LYS HIS TYR PRO VAL TYR          
+SEQRES  30 A  433  SER LEU ASN VAL ALA SER MET TRP LEU LYS LEU GLY ARG          
+SEQRES  31 A  433  LEU TYR MET GLY LEU GLU ASN LYS ALA ALA GLY GLU LYS          
+SEQRES  32 A  433  ALA LEU LYS LYS ALA ILE ALA ILE MET GLU VAL ALA HIS          
+SEQRES  33 A  433  GLY LYS ASP HIS PRO TYR ILE SER GLU ILE LYS GLN GLU          
+SEQRES  34 A  433  ILE GLU SER HIS                                              
+DBREF  3QWV A    1   433  UNP    Q8R5A0   SMYD2_MOUSE      1    433             

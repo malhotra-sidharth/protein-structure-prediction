@@ -1,0 +1,40 @@
+HELIX    1   1 THR A  303  ASP A  313  1                                  11    
+HELIX    2   2 PRO A  322  GLY A  331  1                                  10    
+HELIX    3   3 GLN A  336  THR A  346  1                                  11    
+HELIX    4   4 ASP A  347  GLN A  351  5                                   5    
+HELIX    5   5 ASP A  367  ASN A  380  1                                  14    
+HELIX    6   6 ASN A  385  TYR A  396  1                                  12    
+HELIX    7   7 ASP A  417  GLY A  423  1                                   7    
+HELIX    8   8 THR A  425  LEU A  433  1                                   9    
+HELIX    9   9 THR B  303  LEU B  314  1                                  12    
+HELIX   10  10 PRO B  322  GLY B  331  1                                  10    
+HELIX   11  11 GLN B  336  THR B  346  1                                  11    
+HELIX   12  12 ASP B  347  GLN B  351  5                                   5    
+HELIX   13  13 ASP B  367  ASN B  380  1                                  14    
+HELIX   14  14 ASN B  385  LYS B  399  1                                  15    
+HELIX   15  15 ASP B  417  GLY B  423  1                                   7    
+HELIX   16  16 THR B  425  LEU B  433  1                                   9    
+SEQRES   1 A  141  PRO LYS GLY THR PHE LYS ASP TYR VAL ARG ASP ARG ALA          
+SEQRES   2 A  141  ASP LEU ASN LYS ASP LYS PRO VAL ILE PRO ALA ALA ALA          
+SEQRES   3 A  141  LEU ALA GLY TYR THR GLY SER GLY PRO ILE GLN LEU TRP          
+SEQRES   4 A  141  GLN PHE LEU LEU GLU LEU LEU THR ASP LYS SER CYS GLN          
+SEQRES   5 A  141  SER PHE ILE SER TRP THR GLY ASP GLY TRP GLU PHE LYS          
+SEQRES   6 A  141  LEU SER ASP PRO ASP GLU VAL ALA ARG ARG TRP GLY LYS          
+SEQRES   7 A  141  ARG LYS ASN LYS PRO LYS MET ASN TYR GLU LYS LEU SER          
+SEQRES   8 A  141  ARG GLY LEU ARG TYR TYR TYR ASP LYS ASN ILE ILE HIS          
+SEQRES   9 A  141  LYS THR ALA GLY LYS ARG TYR VAL TYR ARG PHE VAL CYS          
+SEQRES  10 A  141  ASP LEU GLN SER LEU LEU GLY TYR THR PRO GLU GLU LEU          
+SEQRES  11 A  141  HIS ALA MET LEU ASP VAL LYS PRO ASP ALA ASP                  
+SEQRES   1 B  141  PRO LYS GLY THR PHE LYS ASP TYR VAL ARG ASP ARG ALA          
+SEQRES   2 B  141  ASP LEU ASN LYS ASP LYS PRO VAL ILE PRO ALA ALA ALA          
+SEQRES   3 B  141  LEU ALA GLY TYR THR GLY SER GLY PRO ILE GLN LEU TRP          
+SEQRES   4 B  141  GLN PHE LEU LEU GLU LEU LEU THR ASP LYS SER CYS GLN          
+SEQRES   5 B  141  SER PHE ILE SER TRP THR GLY ASP GLY TRP GLU PHE LYS          
+SEQRES   6 B  141  LEU SER ASP PRO ASP GLU VAL ALA ARG ARG TRP GLY LYS          
+SEQRES   7 B  141  ARG LYS ASN LYS PRO LYS MET ASN TYR GLU LYS LEU SER          
+SEQRES   8 B  141  ARG GLY LEU ARG TYR TYR TYR ASP LYS ASN ILE ILE HIS          
+SEQRES   9 B  141  LYS THR ALA GLY LYS ARG TYR VAL TYR ARG PHE VAL CYS          
+SEQRES  10 B  141  ASP LEU GLN SER LEU LEU GLY TYR THR PRO GLU GLU LEU          
+SEQRES  11 B  141  HIS ALA MET LEU ASP VAL LYS PRO ASP ALA ASP                  
+DBREF  1MD0 A  300   440  UNP    P27577   ETS1_MOUSE     300    440             
+DBREF  1MD0 B  300   440  UNP    P27577   ETS1_MOUSE     300    440             

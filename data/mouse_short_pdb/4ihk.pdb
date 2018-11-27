@@ -1,0 +1,29 @@
+HELIX    1   1 SER A 1034  SER A 1039  5                                   6    
+HELIX    2   2 GLY A 1040  SER A 1054  1                                  15    
+HELIX    3   3 ASP A 1084  ARG A 1094  1                                  11    
+HELIX    4   4 ASN A 1104  ILE A 1116  1                                  13    
+HELIX    5   5 THR A 1118  GLY A 1122  5                                   5    
+HELIX    6   6 ARG A 1124  GLY A 1128  5                                   5    
+HELIX    7   7 VAL A 1145  GLY A 1155  1                                  11    
+HELIX    8   8 ASP A 1168  SER A 1176  1                                   9    
+HELIX    9   9 ILE A 1178  ALA A 1182  5                                   5    
+HELIX   10  10 THR A 1187  THR A 1193  5                                   7    
+HELIX   11  11 ILE A 1194  LEU A 1205  1                                  12    
+HELIX   12  12 ASN A 1206  SER A 1212  1                                   7    
+SEQRES   1 A  203  SER GLY GLU LYS ASP VAL VAL PHE LEU ILE ASP GLY SER          
+SEQRES   2 A  203  GLU GLY VAL ARG SER GLY PHE PRO LEU LEU LYS ASP PHE          
+SEQRES   3 A  203  VAL GLN ARG VAL VAL GLU SER LEU ASP VAL GLY PRO ASP          
+SEQRES   4 A  203  GLN VAL ARG VAL ALA LEU VAL GLN TYR SER ASP ARG THR          
+SEQRES   5 A  203  ARG PRO GLU PHE TYR LEU ASN SER HIS MET ASP GLN GLN          
+SEQRES   6 A  203  GLY VAL ILE SER ALA ILE ARG ARG LEU THR LEU LEU GLY          
+SEQRES   7 A  203  GLY PRO THR PRO ASN THR GLY ALA ALA LEU GLU PHE VAL          
+SEQRES   8 A  203  LEU ARG ASN ILE LEU THR SER SER THR GLY SER ARG ILE          
+SEQRES   9 A  203  ALA GLU GLY VAL PRO GLN LEU LEU ILE VAL LEU THR ALA          
+SEQRES  10 A  203  GLU PRO SER GLY ASP ASP VAL ARG GLY PRO SER VAL VAL          
+SEQRES  11 A  203  LEU LYS GLN GLY GLY ALA VAL PRO ILE GLY ILE GLY ILE          
+SEQRES  12 A  203  GLY ASN ALA ASP ILE SER GLU MET GLN THR ILE SER PHE          
+SEQRES  13 A  203  ILE PRO ASP PHE ALA VAL ALA ILE PRO THR PHE ARG GLU          
+SEQRES  14 A  203  LEU GLY THR ILE GLN GLN VAL ILE SER GLU ARG VAL ILE          
+SEQRES  15 A  203  GLN LEU ASN ARG GLU GLU LEU SER SER LEU LYS PRO ILE          
+SEQRES  16 A  203  LEU THR PRO SER THR GLY ALA GLY                              
+DBREF  4IHK A 1022  1224  UNP    Q9Z0I9   Q9Z0I9_MOUSE  1022   1224             

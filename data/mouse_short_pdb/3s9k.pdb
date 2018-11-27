@@ -1,0 +1,14 @@
+HELIX    1   1 ASN A    5  TYR A    9  5                                   5    
+HELIX    2   2 SER A   17  GLY A   29  1                                  13    
+HELIX    3   3 SER A   86  ASN A   97  1                                  12    
+SEQRES   1 A  118  GLY SER PRO ASN ASN LEU GLU THR TYR GLU TRP TYR ASN          
+SEQRES   2 A  118  LYS SER ILE SER ARG ASP LYS ALA GLU LYS LEU LEU LEU          
+SEQRES   3 A  118  ASP THR GLY LYS GLU GLY ALA PHE MET VAL ARG ASP SER          
+SEQRES   4 A  118  ARG THR PRO GLY THR TYR THR VAL SER VAL PHE THR LYS          
+SEQRES   5 A  118  ALA ILE ILE SER GLU ASN PRO CYS ILE LYS HIS TYR HIS          
+SEQRES   6 A  118  ILE LYS GLU THR ASN ASP SER PRO LYS ARG TYR TYR VAL          
+SEQRES   7 A  118  ALA GLU LYS TYR VAL PHE ASP SER ILE PRO LEU LEU ILE          
+SEQRES   8 A  118  GLN TYR HIS GLN TYR ASN GLY GLY GLY LEU VAL THR ARG          
+SEQRES   9 A  118  LEU ARG TYR PRO VAL CYS GLY SER PRO GLY ILE HIS ARG          
+SEQRES  10 A  118  ASP                                                          
+DBREF  3S9K A    2   110  UNP    Q03526   ITK_MOUSE      236    344             

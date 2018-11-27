@@ -1,0 +1,15 @@
+HELIX    1   1 THR A    7  HIS A   15  1                                   9    
+HELIX    2   2 HIS A   15  SER A   27  1                                  13    
+HELIX    3   3 LYS A   31  GLU A   42  1                                  12    
+HELIX    4   4 ASP A   57  PHE A   69  1                                  13    
+HELIX    5   5 GLN A   79  ASN A   92  1                                  14    
+SEQRES   1 A  105  GLY SER SER GLY SER SER GLY THR PRO LEU SER LEU THR          
+SEQRES   2 A  105  LEU ASP HIS TRP SER GLU ILE ARG SER ARG ALA HIS ASN          
+SEQRES   3 A  105  LEU SER VAL GLU ILE LYS LYS GLY PRO TRP ARG THR PHE          
+SEQRES   4 A  105  CYS ALA SER GLU TRP PRO THR PHE ASP VAL GLY TRP PRO          
+SEQRES   5 A  105  PRO GLU GLY THR PHE ASP LEU THR VAL ILE PHE GLU VAL          
+SEQRES   6 A  105  LYS ALA ILE VAL PHE GLN ASP GLY PRO GLY SER HIS PRO          
+SEQRES   7 A  105  ASP GLN GLN PRO TYR ILE THR VAL TRP GLN ASP LEU VAL          
+SEQRES   8 A  105  GLN ASN SER PRO PRO TRP ILE LYS SER GLY PRO SER SER          
+SEQRES   9 A  105  GLY                                                          
+DBREF  1UHU A    0   104  PDB    1UHU     1UHU             0    104             

@@ -1,0 +1,15 @@
+HELIX    1   1 THR A   62  SER A   67  5                                   6    
+HELIX    2   2 THR A   70  GLY A   90  1                                  21    
+HELIX    3   3 ASN A  127  ARG A  140  1                                  14    
+HELIX    4   4 ARG A  141  SER A  143  5                                   3    
+SEQRES   1 A  121  ASP LYS LYS ALA TYR PHE TYR HIS SER SER PHE GLN ILE          
+SEQRES   2 A  121  LEU ASN VAL GLU TYR THR GLU ALA LEU ASN SER PRO ALA          
+SEQRES   3 A  121  THR HIS GLU TYR ARG THR LEU SER GLU ARG ILE GLU ALA          
+SEQRES   4 A  121  MET ILE THR ASP GLU PHE ARG GLY SER SER LEU LYS SER          
+SEQRES   5 A  121  GLU PHE ILE ARG THR HIS VAL VAL LYS LEU ARG LYS GLU          
+SEQRES   6 A  121  GLY THR GLY VAL VAL ALA ASP VAL VAL MET LYS PHE ARG          
+SEQRES   7 A  121  SER SER LYS ARG ASN ASN ARG LYS VAL MET LYS THR ARG          
+SEQRES   8 A  121  ILE GLN SER VAL LEU ARG ARG LEU SER SER SER GLY ASN          
+SEQRES   9 A  121  LEU GLU ILE ALA PRO SER ASN GLU ILE THR SER LEU THR          
+SEQRES  10 A  121  ASP GLN ASP THR                                              
+DBREF  2E7V A   44   164  UNP    Q8VHK8   TM11D_MOUSE     44    164             

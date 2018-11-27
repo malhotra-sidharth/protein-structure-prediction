@@ -1,0 +1,42 @@
+HELIX    1   1 ASN A  325  GLY A  342  1                                  18    
+HELIX    2   2 ASP A  343  LEU A  354  1                                  12    
+HELIX    3   3 GLU A  355  HIS A  358  5                                   4    
+HELIX    4   4 PHE A  359  SER A  374  1                                  16    
+HELIX    5   5 GLU A  377  SER A  393  1                                  17    
+HELIX    6   6 THR A  397  VAL A  419  1                                  23    
+HELIX    7   7 HIS A  421  ALA A  436  1                                  16    
+HELIX    8   8 SER A  440  CYS A  447  1                                   8    
+HELIX    9   9 ASN B  325  GLY B  342  1                                  18    
+HELIX   10  10 ASP B  343  GLU B  355  1                                  13    
+HELIX   11  11 VAL B  356  HIS B  358  5                                   3    
+HELIX   12  12 PHE B  359  SER B  374  1                                  16    
+HELIX   13  13 GLU B  377  SER B  393  1                                  17    
+HELIX   14  14 THR B  397  VAL B  419  1                                  23    
+HELIX   15  15 HIS B  421  ALA B  436  1                                  16    
+HELIX   16  16 SER B  440  LEU B  446  1                                   7    
+SEQRES   1 A  150  GLY GLN GLN PRO VAL ASN HIS LEU VAL LYS GLU ILE ASP          
+SEQRES   2 A  150  MSE LEU LEU LYS GLU TYR LEU LEU SER GLY ASP ILE SER          
+SEQRES   3 A  150  GLU ALA GLU HIS CYS LEU LYS GLU LEU GLU VAL PRO HIS          
+SEQRES   4 A  150  PHE HIS HIS GLU LEU VAL TYR GLU ALA ILE VAL MSE VAL          
+SEQRES   5 A  150  LEU GLU SER THR GLY GLU SER ALA PHE LYS MSE ILE LEU          
+SEQRES   6 A  150  ASP LEU LEU LYS SER LEU TRP LYS SER SER THR ILE THR          
+SEQRES   7 A  150  ILE ASP GLN MSE LYS ARG GLY TYR GLU ARG ILE TYR ASN          
+SEQRES   8 A  150  GLU ILE PRO ASP ILE ASN LEU ASP VAL PRO HIS SER TYR          
+SEQRES   9 A  150  SER VAL LEU GLU ARG PHE VAL GLU GLU CYS PHE GLN ALA          
+SEQRES  10 A  150  GLY ILE ILE SER LYS GLN LEU ARG ASP LEU CYS PRO SER          
+SEQRES  11 A  150  ARG GLY ARG LYS ARG PHE VAL SER GLU GLY ASP GLY GLY          
+SEQRES  12 A  150  ARG LEU LYS PRO GLU SER TYR                                  
+SEQRES   1 B  150  GLY GLN GLN PRO VAL ASN HIS LEU VAL LYS GLU ILE ASP          
+SEQRES   2 B  150  MSE LEU LEU LYS GLU TYR LEU LEU SER GLY ASP ILE SER          
+SEQRES   3 B  150  GLU ALA GLU HIS CYS LEU LYS GLU LEU GLU VAL PRO HIS          
+SEQRES   4 B  150  PHE HIS HIS GLU LEU VAL TYR GLU ALA ILE VAL MSE VAL          
+SEQRES   5 B  150  LEU GLU SER THR GLY GLU SER ALA PHE LYS MSE ILE LEU          
+SEQRES   6 B  150  ASP LEU LEU LYS SER LEU TRP LYS SER SER THR ILE THR          
+SEQRES   7 B  150  ILE ASP GLN MSE LYS ARG GLY TYR GLU ARG ILE TYR ASN          
+SEQRES   8 B  150  GLU ILE PRO ASP ILE ASN LEU ASP VAL PRO HIS SER TYR          
+SEQRES   9 B  150  SER VAL LEU GLU ARG PHE VAL GLU GLU CYS PHE GLN ALA          
+SEQRES  10 B  150  GLY ILE ILE SER LYS GLN LEU ARG ASP LEU CYS PRO SER          
+SEQRES  11 B  150  ARG GLY ARG LYS ARG PHE VAL SER GLU GLY ASP GLY GLY          
+SEQRES  12 B  150  ARG LEU LYS PRO GLU SER TYR                                  
+DBREF  2IOL A  320   469  UNP    Q61823   PDCD4_MOUSE    320    469             
+DBREF  2IOL B  320   469  UNP    Q61823   PDCD4_MOUSE    320    469             

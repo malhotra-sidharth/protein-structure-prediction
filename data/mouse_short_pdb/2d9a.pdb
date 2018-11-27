@@ -1,0 +1,10 @@
+REMARK 650 HELIX                                                                
+HELIX    1   1 HIS A   13  GLN A   25  1                                  13    
+HELIX    2   2 TRP A   31  HIS A   37  1                                   7    
+HELIX    3   3 ASP A   43  ARG A   52  1                                  10    
+SEQRES   1 A   60  GLY SER SER GLY SER SER GLY LYS VAL LYS TRP THR HIS          
+SEQRES   2 A   60  GLU GLU ASP GLU GLN LEU ARG ALA LEU VAL ARG GLN PHE          
+SEQRES   3 A   60  GLY GLN GLN ASP TRP LYS PHE LEU ALA SER HIS PHE PRO          
+SEQRES   4 A   60  ASN ARG THR ASP GLN GLN CYS GLN TYR ARG TRP LEU ARG          
+SEQRES   5 A   60  VAL LEU SER GLY PRO SER SER GLY                              
+DBREF  2D9A A    8    54  UNP    P48972   MYBB_MOUSE      31     77             

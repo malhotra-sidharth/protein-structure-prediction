@@ -1,0 +1,17 @@
+HELIX    1   1 TRP A    6  VAL A   10  5                                   5    
+HELIX    2   2 THR A   11  PHE A   27  1                                  17    
+HELIX    3   3 ASP A   31  LYS A   36  5                                   6    
+HELIX    4   4 ASP A   37  ALA A   58  1                                  22    
+HELIX    5   5 SER A   60  GLU A   80  1                                  21    
+HELIX    6   6 LYS B   88  GLN B  109  1                                  22    
+SEQRES   1 A   87  GLY VAL ARG LYS GLY TRP HIS GLU HIS VAL THR GLN ASP          
+SEQRES   2 A   87  LEU ARG SER HIS LEU VAL HIS LYS LEU VAL GLN ALA ILE          
+SEQRES   3 A   87  PHE PRO THR PRO ASP PRO ALA ALA LEU LYS ASP ARG ARG          
+SEQRES   4 A   87  MET GLU ASN LEU VAL ALA TYR ALA LYS LYS VAL GLU GLY          
+SEQRES   5 A   87  ASP MET TYR GLU SER ALA ASN SER ARG ASP GLU TYR TYR          
+SEQRES   6 A   87  HIS LEU LEU ALA GLU LYS ILE TYR LYS ILE GLN LYS GLU          
+SEQRES   7 A   87  LEU GLU GLU LYS ARG ARG SER ARG LEU                          
+SEQRES   1 B   25  LYS GLU LYS ARG ILE LYS GLU LEU GLU LEU LEU LEU MET          
+SEQRES   2 B   25  SER THR GLU ASN GLU LEU LYS GLY GLN GLN ALA LEU              
+DBREF  1SB0 A    1    87  UNP    P45481   CBP_MOUSE      580    666             
+DBREF  1SB0 B   88   112  UNP    P06876   MYB_MOUSE      291    315             

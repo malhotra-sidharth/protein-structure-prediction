@@ -1,0 +1,15 @@
+HELIX    1   1 ASP A    3  CYS A   15  1                                  13    
+HELIX    2   2 THR A   50  LYS A   56  1                                   7    
+HELIX    3   3 SER A   61  ASN A   71  1                                  11    
+HELIX    4   4 ASN A   71  ILE A   76  1                                   6    
+HELIX    5   5 LYS A   88  SER A  105  1                                  18    
+SEQRES   1 A  105  MET GLY ASP ALA GLU ALA GLY LYS LYS ILE PHE VAL GLN          
+SEQRES   2 A  105  LYS CYS ALA GLN CYS HIS THR VAL GLU LYS GLY GLY LYS          
+SEQRES   3 A  105  HIS LYS THR GLY PRO ASN LEU TRP GLY LEU PHE GLY ARG          
+SEQRES   4 A  105  LYS THR GLY GLN ALA PRO GLY PHE SER TYR THR ASP ALA          
+SEQRES   5 A  105  ASN LYS ASN LYS GLY VAL ILE TRP SER GLU GLU THR LEU          
+SEQRES   6 A  105  MET GLU TYR LEU GLU ASN PRO LYS LYS TYR ILE PRO GLY          
+SEQRES   7 A  105  THR LYS MET ILE PHE ALA GLY ILE LYS LYS LYS SER GLU          
+SEQRES   8 A  105  ARG GLU ASP LEU ILE LYS TYR LEU LYS GLN ALA THR SER          
+SEQRES   9 A  105  SER                                                          
+DBREF  2AIU A    2   105  UNP    P00015   CYC2_MOUSE       1    104             

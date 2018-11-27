@@ -1,0 +1,22 @@
+HELIX    1   1 SER A   16  GLU A   35  1                                  20    
+HELIX    2   2 ASN A   36  ARG A   62  1                                  27    
+HELIX    3   3 ASP A   70  VAL A   81  1                                  12    
+HELIX    4   4 VAL A   81  GLY A   88  1                                   8    
+HELIX    5   5 ASN A  110  ASP A  114  5                                   5    
+HELIX    6   6 ASN A  129  MET A  141  1                                  13    
+HELIX    7   7 ASP A  153  GLY A  157  5                                   5    
+SEQRES   1 A  165  GLY THR GLU SER LYS LYS MET SER SER GLU LEU PHE THR          
+SEQRES   2 A  165  LEU THR TYR GLY ALA LEU VAL THR GLN LEU CYS LYS ASP          
+SEQRES   3 A  165  TYR GLU ASN ASP GLU ASP VAL ASN LYS GLN LEU ASP ARG          
+SEQRES   4 A  165  MET GLY TYR ASN ILE GLY VAL ARG LEU ILE GLU ASP PHE          
+SEQRES   5 A  165  LEU ALA ARG SER ASN VAL GLY ARG CYS HIS ASP PHE ARG          
+SEQRES   6 A  165  GLU THR ALA ASP VAL ILE ALA LYS VAL ALA PHE LYS MET          
+SEQRES   7 A  165  TYR LEU GLY ILE THR PRO SER ILE THR ASN TRP SER PRO          
+SEQRES   8 A  165  ALA GLY ASP GLU PHE SER LEU ILE LEU GLU ASN ASN PRO          
+SEQRES   9 A  165  LEU VAL ASP PHE VAL GLU LEU PRO ASP ASN HIS SER ALA          
+SEQRES  10 A  165  LEU ILE TYR SER ASN LEU LEU CYS GLY VAL LEU ARG GLY          
+SEQRES  11 A  165  ALA LEU GLU MET VAL GLN MET ALA VAL GLU ALA LYS PHE          
+SEQRES  12 A  165  VAL GLN ASP THR LEU LYS GLY ASP GLY VAL THR GLU ILE          
+SEQRES  13 A  165  ARG MET ARG PHE ILE ARG ARG ILE GLU                          
+REVDAT   2   19-JAN-05 1WC9    1       REMARK DBREF  SITE   ATOM                
+DBREF  1WC9 A    8   172  UNP    O55013   TPC3_MOUSE       8    172             

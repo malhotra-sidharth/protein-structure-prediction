@@ -1,0 +1,15 @@
+REMARK 650 HELIX                                                                
+HELIX    1   1 SER A   24  MET A   36  1                                  13    
+HELIX    2   2 SER A   41  LEU A   55  1                                  15    
+HELIX    3   3 GLN A   57  LEU A   85  1                                  29    
+HELIX    4   4 GLU A   87  GLY A   95  1                                   9    
+SEQRES   1 A  108  GLY SER SER GLY SER SER GLY GLN LEU LYS ASP LYS PHE          
+SEQRES   2 A  108  ASP GLY ARG PRO THR LYS PRO PRO PRO ASN SER TYR SER          
+SEQRES   3 A  108  LEU TYR CYS ALA GLU LEU MET ALA ASN MET LYS ASP VAL          
+SEQRES   4 A  108  PRO SER THR GLU ARG MET VAL LEU CYS SER GLN GLN TRP          
+SEQRES   5 A  108  LYS LEU LEU SER GLN LYS GLU LYS ASP ALA TYR HIS LYS          
+SEQRES   6 A  108  LYS CYS ASP GLN LYS LYS LYS ASP TYR GLU VAL GLU LEU          
+SEQRES   7 A  108  LEU ARG PHE LEU GLU SER LEU PRO GLU GLU GLU GLN GLN          
+SEQRES   8 A  108  ARG VAL LEU GLY GLU GLU LYS MET LEU ASN ILE SER GLY          
+SEQRES   9 A  108  PRO SER SER GLY                                              
+DBREF  1V64 A    8   102  UNP    P25976   UBF1_MOUSE     288    382             

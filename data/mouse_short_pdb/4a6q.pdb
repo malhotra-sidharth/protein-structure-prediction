@@ -1,0 +1,19 @@
+HELIX    1   1 THR A    8  ILE A   12  5                                   5    
+HELIX    2   2 ASP A   21  THR A   25  5                                   5    
+HELIX    3   3 ARG A   42  SER A   47  5                                   6    
+HELIX    4   4 THR A   65  TYR A   77  1                                  13    
+HELIX    5   5 PRO A   78  LYS A   82  5                                   5    
+HELIX    6   6 LEU A  122  LYS A  126  5                                   5    
+HELIX    7   7 PRO A  139  ALA A  143  5                                   5    
+SEQRES   1 A  143  GLY PRO ASP SER MSE ARG VAL THR GLN GLU GLU ILE LYS          
+SEQRES   2 A  143  LYS GLU PRO GLU LYS PRO ILE ASP ARG GLU LYS THR CYS          
+SEQRES   3 A  143  PRO LEU LEU LEU ARG VAL PHE THR THR ASN ASN GLY ARG          
+SEQRES   4 A  143  HIS HIS ARG MSE ASP GLU PHE SER ARG GLY ASN VAL PRO          
+SEQRES   5 A  143  SER SER GLU LEU GLN ILE TYR THR TRP MSE ASP ALA THR          
+SEQRES   6 A  143  LEU LYS GLU LEU THR SER LEU VAL LYS GLU VAL TYR PRO          
+SEQRES   7 A  143  GLU ALA ARG LYS LYS GLY THR HIS PHE ASN PHE ALA ILE          
+SEQRES   8 A  143  VAL PHE MSE ASP LEU LYS ARG PRO GLY TYR ARG VAL LYS          
+SEQRES   9 A  143  GLU ILE GLY SER THR MSE SER GLY ARG LYS GLY THR ASP          
+SEQRES  10 A  143  ASP SER MSE THR LEU GLN SER GLN LYS PHE GLN ILE GLY          
+SEQRES  11 A  143  ASP TYR LEU ASP ILE ALA ILE THR PRO PRO ASN ARG ALA          
+DBREF  4A6Q A    6   143  UNP    O55128   SAP18_MOUSE      6    143             

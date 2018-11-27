@@ -1,0 +1,10 @@
+HELIX    1   1 LEU A   22  GLY A   26  1                                   5    
+HELIX    2   2 CYS A   46  GLU A   56  1                                  11    
+SEQRES   1 A   84  GLY SER SER GLY SER SER GLY LEU ASP HIS ILE THR VAL          
+SEQRES   2 A   84  VAL THR ALA ASP GLY LYS VAL ALA LEU ASN GLN ILE GLY          
+SEQRES   3 A   84  GLN ILE SER MET LYS SER PRO GLN VAL ILE LEU VAL ASN          
+SEQRES   4 A   84  MET ALA SER PHE PRO GLU CYS THR ALA ALA ALA ILE LYS          
+SEQRES   5 A   84  ALA ILE ARG GLU SER GLY MET ASN LEU ASN PRO GLU VAL          
+SEQRES   6 A   84  GLU GLY THR LEU ILE ARG VAL PRO ILE PRO LYS VAL THR          
+SEQRES   7 A   84  SER GLY PRO SER SER GLY                                      
+DBREF  1WIH A    8    78  UNP    Q9D6S7   RRFM_MOUSE     116    186             

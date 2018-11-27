@@ -1,0 +1,6 @@
+HELIX    1   1 SER A    7  LYS A   11  5                                   5    
+SEQRES   1 A   46  GLY SER MET ALA ALA HIS SER ALA ASP LEU LYS CYS PRO          
+SEQRES   2 A   46  THR PRO GLY CYS ASP GLY SER GLY HIS ILE THR GLY ASN          
+SEQRES   3 A   46  TYR ALA SER HIS ARG SER LEU SER GLY CYS PRO ARG ALA          
+SEQRES   4 A   46  LYS LYS SER GLY LEU ARG VAL                                  
+DBREF  2JYD A    3    46  UNP    Q8CFC2   MYT1_MOUSE     837    880             

@@ -1,0 +1,13 @@
+REMARK 650 HELIX                                                                
+HELIX    1   1 GLU A   29  LEU A   36  1                                   8    
+HELIX    2   2 GLU A   37  PHE A   39  1                                   3    
+HELIX    3   3 ILE A   61  ASP A   73  1                                  13    
+SEQRES   1 A  104  GLY SER SER GLY SER SER GLY SER HIS HIS LYS VAL SER          
+SEQRES   2 A  104  VAL SER PRO VAL VAL HIS VAL ARG GLY LEU CYS GLU SER          
+SEQRES   3 A  104  VAL VAL GLU ALA ASP LEU VAL GLU ALA LEU GLU LYS PHE          
+SEQRES   4 A  104  GLY THR ILE CYS TYR VAL MET MET MET PRO PHE LYS ARG          
+SEQRES   5 A  104  GLN ALA LEU VAL GLU PHE GLU ASN ILE ASP SER ALA LYS          
+SEQRES   6 A  104  GLU CYS VAL THR PHE ALA ALA ASP VAL PRO VAL TYR ILE          
+SEQRES   7 A  104  ALA GLY GLN GLN ALA PHE PHE ASN TYR SER THR SER LYS          
+SEQRES   8 A  104  ARG ILE THR ARG PRO GLY ASN SER GLY PRO SER SER GLY          
+DBREF  1WEX A    8    98  UNP    Q921F4   HNRLL_MOUSE    114    204             

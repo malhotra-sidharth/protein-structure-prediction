@@ -1,0 +1,5 @@
+HELIX    1   1 SER A   19  HIS A   31  1                                  13    
+SEQRES   1 A   35  GLY SER SER GLY SER SER GLY TYR VAL CYS ALA LEU CYS          
+SEQRES   2 A   35  LEU LYS LYS PHE VAL SER SER ILE ARG LEU ARG SER HIS          
+SEQRES   3 A   35  ILE ARG GLU VAL HIS GLY ALA ALA GLN                          
+DBREF  2RV5 A    8    35  UNP    Q7TS63   ZFAT_MOUSE     458    485             

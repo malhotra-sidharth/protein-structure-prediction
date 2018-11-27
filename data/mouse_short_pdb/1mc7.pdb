@@ -1,0 +1,12 @@
+HELIX    1   1 ALA A   38  GLY A   43  1                                   6    
+HELIX    2   2 GLU A   46  ASP A   49  5                                   4    
+HELIX    3   3 ALA A   67  GLN A   77  1                                  11    
+SEQRES   1 A   95  THR VAL THR LEU ASN MET GLU ARG HIS HIS PHE LEU GLY          
+SEQRES   2 A   95  ILE SER ILE VAL GLY GLN SER ASN ASP ARG GLY ASP GLY          
+SEQRES   3 A   95  GLY ILE TYR ILE GLY SER ILE MET LYS GLY GLY ALA VAL          
+SEQRES   4 A   95  ALA ALA ASP GLY ARG ILE GLU PRO GLY ASP MET LEU LEU          
+SEQRES   5 A   95  GLN VAL ASN ASP VAL ASN PHE GLU ASN MET SER ASN ASP          
+SEQRES   6 A   95  ASP ALA VAL ARG VAL LEU ARG GLU ILE VAL SER GLN THR          
+SEQRES   7 A   95  GLY PRO ILE SER LEU THR VAL ALA LYS ALA TRP ASP PRO          
+SEQRES   8 A   95  THR PRO ARG SER                                              
+DBREF  1MC7 A    1    95  UNP    P51141   DVL1_MOUSE     251    345             

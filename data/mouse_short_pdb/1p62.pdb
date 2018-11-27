@@ -1,0 +1,36 @@
+HELIX    1   1 GLY B   33  ASN B   39  1                                   7    
+HELIX    2   2 ILE B   40  CYS B   45  5                                   6    
+HELIX    3   3 PRO B   54  ASN B   60  1                                   7    
+HELIX    4   4 ASN B   80  LYS B   88  1                                   9    
+HELIX    5   5 LYS B   88  ASN B  113  1                                  26    
+HELIX    6   6 GLY B  114  ALA B  119  5                                   6    
+HELIX    7   7 SER B  129  ILE B  136  1                                   8    
+HELIX    8   8 ILE B  136  SER B  144  1                                   9    
+HELIX    9   9 ASN B  148  GLU B  171  1                                  24    
+HELIX   10  10 THR B  181  GLY B  193  1                                  13    
+HELIX   11  11 ARG B  194  GLN B  198  5                                   5    
+HELIX   12  12 PRO B  201  LEU B  217  1                                  17    
+HELIX   13  13 PHE B  225  GLU B  230  5                                   6    
+HELIX   14  14 ASP B  241  THR B  259  1                                  19    
+SEQRES   1 B  263  GLY SER HIS MET ALA THR PRO PRO LYS ARG SER CYS PRO          
+SEQRES   2 B  263  SER PHE SER ALA SER SER GLU GLY THR ARG ILE LYS LYS          
+SEQRES   3 B  263  ILE SER ILE GLU GLY ASN ILE ALA ALA GLY LYS SER THR          
+SEQRES   4 B  263  PHE VAL ASN ILE LEU LYS GLN LEU CYS GLU ASP TRP GLU          
+SEQRES   5 B  263  VAL VAL PRO GLU PRO VAL ALA ARG TRP CYS ASN VAL GLN          
+SEQRES   6 B  263  SER THR GLN ASP GLU PHE GLU GLU LEU THR MET SER GLN          
+SEQRES   7 B  263  LYS ASN GLY GLY ASN VAL LEU GLN MET MET TYR GLU LYS          
+SEQRES   8 B  263  PRO GLU ARG TRP SER PHE THR PHE GLN THR TYR ALA CYS          
+SEQRES   9 B  263  LEU SER ARG ILE ARG ALA GLN LEU ALA SER LEU ASN GLY          
+SEQRES  10 B  263  LYS LEU LYS ASP ALA GLU LYS PRO VAL LEU PHE PHE GLU          
+SEQRES  11 B  263  ARG SER VAL TYR SER ASP ARG TYR ILE PHE ALA SER ASN          
+SEQRES  12 B  263  LEU TYR GLU SER GLU CYS MET ASN GLU THR GLU TRP THR          
+SEQRES  13 B  263  ILE TYR GLN ASP TRP HIS ASP TRP MET ASN ASN GLN PHE          
+SEQRES  14 B  263  GLY GLN SER LEU GLU LEU ASP GLY ILE ILE TYR LEU GLN          
+SEQRES  15 B  263  ALA THR PRO GLU THR CYS LEU HIS ARG ILE TYR LEU ARG          
+SEQRES  16 B  263  GLY ARG ASN GLU GLU GLN GLY ILE PRO LEU GLU TYR LEU          
+SEQRES  17 B  263  GLU LYS LEU HIS TYR LYS HIS GLU SER TRP LEU LEU HIS          
+SEQRES  18 B  263  ARG THR LEU LYS THR ASN PHE ASP TYR LEU GLN GLU VAL          
+SEQRES  19 B  263  PRO ILE LEU THR LEU ASP VAL ASN GLU ASP PHE LYS ASP          
+SEQRES  20 B  263  LYS TYR GLU SER LEU VAL GLU LYS VAL LYS GLU PHE LEU          
+SEQRES  21 B  263  SER THR LEU                                                  
+DBREF  1P62 B    1   260  UNP    P27707   DCK_HUMAN        1    260             

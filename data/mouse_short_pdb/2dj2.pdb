@@ -1,0 +1,15 @@
+HELIX    1   1 VAL A   20  ALA A   24  5                                   5    
+HELIX    2   2 CYS A   36  ARG A   56  1                                  21    
+HELIX    3   3 GLN A   70  PHE A   77  1                                   8    
+HELIX    4   4 GLU A  101  SER A  115  1                                  15    
+SEQRES   1 A  120  GLY SER SER GLY SER SER GLY VAL THR LEU SER LEU THR          
+SEQRES   2 A  120  LYS ASP ASN PHE ASP ASP VAL VAL ASN ASN ALA ASP ILE          
+SEQRES   3 A  120  ILE LEU VAL GLU PHE TYR ALA PRO TRP CYS GLY HIS CYS          
+SEQRES   4 A  120  LYS LYS LEU ALA PRO GLU TYR GLU LYS ALA ALA LYS GLU          
+SEQRES   5 A  120  LEU SER LYS ARG SER PRO PRO ILE PRO LEU ALA LYS VAL          
+SEQRES   6 A  120  ASP ALA THR GLU GLN THR ASP LEU ALA LYS ARG PHE ASP          
+SEQRES   7 A  120  VAL SER GLY TYR PRO THR LEU LYS ILE PHE ARG LYS GLY          
+SEQRES   8 A  120  ARG PRO PHE ASP TYR ASN GLY PRO ARG GLU LYS TYR GLY          
+SEQRES   9 A  120  ILE VAL ASP TYR MET ILE GLU GLN SER GLY SER GLY PRO          
+SEQRES  10 A  120  SER SER GLY                                                  
+DBREF  2DJ2 A    8   114  UNP    P08003   PDIA4_MOUSE    152    180             

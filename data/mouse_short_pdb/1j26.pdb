@@ -1,0 +1,13 @@
+REMARK 650 HELIX                                                                
+HELIX    1   1 GLU A   58  THR A   67  1                                  10    
+HELIX    2   2 PHE A   89  SER A  107  1                                  19    
+SEQRES   1 A  112  GLY SER SER GLY SER SER GLY GLU HIS ALA LYS GLN ALA          
+SEQRES   2 A  112  SER SER TYR ILE PRO LEU ASP ARG LEU SER ILE SER TYR          
+SEQRES   3 A  112  CYS ARG SER SER GLY PRO GLY GLY GLN ASN VAL ASN LYS          
+SEQRES   4 A  112  VAL ASN SER LYS ALA GLU VAL ARG PHE HIS LEU ALA SER          
+SEQRES   5 A  112  ALA ASP TRP ILE GLU GLU PRO VAL ARG GLN LYS ILE ALA          
+SEQRES   6 A  112  LEU THR HIS LYS ASN LYS ILE ASN LYS ALA GLY GLU LEU          
+SEQRES   7 A  112  VAL LEU THR SER GLU SER SER ARG TYR GLN PHE ARG ASN          
+SEQRES   8 A  112  LEU ALA GLU CYS LEU GLN LYS ILE ARG ASP MET ILE ALA          
+SEQRES   9 A  112  GLU ALA SER GLY PRO SER SER GLY                              
+DBREF  1J26 A    8   106  UNP    Q8R035   ICT1_MOUSE      63    161             

@@ -1,0 +1,55 @@
+HELIX    1   1 ALA A  146  GLY A  165  1                                  20    
+HELIX    2   2 SER A  171  SER A  179  1                                   9    
+HELIX    3   3 LYS A  187  GLY A  191  5                                   5    
+HELIX    4   4 TYR A  193  GLY A  205  1                                  13    
+HELIX    5   5 ASN A  225  LYS A  227  5                                   3    
+HELIX    6   6 ASP A  243  LYS A  254  1                                  12    
+HELIX    7   7 HIS A  265  PHE A  270  1                                   6    
+HELIX    8   8 ASN A  327  ILE A  331  5                                   5    
+HELIX    9   9 ARG B  130  GLY B  133  5                                   4    
+HELIX   10  10 ALA B  146  GLY B  165  1                                  20    
+HELIX   11  11 SER B  171  SER B  179  1                                   9    
+HELIX   12  12 LYS B  187  GLY B  191  5                                   5    
+HELIX   13  13 TYR B  193  GLY B  205  1                                  13    
+HELIX   14  14 ASN B  225  LYS B  227  5                                   3    
+HELIX   15  15 ASP B  243  LYS B  254  1                                  12    
+HELIX   16  16 HIS B  265  PHE B  270  1                                   6    
+HELIX   17  17 ASN B  327  ILE B  331  5                                   5    
+SEQRES   1 A  225  ARG SER TYR SER ASN ARG THR LEU PRO ASP THR VAL ASP          
+SEQRES   2 A  225  TRP ARG GLU LYS GLY CYS VAL THR GLU VAL LYS TYR GLN          
+SEQRES   3 A  225  GLY SER CYS GLY ALA CYS TRP ALA PHE SER ALA VAL GLY          
+SEQRES   4 A  225  ALA LEU GLU GLY GLN LEU LYS LEU LYS THR GLY LYS LEU          
+SEQRES   5 A  225  ILE SER LEU SER ALA GLN ASN LEU VAL ASP CYS SER ASN          
+SEQRES   6 A  225  GLU GLU LYS TYR GLY ASN LYS GLY CYS GLY GLY GLY TYR          
+SEQRES   7 A  225  MET THR GLU ALA PHE GLN TYR ILE ILE ASP ASN GLY GLY          
+SEQRES   8 A  225  ILE GLU ALA ASP ALA SER TYR PRO TYR LYS ALA MET ASP          
+SEQRES   9 A  225  GLU LYS CYS HIS TYR ASN SER LYS ASN ARG ALA ALA THR          
+SEQRES  10 A  225  CYS SER ARG TYR ILE GLN LEU PRO PHE GLY ASP GLU ASP          
+SEQRES  11 A  225  ALA LEU LYS GLU ALA VAL ALA THR LYS GLY PRO VAL SER          
+SEQRES  12 A  225  VAL GLY ILE ASP ALA SER HIS SER SER PHE PHE PHE TYR          
+SEQRES  13 A  225  LYS SER GLY VAL TYR ASP ASP PRO SER CYS THR GLY ASN          
+SEQRES  14 A  225  VAL ASN HIS GLY VAL LEU VAL VAL GLY TYR GLY THR LEU          
+SEQRES  15 A  225  ASP GLY LYS ASP TYR TRP LEU VAL LYS ASN SER TRP GLY          
+SEQRES  16 A  225  LEU ASN PHE GLY ASP GLN GLY TYR ILE ARG MET ALA ARG          
+SEQRES  17 A  225  ASN ASN LYS ASN HIS CYS GLY ILE ALA SER TYR CYS SER          
+SEQRES  18 A  225  TYR PRO GLU ILE                                              
+SEQRES   1 B  225  ARG SER TYR SER ASN ARG THR LEU PRO ASP THR VAL ASP          
+SEQRES   2 B  225  TRP ARG GLU LYS GLY CYS VAL THR GLU VAL LYS TYR GLN          
+SEQRES   3 B  225  GLY SER CYS GLY ALA CYS TRP ALA PHE SER ALA VAL GLY          
+SEQRES   4 B  225  ALA LEU GLU GLY GLN LEU LYS LEU LYS THR GLY LYS LEU          
+SEQRES   5 B  225  ILE SER LEU SER ALA GLN ASN LEU VAL ASP CYS SER ASN          
+SEQRES   6 B  225  GLU GLU LYS TYR GLY ASN LYS GLY CYS GLY GLY GLY TYR          
+SEQRES   7 B  225  MET THR GLU ALA PHE GLN TYR ILE ILE ASP ASN GLY GLY          
+SEQRES   8 B  225  ILE GLU ALA ASP ALA SER TYR PRO TYR LYS ALA MET ASP          
+SEQRES   9 B  225  GLU LYS CYS HIS TYR ASN SER LYS ASN ARG ALA ALA THR          
+SEQRES  10 B  225  CYS SER ARG TYR ILE GLN LEU PRO PHE GLY ASP GLU ASP          
+SEQRES  11 B  225  ALA LEU LYS GLU ALA VAL ALA THR LYS GLY PRO VAL SER          
+SEQRES  12 B  225  VAL GLY ILE ASP ALA SER HIS SER SER PHE PHE PHE TYR          
+SEQRES  13 B  225  LYS SER GLY VAL TYR ASP ASP PRO SER CYS THR GLY ASN          
+SEQRES  14 B  225  VAL ASN HIS GLY VAL LEU VAL VAL GLY TYR GLY THR LEU          
+SEQRES  15 B  225  ASP GLY LYS ASP TYR TRP LEU VAL LYS ASN SER TRP GLY          
+SEQRES  16 B  225  LEU ASN PHE GLY ASP GLN GLY TYR ILE ARG MET ALA ARG          
+SEQRES  17 B  225  ASN ASN LYS ASN HIS CYS GLY ILE ALA SER TYR CYS SER          
+SEQRES  18 B  225  TYR PRO GLU ILE                                              
+DBREF  4MZS A  116   340  UNP    O70370   CATS_MOUSE     116    340             
+DBREF  4MZS B  116   340  UNP    O70370   CATS_MOUSE     116    340             

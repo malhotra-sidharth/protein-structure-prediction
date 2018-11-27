@@ -1,0 +1,56 @@
+HELIX    1   1 ASN A  100  LYS A  104  5                                   5    
+HELIX    2   2 ALA A  137  MET A  141  5                                   5    
+HELIX    3   3 PRO A  145  GLU A  154  1                                  10    
+HELIX    4   4 LYS A  157  GLU A  163  1                                   7    
+HELIX    5   5 ASN B  100  PHE B  107  5                                   8    
+HELIX    6   6 ALA B  137  MET B  141  5                                   5    
+HELIX    7   7 PRO B  145  GLU B  154  1                                  10    
+HELIX    8   8 LYS B  157  LYS B  162  1                                   6    
+SEQRES   1 A  199  SER THR PRO LYS LYS ASN ILE SER LYS GLY ALA VAL LEU          
+SEQRES   2 A  199  HIS GLU LYS PRO MET THR VAL MET VAL LEU THR ALA THR          
+SEQRES   3 A  199  GLU PRO PHE ASN TYR LYS GLU GLY LYS GLU ASN MET PHE          
+SEQRES   4 A  199  HIS ALA THR VAL ALA THR GLU SER LYS TYR TYR ARG VAL          
+SEQRES   5 A  199  LYS VAL PHE ASN MET ASP LEU LYS GLU LYS PHE THR GLU          
+SEQRES   6 A  199  ASN GLN PHE ILE THR ILE SER LYS TYR PHE ASN SER SER          
+SEQRES   7 A  199  GLY ILE LEU GLU ILE ASN GLU THR ALA THR VAL SER GLU          
+SEQRES   8 A  199  ALA ALA PRO ASN GLN MET PHE GLU VAL PRO LYS ASN ILE          
+SEQRES   9 A  199  ILE ARG SER ALA LYS GLU THR LEU LYS ILE SER LYS ILE          
+SEQRES  10 A  199  LYS GLU LEU ASP SER GLY THR LEU ILE TYR GLY VAL PHE          
+SEQRES  11 A  199  ALA VAL GLU LYS LYS LYS VAL ASN ASP LYS SER ILE THR          
+SEQRES  12 A  199  PHE LYS ILE LYS ASP ASN GLU ASP ASN ILE LYS VAL VAL          
+SEQRES  13 A  199  TRP ASP LYS GLU GLN HIS ASN ILE ASN TYR GLU LYS GLY          
+SEQRES  14 A  199  ASP LYS LEU GLN LEU PHE SER PHE HIS LEU ARG LYS GLY          
+SEQRES  15 A  199  ASN GLY LYS PRO ILE LEU HIS SER GLY ASN HIS SER PHE          
+SEQRES  16 A  199  ILE LYS GLY GLU                                              
+SEQRES   1 B  199  SER THR PRO LYS LYS ASN ILE SER LYS GLY ALA VAL LEU          
+SEQRES   2 B  199  HIS GLU LYS PRO MET THR VAL MET VAL LEU THR ALA THR          
+SEQRES   3 B  199  GLU PRO PHE ASN TYR LYS GLU GLY LYS GLU ASN MET PHE          
+SEQRES   4 B  199  HIS ALA THR VAL ALA THR GLU SER LYS TYR TYR ARG VAL          
+SEQRES   5 B  199  LYS VAL PHE ASN MET ASP LEU LYS GLU LYS PHE THR GLU          
+SEQRES   6 B  199  ASN GLN PHE ILE THR ILE SER LYS TYR PHE ASN SER SER          
+SEQRES   7 B  199  GLY ILE LEU GLU ILE ASN GLU THR ALA THR VAL SER GLU          
+SEQRES   8 B  199  ALA ALA PRO ASN GLN MET PHE GLU VAL PRO LYS ASN ILE          
+SEQRES   9 B  199  ILE ARG SER ALA LYS GLU THR LEU LYS ILE SER LYS ILE          
+SEQRES  10 B  199  LYS GLU LEU ASP SER GLY THR LEU ILE TYR GLY VAL PHE          
+SEQRES  11 B  199  ALA VAL GLU LYS LYS LYS VAL ASN ASP LYS SER ILE THR          
+SEQRES  12 B  199  PHE LYS ILE LYS ASP ASN GLU ASP ASN ILE LYS VAL VAL          
+SEQRES  13 B  199  TRP ASP LYS GLU GLN HIS ASN ILE ASN TYR GLU LYS GLY          
+SEQRES  14 B  199  ASP LYS LEU GLN LEU PHE SER PHE HIS LEU ARG LYS GLY          
+SEQRES  15 B  199  ASN GLY LYS PRO ILE LEU HIS SER GLY ASN HIS SER PHE          
+SEQRES  16 B  199  ILE LYS GLY GLU                                              
+SEQRES   1 C   12   DG  DC  DG  DA  DT  DA  DT  DC  DG  DC  DT  DG              
+SEQRES   1 D   12   DG  DC  DG  DA  DT  DA  DT  DC  DG  DC  DT  DG              
+SEQRES   1 E   12   DG  DC  DG  DA  DT  DA  DT  DC  DG  DC  DT  DG              
+SEQRES   1 F   12   DG  DC  DG  DA  DT  DA  DT  DC  DG  DC  DT  DG              
+SEQRES   1 G   12   DG  DC  DG  DA  DT  DA  DT  DC  DG  DC  DT  DG              
+SEQRES   1 H   12   DG  DC  DG  DA  DT  DA  DT  DC  DG  DC  DT  DG              
+SEQRES   1 I   12   DG  DC  DG  DA  DT  DA  DT  DC  DG  DC  DT  DG              
+DBREF  4L5S A   46   243  UNP    Q9R002   IFI2_MOUSE      46    243             
+DBREF  4L5S B   46   243  UNP    Q9R002   IFI2_MOUSE      46    243             
+DBREF  4L5S C    1    12  PDB    4L5S     4L5S             1     12             
+DBREF  4L5S D    1    12  PDB    4L5S     4L5S             1     12             
+DBREF  4L5S E    1    12  PDB    4L5S     4L5S             1     12             
+DBREF  4L5S F    1    12  PDB    4L5S     4L5S             1     12             
+DBREF  4L5S G    1    12  PDB    4L5S     4L5S             1     12             
+DBREF  4L5S H    1    12  PDB    4L5S     4L5S             1     12             
+DBREF  4L5S I    1    12  PDB    4L5S     4L5S             1     12             

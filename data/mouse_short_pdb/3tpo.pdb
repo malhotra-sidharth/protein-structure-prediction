@@ -1,0 +1,75 @@
+HELIX    1   1 ASN A   70  VAL A   74  5                                   5    
+HELIX    2   2 SER A   77  ASN A   86  1                                  10    
+HELIX    3   3 ASN A   89  SER A  105  1                                  17    
+HELIX    4   4 PRO A  111  ALA A  118  1                                   8    
+HELIX    5   5 GLY A  119  GLY A  129  1                                  11    
+HELIX    6   6 CYS A  133  SER A  149  1                                  17    
+HELIX    7   7 THR A  151  GLY A  161  1                                  11    
+HELIX    8   8 GLY A  162  LEU A  171  1                                  10    
+HELIX    9   9 HIS A  175  GLY A  191  1                                  17    
+HELIX   10  10 GLY A  193  HIS A  203  1                                  11    
+HELIX   11  11 ALA A  205  LEU A  212  1                                   8    
+HELIX   12  12 ASP A  217  LEU A  221  5                                   5    
+HELIX   13  13 ALA A  222  ARG A  238  1                                  17    
+HELIX   14  14 PRO A  245  LEU A  260  1                                  16    
+HELIX   15  15 ASP A  264  ASP A  280  1                                  17    
+HELIX   16  16 PRO A  282  LYS A  291  1                                  10    
+HELIX   17  17 VAL A  294  GLY A  303  1                                  10    
+HELIX   18  18 GLU A  306  VAL A  321  1                                  16    
+HELIX   19  19 THR A  324  ALA A  334  1                                  11    
+HELIX   20  20 GLY A  335  ALA A  338  5                                   4    
+HELIX   21  21 VAL A  339  LEU A  344  1                                   6    
+HELIX   22  22 LYS A  348  ALA A  364  1                                  17    
+HELIX   23  23 ARG A  366  HIS A  376  1                                  11    
+HELIX   24  24 GLY A  377  LYS A  388  1                                  12    
+HELIX   25  25 ASP A  390  GLY A  408  1                                  19    
+HELIX   26  26 THR A  409  CYS A  419  1                                  11    
+HELIX   27  27 ILE A  421  LEU A  428  1                                   8    
+HELIX   28  28 LEU A  429  ALA A  431  5                                   3    
+HELIX   29  29 ASP A  433  LYS A  453  1                                  21    
+HELIX   30  30 GLU A  456  CYS A  467  1                                  12    
+HELIX   31  31 GLY A  469  GLU A  474  1                                   6    
+HELIX   32  32 ALA A  475  HIS A  479  5                                   5    
+HELIX   33  33 ASN A  481  PHE A  496  1                                  16    
+SEQRES   1 A  529  MET SER THR ASN GLU ASN ALA ASN LEU PRO ALA ALA ARG          
+SEQRES   2 A  529  LEU ASN ARG PHE LYS ASN LYS GLY LYS ASP SER THR GLU          
+SEQRES   3 A  529  MET ARG ARG ARG ARG ILE GLU VAL ASN VAL GLU LEU ARG          
+SEQRES   4 A  529  LYS ALA LYS LYS ASP GLU GLN MET LEU LYS ARG ARG ASN          
+SEQRES   5 A  529  VAL SER SER PHE PRO ASP ASP ALA THR SER PRO LEU GLN          
+SEQRES   6 A  529  GLU ASN ARG ASN ASN GLN GLY THR VAL ASN TRP SER VAL          
+SEQRES   7 A  529  GLU ASP ILE VAL LYS GLY ILE ASN SER ASN ASN LEU GLU          
+SEQRES   8 A  529  SER GLN LEU GLN ALA THR GLN ALA ALA ARG LYS LEU LEU          
+SEQRES   9 A  529  SER ARG GLU LYS GLN PRO PRO ILE ASP ASN ILE ILE ARG          
+SEQRES  10 A  529  ALA GLY LEU ILE PRO LYS PHE VAL SER PHE LEU GLY LYS          
+SEQRES  11 A  529  THR ASP CYS SER PRO ILE GLN PHE GLU SER ALA TRP ALA          
+SEQRES  12 A  529  LEU THR ASN ILE ALA SER GLY THR SER GLU GLN THR LYS          
+SEQRES  13 A  529  ALA VAL VAL ASP GLY GLY ALA ILE PRO ALA PHE ILE SER          
+SEQRES  14 A  529  LEU LEU ALA SER PRO HIS ALA HIS ILE SER GLU GLN ALA          
+SEQRES  15 A  529  VAL TRP ALA LEU GLY ASN ILE ALA GLY ALA GLY SER ALA          
+SEQRES  16 A  529  PHE ARG ASP LEU VAL ILE LYS HIS GLY ALA ILE ASP PRO          
+SEQRES  17 A  529  LEU LEU ALA LEU LEU ALA VAL PRO ASP LEU SER THR LEU          
+SEQRES  18 A  529  ALA CYS GLY TYR LEU ARG ASN LEU THR TRP THR LEU SER          
+SEQRES  19 A  529  ASN LEU CYS ARG ASN LYS ASN PRO ALA PRO PRO LEU ASP          
+SEQRES  20 A  529  ALA VAL GLU GLN ILE LEU PRO THR LEU VAL ARG LEU LEU          
+SEQRES  21 A  529  HIS HIS ASN ASP PRO GLU VAL LEU ALA ASP SER CYS TRP          
+SEQRES  22 A  529  ALA ILE SER TYR LEU THR ASP GLY PRO ASN GLU ARG ILE          
+SEQRES  23 A  529  GLU MET VAL VAL LYS LYS GLY VAL VAL PRO GLN LEU VAL          
+SEQRES  24 A  529  LYS LEU LEU GLY ALA THR GLU LEU PRO ILE VAL THR PRO          
+SEQRES  25 A  529  ALA LEU ARG ALA ILE GLY ASN ILE VAL THR GLY THR ASP          
+SEQRES  26 A  529  GLU GLN THR GLN LYS VAL ILE ASP ALA GLY ALA LEU ALA          
+SEQRES  27 A  529  VAL PHE PRO SER LEU LEU THR ASN PRO LYS THR ASN ILE          
+SEQRES  28 A  529  GLN LYS GLU ALA THR TRP THR MET SER ASN ILE THR ALA          
+SEQRES  29 A  529  GLY ARG GLN ASP GLN ILE GLN GLN VAL VAL ASN HIS GLY          
+SEQRES  30 A  529  LEU VAL PRO PHE LEU VAL GLY VAL LEU SER LYS ALA ASP          
+SEQRES  31 A  529  PHE LYS THR GLN LYS ALA ALA ALA TRP ALA ILE THR ASN          
+SEQRES  32 A  529  TYR THR SER GLY GLY THR VAL GLU GLN ILE VAL TYR LEU          
+SEQRES  33 A  529  VAL HIS CYS GLY ILE ILE GLU PRO LEU MET ASN LEU LEU          
+SEQRES  34 A  529  SER ALA LYS ASP THR LYS ILE ILE GLN VAL ILE LEU ASP          
+SEQRES  35 A  529  ALA ILE SER ASN ILE PHE GLN ALA ALA GLU LYS LEU GLY          
+SEQRES  36 A  529  GLU THR GLU LYS LEU SER ILE MET ILE GLU GLU CYS GLY          
+SEQRES  37 A  529  GLY LEU ASP LYS ILE GLU ALA LEU GLN ARG HIS GLU ASN          
+SEQRES  38 A  529  GLU SER VAL TYR LYS ALA SER LEU ASN LEU ILE GLU LYS          
+SEQRES  39 A  529  TYR PHE SER VAL GLU GLU GLU GLU ASP GLN ASN VAL VAL          
+SEQRES  40 A  529  PRO GLU THR THR SER GLU GLY PHE ALA PHE GLN VAL GLN          
+SEQRES  41 A  529  ASP GLY ALA PRO GLY THR PHE ASN PHE                          
+DBREF  3TPO A    1   529  UNP    P52293   IMA2_MOUSE       1    529             

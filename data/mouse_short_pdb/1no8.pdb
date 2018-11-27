@@ -1,0 +1,14 @@
+REMARK 650 HELIX                                                                
+REMARK 650 AUTHOR DETERMINED THE HELIX STRUCTURE.                               
+HELIX    1   1 SER A  117  PHE A  128  1                                  12    
+HELIX    2   2 ARG A  154  TYR A  165  1                                  12    
+SEQRES   1 A  106  SER ARG PRO LYS GLN LEU PRO ASP LYS TRP GLN HIS ASP          
+SEQRES   2 A  106  LEU PHE ASP SER GLY PHE GLY GLY GLY ALA GLY VAL GLU          
+SEQRES   3 A  106  THR GLY GLY LYS LEU LEU VAL SER ASN LEU ASP PHE GLY          
+SEQRES   4 A  106  VAL SER ASP ALA ASP ILE GLN GLU LEU PHE ALA GLU PHE          
+SEQRES   5 A  106  GLY THR LEU LYS LYS ALA ALA VAL HIS TYR ASP ARG SER          
+SEQRES   6 A  106  GLY ARG SER LEU GLY THR ALA ASP VAL HIS PHE GLU ARG          
+SEQRES   7 A  106  LYS ALA ASP ALA LEU LYS ALA MET LYS GLN TYR ASN GLY          
+SEQRES   8 A  106  VAL PRO LEU ASP GLY ARG PRO MET ASN ILE GLN LEU VAL          
+SEQRES   9 A  106  THR SER                                                      
+DBREF  1NO8 A   77   182  UNP    O08583   THOC4_MOUSE     77    182             

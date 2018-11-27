@@ -1,0 +1,44 @@
+HELIX    1   1 UNK A  108  UNK A  117  1                                  10    
+HELIX    2   2 PHE A  131  LEU A  149  1                                  19    
+HELIX    3   3 SER A  150  GLN A  152  5                                   3    
+HELIX    4   4 ASN A  156  ASP A  165  1                                  10    
+HELIX    5   5 LEU A  168  SER A  172  5                                   5    
+HELIX    6   6 PRO A  182  SER A  205  1                                  24    
+HELIX    7   7 LYS A  208  LYS A  232  1                                  25    
+HELIX    8   8 PRO A  252  PHE A  273  1                                  22    
+HELIX    9   9 PHE A  273  GLN A  280  1                                   8    
+HELIX   10  10 THR A  282  ALA A  293  1                                  12    
+HELIX   11  11 ASP A  296  ASP A  309  1                                  14    
+HELIX   12  12 PRO A  357  MSE A  359  5                                   3    
+HELIX   13  13 HIS A  360  ARG A  371  1                                  12    
+HELIX   14  14 ARG A  371  SER A  377  1                                   7    
+HELIX   15  15 ASP A  416  ALA A  429  1                                  14    
+HELIX   16  16 LYS A  431  SER A  438  1                                   8    
+SEQRES   1 A  344  UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK UNK          
+SEQRES   2 A  344  UNK UNK UNK UNK UNK UNK UNK UNK PRO HIS LEU SER GLU          
+SEQRES   3 A  344  GLN LEU CYS PHE PHE VAL GLN ALA ARG MSE GLU ILE ALA          
+SEQRES   4 A  344  ASP PHE TYR GLU LYS MSE TYR ALA LEU SER THR GLN LYS          
+SEQRES   5 A  344  PHE ILE ASN THR GLU GLU LEU VAL SER THR LEU ASP THR          
+SEQRES   6 A  344  ILE LEU ARG LYS TYR SER SER ARG PHE HIS HIS PRO ILE          
+SEQRES   7 A  344  LEU SER PRO LEU GLU SER SER PHE GLN LEU GLU VAL GLY          
+SEQRES   8 A  344  VAL LEU SER HIS LEU LEU LYS ALA GLN ALA GLN ILE SER          
+SEQRES   9 A  344  GLU TRP LYS PHE LEU PRO SER LEU VAL THR LEU HIS ASN          
+SEQRES  10 A  344  ALA HIS THR LYS LEU GLN SER TRP GLY GLN THR PHE GLU          
+SEQRES  11 A  344  LYS GLN ARG GLU THR LYS LYS HIS LEU PHE GLY GLY GLN          
+SEQRES  12 A  344  SER GLN LYS ALA VAL GLN PRO PRO HIS LEU PHE LEU TRP          
+SEQRES  13 A  344  LEU MSE LYS LEU LYS THR MSE LEU LEU ALA LYS PHE SER          
+SEQRES  14 A  344  PHE TYR PHE HIS GLU ALA LEU SER ARG GLN THR THR ALA          
+SEQRES  15 A  344  SER GLU MSE LYS ALA LEU THR ALA LYS ALA ASN PRO ASP          
+SEQRES  16 A  344  LEU PHE GLY LYS ILE SER SER PHE ILE ARG LYS TYR ASP          
+SEQRES  17 A  344  ALA ALA ASN VAL SER LEU ILE PHE ASP ASN ARG GLY SER          
+SEQRES  18 A  344  GLU SER PHE GLN GLY HIS GLY TYR HIS HIS PRO HIS SER          
+SEQRES  19 A  344  TYR ARG GLU ALA PRO LYS GLY VAL ASP GLN TYR PRO ALA          
+SEQRES  20 A  344  VAL VAL SER LEU PRO SER ASP ARG PRO VAL MSE HIS TRP          
+SEQRES  21 A  344  PRO ASN VAL ILE MSE ILE MSE THR ASP ARG ALA SER ASP          
+SEQRES  22 A  344  LEU ASN SER LEU GLU LYS VAL VAL HIS PHE TYR ASP ASP          
+SEQRES  23 A  344  LYS VAL GLN SER THR TYR PHE LEU THR ARG PRO GLU PRO          
+SEQRES  24 A  344  HIS PHE THR ILE VAL VAL ILE PHE GLU SER LYS LYS SER          
+SEQRES  25 A  344  GLU ARG ASP SER HIS PHE ILE SER PHE LEU ASN GLU LEU          
+SEQRES  26 A  344  SER LEU ALA LEU LYS ASN PRO LYS VAL PHE ALA SER LEU          
+SEQRES  27 A  344  LYS PRO GLY SER LYS GLY                                      
+DBREF  2GNX A  123   445  GB     41055590 NP_766610      123    445             

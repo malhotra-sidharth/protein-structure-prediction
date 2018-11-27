@@ -1,0 +1,11 @@
+HELIX    1   1 LYS A    5  LYS A   14  1                                  10    
+HELIX    2   2 LYS A   54  ILE A   72  1                                  19    
+SEQRES   1 A   99  GLY SER SER GLY SER SER GLY ILE LYS ASN PHE LEU TYR          
+SEQRES   2 A   99  ALA TRP CYS GLY LYS ARG LYS MET THR PRO ALA TYR GLU          
+SEQRES   3 A   99  ILE ARG ALA VAL GLY ASN LYS ASN ARG GLN LYS PHE MET          
+SEQRES   4 A   99  CYS GLU VAL ARG VAL GLU GLY PHE ASN TYR ALA GLY MET          
+SEQRES   5 A   99  GLY ASN SER THR ASN LYS LYS ASP ALA GLN SER ASN ALA          
+SEQRES   6 A   99  ALA ARG ASP PHE VAL ASN TYR LEU VAL ARG ILE ASN GLU          
+SEQRES   7 A   99  VAL LYS SER GLU GLU VAL PRO ALA VAL GLY ILE VAL PRO          
+SEQRES   8 A   99  PRO PRO SER GLY PRO SER SER GLY                              
+DBREF  1WHQ A    4    89  UNP    O70133   DHX9_MOUSE       4     89             

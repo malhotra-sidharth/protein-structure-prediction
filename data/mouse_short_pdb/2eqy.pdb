@@ -1,0 +1,17 @@
+HELIX    1   1 GLN A   96  GLY A  115  1                                  20    
+HELIX    2   2 ASP A  129  GLY A  141  1                                  13    
+HELIX    3   3 GLY A  142  ASP A  149  1                                   8    
+HELIX    4   4 LYS A  151  MET A  159  1                                   9    
+HELIX    5   5 LYS A  165  ILE A  178  1                                  14    
+HELIX    6   6 ILE A  178  GLY A  188  1                                  11    
+SEQRES   1 A  122  GLY SER SER GLY SER SER GLY GLU ALA GLN THR ARG VAL          
+SEQRES   2 A  122  LYS LEU ASN PHE LEU ASP GLN ILE ALA LYS TYR TRP GLU          
+SEQRES   3 A  122  LEU GLN GLY SER THR LEU LYS ILE PRO HIS VAL GLU ARG          
+SEQRES   4 A  122  LYS ILE LEU ASP LEU PHE GLN LEU ASN LYS LEU VAL ALA          
+SEQRES   5 A  122  GLU GLU GLY GLY PHE ALA VAL VAL CYS LYS ASP ARG LYS          
+SEQRES   6 A  122  TRP THR LYS ILE ALA THR LYS MET GLY PHE ALA PRO GLY          
+SEQRES   7 A  122  LYS ALA VAL GLY SER HIS ILE ARG GLY HIS TYR GLU ARG          
+SEQRES   8 A  122  ILE LEU ASN PRO TYR ASN LEU PHE LEU SER GLY ASP SER          
+SEQRES   9 A  122  LEU ARG CYS LEU GLN LYS PRO ASN LEU THR SER ASP THR          
+SEQRES  10 A  122  LYS ASP LYS GLU TYR                                          
+DBREF  2EQY A   94   208  UNP    Q80Y84   Q80Y84_MOUSE    94    208             

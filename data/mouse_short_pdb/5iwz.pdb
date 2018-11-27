@@ -1,0 +1,51 @@
+HELIX    1 AA1 ASP A    6  GLN A    8  5                                   3    
+HELIX    2 AA2 GLN A    9  ASN A   21  1                                  13    
+HELIX    3 AA3 PHE A   23  LEU A   30  1                                   8    
+HELIX    4 AA4 GLN A   45  LYS A   61  1                                  17    
+HELIX    5 AA5 ASP A   62  SER A   77  1                                  16    
+HELIX    6 AA6 GLY A   87  GLY A   95  1                                   9    
+HELIX    7 AA7 GLY A   95  ASN A  106  1                                  12    
+HELIX    8 AA8 SER A  107  ASN A  113  1                                   7    
+HELIX    9 AA9 GLU A  120  ILE A  139  1                                  20    
+HELIX   10 AB1 SER A  140  ASP A  161  1                                  22    
+HELIX   11 AB2 ASN A  165  ILE A  183  1                                  19    
+HELIX   12 AB3 GLN A  194  VAL A  210  1                                  17    
+HELIX   13 AB4 ASP A  212  THR A  227  1                                  16    
+HELIX   14 AB5 THR A  228  PHE A  240  1                                  13    
+HELIX   15 AB6 MET A  242  GLU A  251  1                                  10    
+HELIX   16 AB7 ILE A  252  CYS A  255  5                                   4    
+HELIX   17 AB8 GLU A  256  LEU A  272  1                                  17    
+HELIX   18 AB9 GLY A  273  ARG A  276  5                                   4    
+HELIX   19 AC1 GLU A  379  PHE A  388  1                                  10    
+SEQRES   1 A  401  PRO GLY SER MET PRO VAL ARG PRO ASP LEU GLN GLN LEU          
+SEQRES   2 A  401  GLU LYS CYS ILE ASP ASP ALA LEU ARG LYS ASN ASP PHE          
+SEQRES   3 A  401  LYS PRO LEU LEU ALA LEU LEU GLN ILE ASP ILE CYS GLU          
+SEQRES   4 A  401  ASP VAL LYS ILE LYS CYS SER LYS GLN PHE LEU ARG LYS          
+SEQRES   5 A  401  LEU ASP ASP LEU ILE CYS ARG GLU LEU ASN LYS LYS ASP          
+SEQRES   6 A  401  ILE GLN THR VAL SER SER ILE LEU ILE SER ILE GLY ARG          
+SEQRES   7 A  401  CYS SER LYS ASN ILE PHE ILE LEU GLY GLN ALA GLY LEU          
+SEQRES   8 A  401  GLN THR MET ILE LYS GLN GLY LEU VAL GLN LYS MET VAL          
+SEQRES   9 A  401  SER TRP PHE GLU ASN SER LYS GLU ILE ILE LEU ASN GLN          
+SEQRES  10 A  401  GLN GLN SER LYS ASP GLU ALA VAL MET ASN MET ILE GLU          
+SEQRES  11 A  401  ASP LEU PHE ASP LEU LEU MET VAL ILE TYR ASP ILE SER          
+SEQRES  12 A  401  ASP GLU GLY LYS ASN GLN VAL LEU GLU SER PHE ILE PRO          
+SEQRES  13 A  401  GLN ILE CYS ALA LEU VAL ILE ASP SER ARG VAL ASN PHE          
+SEQRES  14 A  401  CYS ILE GLN GLN GLU ALA LEU LYS LYS MET ASN LEU MET          
+SEQRES  15 A  401  LEU ASP ARG ILE PRO GLN ASP ALA ASN LYS ILE LEU SER          
+SEQRES  16 A  401  ASN GLN GLU MET LEU THR LEU MET SER ASN MET GLY GLU          
+SEQRES  17 A  401  ARG ILE LEU ASP VAL GLY ASP TYR GLU LEU GLN VAL GLY          
+SEQRES  18 A  401  ILE VAL GLU ALA LEU CYS ARG MET THR THR GLU LYS ARG          
+SEQRES  19 A  401  ARG GLN GLU LEU ALA TYR GLU TRP PHE SER MET ASP PHE          
+SEQRES  20 A  401  ILE ALA ASN ALA PHE LYS GLU ILE LYS ASP CYS GLU PHE          
+SEQRES  21 A  401  GLU THR ASP CYS ARG ILE PHE LEU ASN LEU VAL ASN GLY          
+SEQRES  22 A  401  ILE LEU GLY ASP LYS ARG ARG VAL TYR THR PHE PRO CYS          
+SEQRES  23 A  401  LEU SER ALA PHE LEU GLY LYS TYR GLU LEU GLN ILE PRO          
+SEQRES  24 A  401  SER ASP GLU LYS LEU GLU GLU PHE TRP ILE ASP PHE ASN          
+SEQRES  25 A  401  LEU GLY SER HIS THR LEU SER PHE TYR ILE ALA GLY ASP          
+SEQRES  26 A  401  GLU GLU ASP HIS GLN TRP GLU ALA VAL THR VAL PRO GLU          
+SEQRES  27 A  401  GLU LYS VAL GLN MET TYR ASN ILE GLU VAL ARG GLU SER          
+SEQRES  28 A  401  LYS LYS LEU LEU THR LEU THR LEU LYS ASN ILE VAL LYS          
+SEQRES  29 A  401  ILE SER LYS LYS GLU GLY LYS GLU LEU LEU PHE TYR PHE          
+SEQRES  30 A  401  ASP GLU SER LEU GLU ILE THR ASN VAL THR LYS LYS VAL          
+SEQRES  31 A  401  PHE GLY GLY LEU GLU HIS HIS HIS HIS HIS HIS                  
+DBREF  5IWZ A    1   390  UNP    Q9CUU3   SYCP2_MOUSE      1    390             

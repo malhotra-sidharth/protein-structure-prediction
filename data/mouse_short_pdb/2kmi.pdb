@@ -1,0 +1,17 @@
+HELIX    1   1 ASP A   11  GLU A   22  5                                  12    
+HELIX    2   2 PRO A   52  THR A   59  1                                   8    
+HELIX    3   3 THR A   76  ALA A   94  1                                  19    
+HELIX    4   4 GLY A  115  ASP A  129  1                                  15    
+SEQRES   1 A  145  ARG LYS LYS LYS ASP ILE ARG ASP TYR ASN ASP ALA ASP          
+SEQRES   2 A  145  MET ALA ARG LEU LEU GLU GLN TRP GLU LYS ASP ASP ASP          
+SEQRES   3 A  145  ILE GLU GLU GLY ASP LEU PRO GLU HIS LYS ARG PRO SER          
+SEQRES   4 A  145  ALA PRO ILE ASP PHE SER LYS LEU ASP PRO GLY LYS PRO          
+SEQRES   5 A  145  GLU SER ILE LEU LYS MET THR LYS LYS GLY LYS THR LEU          
+SEQRES   6 A  145  MET MET PHE VAL THR VAL SER GLY ASN PRO THR GLU LYS          
+SEQRES   7 A  145  GLU THR GLU GLU ILE THR SER LEU TRP GLN GLY SER LEU          
+SEQRES   8 A  145  PHE ASN ALA ASN TYR ASP VAL GLN ARG PHE ILE VAL GLY          
+SEQRES   9 A  145  SER ASP ARG ALA ILE PHE MET LEU ARG ASP GLY SER TYR          
+SEQRES  10 A  145  ALA TRP GLU ILE LYS ASP PHE LEU VAL SER GLN ASP ARG          
+SEQRES  11 A  145  CYS ALA GLU VAL THR LEU GLU GLY GLN MET TYR PRO GLY          
+SEQRES  12 A  145  LYS GLY                                                      
+DBREF  2KMI A    1   145  UNP    Q9ERE7   MESD2_MOUSE     41    185             

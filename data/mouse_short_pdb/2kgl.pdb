@@ -1,0 +1,24 @@
+HELIX    1   1 ILE A   17  TYR A   20  5                                   4    
+HELIX    2   2 ASN A   21  ASP A   37  1                                  17    
+HELIX    3   3 GLU A   64  THR A   70  1                                   7    
+HELIX    4   4 THR A   87  LEU A  102  1                                  16    
+HELIX    5   5 PHE A  103  ALA A  105  5                                   3    
+HELIX    6   6 GLY A  126  ASP A  140  1                                  15    
+HELIX    7   7 THR A  165  GLY A  175  1                                  11    
+HELIX    8   8 ALA A  181  GLY A  189  1                                   9    
+SEQRES   1 A  195  ALA ASP THR PRO GLY GLU ALA THR PRO PRO PRO ARG LYS          
+SEQRES   2 A  195  LYS LYS ASP ILE ARG ASP TYR ASN ASP ALA ASP MET ALA          
+SEQRES   3 A  195  ARG LEU LEU GLU GLN TRP GLU LYS ASP ASP ASP ILE GLU          
+SEQRES   4 A  195  GLU GLY ASP LEU PRO GLU HIS LYS ARG PRO SER ALA PRO          
+SEQRES   5 A  195  ILE ASP PHE SER LYS LEU ASP PRO GLY LYS PRO GLU SER          
+SEQRES   6 A  195  ILE LEU LYS MET THR LYS LYS GLY LYS THR LEU MET MET          
+SEQRES   7 A  195  PHE VAL THR VAL SER GLY ASN PRO THR GLU LYS GLU THR          
+SEQRES   8 A  195  GLU GLU ILE THR SER LEU TRP GLN GLY SER LEU PHE ASN          
+SEQRES   9 A  195  ALA ASN TYR ASP VAL GLN ARG PHE ILE VAL GLY SER ASP          
+SEQRES  10 A  195  ARG ALA ILE PHE MET LEU ARG ASP GLY SER TYR ALA TRP          
+SEQRES  11 A  195  GLU ILE LYS ASP PHE LEU VAL SER GLN ASP ARG CYS ALA          
+SEQRES  12 A  195  GLU VAL THR LEU GLU GLY GLN MET TYR PRO GLY LYS GLY          
+SEQRES  13 A  195  GLY GLY SER LYS GLU LYS ASN LYS THR LYS PRO GLU LYS          
+SEQRES  14 A  195  ALA LYS LYS LYS GLU GLY ASP PRO LYS PRO ARG ALA SER          
+SEQRES  15 A  195  LYS GLU ASP ASN ARG ALA GLY SER ARG ARG GLU ASP LEU          
+DBREF  2KGL A    1   195  UNP    Q9ERE7   MESD2_MOUSE     30    224             

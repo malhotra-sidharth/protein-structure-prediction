@@ -1,0 +1,56 @@
+HELIX    1   1 GLU A    5  LYS A   13  1                                   9    
+HELIX    2   2 TYR A   51  CYS A   53  5                                   3    
+HELIX    3   3 SER B    3  LEU B   16  1                                  14    
+HELIX    4   4 GLU C    5  LEU C    7  5                                   3    
+HELIX    5   5 VAL C    8  LEU C   16  1                                   9    
+HELIX    6   6 SER D    3  ILE D   12  1                                  10    
+HELIX    7   7 LYS E   13  ARG E   18  1                                   6    
+HELIX    8   8 PHE F    4  GLN F   19  1                                  16    
+SEQRES   1 A   81  CYS SER PHE GLU SER LEU VAL ASP GLN ARG ILE LYS GLU          
+SEQRES   2 A   81  ALA LEU SER ARG GLN GLU PRO LYS THR ILE SER CYS THR          
+SEQRES   3 A   81  SER VAL THR SER SER GLY ARG LEU ALA SER CYS PRO ALA          
+SEQRES   4 A   81  GLY MET VAL VAL THR GLY CYS ALA CYS GLY TYR GLY CYS          
+SEQRES   5 A   81  GLY SER TRP ASP ILE ARG ASN GLY ASN THR CYS HIS CYS          
+SEQRES   6 A   81  GLN CYS SER VAL MET ASP TRP ALA SER ALA ARG CYS CYS          
+SEQRES   7 A   81  ARG MET ALA                                                  
+SEQRES   1 B   81  CYS SER PHE GLU SER LEU VAL ASP GLN ARG ILE LYS GLU          
+SEQRES   2 B   81  ALA LEU SER ARG GLN GLU PRO LYS THR ILE SER CYS THR          
+SEQRES   3 B   81  SER VAL THR SER SER GLY ARG LEU ALA SER CYS PRO ALA          
+SEQRES   4 B   81  GLY MET VAL VAL THR GLY CYS ALA CYS GLY TYR GLY CYS          
+SEQRES   5 B   81  GLY SER TRP ASP ILE ARG ASN GLY ASN THR CYS HIS CYS          
+SEQRES   6 B   81  GLN CYS SER VAL MET ASP TRP ALA SER ALA ARG CYS CYS          
+SEQRES   7 B   81  ARG MET ALA                                                  
+SEQRES   1 C   81  CYS SER PHE GLU SER LEU VAL ASP GLN ARG ILE LYS GLU          
+SEQRES   2 C   81  ALA LEU SER ARG GLN GLU PRO LYS THR ILE SER CYS THR          
+SEQRES   3 C   81  SER VAL THR SER SER GLY ARG LEU ALA SER CYS PRO ALA          
+SEQRES   4 C   81  GLY MET VAL VAL THR GLY CYS ALA CYS GLY TYR GLY CYS          
+SEQRES   5 C   81  GLY SER TRP ASP ILE ARG ASN GLY ASN THR CYS HIS CYS          
+SEQRES   6 C   81  GLN CYS SER VAL MET ASP TRP ALA SER ALA ARG CYS CYS          
+SEQRES   7 C   81  ARG MET ALA                                                  
+SEQRES   1 D   81  CYS SER PHE GLU SER LEU VAL ASP GLN ARG ILE LYS GLU          
+SEQRES   2 D   81  ALA LEU SER ARG GLN GLU PRO LYS THR ILE SER CYS THR          
+SEQRES   3 D   81  SER VAL THR SER SER GLY ARG LEU ALA SER CYS PRO ALA          
+SEQRES   4 D   81  GLY MET VAL VAL THR GLY CYS ALA CYS GLY TYR GLY CYS          
+SEQRES   5 D   81  GLY SER TRP ASP ILE ARG ASN GLY ASN THR CYS HIS CYS          
+SEQRES   6 D   81  GLN CYS SER VAL MET ASP TRP ALA SER ALA ARG CYS CYS          
+SEQRES   7 D   81  ARG MET ALA                                                  
+SEQRES   1 E   81  CYS SER PHE GLU SER LEU VAL ASP GLN ARG ILE LYS GLU          
+SEQRES   2 E   81  ALA LEU SER ARG GLN GLU PRO LYS THR ILE SER CYS THR          
+SEQRES   3 E   81  SER VAL THR SER SER GLY ARG LEU ALA SER CYS PRO ALA          
+SEQRES   4 E   81  GLY MET VAL VAL THR GLY CYS ALA CYS GLY TYR GLY CYS          
+SEQRES   5 E   81  GLY SER TRP ASP ILE ARG ASN GLY ASN THR CYS HIS CYS          
+SEQRES   6 E   81  GLN CYS SER VAL MET ASP TRP ALA SER ALA ARG CYS CYS          
+SEQRES   7 E   81  ARG MET ALA                                                  
+SEQRES   1 F   81  CYS SER PHE GLU SER LEU VAL ASP GLN ARG ILE LYS GLU          
+SEQRES   2 F   81  ALA LEU SER ARG GLN GLU PRO LYS THR ILE SER CYS THR          
+SEQRES   3 F   81  SER VAL THR SER SER GLY ARG LEU ALA SER CYS PRO ALA          
+SEQRES   4 F   81  GLY MET VAL VAL THR GLY CYS ALA CYS GLY TYR GLY CYS          
+SEQRES   5 F   81  GLY SER TRP ASP ILE ARG ASN GLY ASN THR CYS HIS CYS          
+SEQRES   6 F   81  GLN CYS SER VAL MET ASP TRP ALA SER ALA ARG CYS CYS          
+SEQRES   7 F   81  ARG MET ALA                                                  
+DBREF  1RH7 A    2    82  UNP    Q99P86   RSNB_MOUSE      25    105             
+DBREF  1RH7 B    2    82  UNP    Q99P86   RSNB_MOUSE      25    105             
+DBREF  1RH7 C    2    82  UNP    Q99P86   RSNB_MOUSE      25    105             
+DBREF  1RH7 D    2    82  UNP    Q99P86   RSNB_MOUSE      25    105             
+DBREF  1RH7 E    2    82  UNP    Q99P86   RSNB_MOUSE      25    105             
+DBREF  1RH7 F    2    82  UNP    Q99P86   RSNB_MOUSE      25    105             

@@ -1,0 +1,17 @@
+HELIX    1   1 LEU A   49  LEU A   57  1                                   9    
+HELIX    2   2 ASN A   60  LEU A   83  1                                  24    
+HELIX    3   3 THR A   84  ASP A   91  1                                   8    
+HELIX    4   4 ASP A   91  GLY A  108  1                                  18    
+HELIX    5   5 ASP A  127  GLY A  133  1                                   7    
+SEQRES   1 A  143  GLY SER SER GLY SER SER GLY GLN ARG ILE SER LEU GLU          
+SEQRES   2 A  143  ILE MET THR LEU GLN PRO ARG CYS GLU ASP VAL GLU THR          
+SEQRES   3 A  143  ALA GLU GLY VAL ALA LEU THR VAL THR GLY VAL ALA GLN          
+SEQRES   4 A  143  VAL LYS ILE MET THR GLU LYS GLU LEU LEU ALA VAL ALA          
+SEQRES   5 A  143  CYS GLU GLN PHE LEU GLY LYS ASN VAL GLN ASP ILE LYS          
+SEQRES   6 A  143  ASN VAL VAL LEU GLN THR LEU GLU GLY HIS LEU ARG SER          
+SEQRES   7 A  143  ILE LEU GLY THR LEU THR VAL GLU GLN ILE TYR GLN ASP          
+SEQRES   8 A  143  ARG ASP GLN PHE ALA LYS LEU VAL ARG GLU VAL ALA ALA          
+SEQRES   9 A  143  PRO ASP VAL GLY ARG MET GLY ILE GLU ILE LEU SER PHE          
+SEQRES  10 A  143  THR ILE LYS ASP VAL TYR ASP LYS VAL ASP TYR LEU SER          
+SEQRES  11 A  143  SER LEU GLY LYS THR GLN THR SER GLY PRO SER SER GLY          
+DBREF  1WIN A    8   137  UNP    Q60634   FLOT2_MOUSE     43    172             

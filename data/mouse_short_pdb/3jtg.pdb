@@ -1,0 +1,19 @@
+HELIX    1   1 HIS A  274  ILE A  284  1                                  11    
+HELIX    2   2 HIS A  285  ASN A  289  5                                   5    
+HELIX    3   3 ARG A  307  LYS A  319  1                                  13    
+HELIX    4   4 THR A  325  TYR A  335  1                                  11    
+SEQRES   1 A  103  ALA PRO ARG GLY THR HIS LEU TRP GLU PHE ILE ARG ASP          
+SEQRES   2 A  103  ILE LEU ILE HIS PRO GLU LEU ASN GLU GLY LEU MET LYS          
+SEQRES   3 A  103  TRP GLU ASN ARG HIS GLU GLY VAL PHE LYS PHE LEU ARG          
+SEQRES   4 A  103  SER GLU ALA VAL ALA GLN LEU TRP GLY GLN LYS LYS LYS          
+SEQRES   5 A  103  ASN SER ASN MET THR TYR GLU LYS LEU SER ARG ALA MET          
+SEQRES   6 A  103  ARG TYR TYR TYR LYS ARG GLU ILE LEU GLU ARG VAL ASP          
+SEQRES   7 A  103  GLY ARG ARG LEU VAL TYR LYS PHE GLY LYS ASN SER SER          
+SEQRES   8 A  103  GLY TRP LYS GLU GLU GLU VAL GLY GLU SER ARG ASN              
+SEQRES   1 B   16   DG  DA  DG  DG  DA  DG  DT  DT  DT  DC  DC  DT  DG          
+SEQRES   2 B   16   DT  DT  DT                                                  
+SEQRES   1 C   16   DC  DA  DA  DA  DC  DA  DG  DG  DA  DA  DA  DC  DT          
+SEQRES   2 C   16   DC  DC  DT                                                  
+DBREF  3JTG A  269   371  UNP    Q3UPW2   ELF3_MOUSE     289    391             
+DBREF  3JTG B    1    16  PDB    3JTG     3JTG             1     16             
+DBREF  3JTG C  101   116  PDB    3JTG     3JTG             1     16             

@@ -1,0 +1,22 @@
+HELIX    1   1 CYS A  338  ASN A  349  1                                  12    
+HELIX    2   2 PRO A  353  LYS A  357  5                                   5    
+HELIX    3   3 CYS B  338  ASN B  349  1                                  12    
+HELIX    4   4 PRO B  353  LYS B  357  5                                   5    
+SEQRES   1 X   20   DT  DT  DG  DA  DT  DA  DA  DA  DT  DC  DA  DG  DA          
+SEQRES   2 X   20   DG  DA  DT  DA  DA  DC  DC                                  
+SEQRES   1 Y   20   DA  DA  DG  DG  DT  DT  DA  DT  DC  DT  DC  DT  DG          
+SEQRES   2 Y   20   DA  DT  DT  DT  DA  DT  DC                                  
+SEQRES   1 A   63  SER ALA ALA ARG ARG ALA GLY THR SER CYS ALA ASN CYS          
+SEQRES   2 A   63  GLN THR THR THR THR THR LEU TRP ARG ARG ASN ALA ASN          
+SEQRES   3 A   63  GLY ASP PRO VAL CYS ASN ALA CYS GLY LEU TYR TYR LYS          
+SEQRES   4 A   63  LEU HIS ASN ILE ASN ARG PRO LEU THR MET LYS LYS GLU          
+SEQRES   5 A   63  GLY ILE GLN THR ARG ASN ARG LYS MET SER SER                  
+SEQRES   1 B   63  SER ALA ALA ARG ARG ALA GLY THR SER CYS ALA ASN CYS          
+SEQRES   2 B   63  GLN THR THR THR THR THR LEU TRP ARG ARG ASN ALA ASN          
+SEQRES   3 B   63  GLY ASP PRO VAL CYS ASN ALA CYS GLY LEU TYR TYR LYS          
+SEQRES   4 B   63  LEU HIS ASN ILE ASN ARG PRO LEU THR MET LYS LYS GLU          
+SEQRES   5 B   63  GLY ILE GLN THR ARG ASN ARG LYS MET SER SER                  
+DBREF  3DFX A  308   370  UNP    P23772   GATA3_MOUSE    308    370             
+DBREF  3DFX B  308   370  UNP    P23772   GATA3_MOUSE    308    370             
+DBREF  3DFX X    1    20  PDB    3DFX     3DFX             1     20             
+DBREF  3DFX Y    1    20  PDB    3DFX     3DFX             1     20             

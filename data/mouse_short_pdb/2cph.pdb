@@ -1,0 +1,13 @@
+REMARK 650 HELIX                                                                
+HELIX    1   1 GLN A  475  PHE A  482  1                                   8    
+HELIX    2   2 LYS A  514  LEU A  524  1                                  11    
+SEQRES   1 A  107  GLY SER SER GLY SER SER GLY GLN VAL PRO LYS LYS GLN          
+SEQRES   2 A  107  THR THR SER LYS ILE LEU VAL ARG ASN ILE PRO PHE GLN          
+SEQRES   3 A  107  ALA ASN GLN ARG GLU ILE ARG GLU LEU PHE SER THR PHE          
+SEQRES   4 A  107  GLY GLU LEU LYS THR VAL ARG LEU PRO LYS LYS MET THR          
+SEQRES   5 A  107  GLY THR GLY ALA HIS ARG GLY PHE GLY PHE VAL ASP PHE          
+SEQRES   6 A  107  ILE THR LYS GLN ASP ALA LYS LYS ALA PHE ASN ALA LEU          
+SEQRES   7 A  107  CYS HIS SER THR HIS LEU TYR GLY ARG ARG LEU VAL LEU          
+SEQRES   8 A  107  GLU TRP ALA ASP SER GLU VAL THR VAL GLN SER GLY PRO          
+SEQRES   9 A  107  SER SER GLY                                                  
+DBREF  2CPH A  454   547  UNP    Q8R3C6   RBM19_MOUSE    816    909             

@@ -1,0 +1,36 @@
+HELIX    1   1 SER A   10  ASN A   22  1                                  13    
+HELIX    2   2 SER A   48  LEU A   58  1                                  11    
+HELIX    3   3 PRO A   59  LEU A   61  5                                   3    
+HELIX    4   4 HIS A   94  GLY A  113  1                                  20    
+HELIX    5   5 VAL A  125  SER A  130  1                                   6    
+HELIX    6   6 SER A  130  LEU A  139  1                                  10    
+HELIX    7   7 SER B   10  ASN B   22  1                                  13    
+HELIX    8   8 SER B   48  VAL B   57  1                                  10    
+HELIX    9   9 LEU B   58  LEU B   61  5                                   4    
+HELIX   10  10 HIS B   94  GLY B  113  1                                  20    
+HELIX   11  11 VAL B  125  SER B  130  1                                   6    
+HELIX   12  12 SER B  130  LEU B  139  1                                  10    
+SEQRES   1 A  142  MET SER HIS GLN THR GLY ILE GLN ALA SER GLU ASP VAL          
+SEQRES   2 A  142  LYS GLU ILE PHE ALA ARG ALA ARG ASN GLY LYS TYR ARG          
+SEQRES   3 A  142  LEU LEU LYS ILE SER ILE GLU ASN GLU GLN LEU VAL VAL          
+SEQRES   4 A  142  GLY SER CYS SER PRO PRO SER ASP SER TRP GLU GLN ASP          
+SEQRES   5 A  142  TYR ASP SER PHE VAL LEU PRO LEU LEU GLU ASP LYS GLN          
+SEQRES   6 A  142  PRO CYS TYR VAL LEU PHE ARG LEU ASP SER GLN ASN ALA          
+SEQRES   7 A  142  GLN GLY TYR GLU TRP ILE PHE ILE ALA TRP SER PRO ASP          
+SEQRES   8 A  142  HIS SER HIS VAL ARG GLN LYS MET LEU TYR ALA ALA THR          
+SEQRES   9 A  142  ARG ALA THR LEU LYS LYS GLU PHE GLY GLY GLY HIS ILE          
+SEQRES  10 A  142  LYS ASP GLU VAL PHE GLY THR VAL LYS GLU ASP VAL SER          
+SEQRES  11 A  142  LEU HIS GLY TYR LYS LYS TYR LEU LEU SER GLN SER              
+SEQRES   1 B  142  MET SER HIS GLN THR GLY ILE GLN ALA SER GLU ASP VAL          
+SEQRES   2 B  142  LYS GLU ILE PHE ALA ARG ALA ARG ASN GLY LYS TYR ARG          
+SEQRES   3 B  142  LEU LEU LYS ILE SER ILE GLU ASN GLU GLN LEU VAL VAL          
+SEQRES   4 B  142  GLY SER CYS SER PRO PRO SER ASP SER TRP GLU GLN ASP          
+SEQRES   5 B  142  TYR ASP SER PHE VAL LEU PRO LEU LEU GLU ASP LYS GLN          
+SEQRES   6 B  142  PRO CYS TYR VAL LEU PHE ARG LEU ASP SER GLN ASN ALA          
+SEQRES   7 B  142  GLN GLY TYR GLU TRP ILE PHE ILE ALA TRP SER PRO ASP          
+SEQRES   8 B  142  HIS SER HIS VAL ARG GLN LYS MET LEU TYR ALA ALA THR          
+SEQRES   9 B  142  ARG ALA THR LEU LYS LYS GLU PHE GLY GLY GLY HIS ILE          
+SEQRES  10 B  142  LYS ASP GLU VAL PHE GLY THR VAL LYS GLU ASP VAL SER          
+SEQRES  11 B  142  LEU HIS GLY TYR LYS LYS TYR LEU LEU SER GLN SER              
+DBREF  1M4J A    1   142  UNP    Q91YR1   TWF1_MOUSE       1    142             
+DBREF  1M4J B    1   142  UNP    Q91YR1   TWF1_MOUSE       1    142             

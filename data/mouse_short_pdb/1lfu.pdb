@@ -1,0 +1,18 @@
+HELIX    1   1 ASN P    9  TYR P   21  1                                  13    
+HELIX    2   2 SER P   27  GLY P   39  1                                  13    
+HELIX    3   3 THR P   41  ASN P   59  1                                  19    
+HELIX    4   4 ASN P   59  LYS P   73  1                                  15    
+SEQRES   1 A   14   DG  DC  DG  DC  DA  DT  DG  DA  DT  DT  DG  DC  DC          
+SEQRES   2 A   14   DC                                                          
+SEQRES   1 B   14   DG  DG  DG  DC  DA  DA  DT  DC  DA  DT  DG  DC  DG          
+SEQRES   2 B   14   DC                                                          
+SEQRES   1 P   82  MET ALA ARG ARG LYS ARG ARG ASN PHE ASN LYS GLN ALA          
+SEQRES   2 P   82  THR GLU ILE LEU ASN GLU TYR PHE TYR SER HIS LEU SER          
+SEQRES   3 P   82  ASN PRO TYR PRO SER GLU GLU ALA LYS GLU GLU LEU ALA          
+SEQRES   4 P   82  LYS LYS SER GLY ILE THR VAL SER GLN VAL SER ASN TRP          
+SEQRES   5 P   82  PHE GLY ASN LYS ARG ILE ARG TYR LYS LYS ASN ILE GLY          
+SEQRES   6 P   82  LYS PHE GLN GLU GLU ALA ASN ILE TYR ALA ALA LYS THR          
+SEQRES   7 P   82  ALA VAL THR ALA                                              
+DBREF  1LFU P    1    78  UNP    P41778   PBX1_MOUSE     233    313             
+DBREF  1LFU A    1    14  PDB    1LFU     1LFU             1     14             
+DBREF  1LFU B   15    28  PDB    1LFU     1LFU            15     28             

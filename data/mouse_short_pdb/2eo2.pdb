@@ -1,0 +1,10 @@
+HELIX    1   1 THR A   11  VAL A   20  1                                  10    
+HELIX    2   2 SER A   30  GLY A   41  1                                  12    
+HELIX    3   3 THR A   51  LEU A   61  1                                  11    
+SEQRES   1 A   71  GLY SER SER GLY SER SER GLY SER THR GLN THR ASP LYS          
+SEQRES   2 A   71  ALA LEU TYR ASN ARG LEU VAL PRO LEU VAL ASN GLY VAL          
+SEQRES   3 A   71  ARG GLU PHE SER GLU ILE GLN LEU SER ARG LEU LYS LYS          
+SEQRES   4 A   71  LEU GLY ILE HIS LYS THR ASP PRO SER THR LEU THR GLU          
+SEQRES   5 A   71  GLU GLU VAL ARG LYS PHE ALA ARG LEU ASN ILE ASP PRO          
+SEQRES   6 A   71  ALA THR ILE THR TRP GLN                                      
+DBREF  2EO2 A    8    71  UNP    Q8CAL0   Q8CAL0_MOUSE   510    573             

@@ -1,0 +1,24 @@
+HELIX    1   1 GLY A   11  ARG A   20  1                                  10    
+HELIX    2   2 VAL A   23  HIS A   31  1                                   9    
+HELIX    3   3 ALA A   47  VAL A   50  1                                   4    
+HELIX    4   4 PRO A   56  GLN A   65  1                                  10    
+HELIX    5   5 PRO A   79  THR A   86  1                                   8    
+HELIX    6   6 LEU A   89  HIS A   98  1                                  10    
+HELIX    7   7 PRO A  112  GLU A  119  1                                   8    
+HELIX    8   8 SER A  123  PRO A  130  1                                   8    
+HELIX    9   9 PRO A  144  GLN A  150  1                                   7    
+HELIX   10  10 LEU A  156  MET A  164  1                                   9    
+SEQRES   1 A  168  GLY SER MET LEU LEU GLU GLU VAL CYS VAL GLY ASP ARG          
+SEQRES   2 A  168  LEU SER GLY ALA ALA ALA ARG GLY ASP VAL GLN GLU VAL          
+SEQRES   3 A  168  ARG ARG LEU LEU HIS ARG GLU LEU VAL HIS PRO ASP ALA          
+SEQRES   4 A  168  LEU ASN ARG PHE GLY LYS THR ALA LEU GLN VAL MET MET          
+SEQRES   5 A  168  PHE GLY SER PRO ALA VAL ALA LEU GLU LEU LEU LYS GLN          
+SEQRES   6 A  168  GLY ALA SER PRO ASN VAL GLN ASP ALA SER GLY THR SER          
+SEQRES   7 A  168  PRO VAL HIS ASP ALA ALA ARG THR GLY PHE LEU ASP THR          
+SEQRES   8 A  168  LEU LYS VAL LEU VAL GLU HIS GLY ALA ASP VAL ASN ALA          
+SEQRES   9 A  168  LEU ASP SER THR GLY SER LEU PRO ILE HIS LEU ALA ILE          
+SEQRES  10 A  168  ARG GLU GLY HIS SER SER VAL VAL SER PHE LEU ALA PRO          
+SEQRES  11 A  168  GLU SER ASP LEU HIS HIS ARG ASP ALA SER GLY LEU THR          
+SEQRES  12 A  168  PRO LEU GLU LEU ALA ARG GLN ARG GLY ALA GLN ASN LEU          
+SEQRES  13 A  168  MET ASP ILE LEU GLN GLY HIS MET MET ILE PRO MET              
+DBREF  1AP7 A    3   168  UNP    Q60773   CDN2D_MOUSE      1    166             

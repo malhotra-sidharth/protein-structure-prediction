@@ -1,0 +1,13 @@
+HELIX    1   1 ASP A    9  ASN A   23  1                                  15    
+HELIX    2   2 GLU A   29  LEU A   44  1                                  16    
+HELIX    3   3 ILE A   50  ALA A   63  1                                  14    
+HELIX    4   4 LYS A   75  LEU A   87  1                                  13    
+SEQRES   1 A   99  GLY SER SER GLY SER SER GLY ALA ASP LEU GLY ARG LYS          
+SEQRES   2 A   99  ILE THR SER ALA LEU ARG SER LEU SER ASN ALA THR ILE          
+SEQRES   3 A   99  ILE ASN GLU GLU VAL LEU ASN ALA MET LEU LYS GLU VAL          
+SEQRES   4 A   99  CYS THR ALA LEU LEU GLU ALA ASP VAL ASN ILE LYS LEU          
+SEQRES   5 A   99  VAL LYS GLN LEU ARG GLU ASN VAL LYS SER ALA ILE ASP          
+SEQRES   6 A   99  LEU GLU GLU MET ALA SER GLY LEU ASN LYS ARG LYS MET          
+SEQRES   7 A   99  ILE GLN HIS ALA VAL PHE LYS GLU LEU VAL LYS VAL LYS          
+SEQRES   8 A   99  VAL TYR SER GLY PRO SER SER GLY                              
+DBREF  1WGW A    8    93  UNP    P14576   SRP54_MOUSE      4     89             

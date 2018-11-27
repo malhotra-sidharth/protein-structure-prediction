@@ -1,0 +1,13 @@
+HELIX    1   1 GLU A   17  THR A   31  1                                  15    
+HELIX    2   2 MET A   36  GLU A   53  1                                  18    
+HELIX    3   3 ASP A   55  SER A   73  1                                  19    
+HELIX    4   4 GLU A   75  TYR A   97  1                                  23    
+SEQRES   1 A  104  GLY SER GLY GLY PHE ARG PRO ALA ALA PRO ASN LEU ALA          
+SEQRES   2 A  104  GLY ALA VAL GLU PHE SER ASP VAL LYS THR LEU LEU LYS          
+SEQRES   3 A  104  GLU TRP ILE THR THR ILE SER ASP PRO MET GLU GLU ASP          
+SEQRES   4 A  104  ILE LEU GLN VAL VAL ARG TYR CYS THR ASP LEU ILE GLU          
+SEQRES   5 A  104  GLU LYS ASP LEU GLU LYS LEU ASP LEU VAL ILE LYS TYR          
+SEQRES   6 A  104  MET LYS ARG LEU MET GLN GLN SER VAL GLU SER VAL TRP          
+SEQRES   7 A  104  ASN MET ALA PHE ASP PHE ILE LEU ASP ASN VAL GLN VAL          
+SEQRES   8 A  104  VAL LEU GLN GLN THR TYR GLY SER THR LEU LYS VAL THR          
+DBREF  2LSG A    5   104  UNP    Q920Q2   REV1_MOUSE    1150   1249             

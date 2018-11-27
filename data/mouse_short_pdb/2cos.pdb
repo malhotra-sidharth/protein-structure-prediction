@@ -1,0 +1,9 @@
+HELIX    1   1 ASN A    9  CYS A   21  1                                  13    
+HELIX    2   2 ASP A   22  GLY A   34  1                                  13    
+HELIX    3   3 SER A   37  SER A   49  1                                  13    
+SEQRES   1 A   54  GLY SER SER GLY SER SER GLY VAL ASN ARG GLN MET LEU          
+SEQRES   2 A   54  GLN GLU LEU VAL ASN ALA GLY CYS ASP GLN GLU MET ALA          
+SEQRES   3 A   54  GLY ARG ALA LEU LYS GLN THR GLY SER ARG SER ILE GLU          
+SEQRES   4 A   54  ALA ALA LEU GLU TYR ILE SER LYS MET SER GLY PRO SER          
+SEQRES   5 A   54  SER GLY                                                      
+DBREF  2COS A    8    48  UNP    Q7TSJ6   LATS2_MOUSE     98    138             

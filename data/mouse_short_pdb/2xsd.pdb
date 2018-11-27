@@ -1,0 +1,25 @@
+HELIX    1   1 SER C  249  LEU C  267  1                                  19    
+HELIX    2   2 THR C  270  GLY C  283  1                                  14    
+HELIX    3   3 SER C  287  ALA C  296  1                                  10    
+HELIX    4   4 SER C  300  ASP C  319  1                                  20    
+HELIX    5   5 GLU C  345  CYS C  359  1                                  15    
+HELIX    6   6 SER C  363  GLN C  375  1                                  13    
+HELIX    7   7 GLU C  377  LYS C  393  1                                  17    
+SEQRES   1 A   11   DA  DT  DG  DC  DA  DT  DG  DA  DG  DG  DA                  
+SEQRES   1 B   11   DC  DC  DT  DC  DA  DT  DG  DC  DA  DT  DA                  
+SEQRES   1 C  164  GLY GLY GLU HIS SER ASP GLU ASP ALA PRO SER SER ASP          
+SEQRES   2 C  164  ASP LEU GLU GLN PHE ALA LYS GLN PHE LYS GLN ARG ARG          
+SEQRES   3 C  164  ILE LYS LEU GLY PHE THR GLN ALA ASP VAL GLY LEU ALA          
+SEQRES   4 C  164  LEU GLY THR LEU TYR GLY ASN VAL PHE SER GLN THR THR          
+SEQRES   5 C  164  ILE CYS ARG PHE GLU ALA LEU GLN LEU SER PHE LYS ASN          
+SEQRES   6 C  164  MET CYS LYS LEU LYS PRO LEU LEU ASN LYS TRP LEU GLU          
+SEQRES   7 C  164  GLU THR ASP SER SER SER GLY SER PRO THR ASN LEU ASP          
+SEQRES   8 C  164  LYS ILE ALA ALA GLN GLY ARG LYS ARG LYS LYS ARG THR          
+SEQRES   9 C  164  SER ILE GLU VAL GLY VAL LYS GLY ALA LEU GLU SER HIS          
+SEQRES  10 C  164  PHE LEU LYS CYS PRO LYS PRO SER ALA HIS GLU ILE THR          
+SEQRES  11 C  164  GLY LEU ALA ASP SER LEU GLN LEU GLU LYS GLU VAL VAL          
+SEQRES  12 C  164  ARG VAL TRP PHE CYS ASN ARG ARG GLN LYS GLU LYS ARG          
+SEQRES  13 C  164  MET THR PRO ALA ALA GLY ALA GLY                              
+DBREF  2XSD A  201   211  PDB    2XSD     2XSD           201    211             
+DBREF  2XSD B  202   212  PDB    2XSD     2XSD           202    212             
+DBREF  2XSD C  240   402  UNP    P21952   PO3F1_MOUSE    240    402             

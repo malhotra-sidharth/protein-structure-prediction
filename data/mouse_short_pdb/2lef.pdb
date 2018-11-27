@@ -1,0 +1,18 @@
+HELIX    1   1 ALA A    9  GLU A   24  1                                  16    
+HELIX    2   2 SER A   30  ALA A   43  1                                  14    
+HELIX    3   3 ARG A   46  LEU A   66  1                                  21    
+REVDAT   2 2                   4       ATOM   SOURCE SEQRES                     
+SEQRES   1 A   86  MET HIS ILE LYS LYS PRO LEU ASN ALA PHE MET LEU TYR          
+SEQRES   2 A   86  MET LYS GLU MET ARG ALA ASN VAL VAL ALA GLU SER THR          
+SEQRES   3 A   86  LEU LYS GLU SER ALA ALA ILE ASN GLN ILE LEU GLY ARG          
+SEQRES   4 A   86  ARG TRP HIS ALA LEU SER ARG GLU GLU GLN ALA LYS TYR          
+SEQRES   5 A   86  TYR GLU LEU ALA ARG LYS GLU ARG GLN LEU HIS MET GLN          
+SEQRES   6 A   86  LEU TYR PRO GLY TRP SER ALA ARG ASP ASN TYR GLY LYS          
+SEQRES   7 A   86  LYS LYS LYS ARG LYS ARG GLU LYS                              
+SEQRES   1 B   15   DC  DA  DC  DC  DC  DT  DT  DT  DG  DA  DA  DG  DC          
+SEQRES   2 B   15   DT  DC                                                      
+SEQRES   1 C   15   DG  DA  DG  DC  DT  DT  DC  DA  DA  DA  DG  DG  DG          
+SEQRES   2 C   15   DT  DG                                                      
+DBREF  2LEF A    1    86  UNP    P27782   LEF1_MOUSE     295    380             
+DBREF  2LEF B    1    15  PDB    2LEF     2LEF             1     15             
+DBREF  2LEF C    1    15  PDB    2LEF     2LEF             1     15             

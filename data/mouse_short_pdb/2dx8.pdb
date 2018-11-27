@@ -1,0 +1,19 @@
+HELIX    1   1 THR A  373  GLU A  383  1                                  11    
+HELIX    2   2 CYS A  390  ASP A  396  1                                   7    
+HELIX    3   3 ARG B  367  GLY B  371  1                                   5    
+HELIX    4   4 THR B  373  GLU B  383  1                                  11    
+HELIX    5   5 CYS B  390  ASP B  396  1                                   7    
+SEQRES   1 A   67  HIS GLY HIS SER SER SER ASP PRO VAL TYR PRO CYS GLY          
+SEQRES   2 A   67  ILE CYS THR ASN GLU VAL ASN ASP ASP GLN ASP ALA ILE          
+SEQRES   3 A   67  LEU CYS GLU ALA SER CYS GLN LYS TRP PHE HIS ARG ILE          
+SEQRES   4 A   67  CYS THR GLY MET THR GLU THR ALA TYR GLY LEU LEU THR          
+SEQRES   5 A   67  ALA GLU ALA SER ALA VAL TRP GLY CYS ASP THR CYS MET          
+SEQRES   6 A   67  ALA ASP                                                      
+SEQRES   1 B   67  HIS GLY HIS SER SER SER ASP PRO VAL TYR PRO CYS GLY          
+SEQRES   2 B   67  ILE CYS THR ASN GLU VAL ASN ASP ASP GLN ASP ALA ILE          
+SEQRES   3 B   67  LEU CYS GLU ALA SER CYS GLN LYS TRP PHE HIS ARG ILE          
+SEQRES   4 B   67  CYS THR GLY MET THR GLU THR ALA TYR GLY LEU LEU THR          
+SEQRES   5 B   67  ALA GLU ALA SER ALA VAL TRP GLY CYS ASP THR CYS MET          
+SEQRES   6 B   67  ALA ASP                                                      
+DBREF  2DX8 A  330   396  UNP    Q9D0P5   PYGO1_MOUSE    330    396             
+DBREF  2DX8 B  330   396  UNP    Q9D0P5   PYGO1_MOUSE    330    396             

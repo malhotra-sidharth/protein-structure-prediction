@@ -1,0 +1,50 @@
+HELIX    1   1 TYR A  153  ARG A  157  5                                   5    
+HELIX    2   2 ASN A  165  ARG A  182  1                                  18    
+HELIX    3   3 SER A  187  LEU A  201  1                                  15    
+HELIX    4   4 GLY A  218  GLU A  230  1                                  13    
+HELIX    5   5 SER A  234  LEU A  241  1                                   8    
+HELIX    6   6 ASP A  243  THR A  253  1                                  11    
+HELIX    7   7 LYS A  261  GLY A  270  1                                  10    
+HELIX    8   8 THR A  273  ILE A  277  5                                   5    
+HELIX    9   9 THR A  286  TYR A  295  1                                  10    
+HELIX   10  10 TYR A  295  SER A  301  1                                   7    
+HELIX   11  11 ARG A  305  VAL A  320  1                                  16    
+HELIX   12  12 THR A  321  LEU A  323  5                                   3    
+HELIX   13  13 GLY A  332  GLY A  337  5                                   6    
+HELIX   14  14 GLU A  357  GLN A  359  5                                   3    
+HELIX   15  15 GLN A  360  GLN A  371  1                                  12    
+HELIX   16  16 ASP A  411  VAL A  415  5                                   5    
+HELIX   17  17 PRO A  439  ASP A  441  5                                   3    
+HELIX   18  18 ARG A  442  GLY A  452  1                                  11    
+HELIX   19  19 SER A  453  LYS A  469  1                                  17    
+HELIX   20  20 SER A  490  GLY A  499  1                                  10    
+HELIX   21  21 GLU A  504  ARG A  508  5                                   5    
+SEQRES   1 A  363  LYS LYS ILE SER GLN TYR ALA CYS GLN ARG ARG THR THR          
+SEQRES   2 A  363  LEU ASN ASN TYR ASN GLN LEU PHE THR ASP ALA LEU ASP          
+SEQRES   3 A  363  ILE LEU ALA GLU ASN ASP GLU LEU ARG GLU ASN GLU GLY          
+SEQRES   4 A  363  SER CYS LEU ALA PHE MET ARG ALA SER SER VAL LEU LYS          
+SEQRES   5 A  363  SER LEU PRO PHE PRO ILE THR SER MET LYS ASP THR GLU          
+SEQRES   6 A  363  GLY ILE PRO CYS LEU GLY ASP LYS VAL LYS SER ILE ILE          
+SEQRES   7 A  363  GLU GLY ILE ILE GLU ASP GLY GLU SER SER GLU ALA LYS          
+SEQRES   8 A  363  ALA VAL LEU ASN ASP GLU ARG TYR LYS SER PHE LYS LEU          
+SEQRES   9 A  363  PHE THR SER VAL PHE GLY VAL GLY LEU LYS THR ALA GLU          
+SEQRES  10 A  363  LYS TRP PHE ARG MET GLY PHE ARG THR LEU SER LYS ILE          
+SEQRES  11 A  363  GLN SER ASP LYS SER LEU ARG PHE THR GLN MET GLN LYS          
+SEQRES  12 A  363  ALA GLY PHE LEU TYR TYR GLU ASP LEU VAL SER CYS VAL          
+SEQRES  13 A  363  ASN ARG PRO GLU ALA GLU ALA VAL SER MET LEU VAL LYS          
+SEQRES  14 A  363  GLU ALA VAL VAL THR PHE LEU PRO ASP ALA LEU VAL THR          
+SEQRES  15 A  363  MET THR GLY GLY PHE ARG ARG GLY LYS MET THR GLY HIS          
+SEQRES  16 A  363  ASP VAL ASP PHE LEU ILE THR SER PRO GLU ALA THR GLU          
+SEQRES  17 A  363  ASP GLU GLU GLN GLN LEU LEU HIS LYS VAL THR ASP PHE          
+SEQRES  18 A  363  TRP LYS GLN GLN GLY LEU LEU LEU TYR CYS ASP ILE LEU          
+SEQRES  19 A  363  GLU SER THR PHE GLU LYS PHE LYS GLN PRO SER ARG LYS          
+SEQRES  20 A  363  VAL ASP ALA LEU ASP HIS PHE GLN LYS CYS PHE LEU ILE          
+SEQRES  21 A  363  LEU LYS LEU ASP HIS GLY ARG VAL HIS SER GLU LYS SER          
+SEQRES  22 A  363  GLY GLN GLN GLU GLY LYS GLY TRP LYS ALA ILE ARG VAL          
+SEQRES  23 A  363  ASP LEU VAL MET CYS PRO TYR ASP ARG ARG ALA PHE ALA          
+SEQRES  24 A  363  LEU LEU GLY TRP THR GLY SER ARG GLN PHE GLU ARG ASP          
+SEQRES  25 A  363  LEU ARG ARG TYR ALA THR HIS GLU ARG LYS MET MET LEU          
+SEQRES  26 A  363  ASP ASN HIS ALA LEU TYR ASP ARG THR LYS ARG VAL PHE          
+SEQRES  27 A  363  LEU GLU ALA GLU SER GLU GLU GLU ILE PHE ALA HIS LEU          
+SEQRES  28 A  363  GLY LEU ASP TYR ILE GLU PRO TRP GLU ARG ASN ALA              
+DBREF  1KEJ A  148   510  UNP    P09838   TDT_MOUSE      148    510             

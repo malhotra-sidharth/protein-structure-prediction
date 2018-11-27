@@ -1,0 +1,11 @@
+HELIX    1   1 ALA A   14  PHE A   19  1                                   6    
+HELIX    2   2 PHE A   19  GLY A   30  1                                  12    
+HELIX    3   3 ASN A   33  THR A   44  1                                  12    
+HELIX    4   4 ASP A   47  SER A   58  1                                  12    
+SEQRES   1 A   67  GLY SER SER GLY SER SER GLY PRO SER HIS SER LEU GLN          
+SEQRES   2 A   67  ALA PRO GLU VAL ARG PHE SER LYS GLU MET GLU CYS LEU          
+SEQRES   3 A   67  GLN ALA MET GLY PHE VAL ASN TYR ASN ALA ASN LEU GLN          
+SEQRES   4 A   67  ALA LEU ILE ALA THR ASP GLY ASP THR ASN ALA ALA ILE          
+SEQRES   5 A   67  TYR LYS LEU LYS SER SER GLN GLY PHE SER GLY PRO SER          
+SEQRES   6 A   67  SER GLY                                                      
+DBREF  2DNA A    8    61  UNP    Q14DR8   Q14DR8_MOUSE   556    609             

@@ -1,0 +1,19 @@
+KEYWDS    HELIX-TURN-HELIX, HYDROPHOBIC HOMODIMER INTERFACE, PERPENDICULAR      
+HELIX    1   1 THR A   14  LEU A   31  1                                  18    
+HELIX    2   2 LEU A   31  GLY A   36  1                                   6    
+HELIX    3   3 HIS A   40  ASP A   59  1                                  20    
+HELIX    4   4 PRO B   15  LEU B   31  1                                  17    
+HELIX    5   5 LEU B   31  GLY B   36  1                                   6    
+HELIX    6   6 HIS B   40  ASP B   59  1                                  20    
+SEQRES   1 A   56  GLY SER THR PRO ASP TYR LEU MSE GLN LEU MSE ASN ASP          
+SEQRES   2 A   56  LYS LYS LEU MSE SER SER LEU PRO ASN PHE SER GLY ILE          
+SEQRES   3 A   56  PHE ASN HIS LEU GLU ARG LEU LEU ASP GLU GLU ILE SER          
+SEQRES   4 A   56  ARG VAL ARG LYS ASP MSE TYR ASN ASP THR LEU ASN GLY          
+SEQRES   5 A   56  SER THR GLU LYS                                              
+SEQRES   1 B   56  GLY SER THR PRO ASP TYR LEU MSE GLN LEU MSE ASN ASP          
+SEQRES   2 B   56  LYS LYS LEU MSE SER SER LEU PRO ASN PHE SER GLY ILE          
+SEQRES   3 B   56  PHE ASN HIS LEU GLU ARG LEU LEU ASP GLU GLU ILE SER          
+SEQRES   4 B   56  ARG VAL ARG LYS ASP MSE TYR ASN ASP THR LEU ASN GLY          
+SEQRES   5 B   56  SER THR GLU LYS                                              
+DBREF  4DNN A   14    67  UNP    Q9QYS9   QKI_MOUSE       14     67             
+DBREF  4DNN B   14    67  UNP    Q9QYS9   QKI_MOUSE       14     67             

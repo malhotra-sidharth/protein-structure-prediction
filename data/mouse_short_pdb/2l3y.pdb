@@ -1,0 +1,23 @@
+HELIX    1   1 THR A   26  LEU A   48  1                                  23    
+HELIX    2   2 ASN A   52  ASN A   57  1                                   6    
+HELIX    3   3 LEU A   62  ASN A   66  5                                   5    
+HELIX    4   4 ILE A   92  ASN A  109  1                                  18    
+HELIX    5   5 LYS A  111  HIS A  140  1                                  30    
+HELIX    6   6 ILE A  148  LYS A  156  1                                   9    
+HELIX    7   7 LEU A  164  GLN A  189  1                                  26    
+SEQRES   1 A  190  GLY ALA MET GLY SER THR SER GLN VAL ARG ARG GLY ASP          
+SEQRES   2 A  190  PHE THR GLU ASP THR THR PRO ASN ARG PRO VAL TYR THR          
+SEQRES   3 A  190  THR SER GLN VAL GLY GLY LEU ILE THR HIS VAL LEU TRP          
+SEQRES   4 A  190  GLU ILE VAL GLU MET ARG LYS GLU LEU CYS ASN GLY ASN          
+SEQRES   5 A  190  SER ASP CYS MET ASN ASN ASP ASP ALA LEU ALA GLU ASN          
+SEQRES   6 A  190  ASN LEU LYS LEU PRO GLU ILE GLN ARG ASN ASP GLY CYS          
+SEQRES   7 A  190  TYR GLN THR GLY TYR ASN GLN GLU ILE CYS LEU LEU LYS          
+SEQRES   8 A  190  ILE SER SER GLY LEU LEU GLU TYR HIS SER TYR LEU GLU          
+SEQRES   9 A  190  TYR MET LYS ASN ASN LEU LYS ASP ASN LYS LYS ASP LYS          
+SEQRES  10 A  190  ALA ARG VAL LEU GLN ARG ASP THR GLU THR LEU ILE HIS          
+SEQRES  11 A  190  ILE PHE ASN GLN GLU VAL LYS ASP LEU HIS LYS ILE VAL          
+SEQRES  12 A  190  LEU PRO THR PRO ILE SER ASN ALA LEU LEU THR ASP LYS          
+SEQRES  13 A  190  LEU GLU SER GLN LYS GLU TRP LEU ARG THR LYS THR ILE          
+SEQRES  14 A  190  GLN PHE ILE LEU LYS SER LEU GLU GLU PHE LEU LYS VAL          
+SEQRES  15 A  190  THR LEU ARG SER THR ARG GLN THR                              
+DBREF  2L3Y A    6   190  UNP    P08505   IL6_MOUSE       27    211             

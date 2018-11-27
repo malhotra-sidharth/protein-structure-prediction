@@ -1,0 +1,22 @@
+HELIX    1   1 SER A   14  TYR A   32  1                                  19    
+HELIX    2   2 ILE A   34  TYR A   50  1                                  17    
+HELIX    3   3 SER B   14  TYR B   32  1                                  19    
+HELIX    4   4 ILE B   34  TYR B   50  1                                  17    
+SEQRES   1 A   94  GLY PRO LEU GLY SER MET SER ASP ARG LYS ALA VAL ILE          
+SEQRES   2 A   94  LYS ASN ALA ASP MET SER GLU ASP MET GLN GLN ASP ALA          
+SEQRES   3 A   94  VAL ASP CYS ALA THR GLN ALA MET GLU LYS TYR ASN ILE          
+SEQRES   4 A   94  GLU LYS ASP ILE ALA ALA TYR ILE LYS LYS GLU PHE ASP          
+SEQRES   5 A   94  LYS LYS TYR ASN PRO THR TRP HIS CYS ILE VAL GLY ARG          
+SEQRES   6 A   94  ASN PHE GLY SER TYR VAL THR HIS GLU THR LYS HIS PHE          
+SEQRES   7 A   94  ILE TYR PHE TYR LEU GLY GLN VAL ALA ILE LEU LEU PHE          
+SEQRES   8 A   94  LYS SER GLY                                                  
+SEQRES   1 B   94  GLY PRO LEU GLY SER MET SER ASP ARG LYS ALA VAL ILE          
+SEQRES   2 B   94  LYS ASN ALA ASP MET SER GLU ASP MET GLN GLN ASP ALA          
+SEQRES   3 B   94  VAL ASP CYS ALA THR GLN ALA MET GLU LYS TYR ASN ILE          
+SEQRES   4 B   94  GLU LYS ASP ILE ALA ALA TYR ILE LYS LYS GLU PHE ASP          
+SEQRES   5 B   94  LYS LYS TYR ASN PRO THR TRP HIS CYS ILE VAL GLY ARG          
+SEQRES   6 B   94  ASN PHE GLY SER TYR VAL THR HIS GLU THR LYS HIS PHE          
+SEQRES   7 B   94  ILE TYR PHE TYR LEU GLY GLN VAL ALA ILE LEU LEU PHE          
+SEQRES   8 B   94  LYS SER GLY                                                  
+DBREF  1RE6 A    1    89  GB     18087731 NP_080832        1     89             
+DBREF  1RE6 B    1    89  GB     18087731 NP_080832        1     89             

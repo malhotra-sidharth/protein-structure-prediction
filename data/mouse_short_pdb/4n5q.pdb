@@ -1,0 +1,75 @@
+HELIX    1   1 ARG A  118  GLY A  130  1                                  13    
+HELIX    2   2 CYS A  131  CYS A  146  1                                  16    
+HELIX    3   3 ASP A  153  LEU A  162  1                                  10    
+HELIX    4   4 THR A  170  ASN A  178  1                                   9    
+HELIX    5   5 ASN A  182  ASN A  197  1                                  16    
+HELIX    6   6 ILE A  199  ASN A  205  1                                   7    
+HELIX    7   7 GLU A  210  GLU A  214  5                                   5    
+HELIX    8   8 THR A  217  ARG A  225  1                                   9    
+HELIX    9   9 GLN A  227  ALA A  237  1                                  11    
+HELIX   10  10 THR A  264  THR A  272  1                                   9    
+HELIX   11  11 GLN A  274  GLU A  283  1                                  10    
+HELIX   12  12 ASN A  298  ALA A  307  1                                  10    
+HELIX   13  13 ASP A  315  GLY A  329  1                                  15    
+HELIX   14  14 ASN A  330  THR A  335  5                                   6    
+HELIX   15  15 THR A  343  MET A  351  1                                   9    
+HELIX   16  16 LYS A  353  ARG A  363  1                                  11    
+HELIX   17  17 ARG B  118  GLY B  130  1                                  13    
+HELIX   18  18 CYS B  131  ARG B  147  1                                  17    
+HELIX   19  19 LEU B  152  THR B  163  1                                  12    
+HELIX   20  20 THR B  170  LEU B  177  1                                   8    
+HELIX   21  21 ASN B  182  ASN B  197  1                                  16    
+HELIX   22  22 ILE B  199  ASN B  205  1                                   7    
+HELIX   23  23 GLU B  210  GLU B  214  5                                   5    
+HELIX   24  24 THR B  217  ARG B  225  1                                   9    
+HELIX   25  25 GLN B  227  ALA B  237  1                                  11    
+HELIX   26  26 THR B  264  THR B  272  1                                   9    
+HELIX   27  27 GLN B  274  GLU B  283  1                                  10    
+HELIX   28  28 ASN B  298  ALA B  307  1                                  10    
+HELIX   29  29 ASP B  315  GLY B  329  1                                  15    
+HELIX   30  30 ASN B  330  MET B  336  5                                   7    
+HELIX   31  31 THR B  343  MET B  351  1                                   9    
+HELIX   32  32 LYS B  353  ARG B  363  1                                  11    
+HELIX   33  33 GLU B  364  LYS B  366  5                                   3    
+SEQRES   1 A  257  MET ARG LEU LYS LYS ARG ILE PHE ALA ALA VAL SER GLU          
+SEQRES   2 A  257  GLY CYS VAL GLU GLU LEU ARG GLU LEU LEU GLN ASP LEU          
+SEQRES   3 A  257  GLN ASP LEU CYS ARG ARG ARG ARG GLY LEU ASP VAL PRO          
+SEQRES   4 A  257  ASP PHE LEU MET HIS LYS LEU THR ALA SER ASP THR GLY          
+SEQRES   5 A  257  LYS THR CYS LEU MET LYS ALA LEU LEU ASN ILE ASN PRO          
+SEQRES   6 A  257  ASN THR LYS GLU ILE VAL ARG ILE LEU LEU ALA PHE ALA          
+SEQRES   7 A  257  GLU GLU ASN ASP ILE LEU ASP ARG PHE ILE ASN ALA GLU          
+SEQRES   8 A  257  TYR THR GLU GLU ALA TYR GLU GLY GLN THR ALA LEU ASN          
+SEQRES   9 A  257  ILE ALA ILE GLU ARG ARG GLN GLY ASP ILE THR ALA VAL          
+SEQRES  10 A  257  LEU ILE ALA ALA GLY ALA ASP VAL ASN ALA HIS ALA LYS          
+SEQRES  11 A  257  GLY VAL PHE PHE ASN PRO LYS TYR GLN HIS GLU GLY PHE          
+SEQRES  12 A  257  TYR PHE GLY GLU THR PRO LEU ALA LEU ALA ALA CYS THR          
+SEQRES  13 A  257  ASN GLN PRO GLU ILE VAL GLN LEU LEU MET GLU ASN GLU          
+SEQRES  14 A  257  GLN THR ASP ILE THR SER GLN ASP SER ARG GLY ASN ASN          
+SEQRES  15 A  257  ILE LEU HIS ALA LEU VAL THR VAL ALA GLU ASP PHE LYS          
+SEQRES  16 A  257  THR GLN ASN ASP PHE VAL LYS ARG MET TYR ASP MET ILE          
+SEQRES  17 A  257  LEU LEU ARG SER GLY ASN TRP GLU LEU GLU THR MET ARG          
+SEQRES  18 A  257  ASN ASN ASP GLY LEU THR PRO LEU GLN LEU ALA ALA LYS          
+SEQRES  19 A  257  MET GLY LYS ALA GLU ILE LEU LYS TYR ILE LEU SER ARG          
+SEQRES  20 A  257  GLU ILE LYS GLU HIS HIS HIS HIS HIS HIS                      
+SEQRES   1 B  257  MET ARG LEU LYS LYS ARG ILE PHE ALA ALA VAL SER GLU          
+SEQRES   2 B  257  GLY CYS VAL GLU GLU LEU ARG GLU LEU LEU GLN ASP LEU          
+SEQRES   3 B  257  GLN ASP LEU CYS ARG ARG ARG ARG GLY LEU ASP VAL PRO          
+SEQRES   4 B  257  ASP PHE LEU MET HIS LYS LEU THR ALA SER ASP THR GLY          
+SEQRES   5 B  257  LYS THR CYS LEU MET LYS ALA LEU LEU ASN ILE ASN PRO          
+SEQRES   6 B  257  ASN THR LYS GLU ILE VAL ARG ILE LEU LEU ALA PHE ALA          
+SEQRES   7 B  257  GLU GLU ASN ASP ILE LEU ASP ARG PHE ILE ASN ALA GLU          
+SEQRES   8 B  257  TYR THR GLU GLU ALA TYR GLU GLY GLN THR ALA LEU ASN          
+SEQRES   9 B  257  ILE ALA ILE GLU ARG ARG GLN GLY ASP ILE THR ALA VAL          
+SEQRES  10 B  257  LEU ILE ALA ALA GLY ALA ASP VAL ASN ALA HIS ALA LYS          
+SEQRES  11 B  257  GLY VAL PHE PHE ASN PRO LYS TYR GLN HIS GLU GLY PHE          
+SEQRES  12 B  257  TYR PHE GLY GLU THR PRO LEU ALA LEU ALA ALA CYS THR          
+SEQRES  13 B  257  ASN GLN PRO GLU ILE VAL GLN LEU LEU MET GLU ASN GLU          
+SEQRES  14 B  257  GLN THR ASP ILE THR SER GLN ASP SER ARG GLY ASN ASN          
+SEQRES  15 B  257  ILE LEU HIS ALA LEU VAL THR VAL ALA GLU ASP PHE LYS          
+SEQRES  16 B  257  THR GLN ASN ASP PHE VAL LYS ARG MET TYR ASP MET ILE          
+SEQRES  17 B  257  LEU LEU ARG SER GLY ASN TRP GLU LEU GLU THR MET ARG          
+SEQRES  18 B  257  ASN ASN ASP GLY LEU THR PRO LEU GLN LEU ALA ALA LYS          
+SEQRES  19 B  257  MET GLY LYS ALA GLU ILE LEU LYS TYR ILE LEU SER ARG          
+SEQRES  20 B  257  GLU ILE LYS GLU HIS HIS HIS HIS HIS HIS                      
+DBREF  4N5Q A  118   367  UNP    Q8K424   TRPV3_MOUSE    118    367             
+DBREF  4N5Q B  118   367  UNP    Q8K424   TRPV3_MOUSE    118    367             

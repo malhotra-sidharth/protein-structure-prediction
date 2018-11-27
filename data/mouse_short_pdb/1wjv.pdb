@@ -1,0 +1,10 @@
+HELIX    1   1 ILE A   23  CYS A   32  1                                  10    
+HELIX    2   2 ASP A   50  TYR A   52  5                                   3    
+SEQRES   1 A   79  GLY SER SER GLY SER SER GLY MET VAL PHE PHE THR CYS          
+SEQRES   2 A   79  ASN ALA CYS GLY GLU SER VAL LYS LYS ILE GLN VAL GLU          
+SEQRES   3 A   79  LYS HIS VAL SER ASN CYS ARG ASN CYS GLU CYS LEU SER          
+SEQRES   4 A   79  CYS ILE ASP CYS GLY LYS ASP PHE TRP GLY ASP ASP TYR          
+SEQRES   5 A   79  LYS SER HIS VAL LYS CYS ILE SER GLU GLY GLN LYS TYR          
+SEQRES   6 A   79  GLY GLY LYS GLY TYR GLU ALA LYS SER GLY PRO SER SER          
+SEQRES   7 A   79  GLY                                                          
+DBREF  1WJV A    8    73  UNP    Q08288   LYAR_MOUSE       1     66             

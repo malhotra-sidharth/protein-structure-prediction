@@ -1,0 +1,21 @@
+HELIX    1   1 GLY A  156  VAL A  171  1                                  16    
+HELIX    2   2 LEU A  188  ILE A  191  5                                   4    
+HELIX    3   3 ARG A  194  ASP A  196  5                                   3    
+HELIX    4   4 TRP A  214  PHE A  218  1                                   5    
+HELIX    5   5 CYS A  266  TRP A  269  1                                   4    
+HELIX    6   6 LEU A  283  SER A  285  5                                   3    
+SEQRES   1 A  172  GLN PRO VAL LEU HIS LEU VAL ALA LEU ASN THR PRO LEU          
+SEQRES   2 A  172  SER GLY GLY MET ARG GLY ILE ARG GLY ALA ASP PHE GLN          
+SEQRES   3 A  172  CYS PHE GLN GLN ALA ARG ALA VAL GLY LEU SER GLY THR          
+SEQRES   4 A  172  PHE ARG ALA PHE LEU SER SER ARG LEU GLN ASP LEU TYR          
+SEQRES   5 A  172  SER ILE VAL ARG ARG ALA ASP ARG GLY SER VAL PRO ILE          
+SEQRES   6 A  172  VAL ASN LEU LYS ASP GLU VAL LEU SER PRO SER TRP ASP          
+SEQRES   7 A  172  SER LEU PHE SER GLY SER GLN GLY GLN LEU GLN PRO GLY          
+SEQRES   8 A  172  ALA ARG ILE PHE SER PHE ASP GLY ARG ASP VAL LEU ARG          
+SEQRES   9 A  172  HIS PRO ALA TRP PRO GLN LYS SER VAL TRP HIS GLY SER          
+SEQRES  10 A  172  ASP PRO SER GLY ARG ARG LEU MET GLU SER TYR CYS GLU          
+SEQRES  11 A  172  THR TRP ARG THR GLU THR THR GLY ALA THR GLY GLN ALA          
+SEQRES  12 A  172  SER SER LEU LEU SER GLY ARG LEU LEU GLU GLN LYS ALA          
+SEQRES  13 A  172  ALA SER CYS HIS ASN SER TYR ILE VAL LEU CYS ILE GLU          
+SEQRES  14 A  172  ASN SER PHE                                                  
+DBREF  1KOE A  138   309  UNP    P39061   COIA1_MOUSE   1350   1521             

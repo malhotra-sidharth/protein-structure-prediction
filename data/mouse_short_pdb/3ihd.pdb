@@ -1,0 +1,26 @@
+HELIX    1   1 HIS A    0  GLY A   21  1                                  22    
+HELIX    2   2 PRO A   82  ARG A  102  1                                  21    
+HELIX    3   3 PHE A  105  HIS A  113  1                                   9    
+HELIX    4   4 ALA A  119  ASN A  128  1                                  10    
+HELIX    5   5 GLU A  129  ARG A  132  5                                   4    
+HELIX    6   6 ASN A  136  LYS A  157  1                                  22    
+HELIX    7   7 VAL A  161  LEU A  178  1                                  18    
+HELIX    8   8 LEU A  178  ASN A  185  1                                   8    
+HELIX    9   9 GLY A  187  GLY A  196  1                                  10    
+SEQRES   1 A  197  HIS MET SER GLN SER ASN ARG GLU LEU VAL VAL ASP PHE          
+SEQRES   2 A  197  LEU SER TYR LYS LEU SER GLN LYS GLY TYR SER TRP SER          
+SEQRES   3 A  197  GLN PHE SER ASP VAL GLU GLU ASN ARG THR GLU ALA PRO          
+SEQRES   4 A  197  GLU GLU THR GLU ALA GLU ARG GLU THR PRO SER ALA ILE          
+SEQRES   5 A  197  ASN GLY ASN PRO SER TRP HIS LEU ALA ASP SER PRO ALA          
+SEQRES   6 A  197  VAL ASN GLY ALA THR GLY HIS SER SER SER LEU ASP ALA          
+SEQRES   7 A  197  ARG GLU VAL ILE PRO MET ALA ALA VAL LYS GLN ALA LEU          
+SEQRES   8 A  197  ARG GLU ALA GLY ASP GLU PHE GLU LEU ARG ALA ARG ARG          
+SEQRES   9 A  197  ALA PHE SER ASP LEU THR SER GLN LEU HIS ILE THR PRO          
+SEQRES  10 A  197  GLY THR ALA TYR GLN SER PHE GLU GLN VAL VAL ASN GLU          
+SEQRES  11 A  197  LEU PHE ARG ASP GLY VAL ASN TRP GLY ARG ILE VAL ALA          
+SEQRES  12 A  197  PHE PHE SER PHE GLY GLY ALA LEU CYS VAL GLU SER VAL          
+SEQRES  13 A  197  ASP LYS GLU MET GLN VAL LEU VAL SER ARG ILE ALA SER          
+SEQRES  14 A  197  TRP MET ALA THR TYR LEU ASN ASP HIS LEU GLU PRO TRP          
+SEQRES  15 A  197  ILE GLN GLU ASN GLY GLY TRP ASP THR PHE VAL ASP LEU          
+SEQRES  16 A  197  TYR GLY                                                      
+DBREF  3IHD A    1   196  UNP    Q64373   B2CL1_MOUSE      1    196             

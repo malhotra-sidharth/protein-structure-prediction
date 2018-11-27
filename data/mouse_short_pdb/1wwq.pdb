@@ -1,0 +1,14 @@
+REMARK 650 HELIX                                                                
+HELIX    1   1 VAL A   32  LYS A   48  1                                  17    
+HELIX    2   2 ILE A   61  ASP A   70  1                                  10    
+HELIX    3   3 LYS A   91  ARG A  103  1                                  13    
+SEQRES   1 A  111  GLY SER GLU GLY ALA ALA THR MET SER HIS THR ILE LEU          
+SEQRES   2 A  111  LEU VAL GLN PRO THR LYS ARG PRO GLU GLY ARG THR TYR          
+SEQRES   3 A  111  ALA ASP TYR GLU SER VAL ASN GLU CYS MET GLU GLY VAL          
+SEQRES   4 A  111  CYS LYS MET TYR GLU GLU HIS LEU LYS ARG MET ASN PRO          
+SEQRES   5 A  111  ASN SER PRO SER ILE THR TYR ASP ILE SER GLN LEU PHE          
+SEQRES   6 A  111  ASP PHE ILE ASP ASP LEU ALA ASP LEU SER CYS LEU VAL          
+SEQRES   7 A  111  TYR ARG ALA ASP THR GLN THR TYR GLN PRO TYR ASN LYS          
+SEQRES   8 A  111  ASP TRP ILE LYS GLU LYS ILE TYR VAL LEU LEU ARG ARG          
+SEQRES   9 A  111  GLN ALA GLN GLN ALA GLY LYS                                  
+DBREF  1WWQ A    8   111  UNP    P84089   ERH_MOUSE        1    104             

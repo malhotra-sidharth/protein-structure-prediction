@@ -1,0 +1,29 @@
+JRNL        TITL 2 OF THE DNA HELIX                                             
+HELIX    1   1 PHE B  437  SER B  444  1                                   8    
+HELIX    2   2 ASN B  508  CYS B  517  1                                  10    
+HELIX    3   3 ASP B  530  GLY B  534  5                                   5    
+HELIX    4   4 LYS B  544  GLY B  546  5                                   3    
+HELIX    5   5 THR B  595  GLY B  606  1                                  12    
+HELIX    6   6 GLY B  614  SER B  625  1                                  12    
+SEQRES   1 B  212  HIS MET PRO ALA ASN HIS PHE GLY PRO ILE PRO GLY VAL          
+SEQRES   2 B  212  PRO VAL GLY THR MET TRP ARG PHE ARG VAL GLN VAL SER          
+SEQRES   3 B  212  GLU SER GLY VAL HIS ARG PRO HIS VAL ALA GLY ILE HIS          
+SEQRES   4 B  212  GLY ARG SER ASN ASP GLY ALA TYR SER LEU VAL LEU ALA          
+SEQRES   5 B  212  GLY GLY TYR GLU ASP ASP VAL ASP ASN GLY ASN TYR PHE          
+SEQRES   6 B  212  THR TYR THR GLY SER GLY GLY ARG ASP LEU SER GLY ASN          
+SEQRES   7 B  212  LYS ARG THR ALA GLY GLN SER SER ASP GLN LYS LEU THR          
+SEQRES   8 B  212  ASN ASN ASN ARG ALA LEU ALA LEU ASN CYS HIS SER PRO          
+SEQRES   9 B  212  ILE ASN GLU LYS GLY ALA GLU ALA GLU ASP TRP ARG GLN          
+SEQRES  10 B  212  GLY LYS PRO VAL ARG VAL VAL ARG ASN MET LYS GLY GLY          
+SEQRES  11 B  212  LYS HIS SER LYS TYR ALA PRO ALA GLU GLY ASN ARG TYR          
+SEQRES  12 B  212  ASP GLY ILE TYR LYS VAL VAL LYS TYR TRP PRO GLU ARG          
+SEQRES  13 B  212  GLY LYS SER GLY PHE LEU VAL TRP ARG TYR LEU LEU ARG          
+SEQRES  14 B  212  ARG ASP ASP THR GLU PRO GLU PRO TRP THR ARG GLU GLY          
+SEQRES  15 B  212  LYS ASP ARG THR ARG GLN LEU GLY LEU THR MET GLN TYR          
+SEQRES  16 B  212  PRO GLU GLY TYR LEU GLU ALA LEU ALA ASN LYS GLU LYS          
+SEQRES  17 B  212  SER ARG LYS ARG                                              
+SEQRES   1 D   12   DA  DA  DC  DT  DG  DC  DG  DC  DA  DG  DT  DT              
+SEQRES   1 E   12   DA  DA  DC  DT  DG  DC  DG  DC  DA  DG  DT  DT              
+DBREF  2ZO2 B  419   628  UNP    Q8VDF2   UHRF1_MOUSE    419    628             
+DBREF  2ZO2 D    1    12  PDB    2ZO2     2ZO2             1     12             
+DBREF  2ZO2 E   13    24  PDB    2ZO2     2ZO2             1     12             

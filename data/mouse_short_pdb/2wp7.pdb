@@ -1,0 +1,21 @@
+REMARK 650 HELIX                                                                
+HELIX    1   1 LEU A   20  LEU A   29  1                                  10    
+HELIX    2   2 GLU A   81  LEU A   95  1                                  15    
+HELIX    3   3 CYS A  108  THR A  120  1                                  13    
+HELIX    4   4 SER A  126  LEU A  136  1                                  11    
+HELIX    5   5 PRO A  139  ARG A  145  1                                   7    
+HELIX    6   6 PHE A  147  SER A  150  1                                   4    
+SEQRES   1 A  168  MET GLU PRO PRO ASN LEU TYR PRO VAL LYS LEU TYR VAL          
+SEQRES   2 A  168  TYR ASP LEU SER LYS GLY LEU ALA ARG ARG LEU SER PRO          
+SEQRES   3 A  168  ILE MET LEU GLY LYS GLN LEU GLU GLY ILE TRP HIS THR          
+SEQRES   4 A  168  SER ILE VAL VAL HIS LYS ASP GLU PHE PHE PHE GLY SER          
+SEQRES   5 A  168  SER GLY ILE SER SER CYS THR PRO GLY GLY THR LEU LEU          
+SEQRES   6 A  168  GLY PRO PRO ASP SER VAL VAL ASP VAL GLY ASN THR GLU          
+SEQRES   7 A  168  VAL THR GLU GLU ILE PHE LEU GLU TYR LEU SER SER LEU          
+SEQRES   8 A  168  GLY GLU SER LEU PHE ARG GLY GLU ALA TYR ASN LEU PHE          
+SEQRES   9 A  168  GLU HIS ASN CYS ASN THR PHE SER ASN GLU VAL ALA GLN          
+SEQRES  10 A  168  PHE LEU THR GLY ARG LYS ILE PRO SER TYR ILE THR ASP          
+SEQRES  11 A  168  LEU PRO SER GLU VAL LEU SER THR PRO PHE GLY GLN ALA          
+SEQRES  12 A  168  LEU ARG PRO PHE LEU ASP SER ILE GLN ILE GLN PRO PRO          
+SEQRES  13 A  168  GLY GLY ASN SER VAL GLY ARG PRO ASN GLY GLN SER              
+DBREF  2WP7 A    1   168  UNP    Q9CQT7   PPDE2_MOUSE      1    168             

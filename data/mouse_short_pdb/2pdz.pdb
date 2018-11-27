@@ -1,0 +1,12 @@
+HELIX    1   1 ALA A   38  THR A   42  1                                   5    
+HELIX    2   4 HIS A   64  LYS A   73  1                                  10    
+SEQRES   1 A   86  ARG ARG ARG VAL THR VAL ARG LYS ALA ASP ALA GLY GLY          
+SEQRES   2 A   86  LEU GLY ILE SER ILE LYS GLY GLY ARG GLU ASN LYS MET          
+SEQRES   3 A   86  PRO ILE LEU ILE SER LYS ILE PHE LYS GLY LEU ALA ALA          
+SEQRES   4 A   86  ASP GLN THR GLU ALA LEU PHE VAL GLY ASP ALA ILE LEU          
+SEQRES   5 A   86  SER VAL ASN GLY GLU ASP LEU SER SER ALA THR HIS ASP          
+SEQRES   6 A   86  GLU ALA VAL GLN ALA LEU LYS LYS THR GLY LYS GLU VAL          
+SEQRES   7 A   86  VAL LEU GLU VAL LYS TYR MET LYS                              
+SEQRES   1 B    5  LYS GLU SER LEU VAL                                          
+DBREF  2PDZ A    1    86  UNP    Q61234   SNTA1_MOUSE     79    164             
+DBREF  2PDZ B    3     7  PDB    2PDZ     2PDZ             3      7             

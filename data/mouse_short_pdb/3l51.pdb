@@ -1,0 +1,50 @@
+HELIX    1   1 ASN A  518  ASN A  520  5                                   3    
+HELIX    2   2 ALA A  527  LEU A  529  5                                   3    
+HELIX    3   3 ASP A  534  SER A  536  5                                   3    
+HELIX    4   4 THR A  537  GLY A  546  1                                  10    
+HELIX    5   5 GLU A  547  TYR A  550  5                                   4    
+HELIX    6   6 THR A  556  GLY A  567  1                                  12    
+HELIX    7   7 ALA A  587  GLY A  599  1                                  13    
+HELIX    8   8 LYS A  613  GLU A  615  5                                   3    
+HELIX    9   9 LEU A  616  GLY A  625  1                                  10    
+HELIX   10  10 ASN A  632  ASP A  642  1                                  11    
+HELIX   11  11 GLY B  595  GLY B  608  1                                  14    
+HELIX   12  12 GLY B  618  LEU B  620  5                                   3    
+HELIX   13  13 ASP B  624  LYS B  626  5                                   3    
+HELIX   14  14 TYR B  627  CYS B  635  1                                   9    
+HELIX   15  15 HIS B  636  ASP B  639  5                                   4    
+HELIX   16  16 SER B  645  HIS B  659  1                                  15    
+HELIX   17  17 ASP B  670  ALA B  676  5                                   7    
+HELIX   18  18 THR B  684  THR B  688  5                                   5    
+HELIX   19  19 ARG B  690  VAL B  695  1                                   6    
+HELIX   20  20 ASN B  699  ARG B  711  1                                  13    
+HELIX   21  21 ASN B  718  TYR B  727  1                                  10    
+HELIX   22  22 LEU B  753  HIS B  757  5                                   5    
+SEQRES   1 A  161  LEU GLN PHE ALA TYR LYS ASP PRO GLU LYS ASN TRP ASN          
+SEQRES   2 A  161  ARG ASN SER VAL LYS GLY LEU VAL ALA SER LEU ILE ASN          
+SEQRES   3 A  161  VAL LYS ASP ASN SER THR ALA THR ALA LEU GLU VAL VAL          
+SEQRES   4 A  161  ALA GLY GLU ARG LEU TYR ASN VAL VAL VAL ASP THR GLU          
+SEQRES   5 A  161  VAL THR ALA LYS LYS LEU LEU GLU LYS GLY GLU LEU LYS          
+SEQRES   6 A  161  ARG ARG TYR THR ILE ILE PRO LEU ASN LYS ILE SER ALA          
+SEQRES   7 A  161  ARG CYS ILE ALA PRO GLU THR LEU ARG VAL ALA GLN ASN          
+SEQRES   8 A  161  LEU VAL GLY PRO ASP ASN VAL HIS VAL ALA LEU SER LEU          
+SEQRES   9 A  161  VAL ASP TYR LYS PRO GLU LEU GLN LYS GLY MSE GLU PHE          
+SEQRES  10 A  161  VAL PHE GLY THR THR PHE VAL CYS ASN ASN MSE ASP ASN          
+SEQRES  11 A  161  ALA LYS LYS VAL ALA PHE ASP LYS ARG ILE MSE THR ARG          
+SEQRES  12 A  161  THR VAL THR LEU GLY GLY ASP VAL PHE ASP PRO HIS GLY          
+SEQRES  13 A  161  THR LEU SER GLY GLY                                          
+SEQRES   1 B  166  GLY LYS VAL LEU ASP ALA ILE ILE GLN GLU LYS LYS SER          
+SEQRES   2 B  166  GLY ARG ILE PRO GLY ILE TYR GLY ARG LEU GLY ASP LEU          
+SEQRES   3 B  166  GLY ALA ILE ASP GLU LYS TYR ASP ILE ALA ILE SER SER          
+SEQRES   4 B  166  CYS CYS HIS ALA LEU ASP TYR ILE VAL VAL ASP SER ILE          
+SEQRES   5 B  166  ASP THR ALA GLN GLU CYS VAL ASN PHE LEU LYS LYS HIS          
+SEQRES   6 B  166  ASN ILE GLY ILE ALA THR PHE ILE GLY LEU ASP LYS MSE          
+SEQRES   7 B  166  THR VAL TRP ALA LYS LYS MSE SER LYS ILE GLN THR PRO          
+SEQRES   8 B  166  GLU ASN THR PRO ARG LEU PHE ASP LEU VAL LYS VAL LYS          
+SEQRES   9 B  166  ASN GLU GLU ILE ARG GLN ALA PHE TYR PHE ALA LEU ARG          
+SEQRES  10 B  166  ASP THR LEU VAL ALA ASN ASN LEU ASP GLN ALA THR ARG          
+SEQRES  11 B  166  VAL ALA TYR GLN ARG ASP ARG ARG TRP ARG VAL VAL THR          
+SEQRES  12 B  166  LEU GLN GLY GLN ILE ILE GLU GLN SER GLY THR MSE SER          
+SEQRES  13 B  166  GLY GLY LEU GLU HIS HIS HIS HIS HIS HIS                      
+DBREF  3L51 A  506   666  UNP    Q8CG48   SMC2_MOUSE     506    666             
+DBREF  3L51 B  595   752  UNP    Q8CG47   SMC4_MOUSE     595    752             

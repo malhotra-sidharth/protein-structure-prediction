@@ -1,0 +1,13 @@
+HELIX    1   1 ASP A   12  ARG A   25  1                                  14    
+HELIX    2   2 ILE A   26  GLY A   34  1                                   9    
+HELIX    3   3 CYS A   58  LEU A   65  1                                   8    
+HELIX    4   4 LEU A   65  ILE A   77  1                                  13    
+SEQRES   1 A   92  GLY SER SER GLY SER SER GLY SER GLU GLU ASP ASP GLU          
+SEQRES   2 A   92  VAL VAL ALA MET ILE LYS GLU LEU LEU ASP THR ARG ILE          
+SEQRES   3 A   92  ARG PRO THR VAL GLN GLU ASP GLY GLY ASP VAL ILE TYR          
+SEQRES   4 A   92  ARG GLY PHE GLU ASP GLY ILE VAL ARG LEU LYS LEU GLN          
+SEQRES   5 A   92  GLY SER CYS THR SER CYS PRO SER SER ILE ILE THR LEU          
+SEQRES   6 A   92  LYS SER GLY ILE GLN ASN MET LEU GLN PHE TYR ILE PRO          
+SEQRES   7 A   92  GLU VAL GLU GLY VAL GLU GLN VAL SER GLY PRO SER SER          
+SEQRES   8 A   92  GLY                                                          
+DBREF  1VEH A    8    86  UNP    Q9QZ23   HIRP5_MOUSE    153    231             

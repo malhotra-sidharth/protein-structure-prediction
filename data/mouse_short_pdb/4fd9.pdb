@@ -1,0 +1,23 @@
+HELIX    1   1 PRO A   11  PHE A   13  5                                   3    
+HELIX    2   2 SER A   26  LEU A   31  1                                   6    
+HELIX    3   3 CYS A   76  GLY A   81  5                                   6    
+HELIX    4   4 SER B   26  LEU B   31  1                                   6    
+HELIX    5   5 CYS B   76  GLY B   81  5                                   6    
+SEQRES   1 A   92  MET ASN LEU LYS VAL ILE LEU TYR GLU LYS PRO HIS PHE          
+SEQRES   2 A   92  LEU GLY HIS THR LYS GLU PHE SER GLU HIS ILE ASP SER          
+SEQRES   3 A   92  VAL PRO THR PHE LEU LYS SER ASP LYS ASP PHE HIS GLY          
+SEQRES   4 A   92  ILE GLY SER ILE ARG VAL ILE GLY GLY VAL TRP VAL ALA          
+SEQRES   5 A   92  TYR GLU LYS GLU HIS PHE LYS GLY GLN GLN PHE LEU LEU          
+SEQRES   6 A   92  GLU GLU GLY ASP PHE GLU ASP SER SER ALA CYS GLY ALA          
+SEQRES   7 A   92  LEU SER GLY PRO ILE MET SER PHE ARG TYR LEU GLN ALA          
+SEQRES   8 A   92  ASN                                                          
+SEQRES   1 B   92  MET ASN LEU LYS VAL ILE LEU TYR GLU LYS PRO HIS PHE          
+SEQRES   2 B   92  LEU GLY HIS THR LYS GLU PHE SER GLU HIS ILE ASP SER          
+SEQRES   3 B   92  VAL PRO THR PHE LEU LYS SER ASP LYS ASP PHE HIS GLY          
+SEQRES   4 B   92  ILE GLY SER ILE ARG VAL ILE GLY GLY VAL TRP VAL ALA          
+SEQRES   5 B   92  TYR GLU LYS GLU HIS PHE LYS GLY GLN GLN PHE LEU LEU          
+SEQRES   6 B   92  GLU GLU GLY ASP PHE GLU ASP SER SER ALA CYS GLY ALA          
+SEQRES   7 B   92  LEU SER GLY PRO ILE MET SER PHE ARG TYR LEU GLN ALA          
+SEQRES   8 B   92  ASN                                                          
+DBREF  4FD9 A    1    92  UNP    Q80W49   CRBG3_MOUSE    510    601             
+DBREF  4FD9 B    1    92  UNP    Q80W49   CRBG3_MOUSE    510    601             

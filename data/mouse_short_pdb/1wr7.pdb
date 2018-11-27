@@ -1,0 +1,6 @@
+HELIX    1   1 ASP A   37  LYS A   41  5                                   5    
+SEQRES   1 A   41  GLY SER PRO GLY ILE GLN SER PHE LEU PRO PRO GLY TRP          
+SEQRES   2 A   41  GLU MET ARG ILE ALA PRO ASN GLY ARG PRO PHE PHE ILE          
+SEQRES   3 A   41  ASP HIS ASN THR LYS THR THR THR TRP GLU ASP PRO ARG          
+SEQRES   4 A   41  LEU LYS                                                      
+DBREF  1WR7 A    6    41  UNP    Q8CFI0   NED4L_MOUSE    376    411             

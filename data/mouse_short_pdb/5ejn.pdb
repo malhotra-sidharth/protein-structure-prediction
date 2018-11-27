@@ -1,0 +1,56 @@
+REVDAT   2   06-SEP-17 5EJN    1       HELIX                                    
+REMARK 650 HELIX                                                                
+HELIX    1 AA1 TYR A   44  GLU A   51  5                                   8    
+HELIX    2 AA2 THR A   57  LEU A   66  1                                  10    
+HELIX    3 AA3 THR A   83  SER A  100  1                                  18    
+HELIX    4 AA4 PRO A  101  GLY A  104  5                                   4    
+HELIX    5 AA5 CYS A  126  CYS A  137  1                                  12    
+HELIX    6 AA6 PHE A  169  PHE A  173  1                                   5    
+HELIX    7 AA7 THR A  175  ILE A  183  1                                   9    
+HELIX    8 AA8 ARG A  194  GLY A  198  5                                   5    
+HELIX    9 AA9 PRO A  212  HIS A  223  1                                  12    
+HELIX   10 AB1 TYR B   44  GLU B   51  5                                   8    
+HELIX   11 AB2 THR B   57  ALA B   64  1                                   8    
+HELIX   12 AB3 THR B   83  SER B  100  1                                  18    
+HELIX   13 AB4 PRO B  101  PRO B  105  5                                   5    
+HELIX   14 AB5 CYS B  126  CYS B  137  1                                  12    
+HELIX   15 AB6 PHE B  169  PHE B  173  1                                   5    
+HELIX   16 AB7 THR B  175  ILE B  183  1                                   9    
+HELIX   17 AB8 ARG B  194  GLY B  198  5                                   5    
+HELIX   18 AB9 PRO B  212  HIS B  223  1                                  12    
+SEQRES   1 A  216  GLU THR GLY ALA ALA ALA GLY ASP LYS LEU LEU SER VAL          
+SEQRES   2 A  216  CYS MET ASN SER LYS ARG HIS LYS GLN GLU PRO GLY PRO          
+SEQRES   3 A  216  GLU ASP GLU LEU TYR GLN GLU CYS ARG PRO TRP GLU ASP          
+SEQRES   4 A  216  ASN ALA CYS CYS THR ARG SER THR SER TRP GLU ALA HIS          
+SEQRES   5 A  216  LEU GLU GLU PRO LEU LEU PHE ASN PHE SER MET MET HIS          
+SEQRES   6 A  216  CYS GLY LEU LEU THR PRO ALA CYS ARG LYS HIS PHE ILE          
+SEQRES   7 A  216  GLN ALA ILE CYS PHE HIS GLU CYS SER PRO ASN LEU GLY          
+SEQRES   8 A  216  PRO TRP ILE GLN PRO VAL VAL PRO ASN GLY GLN GLU GLU          
+SEQRES   9 A  216  GLN ARG VAL TRP GLY VAL PRO LEU CYS GLN GLU ASP CYS          
+SEQRES  10 A  216  GLU ASP TRP TRP ARG ALA CYS HIS SER SER LEU THR CYS          
+SEQRES  11 A  216  LYS SER ASN TRP LEU HIS GLY TRP ASP TRP SER GLU GLU          
+SEQRES  12 A  216  LYS LYS HIS CYS PRO ALA HIS GLU PRO CYS LEU PRO PHE          
+SEQRES  13 A  216  SER TYR HIS PHE PRO THR PRO ASP ASP LEU CYS GLU LYS          
+SEQRES  14 A  216  ILE TRP ASN ASN THR PHE LYS ALA SER PRO GLU ARG ARG          
+SEQRES  15 A  216  ASN SER GLY ARG CYS LEU GLN LYS TRP PHE GLU PRO THR          
+SEQRES  16 A  216  LEU SER ASN PRO ASN VAL GLU VAL ALA LEU HIS PHE ALA          
+SEQRES  17 A  216  HIS HIS HIS HIS HIS HIS HIS HIS                              
+SEQRES   1 B  216  GLU THR GLY ALA ALA ALA GLY ASP LYS LEU LEU SER VAL          
+SEQRES   2 B  216  CYS MET ASN SER LYS ARG HIS LYS GLN GLU PRO GLY PRO          
+SEQRES   3 B  216  GLU ASP GLU LEU TYR GLN GLU CYS ARG PRO TRP GLU ASP          
+SEQRES   4 B  216  ASN ALA CYS CYS THR ARG SER THR SER TRP GLU ALA HIS          
+SEQRES   5 B  216  LEU GLU GLU PRO LEU LEU PHE ASN PHE SER MET MET HIS          
+SEQRES   6 B  216  CYS GLY LEU LEU THR PRO ALA CYS ARG LYS HIS PHE ILE          
+SEQRES   7 B  216  GLN ALA ILE CYS PHE HIS GLU CYS SER PRO ASN LEU GLY          
+SEQRES   8 B  216  PRO TRP ILE GLN PRO VAL VAL PRO ASN GLY GLN GLU GLU          
+SEQRES   9 B  216  GLN ARG VAL TRP GLY VAL PRO LEU CYS GLN GLU ASP CYS          
+SEQRES  10 B  216  GLU ASP TRP TRP ARG ALA CYS HIS SER SER LEU THR CYS          
+SEQRES  11 B  216  LYS SER ASN TRP LEU HIS GLY TRP ASP TRP SER GLU GLU          
+SEQRES  12 B  216  LYS LYS HIS CYS PRO ALA HIS GLU PRO CYS LEU PRO PHE          
+SEQRES  13 B  216  SER TYR HIS PHE PRO THR PRO ASP ASP LEU CYS GLU LYS          
+SEQRES  14 B  216  ILE TRP ASN ASN THR PHE LYS ALA SER PRO GLU ARG ARG          
+SEQRES  15 B  216  ASN SER GLY ARG CYS LEU GLN LYS TRP PHE GLU PRO THR          
+SEQRES  16 B  216  LEU SER ASN PRO ASN VAL GLU VAL ALA LEU HIS PHE ALA          
+SEQRES  17 B  216  HIS HIS HIS HIS HIS HIS HIS HIS                              
+DBREF  5EJN A   19   221  UNP    Q9EQF4   JUNO_MOUSE      19    221             
+DBREF  5EJN B   19   221  UNP    Q9EQF4   JUNO_MOUSE      19    221             

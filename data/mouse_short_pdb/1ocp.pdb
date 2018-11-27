@@ -1,0 +1,10 @@
+HELIX    1   1 ASN A   17  PHE A   27  1                                  11    
+HELIX    2   2 LEU A   35  LEU A   45  1                                  11    
+HELIX    3   3 LYS A   49  ARG A   60  1                                  12    
+SEQRES   1 A   67  MET GLU THR LEU VAL GLN ALA ARG LYS ARG LYS ARG THR          
+SEQRES   2 A   67  SER ILE GLU ASN ARG VAL ARG TRP SER LEU GLU THR MET          
+SEQRES   3 A   67  PHE LEU LYS CYS PRO LYS PRO SER LEU GLN GLN ILE THR          
+SEQRES   4 A   67  HIS ILE ALA ASN GLN LEU GLY LEU GLU LYS ASP VAL VAL          
+SEQRES   5 A   67  ARG VAL TRP PHE CYS ASN ARG ARG GLN LYS GLY LYS ARG          
+SEQRES   6 A   67  SER SER                                                      
+DBREF  1OCP A    2    67  UNP    P20263   PO5F1_MOUSE    217    282             

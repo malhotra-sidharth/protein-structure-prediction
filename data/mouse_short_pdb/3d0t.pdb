@@ -1,0 +1,45 @@
+KEYWDS    4-HELIX BUNDLE, CHAPERONE, COILED COIL                                
+HELIX    1   1 SER A  106  ALA A  141  1                                  36    
+HELIX    2   2 VAL A  151  GLY A  161  1                                  11    
+HELIX    3   3 ALA A  163  ALA A  187  1                                  25    
+HELIX    4   4 GLY B  105  SER B  143  1                                  39    
+HELIX    5   5 ASP B  152  GLY B  161  1                                  10    
+HELIX    6   6 ALA B  163  ILE B  188  1                                  26    
+HELIX    7   7 SER C  106  ALA C  141  1                                  36    
+HELIX    8   8 ASP C  152  ILE C  160  1                                   9    
+HELIX    9   9 ALA C  163  ILE C  188  1                                  26    
+HELIX   10  10 GLY D  105  SER D  140  1                                  36    
+HELIX   11  11 ASP D  152  GLY D  161  1                                  10    
+HELIX   12  12 ALA D  163  ILE D  188  1                                  26    
+SEQRES   1 A   88  GLY ALA MET GLY SER GLU GLU SER LEU LYS HIS ALA THR          
+SEQRES   2 A   88  ARG ILE ILE ASP GLU VAL VAL SER LYS PHE LEU ASP ASP          
+SEQRES   3 A   88  LEU GLY ASN ALA LYS SER HIS LEU MET SER LEU TYR SER          
+SEQRES   4 A   88  ALA CYS SER SER GLU VAL PRO PRO GLY PRO VAL ASP GLN          
+SEQRES   5 A   88  LYS PHE GLN SER ILE VAL ILE GLY CYS ALA LEU GLU ASP          
+SEQRES   6 A   88  GLN LYS LYS ILE LYS ARG ARG LEU GLU THR LEU LEU ARG          
+SEQRES   7 A   88  ASN ILE ASP ASN SER ASP LYS ALA ILE LYS                      
+SEQRES   1 B   88  GLY ALA MET GLY SER GLU GLU SER LEU LYS HIS ALA THR          
+SEQRES   2 B   88  ARG ILE ILE ASP GLU VAL VAL SER LYS PHE LEU ASP ASP          
+SEQRES   3 B   88  LEU GLY ASN ALA LYS SER HIS LEU MET SER LEU TYR SER          
+SEQRES   4 B   88  ALA CYS SER SER GLU VAL PRO PRO GLY PRO VAL ASP GLN          
+SEQRES   5 B   88  LYS PHE GLN SER ILE VAL ILE GLY CYS ALA LEU GLU ASP          
+SEQRES   6 B   88  GLN LYS LYS ILE LYS ARG ARG LEU GLU THR LEU LEU ARG          
+SEQRES   7 B   88  ASN ILE ASP ASN SER ASP LYS ALA ILE LYS                      
+SEQRES   1 C   88  GLY ALA MET GLY SER GLU GLU SER LEU LYS HIS ALA THR          
+SEQRES   2 C   88  ARG ILE ILE ASP GLU VAL VAL SER LYS PHE LEU ASP ASP          
+SEQRES   3 C   88  LEU GLY ASN ALA LYS SER HIS LEU MET SER LEU TYR SER          
+SEQRES   4 C   88  ALA CYS SER SER GLU VAL PRO PRO GLY PRO VAL ASP GLN          
+SEQRES   5 C   88  LYS PHE GLN SER ILE VAL ILE GLY CYS ALA LEU GLU ASP          
+SEQRES   6 C   88  GLN LYS LYS ILE LYS ARG ARG LEU GLU THR LEU LEU ARG          
+SEQRES   7 C   88  ASN ILE ASP ASN SER ASP LYS ALA ILE LYS                      
+SEQRES   1 D   88  GLY ALA MET GLY SER GLU GLU SER LEU LYS HIS ALA THR          
+SEQRES   2 D   88  ARG ILE ILE ASP GLU VAL VAL SER LYS PHE LEU ASP ASP          
+SEQRES   3 D   88  LEU GLY ASN ALA LYS SER HIS LEU MET SER LEU TYR SER          
+SEQRES   4 D   88  ALA CYS SER SER GLU VAL PRO PRO GLY PRO VAL ASP GLN          
+SEQRES   5 D   88  LYS PHE GLN SER ILE VAL ILE GLY CYS ALA LEU GLU ASP          
+SEQRES   6 D   88  GLN LYS LYS ILE LYS ARG ARG LEU GLU THR LEU LEU ARG          
+SEQRES   7 D   88  ASN ILE ASP ASN SER ASP LYS ALA ILE LYS                      
+DBREF  3D0T A  107   189  UNP    Q91YN9   BAG2_MOUSE     107    189             
+DBREF  3D0T B  107   189  UNP    Q91YN9   BAG2_MOUSE     107    189             
+DBREF  3D0T C  107   189  UNP    Q91YN9   BAG2_MOUSE     107    189             
+DBREF  3D0T D  107   189  UNP    Q91YN9   BAG2_MOUSE     107    189             

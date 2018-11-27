@@ -1,0 +1,21 @@
+HELIX    1   1 GLY A   21  GLY A   32  1                                  12    
+HELIX    2   2 ASP A   72  ARG A   80  1                                   9    
+HELIX    3   3 ASP A   93  ALA A   99  1                                   7    
+HELIX    4   4 ALA A   99  GLY A  112  1                                  14    
+HELIX    5   5 LYS A  122  SER A  129  5                                   8    
+HELIX    6   6 LYS A  132  LYS A  144  1                                  13    
+HELIX    7   7 VAL A  158  GLN A  171  1                                  14    
+SEQRES   1 A  168  GLY SER GLU VAL ALA ILE LYS MET VAL VAL VAL GLY ASN          
+SEQRES   2 A  168  GLY ALA VAL GLY LYS SER SER MET ILE GLN ARG TYR CYS          
+SEQRES   3 A  168  LYS GLY ILE PHE THR LYS ASP TYR LYS LYS THR ILE GLY          
+SEQRES   4 A  168  VAL ASP PHE LEU GLU ARG GLN ILE GLN VAL ASN ASP GLU          
+SEQRES   5 A  168  ASP VAL ARG LEU MET LEU TRP ASP THR ALA GLY GLN GLU          
+SEQRES   6 A  168  GLU PHE ASP ALA ILE THR LYS ALA TYR TYR ARG GLY ALA          
+SEQRES   7 A  168  GLN ALA CYS VAL LEU VAL PHE SER THR THR ASP ARG GLU          
+SEQRES   8 A  168  SER PHE GLU ALA ILE SER SER TRP ARG GLU LYS VAL VAL          
+SEQRES   9 A  168  ALA GLU VAL GLY ASP ILE PRO THR ALA LEU VAL GLN ASN          
+SEQRES  10 A  168  LYS ILE ASP LEU LEU ASP ASP SER CYS ILE LYS ASN GLU          
+SEQRES  11 A  168  GLU ALA GLU GLY LEU ALA LYS ARG LEU LYS LEU ARG PHE          
+SEQRES  12 A  168  TYR ARG THR SER VAL LYS GLU ASP LEU ASN VAL SER GLU          
+SEQRES  13 A  168  VAL PHE LYS TYR LEU ALA GLU LYS HIS LEU GLN LYS              
+DBREF  1Z22 A    7   172  UNP    P35288   RAB23_MOUSE      7    172             

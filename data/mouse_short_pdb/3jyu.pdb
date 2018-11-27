@@ -1,0 +1,57 @@
+REVDAT   3   10-NOV-09 3JYU    1       HELIX                                    
+REVDAT   2   27-OCT-09 3JYU    1       HELIX                                    
+HELIX    1   1 ASP A   14  ALA A   24  1                                  11    
+HELIX    2   2 SER A   41  GLY A   52  1                                  12    
+HELIX    3   3 GLU A   63  PHE A   67  5                                   5    
+HELIX    4   4 ASN A   73  PHE A   77  5                                   5    
+HELIX    5   5 ALA A  100  GLY A  111  1                                  12    
+HELIX    6   6 THR A  163  PHE A  175  1                                  13    
+HELIX    7   7 PRO A  178  ARG A  181  1                                   4    
+HELIX    8   8 THR A  203  GLY A  208  1                                   6    
+HELIX    9   9 ASP B   14  ALA B   24  1                                  11    
+HELIX   10  10 SER B   41  GLY B   52  1                                  12    
+HELIX   11  11 GLU B   63  PHE B   67  5                                   5    
+HELIX   12  12 ASN B   73  PHE B   77  5                                   5    
+HELIX   13  13 ALA B  100  GLY B  111  1                                  12    
+HELIX   14  14 THR B  163  ASN B  176  1                                  14    
+HELIX   15  15 PRO B  178  ARG B  181  1                                   4    
+HELIX   16  16 THR B  203  GLY B  208  1                                   6    
+REVDAT   4   17-NOV-09 3JYU    1       SEQADV SEQRES REMARK                     
+SEQRES   1 A  231  GLY SER MSE ALA GLU GLY ARG GLY SER ARG GLU ARG PRO          
+SEQRES   2 A  231  ASP VAL GLU THR GLN LYS THR GLU LEU GLY ALA LEU MSE          
+SEQRES   3 A  231  GLY THR THR LEU GLN ARG GLY ALA GLN TRP TYR LEU ILE          
+SEQRES   4 A  231  ASP SER ARG TRP PHE LYS GLN TRP LYS LYS TYR VAL GLY          
+SEQRES   5 A  231  PHE ASP SER TRP ASP MSE TYR ASN VAL GLY GLU HIS ASN          
+SEQRES   6 A  231  LEU PHE PRO GLY PRO ILE ASP ASN SER GLY LEU PHE SER          
+SEQRES   7 A  231  ASP PRO GLU SER GLN THR LEU LYS GLU HIS LEU ILE ASP          
+SEQRES   8 A  231  GLU LEU ASP TYR VAL LEU VAL PRO ALA GLU ALA TRP ASN          
+SEQRES   9 A  231  LYS LEU LEU ASN TRP TYR GLY CYS VAL GLU GLY GLN GLN          
+SEQRES  10 A  231  PRO ILE VAL ARG LYS VAL VAL GLU HIS GLY LEU PHE VAL          
+SEQRES  11 A  231  LYS HIS CYS LYS VAL GLU VAL TYR LEU LEU GLU LEU LYS          
+SEQRES  12 A  231  LEU CYS GLU ASN SER ASP PRO THR ASN VAL LEU SER CYS          
+SEQRES  13 A  231  HIS PHE SER LYS ALA ASP THR ILE ALA THR ILE GLU LYS          
+SEQRES  14 A  231  GLU MSE ARG LYS LEU PHE ASN ILE PRO ALA GLU ARG GLU          
+SEQRES  15 A  231  THR ARG LEU TRP ASN LYS TYR MSE SER ASN THR TYR GLU          
+SEQRES  16 A  231  GLN LEU SER LYS LEU ASP ASN THR ILE GLN ASP ALA GLY          
+SEQRES  17 A  231  LEU TYR GLN GLY GLN VAL LEU VAL ILE GLU PRO GLN ASN          
+SEQRES  18 A  231  GLU ASP GLY THR TRP PRO ARG GLN SER LEU                      
+SEQRES   1 B  231  GLY SER MSE ALA GLU GLY ARG GLY SER ARG GLU ARG PRO          
+SEQRES   2 B  231  ASP VAL GLU THR GLN LYS THR GLU LEU GLY ALA LEU MSE          
+SEQRES   3 B  231  GLY THR THR LEU GLN ARG GLY ALA GLN TRP TYR LEU ILE          
+SEQRES   4 B  231  ASP SER ARG TRP PHE LYS GLN TRP LYS LYS TYR VAL GLY          
+SEQRES   5 B  231  PHE ASP SER TRP ASP MSE TYR ASN VAL GLY GLU HIS ASN          
+SEQRES   6 B  231  LEU PHE PRO GLY PRO ILE ASP ASN SER GLY LEU PHE SER          
+SEQRES   7 B  231  ASP PRO GLU SER GLN THR LEU LYS GLU HIS LEU ILE ASP          
+SEQRES   8 B  231  GLU LEU ASP TYR VAL LEU VAL PRO ALA GLU ALA TRP ASN          
+SEQRES   9 B  231  LYS LEU LEU ASN TRP TYR GLY CYS VAL GLU GLY GLN GLN          
+SEQRES  10 B  231  PRO ILE VAL ARG LYS VAL VAL GLU HIS GLY LEU PHE VAL          
+SEQRES  11 B  231  LYS HIS CYS LYS VAL GLU VAL TYR LEU LEU GLU LEU LYS          
+SEQRES  12 B  231  LEU CYS GLU ASN SER ASP PRO THR ASN VAL LEU SER CYS          
+SEQRES  13 B  231  HIS PHE SER LYS ALA ASP THR ILE ALA THR ILE GLU LYS          
+SEQRES  14 B  231  GLU MSE ARG LYS LEU PHE ASN ILE PRO ALA GLU ARG GLU          
+SEQRES  15 B  231  THR ARG LEU TRP ASN LYS TYR MSE SER ASN THR TYR GLU          
+SEQRES  16 B  231  GLN LEU SER LYS LEU ASP ASN THR ILE GLN ASP ALA GLY          
+SEQRES  17 B  231  LEU TYR GLN GLY GLN VAL LEU VAL ILE GLU PRO GLN ASN          
+SEQRES  18 B  231  GLU ASP GLY THR TRP PRO ARG GLN SER LEU                      
+DBREF  3JYU A    3   231  UNP    Q921M8   Q921M8_MOUSE     1    229             
+DBREF  3JYU B    3   231  UNP    Q921M8   Q921M8_MOUSE     1    229             

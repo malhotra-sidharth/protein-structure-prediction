@@ -1,0 +1,8 @@
+HELIX    1   1 GLU A   19  ASP A   23  1                                   5    
+HELIX    2   2 SER A   27  GLU A   39  1                                  13    
+SEQRES   1 A   64  GLY SER SER GLY SER SER GLY VAL THR TYR ASP ASP VAL          
+SEQRES   2 A   64  HIS MET ASN PHE THR GLU GLU GLU TRP ASP LEU LEU ASP          
+SEQRES   3 A   64  SER SER GLN LYS ARG LEU TYR GLU GLU VAL MET LEU GLU          
+SEQRES   4 A   64  THR TYR GLN ASN LEU THR ASP ILE GLY TYR ASN TRP GLN          
+SEQRES   5 A   64  ASP HIS HIS ILE GLU GLU SER GLY PRO SER SER GLY              
+DBREF  1V65 A    8    58  UNP    Q8BG62   Q8BG62_MOUSE     4     54             

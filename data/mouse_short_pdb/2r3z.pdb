@@ -1,0 +1,35 @@
+HELIX    1   1 SER A   58  LYS A   66  1                                   9    
+HELIX    2   2 SER B   58  LYS B   66  1                                   9    
+HELIX    3   3 ARG C   20  ARG C   22  5                                   3    
+HELIX    4   4 SER C   58  ASN C   63  1                                   6    
+HELIX    5   5 ARG D   20  ARG D   22  5                                   3    
+HELIX    6   6 LYS D   47  ASP D   49  5                                   3    
+HELIX    7   7 SER D   58  ASN D   63  1                                   6    
+SEQRES   1 A   68  ILE PRO LEU ALA ARG THR VAL ARG CYS ASN CYS ILE HIS          
+SEQRES   2 A   68  ILE ASP ASP GLY PRO VAL ARG MET ARG ALA ILE GLY LYS          
+SEQRES   3 A   68  LEU GLU ILE ILE PRO ALA SER LEU SER CYS PRO ARG VAL          
+SEQRES   4 A   68  GLU ILE ILE ALA THR MET LYS LYS ASN ASP GLU GLN ARG          
+SEQRES   5 A   68  CYS LEU ASN PRO GLU SER LYS THR ILE LYS ASN LEU MET          
+SEQRES   6 A   68  LYS ALA PHE                                                  
+SEQRES   1 B   68  ILE PRO LEU ALA ARG THR VAL ARG CYS ASN CYS ILE HIS          
+SEQRES   2 B   68  ILE ASP ASP GLY PRO VAL ARG MET ARG ALA ILE GLY LYS          
+SEQRES   3 B   68  LEU GLU ILE ILE PRO ALA SER LEU SER CYS PRO ARG VAL          
+SEQRES   4 B   68  GLU ILE ILE ALA THR MET LYS LYS ASN ASP GLU GLN ARG          
+SEQRES   5 B   68  CYS LEU ASN PRO GLU SER LYS THR ILE LYS ASN LEU MET          
+SEQRES   6 B   68  LYS ALA PHE                                                  
+SEQRES   1 C   68  ILE PRO LEU ALA ARG THR VAL ARG CYS ASN CYS ILE HIS          
+SEQRES   2 C   68  ILE ASP ASP GLY PRO VAL ARG MET ARG ALA ILE GLY LYS          
+SEQRES   3 C   68  LEU GLU ILE ILE PRO ALA SER LEU SER CYS PRO ARG VAL          
+SEQRES   4 C   68  GLU ILE ILE ALA THR MET LYS LYS ASN ASP GLU GLN ARG          
+SEQRES   5 C   68  CYS LEU ASN PRO GLU SER LYS THR ILE LYS ASN LEU MET          
+SEQRES   6 C   68  LYS ALA PHE                                                  
+SEQRES   1 D   68  ILE PRO LEU ALA ARG THR VAL ARG CYS ASN CYS ILE HIS          
+SEQRES   2 D   68  ILE ASP ASP GLY PRO VAL ARG MET ARG ALA ILE GLY LYS          
+SEQRES   3 D   68  LEU GLU ILE ILE PRO ALA SER LEU SER CYS PRO ARG VAL          
+SEQRES   4 D   68  GLU ILE ILE ALA THR MET LYS LYS ASN ASP GLU GLN ARG          
+SEQRES   5 D   68  CYS LEU ASN PRO GLU SER LYS THR ILE LYS ASN LEU MET          
+SEQRES   6 D   68  LYS ALA PHE                                                  
+DBREF  2R3Z A    2    68  UNP    P17515   SCYBA_MOUSE     23     89             
+DBREF  2R3Z B    2    68  UNP    P17515   SCYBA_MOUSE     23     89             
+DBREF  2R3Z C    2    68  UNP    P17515   SCYBA_MOUSE     23     89             
+DBREF  2R3Z D    2    68  UNP    P17515   SCYBA_MOUSE     23     89             

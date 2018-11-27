@@ -1,0 +1,13 @@
+HELIX    1   1 ASP A   17  LEU A   22  1                                   6    
+HELIX    2   2 ASN A   29  LEU A   40  1                                  12    
+HELIX    3   3 PRO A   54  GLY A   76  1                                  23    
+HELIX    4   4 GLU A   79  ARG A   88  1                                  10    
+SEQRES   1 A   94  GLY SER SER GLY SER SER GLY MET ALA LEU GLU GLN THR          
+SEQRES   2 A   94  LEU LYS LYS ASP TRP TYR SER ILE LEU GLY ALA ASP PRO          
+SEQRES   3 A   94  SER ALA ASN MET SER ASP LEU LYS GLN LYS TYR GLN LYS          
+SEQRES   4 A   94  LEU ILE LEU LEU TYR HIS PRO ASP LYS GLN SER ALA ASP          
+SEQRES   5 A   94  VAL PRO ALA GLY THR MET GLU GLU CYS MET GLN LYS PHE          
+SEQRES   6 A   94  ILE GLU ILE ASP GLN ALA TRP LYS ILE LEU GLY ASN GLU          
+SEQRES   7 A   94  GLU THR LYS LYS LYS TYR ASP LEU GLN ARG SER GLY PRO          
+SEQRES   8 A   94  SER SER GLY                                                  
+DBREF  1WJZ A    8    88  UNP    Q91ZF0   ZCSL3_MOUSE      1     81             

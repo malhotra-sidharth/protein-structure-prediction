@@ -1,0 +1,21 @@
+HELIX    1   1 ASP A  153  GLY A  173  1                                  21    
+HELIX    2   2 GLY A  184  LEU A  216  1                                  33    
+HELIX    3   3 ASP A  223  PHE A  235  1                                  13    
+HELIX    4   4 ASN A  241  VAL A  262  1                                  22    
+HELIX    5   5 GLN A  264  LYS A  283  1                                  20    
+HELIX    6   6 LYS A  283  GLN A  290  1                                   8    
+HELIX    7   7 GLY A  292  PHE A  300  1                                   9    
+SEQRES   1 A  162  GLY PRO LEU GLY SER GLU ASP ASP LEU TYR ARG GLN SER          
+SEQRES   2 A  162  LEU GLU ILE ILE SER ARG TYR LEU ARG GLU GLN ALA THR          
+SEQRES   3 A  162  GLY SER LYS ASP SER LYS PRO LEU GLY GLU ALA GLY ALA          
+SEQRES   4 A  162  ALA GLY ARG ARG ALA LEU GLU THR LEU ARG ARG VAL GLY          
+SEQRES   5 A  162  ASP GLY VAL GLN ARG ASN HIS GLU THR ALA PHE GLN GLY          
+SEQRES   6 A  162  MET LEU ARG LYS LEU ASP ILE LYS ASN GLU GLY ASP VAL          
+SEQRES   7 A  162  LYS SER PHE SER ARG VAL MET VAL HIS VAL PHE LYS ASP          
+SEQRES   8 A  162  GLY VAL THR ASN TRP GLY ARG ILE VAL THR LEU ILE SER          
+SEQRES   9 A  162  PHE GLY ALA PHE VAL ALA LYS HIS LEU LYS SER VAL ASN          
+SEQRES  10 A  162  GLN GLU SER PHE ILE GLU PRO LEU ALA GLU THR ILE THR          
+SEQRES  11 A  162  ASP VAL LEU VAL ARG THR LYS ARG ASP TRP LEU VAL LYS          
+SEQRES  12 A  162  GLN ARG GLY TRP ASP GLY PHE VAL GLU PHE PHE HIS VAL          
+SEQRES  13 A  162  GLN ASP LEU GLU GLY GLY                                      
+DBREF  1WSX A  152   308  UNP    P97287   MCL1_MOUSE     152    308             

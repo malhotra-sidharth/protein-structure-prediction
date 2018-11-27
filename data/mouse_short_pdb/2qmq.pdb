@@ -1,0 +1,37 @@
+HELIX    1   1 ASN A   74  ARG A   84  1                                  11    
+HELIX    2   2 PHE A   85  GLN A   93  1                                   9    
+HELIX    3   3 SER A  120  MET A  127  1                                   8    
+HELIX    4   4 MET A  127  ASN A  136  1                                  10    
+HELIX    5   5 GLY A  146  HIS A  159  1                                  14    
+HELIX    6   6 GLY A  177  LEU A  189  1                                  13    
+HELIX    7   7 SER A  192  PHE A  202  1                                  11    
+HELIX    8   8 SER A  203  GLY A  209  1                                   7    
+HELIX    9   9 SER A  211  HIS A  223  1                                  13    
+HELIX   10  10 ASN A  226  ASN A  239  1                                  14    
+HELIX   11  11 HIS A  267  LEU A  278  1                                  12    
+HELIX   12  12 ASP A  279  THR A  281  5                                   3    
+HELIX   13  13 GLN A  294  GLN A  299  1                                   6    
+HELIX   14  14 GLN A  299  GLN A  312  1                                  14    
+SEQRES   1 A  286  MET GLY SER ASP LYS ILE HIS HIS HIS HIS HIS HIS THR          
+SEQRES   2 A  286  HIS SER VAL GLU THR PRO TYR GLY SER VAL THR PHE THR          
+SEQRES   3 A  286  VAL TYR GLY THR PRO LYS PRO LYS ARG PRO ALA ILE PHE          
+SEQRES   4 A  286  THR TYR HIS ASP VAL GLY LEU ASN TYR LYS SER CYS PHE          
+SEQRES   5 A  286  GLN PRO LEU PHE ARG PHE GLY ASP MET GLN GLU ILE ILE          
+SEQRES   6 A  286  GLN ASN PHE VAL ARG VAL HIS VAL ASP ALA PRO GLY MET          
+SEQRES   7 A  286  GLU GLU GLY ALA PRO VAL PHE PRO LEU GLY TYR GLN TYR          
+SEQRES   8 A  286  PRO SER LEU ASP GLN LEU ALA ASP MET ILE PRO CYS ILE          
+SEQRES   9 A  286  LEU GLN TYR LEU ASN PHE SER THR ILE ILE GLY VAL GLY          
+SEQRES  10 A  286  VAL GLY ALA GLY ALA TYR ILE LEU SER ARG TYR ALA LEU          
+SEQRES  11 A  286  ASN HIS PRO ASP THR VAL GLU GLY LEU VAL LEU ILE ASN          
+SEQRES  12 A  286  ILE ASP PRO ASN ALA LYS GLY TRP MET ASP TRP ALA ALA          
+SEQRES  13 A  286  HIS LYS LEU THR GLY LEU THR SER SER ILE PRO ASP MET          
+SEQRES  14 A  286  ILE LEU GLY HIS LEU PHE SER GLN GLU GLU LEU SER GLY          
+SEQRES  15 A  286  ASN SER GLU LEU ILE GLN LYS TYR ARG GLY ILE ILE GLN          
+SEQRES  16 A  286  HIS ALA PRO ASN LEU GLU ASN ILE GLU LEU TYR TRP ASN          
+SEQRES  17 A  286  SER TYR ASN ASN ARG ARG ASP LEU ASN PHE GLU ARG GLY          
+SEQRES  18 A  286  GLY GLU THR THR LEU LYS CYS PRO VAL MET LEU VAL VAL          
+SEQRES  19 A  286  GLY ASP GLN ALA PRO HIS GLU ASP ALA VAL VAL GLU CYS          
+SEQRES  20 A  286  ASN SER LYS LEU ASP PRO THR GLN THR SER PHE LEU LYS          
+SEQRES  21 A  286  MET ALA ASP SER GLY GLY GLN PRO GLN LEU THR GLN PRO          
+SEQRES  22 A  286  GLY LYS LEU THR GLU ALA PHE LYS TYR PHE LEU GLN GLY          
+DBREF  2QMQ A   40   313  UNP    Q9QYG0   NDRG2_MOUSE     40    313             

@@ -1,0 +1,59 @@
+KEYWDS    HELIX, PROTEIN-NUCLEOSIDE TRIPHOSPHATE COMPLEX, SUBSTRATE COMPLEX,    
+HELIX    1   1 THR A   30  ALA A   43  1                                  14    
+HELIX    2   2 GLN A   52  GLN A   72  1                                  21    
+HELIX    3   3 LYS A   87  CYS A  110  1                                  24    
+HELIX    4   4 ASP A  113  SER A  120  1                                   8    
+HELIX    5   5 THR B   30  ARG B   45  1                                  16    
+HELIX    6   6 GLN B   52  TRP B   73  1                                  22    
+HELIX    7   7 GLY B   80  TRP B   84  5                                   5    
+HELIX    8   8 PRO B   85  CYS B  110  1                                  26    
+HELIX    9   9 PRO B  115  SER B  120  1                                   6    
+HELIX   10  10 THR C   30  ALA C   39  1                                  10    
+HELIX   11  11 GLN C   52  LEU C   70  1                                  19    
+HELIX   12  12 GLY C   80  TRP C   84  5                                   5    
+HELIX   13  13 PRO C   85  ARG C  109  1                                  25    
+HELIX   14  14 PRO C  115  SER C  120  1                                   6    
+HELIX   15  15 THR D   30  ALA D   43  1                                  14    
+HELIX   16  16 GLN D   52  GLU D   69  1                                  18    
+HELIX   17  17 PRO D   85  HIS D  111  1                                  27    
+HELIX   18  18 ASP D  113  ASP D  123  1                                  11    
+SEQRES   1 A  111  GLY PRO LEU GLY SER ARG PRO PHE ARG PHE SER PRO GLU          
+SEQRES   2 A  111  PRO THR LEU GLU ASP ILE ARG ARG LEU HIS ALA GLU PHE          
+SEQRES   3 A  111  ALA ALA GLU ARG ASP TRP GLU GLN PHE HIS GLN PRO ARG          
+SEQRES   4 A  111  ASN LEU LEU LEU ALA LEU VAL GLY GLU VAL GLY GLU LEU          
+SEQRES   5 A  111  ALA GLU LEU PHE GLN TRP LYS SER ASP THR GLU PRO GLY          
+SEQRES   6 A  111  PRO GLN ALA TRP PRO PRO LYS GLU ARG ALA ALA LEU GLN          
+SEQRES   7 A  111  GLU GLU LEU SER ASP VAL LEU ILE TYR LEU VAL ALA LEU          
+SEQRES   8 A  111  ALA ALA ARG CYS HIS VAL ASP LEU PRO GLN ALA VAL ILE          
+SEQRES   9 A  111  SER LYS MET ASP THR ASN ARG                                  
+SEQRES   1 B  111  GLY PRO LEU GLY SER ARG PRO PHE ARG PHE SER PRO GLU          
+SEQRES   2 B  111  PRO THR LEU GLU ASP ILE ARG ARG LEU HIS ALA GLU PHE          
+SEQRES   3 B  111  ALA ALA GLU ARG ASP TRP GLU GLN PHE HIS GLN PRO ARG          
+SEQRES   4 B  111  ASN LEU LEU LEU ALA LEU VAL GLY GLU VAL GLY GLU LEU          
+SEQRES   5 B  111  ALA GLU LEU PHE GLN TRP LYS SER ASP THR GLU PRO GLY          
+SEQRES   6 B  111  PRO GLN ALA TRP PRO PRO LYS GLU ARG ALA ALA LEU GLN          
+SEQRES   7 B  111  GLU GLU LEU SER ASP VAL LEU ILE TYR LEU VAL ALA LEU          
+SEQRES   8 B  111  ALA ALA ARG CYS HIS VAL ASP LEU PRO GLN ALA VAL ILE          
+SEQRES   9 B  111  SER LYS MET ASP THR ASN ARG                                  
+SEQRES   1 C  111  GLY PRO LEU GLY SER ARG PRO PHE ARG PHE SER PRO GLU          
+SEQRES   2 C  111  PRO THR LEU GLU ASP ILE ARG ARG LEU HIS ALA GLU PHE          
+SEQRES   3 C  111  ALA ALA GLU ARG ASP TRP GLU GLN PHE HIS GLN PRO ARG          
+SEQRES   4 C  111  ASN LEU LEU LEU ALA LEU VAL GLY GLU VAL GLY GLU LEU          
+SEQRES   5 C  111  ALA GLU LEU PHE GLN TRP LYS SER ASP THR GLU PRO GLY          
+SEQRES   6 C  111  PRO GLN ALA TRP PRO PRO LYS GLU ARG ALA ALA LEU GLN          
+SEQRES   7 C  111  GLU GLU LEU SER ASP VAL LEU ILE TYR LEU VAL ALA LEU          
+SEQRES   8 C  111  ALA ALA ARG CYS HIS VAL ASP LEU PRO GLN ALA VAL ILE          
+SEQRES   9 C  111  SER LYS MET ASP THR ASN ARG                                  
+SEQRES   1 D  111  GLY PRO LEU GLY SER ARG PRO PHE ARG PHE SER PRO GLU          
+SEQRES   2 D  111  PRO THR LEU GLU ASP ILE ARG ARG LEU HIS ALA GLU PHE          
+SEQRES   3 D  111  ALA ALA GLU ARG ASP TRP GLU GLN PHE HIS GLN PRO ARG          
+SEQRES   4 D  111  ASN LEU LEU LEU ALA LEU VAL GLY GLU VAL GLY GLU LEU          
+SEQRES   5 D  111  ALA GLU LEU PHE GLN TRP LYS SER ASP THR GLU PRO GLY          
+SEQRES   6 D  111  PRO GLN ALA TRP PRO PRO LYS GLU ARG ALA ALA LEU GLN          
+SEQRES   7 D  111  GLU GLU LEU SER ASP VAL LEU ILE TYR LEU VAL ALA LEU          
+SEQRES   8 D  111  ALA ALA ARG CYS HIS VAL ASP LEU PRO GLN ALA VAL ILE          
+SEQRES   9 D  111  SER LYS MET ASP THR ASN ARG                                  
+DBREF  2OIG A   21   126  UNP    Q9QY93   Q9QY93_MOUSE    21    126             
+DBREF  2OIG B   21   126  UNP    Q9QY93   Q9QY93_MOUSE    21    126             
+DBREF  2OIG C   21   126  UNP    Q9QY93   Q9QY93_MOUSE    21    126             
+DBREF  2OIG D   21   126  UNP    Q9QY93   Q9QY93_MOUSE    21    126             

@@ -1,0 +1,52 @@
+HELIX    1   1 GLN A   14  GLN A   32  1                                  19    
+HELIX    2   2 THR A   36  ASP A   54  1                                  19    
+HELIX    3   3 LYS A   56  SER A   82  1                                  27    
+HELIX    4   4 ASP A   85  CYS A  104  1                                  20    
+HELIX    5   5 PRO A  108  PRO A  110  5                                   3    
+HELIX    6   6 PHE A  111  VAL A  116  1                                   6    
+HELIX    7   7 SER A  133  ILE A  147  1                                  15    
+HELIX    8   8 ILE A  147  LEU A  168  1                                  22    
+HELIX    9   9 SER A  174  LEU A  187  1                                  14    
+HELIX   10  10 LEU A  195  ASN A  201  1                                   7    
+HELIX   11  11 ASN A  201  LEU A  249  1                                  49    
+HELIX   12  12 ASN A  256  VAL A  270  1                                  15    
+HELIX   13  13 PHE A  273  ALA A  279  1                                   7    
+HELIX   14  14 GLU A  280  ARG A  287  1                                   8    
+HELIX   15  15 GLU A  289  ASP A  301  1                                  13    
+HELIX   16  16 ILE A  307  ALA A  330  1                                  24    
+HELIX   17  17 GLU A  331  ILE A  333  5                                   3    
+HELIX   18  18 ASP A  336  GLN A  360  1                                  25    
+HELIX   19  19 ASP A  362  PHE A  383  1                                  22    
+SEQRES   1 A  391  MET ALA THR SER ASN LEU LEU LYS ASN LYS GLY SER LEU          
+SEQRES   2 A  391  GLN PHE GLU ASP LYS TRP ASP PHE MET HIS PRO ILE VAL          
+SEQRES   3 A  391  LEU LYS LEU LEU ARG GLN GLU SER VAL THR LYS GLN GLN          
+SEQRES   4 A  391  TRP PHE ASP LEU PHE SER ASP VAL HIS ALA VAL CYS LEU          
+SEQRES   5 A  391  TRP ASP ASP LYS GLY SER SER LYS ILE HIS GLN ALA LEU          
+SEQRES   6 A  391  LYS GLU ASP ILE LEU GLU PHE ILE LYS GLN ALA GLN ALA          
+SEQRES   7 A  391  ARG VAL LEU SER HIS GLN ASP ASP THR ALA LEU LEU LYS          
+SEQRES   8 A  391  ALA TYR ILE VAL GLU TRP ARG LYS PHE PHE THR GLN CYS          
+SEQRES   9 A  391  ASP ILE LEU PRO LYS PRO PHE CYS GLN LEU GLU VAL THR          
+SEQRES  10 A  391  LEU LEU GLY LYS GLN SER SER ASN LYS LYS SER ASN MET          
+SEQRES  11 A  391  GLU ASP SER ILE VAL ARG LYS LEU MET LEU ASP THR TRP          
+SEQRES  12 A  391  ASN GLU SER ILE PHE SER ASN ILE LYS ASN ARG LEU GLN          
+SEQRES  13 A  391  ASP SER ALA MET LYS LEU VAL HIS ALA GLU ARG LEU GLY          
+SEQRES  14 A  391  GLU ALA PHE ASP SER GLN LEU VAL ILE GLY VAL ARG GLU          
+SEQRES  15 A  391  SER TYR VAL ASN LEU CYS SER ASN PRO GLU ASP LYS LEU          
+SEQRES  16 A  391  GLN ILE TYR ARG ASP ASN PHE GLU LYS ALA TYR LEU ASP          
+SEQRES  17 A  391  SER THR GLU ARG PHE TYR ARG THR GLN ALA PRO SER TYR          
+SEQRES  18 A  391  LEU GLN GLN ASN GLY VAL GLN ASN TYR MET LYS TYR ALA          
+SEQRES  19 A  391  ASP ALA LYS LEU LYS GLU GLU GLU LYS ARG ALA LEU ARG          
+SEQRES  20 A  391  TYR LEU GLU THR ARG ARG GLU CYS ASN SER VAL GLU ALA          
+SEQRES  21 A  391  LEU MET GLU CYS CYS VAL ASN ALA LEU VAL THR SER PHE          
+SEQRES  22 A  391  LYS GLU THR ILE LEU ALA GLU CYS GLN GLY MET ILE LYS          
+SEQRES  23 A  391  ARG ASN GLU THR GLU LYS LEU HIS LEU MET PHE SER LEU          
+SEQRES  24 A  391  MET ASP LYS VAL PRO ASN GLY ILE GLU PRO MET LEU LYS          
+SEQRES  25 A  391  ASP LEU GLU GLU HIS ILE ILE SER ALA GLY LEU ALA ASP          
+SEQRES  26 A  391  MET VAL ALA ALA ALA GLU THR ILE THR THR ASP SER GLU          
+SEQRES  27 A  391  LYS TYR ARG GLU GLN LEU ASP THR LEU PHE ASN ARG PHE          
+SEQRES  28 A  391  SER LYS LEU VAL LYS GLU ALA PHE GLN ASP ASP PRO ARG          
+SEQRES  29 A  391  PHE LEU THR ALA ARG ASP LYS ALA TYR LYS ALA VAL VAL          
+SEQRES  30 A  391  ASN ASP ALA THR ILE PHE LYS ALA GLU ASN LEU TYR PHE          
+SEQRES  31 A  391  GLN                                                          
+DBREF  2WZK A    1   386  UNP    Q9D5V5   CUL5_MOUSE       1    386             
+DBREF  2WZK A  387   391  PDB    2WZK     2WZK           387    391             

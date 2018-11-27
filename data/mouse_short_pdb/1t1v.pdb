@@ -1,0 +1,26 @@
+HELIX    1   1 SER A   14  LYS A   31  1                                  18    
+HELIX    2   2 ASP A   43  ALA A   54  1                                  12    
+HELIX    3   3 TYR A   74  GLN A   83  1                                  10    
+HELIX    4   4 THR A   85  LEU A   90  1                                   6    
+HELIX    5   5 SER B   14  LYS B   31  1                                  18    
+HELIX    6   6 ASP B   43  ALA B   54  1                                  12    
+HELIX    7   7 TYR B   74  GLN B   83  1                                  10    
+HELIX    8   8 THR B   85  LEU B   90  1                                   6    
+SEQRES   1 A   93  MET SER GLY LEU ARG VAL TYR SER THR SER VAL THR GLY          
+SEQRES   2 A   93  SER ARG GLU ILE LYS SER GLN GLN SER GLU VAL THR ARG          
+SEQRES   3 A   93  ILE LEU ASP GLY LYS ARG ILE GLN TYR GLN LEU VAL ASP          
+SEQRES   4 A   93  ILE SER GLN ASP ASN ALA LEU ARG ASP GLU MET ARG THR          
+SEQRES   5 A   93  LEU ALA GLY ASN PRO LYS ALA THR PRO PRO GLN ILE VAL          
+SEQRES   6 A   93  ASN GLY ASN HIS TYR CYS GLY ASP TYR GLU LEU PHE VAL          
+SEQRES   7 A   93  GLU ALA VAL GLU GLN ASP THR LEU GLN GLU PHE LEU LYS          
+SEQRES   8 A   93  LEU ALA                                                      
+SEQRES   1 B   93  MET SER GLY LEU ARG VAL TYR SER THR SER VAL THR GLY          
+SEQRES   2 B   93  SER ARG GLU ILE LYS SER GLN GLN SER GLU VAL THR ARG          
+SEQRES   3 B   93  ILE LEU ASP GLY LYS ARG ILE GLN TYR GLN LEU VAL ASP          
+SEQRES   4 B   93  ILE SER GLN ASP ASN ALA LEU ARG ASP GLU MET ARG THR          
+SEQRES   5 B   93  LEU ALA GLY ASN PRO LYS ALA THR PRO PRO GLN ILE VAL          
+SEQRES   6 B   93  ASN GLY ASN HIS TYR CYS GLY ASP TYR GLU LEU PHE VAL          
+SEQRES   7 B   93  GLU ALA VAL GLU GLN ASP THR LEU GLN GLU PHE LEU LYS          
+SEQRES   8 B   93  LEU ALA                                                      
+DBREF  1T1V A    1    93  UNP    Q91VW3   SH3L3_MOUSE      1     93             
+DBREF  1T1V B    1    93  UNP    Q91VW3   SH3L3_MOUSE      1     93             

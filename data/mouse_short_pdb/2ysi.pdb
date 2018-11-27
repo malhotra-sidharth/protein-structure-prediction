@@ -1,0 +1,5 @@
+SEQRES   1 A   40  GLY SER SER GLY SER SER GLY THR GLU GLU ILE TRP VAL          
+SEQRES   2 A   40  GLU ASN LYS THR PRO ASP GLY LYS VAL TYR TYR TYR ASN          
+SEQRES   3 A   40  ALA ARG THR ARG GLU SER ALA TRP THR LYS PRO ASP GLY          
+SEQRES   4 A   40  VAL                                                          
+DBREF  2YSI A    8    40  UNP    Q8CGF7   TCRG1_MOUSE    133    165             

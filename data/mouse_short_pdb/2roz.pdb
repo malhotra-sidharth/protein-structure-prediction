@@ -1,0 +1,20 @@
+REMARK 650 HELIX                                                                
+HELIX    1   1 PRO A    6  GLN A   15  1                                  10    
+HELIX    2   2 MET B   34  SER B   47  1                                  14    
+HELIX    3   3 ALA B  120  CYS B  130  1                                  11    
+SEQRES   1 A   32  ASP ALA ALA VAL THR PRO GLU GLU ARG HIS LEU SER LYS          
+SEQRES   2 A   32  MET GLN GLN ASN GLY TYR GLU ASN PRO THR TYR LYS PHE          
+SEQRES   3 A   32  PHE GLU GLN MET GLN ASN                                      
+SEQRES   1 B  136  GLY SER SER GLY SER SER GLY PRO THR PRO LYS THR GLU          
+SEQRES   2 B  136  LEU VAL GLN LYS PHE ARG VAL GLN TYR LEU GLY MET LEU          
+SEQRES   3 B  136  PRO VAL ASP ARG PRO VAL GLY MET ASP THR LEU ASN SER          
+SEQRES   4 B  136  ALA ILE GLU ASN LEU MET THR SER SER SER LYS GLU ASP          
+SEQRES   5 B  136  TRP PRO SER VAL ASN MET ASN VAL ALA ASP ALA THR VAL          
+SEQRES   6 B  136  THR VAL ILE SER GLU LYS ASN GLU GLU GLU VAL LEU VAL          
+SEQRES   7 B  136  GLU CYS ARG VAL ARG PHE LEU SER PHE MET GLY VAL GLY          
+SEQRES   8 B  136  LYS ASP VAL HIS THR PHE ALA PHE ILE MET ASP THR GLY          
+SEQRES   9 B  136  ASN GLN ARG PHE GLU CYS HIS VAL PHE TRP CYS GLU PRO          
+SEQRES  10 B  136  ASN ALA ALA ASN VAL SER GLU ALA VAL GLN ALA ALA CYS          
+SEQRES  11 B  136  SER GLY PRO SER SER GLY                                      
+DBREF  2ROZ A    1    32  UNP    P12023   A4_MOUSE       739    770             
+DBREF  2ROZ B    8   130  UNP    Q9DBR4   APBB2_MOUSE    582    704             

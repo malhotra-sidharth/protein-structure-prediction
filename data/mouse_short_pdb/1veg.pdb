@@ -1,0 +1,12 @@
+KEYWDS    UBIQUITIN ASSOCIATED DOMAIN, UBA DOMAIN, THREE HELIX BUNDLE,          
+HELIX    1   1 SER A   29  GLY A   40  1                                  12    
+HELIX    2   2 ASP A   42  PHE A   53  1                                  12    
+HELIX    3   3 ASN A   56  GLY A   68  1                                  13    
+SEQRES   1 A   83  GLY SER SER GLY SER SER GLY ASN PRO HIS MET TRP TRP          
+SEQRES   2 A   83  LEU GLN ASP ALA ASP PRO GLU ASN ASN SER ARG GLN ALA          
+SEQRES   3 A   83  SER PRO SER GLN GLU SER ILE ASN GLN LEU VAL TYR MET          
+SEQRES   4 A   83  GLY PHE ASP THR VAL VAL ALA GLU ALA ALA LEU ARG VAL          
+SEQRES   5 A   83  PHE GLY GLY ASN VAL GLN LEU ALA ALA GLN THR LEU ALA          
+SEQRES   6 A   83  HIS HIS GLY GLY SER LEU PRO PRO ASP LEU GLN PHE SER          
+SEQRES   7 A   83  GLY PRO SER SER GLY                                          
+DBREF  1VEG A    8    77  UNP    P54729   NUB1_MOUSE     469    538             

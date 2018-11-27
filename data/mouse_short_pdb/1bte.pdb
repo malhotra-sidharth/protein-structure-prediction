@@ -1,0 +1,23 @@
+HELIX    1   1 TRP A   18  ASP A   21  1                                   4    
+HELIX    2   2 CYS A   91  GLU A   93  5                                   3    
+HELIX    3   3 TRP B   18  ASP B   21  1                                   4    
+HELIX    4   4 CYS B   91  GLU B   93  5                                   3    
+REVDAT   2 2                   4       ATOM   SOURCE SEQRES                     
+SEQRES   1 A   97  SER GLU THR GLN GLU CYS LEU PHE PHE ASN ALA ASN TRP          
+SEQRES   2 A   97  GLU ARG ASP ARG THR ASN GLN THR GLY VAL GLU PRO CYS          
+SEQRES   3 A   97  TYR GLY ASP LYS ASP LYS ARG ARG HIS CYS PHE ALA THR          
+SEQRES   4 A   97  TRP LYS ASN ILE SER GLY SER ILE GLU ILE VAL LYS GLN          
+SEQRES   5 A   97  GLY CYS TRP LEU ASP ASP ILE ASN CYS TYR ASP ARG THR          
+SEQRES   6 A   97  ASP CYS ILE GLU LYS LYS ASP SER PRO GLU VAL TYR PHE          
+SEQRES   7 A   97  CYS CYS CYS GLU GLY ASN MET CYS ASN GLU LYS PHE SER          
+SEQRES   8 A   97  TYR PHE PRO GLU MET GLU                                      
+SEQRES   1 B   97  SER GLU THR GLN GLU CYS LEU PHE PHE ASN ALA ASN TRP          
+SEQRES   2 B   97  GLU ARG ASP ARG THR ASN GLN THR GLY VAL GLU PRO CYS          
+SEQRES   3 B   97  TYR GLY ASP LYS ASP LYS ARG ARG HIS CYS PHE ALA THR          
+SEQRES   4 B   97  TRP LYS ASN ILE SER GLY SER ILE GLU ILE VAL LYS GLN          
+SEQRES   5 B   97  GLY CYS TRP LEU ASP ASP ILE ASN CYS TYR ASP ARG THR          
+SEQRES   6 B   97  ASP CYS ILE GLU LYS LYS ASP SER PRO GLU VAL TYR PHE          
+SEQRES   7 B   97  CYS CYS CYS GLU GLY ASN MET CYS ASN GLU LYS PHE SER          
+SEQRES   8 B   97  TYR PHE PRO GLU MET GLU                                      
+DBREF  1BTE A    6   102  UNP    P27038   ACVR2_MOUSE     25    121             
+DBREF  1BTE B    6   102  UNP    P27038   ACVR2_MOUSE     25    121             

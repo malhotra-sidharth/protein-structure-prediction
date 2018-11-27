@@ -1,0 +1,15 @@
+HELIX    1   1 ASP A  316  ARG A  322  1                                   7    
+HELIX    2   2 PRO A  325  SER A  327  5                                   3    
+HELIX    3   3 GLU A  328  HIS A  336  1                                   9    
+HELIX    4   4 ASP A  340  LYS A  349  1                                  10    
+SEQRES   1 A  124  MET GLY SER SER HIS HIS HIS HIS HIS HIS SER SER GLY          
+SEQRES   2 A  124  LEU VAL PRO ARG GLY SER HIS MET HIS GLU ALA ILE GLY          
+SEQRES   3 A  124  SER GLY ASP LEU ASP LEU ARG SER ALA PHE ARG ARG THR          
+SEQRES   4 A  124  SER LEU ALA GLY ALA GLY ARG ARG THR SER ASP SER HIS          
+SEQRES   5 A  124  GLU ASP ALA GLY THR LEU ASP PHE SER SER LEU LEU LYS          
+SEQRES   6 A  124  LYS ARG ASP SER PHE ARG ARG ASP SER LYS LEU GLU ALA          
+SEQRES   7 A  124  PRO ALA GLU GLU ASP VAL TRP GLU ILE LEU ARG GLN ALA          
+SEQRES   8 A  124  PRO PRO SER GLU TYR GLU ARG ILE ALA PHE GLN HIS GLY          
+SEQRES   9 A  124  VAL THR ASP LEU ARG GLY MET LEU LYS ARG LEU LYS GLY          
+SEQRES  10 A  124  MET LYS GLN ASP GLU LYS LYS                                  
+DBREF  2LHU A  248   357  UNP    A9JR55   A9JR55_MOUSE   254    357             

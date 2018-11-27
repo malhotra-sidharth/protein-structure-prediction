@@ -1,0 +1,21 @@
+HELIX    1   1 LEU A   22  ASN A   24  5                                   3    
+HELIX    2   2 MET A   25  GLU A   33  1                                   9    
+HELIX    3   3 THR A   53  ALA A   60  1                                   8    
+HELIX    4   4 THR A   77  GLY A   95  1                                  19    
+HELIX    5   5 SER A  107  ASN A  122  1                                  16    
+HELIX    6   6 SER A  124  ARG A  136  1                                  13    
+HELIX    7   7 ARG A  142  ALA A  161  1                                  20    
+SEQRES   1 A  157  TRP TYR HIS ARG ILE ASP HIS THR VAL LEU LEU GLY ALA          
+SEQRES   2 A  157  LEU PRO LEU LYS ASN MET THR ARG ARG LEU VAL LEU ASP          
+SEQRES   3 A  157  GLU ASN VAL ARG GLY VAL ILE THR MET ASN GLU GLU TYR          
+SEQRES   4 A  157  GLU THR ARG PHE LEU CYS ASN THR SER LYS GLU TRP LYS          
+SEQRES   5 A  157  LYS ALA GLY VAL GLU GLN LEU ARG LEU SER THR VAL ASP          
+SEQRES   6 A  157  MET THR GLY VAL PRO THR LEU ALA ASN LEU HIS LYS GLY          
+SEQRES   7 A  157  VAL GLN PHE ALA LEU LYS TYR GLN ALA LEU GLY GLN CYS          
+SEQRES   8 A  157  VAL TYR VAL HIS CYS LYS ALA GLY ARG SER ARG SER ALA          
+SEQRES   9 A  157  THR MET VAL ALA ALA TYR LEU ILE GLN VAL HIS ASN TRP          
+SEQRES  10 A  157  SER PRO GLU GLU ALA ILE GLU ALA ILE ALA LYS ILE ARG          
+SEQRES  11 A  157  SER HIS ILE SER ILE ARG PRO SER GLN LEU GLU VAL LEU          
+SEQRES  12 A  157  LYS GLU PHE HIS LYS GLU ILE THR ALA ARG ALA ALA LYS          
+SEQRES  13 A  157  ASN                                                          
+DBREF  3RGO A    7   163  UNP    Q66GT5   PTPM1_MOUSE     37    193             

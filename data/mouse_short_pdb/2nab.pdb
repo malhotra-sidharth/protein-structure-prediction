@@ -1,0 +1,7 @@
+HELIX    1   1 TRP A   23  SER A   33  1                                  11    
+HELIX    2   2 ARG A   34  GLN A   37  5                                   4    
+SEQRES   1 A   41  GLY ALA MET GLU VAL GLN THR SER GLN LYS SER TYR VAL          
+SEQRES   2 A   41  CYS PRO ASN CYS GLY LYS ILE PHE ARG TRP ARG VAL ASN          
+SEQRES   3 A   41  PHE ILE ARG HIS LEU ARG SER ARG ARG GLU GLN LYS PRO          
+SEQRES   4 A   41  HIS LYS                                                      
+DBREF  2NAB A    4    41  UNP    Q5SXI5   ZN496_MOUSE    397    434             

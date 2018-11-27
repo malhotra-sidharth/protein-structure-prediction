@@ -1,0 +1,18 @@
+HELIX    1   1 TRP A    4  THR A    9  1                                   6    
+HELIX    2   2 GLU A   11  LYS A   19  1                                   9    
+HELIX    3   3 SER A   26  LEU A   30  5                                   5    
+HELIX    4   4 GLU A   51  LYS A   53  5                                   3    
+HELIX    5   5 SER A   72  THR A   77  1                                   6    
+HELIX    6   6 LYS A  112  GLN A  116  5                                   5    
+SEQRES   1 A  143  MET ALA ASP TRP GLN LYS LYS LEU THR PRO GLU GLN PHE          
+SEQRES   2 A  143  TYR VAL THR ARG GLU LYS GLY THR GLU ALA PRO PHE SER          
+SEQRES   3 A  143  GLY MET TYR LEU ASN ASN LYS GLU THR GLY MET TYR HIS          
+SEQRES   4 A  143  CYS VAL CYS CYS ASP SER PRO LEU PHE SER SER GLU LYS          
+SEQRES   5 A  143  LYS TYR CYS SER GLY THR GLY TRP PRO SER PHE SER GLU          
+SEQRES   6 A  143  ALA TYR GLY SER LYS GLY SER ASP GLU SER HIS THR GLY          
+SEQRES   7 A  143  ILE LEU ARG ARG LEU ASP THR SER LEU GLY CYS PRO ARG          
+SEQRES   8 A  143  MET GLU VAL VAL CYS LYS GLN CYS GLU ALA HIS LEU GLY          
+SEQRES   9 A  143  HIS VAL PHE PRO ASP GLY PRO LYS PRO THR GLY GLN ARG          
+SEQRES  10 A  143  PHE CYS ILE ASN SER VAL ALA LEU LYS PHE LYS PRO SER          
+SEQRES  11 A  143  LYS PRO ALA ALA ALA LEU GLU HIS HIS HIS HIS HIS HIS          
+DBREF  2L1U A    2   132  UNP    Q78J03   MSRB2_MOUSE     45    175             

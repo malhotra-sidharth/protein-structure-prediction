@@ -1,0 +1,15 @@
+HELIX    1   1 GLY A   30  LEU A   44  1                                  15    
+HELIX    2   2 SER A   75  GLU A   78  5                                   4    
+HELIX    3   3 SER A   81  LEU A   93  1                                  13    
+HELIX    4   4 LEU A   93  ALA A   98  1                                   6    
+SEQRES   1 A  123  GLY SER SER GLY SER SER GLY MET ALA THR ARG SER CYS          
+SEQRES   2 A  123  VAL SER ARG GLY SER ALA GLY SER ALA ALA ALA GLY PRO          
+SEQRES   3 A  123  VAL GLU ALA ALA ILE ARG ALA LYS LEU GLU GLN ALA LEU          
+SEQRES   4 A  123  SER PRO GLU VAL LEU GLU LEU ARG ASN GLU SER GLY GLY          
+SEQRES   5 A  123  HIS ALA VAL PRO ALA GLY SER GLU THR HIS PHE ARG VAL          
+SEQRES   6 A  123  ALA VAL VAL SER SER ARG PHE GLU GLY MET SER PRO LEU          
+SEQRES   7 A  123  GLN ARG HIS ARG LEU VAL HIS GLU ALA LEU SER GLU GLU          
+SEQRES   8 A  123  LEU ALA GLY PRO VAL HIS ALA LEU ALA ILE GLN ALA LYS          
+SEQRES   9 A  123  THR PRO ALA GLN TRP ARG GLU ASN PRO GLN LEU ASP ILE          
+SEQRES  10 A  123  SER PRO PRO CYS LEU GLY                                      
+DBREF  1V60 A   13   128  UNP    Q9D8S9   BOLA1_MOUSE     13    128             

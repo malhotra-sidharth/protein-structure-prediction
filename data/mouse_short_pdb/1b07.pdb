@@ -1,0 +1,10 @@
+HELIX    1   1 VAL A  184  TYR A  186  5                                   3    
+REVDAT   2 2                   4       ATOM   SOURCE SEQRES                     
+SEQRES   1 A   65  GLY SER ALA GLU TYR VAL ARG ALA LEU PHE ASP PHE ASN          
+SEQRES   2 A   65  GLY ASN ASP GLU GLU ASP LEU PRO PHE LYS LYS GLY ASP          
+SEQRES   3 A   65  ILE LEU ARG ILE ARG ASP LYS PRO GLU GLU GLN TRP TRP          
+SEQRES   4 A   65  ASN ALA GLU ASP SER GLU GLY LYS ARG GLY MET ILE PRO          
+SEQRES   5 A   65  VAL PRO TYR VAL GLU LYS TYR HIS HIS HIS HIS HIS HIS          
+SEQRES   1 C   12  TYR GLU VAL PRO GLY PRO VAL PRO PRO ARG ARG ARG              
+DBREF  1B07 A  134   190  UNP    Q64010   CRK_MOUSE      134    190             
+DBREF  1B07 C    1    12  PDB    1B07     1B07             1     12             

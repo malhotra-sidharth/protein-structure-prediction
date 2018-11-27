@@ -1,0 +1,4 @@
+SEQRES   1 A   30  MET ASP PRO ASN CYS SER CYS SER THR GLY GLY SER CYS          
+SEQRES   2 A   30  THR CYS THR SER SER CYS ALA CYS LYS ASN CYS LYS CYS          
+SEQRES   3 A   30  THR SER CYS LYS                                              
+DBREF  1DFT A    1    30  UNP    P02802   MT1_MOUSE        1     30             

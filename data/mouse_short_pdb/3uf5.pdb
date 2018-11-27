@@ -1,0 +1,44 @@
+KEYWDS    HEMATOPOIETIC CYTOKINE, RTKIII, FOUR-HELIX BUNDLE, CYTOKINE           
+HELIX    1   1 SER A    4  HIS A    9  5                                   6    
+HELIX    2   2 GLY A   12  SER A   25  1                                  14    
+HELIX    3   3 ASP A   45  THR A   64  1                                  20    
+HELIX    4   4 THR A   71  ASN A   88  1                                  18    
+HELIX    5   5 SER A   89  PHE A   91  5                                   3    
+HELIX    6   6 THR A  109  ASP A  131  1                                  23    
+HELIX    7   7 ASN A  133  LYS A  137  5                                   5    
+HELIX    8   8 CYS A  139  CYS A  146  1                                   8    
+HELIX    9   9 SER B    4  MET B   10  5                                   7    
+HELIX   10  10 GLY B   12  GLN B   26  1                                  15    
+HELIX   11  11 GLN B   40  LEU B   43  5                                   4    
+HELIX   12  12 ASP B   45  THR B   64  1                                  20    
+HELIX   13  13 THR B   71  LEU B   87  1                                  17    
+HELIX   14  14 ASN B   88  PHE B   91  5                                   4    
+HELIX   15  15 THR B  109  ASP B  131  1                                  23    
+HELIX   16  16 ASN B  133  LYS B  137  5                                   5    
+HELIX   17  17 CYS B  139  LYS B  145  1                                   7    
+SEQRES   1 A  153  GLY SER HIS MET LYS GLU VAL SER GLU HIS CYS SER HIS          
+SEQRES   2 A  153  MET ILE GLY ASN GLY HIS LEU LYS VAL LEU GLN GLN LEU          
+SEQRES   3 A  153  ILE ASP SER GLN MET GLU THR SER CYS GLN ILE ALA PHE          
+SEQRES   4 A  153  GLU PHE VAL ASP GLN GLU GLN LEU ASP ASP PRO VAL CYS          
+SEQRES   5 A  153  TYR LEU LYS LYS ALA PHE PHE LEU VAL GLN ASP ILE ILE          
+SEQRES   6 A  153  ASP GLU THR MET ARG PHE LYS ASP ASN THR PRO ASN ALA          
+SEQRES   7 A  153  ASN ALA THR GLU ARG LEU GLN GLU LEU SER ASN ASN LEU          
+SEQRES   8 A  153  ASN SER CYS PHE THR LYS ASP TYR GLU GLU GLN ASN LYS          
+SEQRES   9 A  153  ALA CYS VAL ARG THR PHE HIS GLU THR PRO LEU GLN LEU          
+SEQRES  10 A  153  LEU GLU LYS ILE LYS ASN PHE PHE ASN GLU THR LYS ASN          
+SEQRES  11 A  153  LEU LEU GLU LYS ASP TRP ASN ILE PHE THR LYS ASN CYS          
+SEQRES  12 A  153  ASN ASN SER PHE ALA LYS CYS SER SER ARG                      
+SEQRES   1 B  153  GLY SER HIS MET LYS GLU VAL SER GLU HIS CYS SER HIS          
+SEQRES   2 B  153  MET ILE GLY ASN GLY HIS LEU LYS VAL LEU GLN GLN LEU          
+SEQRES   3 B  153  ILE ASP SER GLN MET GLU THR SER CYS GLN ILE ALA PHE          
+SEQRES   4 B  153  GLU PHE VAL ASP GLN GLU GLN LEU ASP ASP PRO VAL CYS          
+SEQRES   5 B  153  TYR LEU LYS LYS ALA PHE PHE LEU VAL GLN ASP ILE ILE          
+SEQRES   6 B  153  ASP GLU THR MET ARG PHE LYS ASP ASN THR PRO ASN ALA          
+SEQRES   7 B  153  ASN ALA THR GLU ARG LEU GLN GLU LEU SER ASN ASN LEU          
+SEQRES   8 B  153  ASN SER CYS PHE THR LYS ASP TYR GLU GLU GLN ASN LYS          
+SEQRES   9 B  153  ALA CYS VAL ARG THR PHE HIS GLU THR PRO LEU GLN LEU          
+SEQRES  10 B  153  LEU GLU LYS ILE LYS ASN PHE PHE ASN GLU THR LYS ASN          
+SEQRES  11 B  153  LEU LEU GLU LYS ASP TRP ASN ILE PHE THR LYS ASN CYS          
+SEQRES  12 B  153  ASN ASN SER PHE ALA LYS CYS SER SER ARG                      
+DBREF  3UF5 A    1   149  UNP    P07141   CSF1_MOUSE      33    181             
+DBREF  3UF5 B    1   149  UNP    P07141   CSF1_MOUSE      33    181             

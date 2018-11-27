@@ -1,0 +1,27 @@
+HELIX    1   1 SER A    0  LEU A   21  1                                  22    
+HELIX    2   2 SER A   31  LEU A   52  1                                  22    
+HELIX    3   3 LEU A   52  ASP A   57  1                                   6    
+HELIX    4   4 SER A   63  PHE A   79  1                                  17    
+HELIX    5   5 ASN A   85  GLN A  107  1                                  23    
+HELIX    6   6 SER A  113  ASN A  137  1                                  25    
+HELIX    7   7 ASP A  142  PHE A  148  1                                   7    
+HELIX    8   8 SER B   78  ASN B  100  1                                  23    
+SEQRES   1 A  157  GLY PRO LEU GLY SER MET ALA GLU SER GLU LEU MET HIS          
+SEQRES   2 A  157  ILE HIS SER LEU ALA GLU HIS TYR LEU GLN TYR VAL LEU          
+SEQRES   3 A  157  GLN VAL PRO ALA PHE GLU SER ALA PRO SER GLN ALA CYS          
+SEQRES   4 A  157  ARG VAL LEU GLN ARG VAL ALA PHE SER VAL GLN LYS GLU          
+SEQRES   5 A  157  VAL GLU LYS ASN LEU LYS SER TYR LEU ASP ASP PHE HIS          
+SEQRES   6 A  157  VAL GLU SER ILE ASP THR ALA ARG ILE ILE PHE ASN GLN          
+SEQRES   7 A  157  VAL MET GLU LYS GLU PHE GLU ASP GLY ILE ILE ASN TRP          
+SEQRES   8 A  157  GLY ARG ILE VAL THR ILE PHE ALA PHE GLY GLY VAL LEU          
+SEQRES   9 A  157  LEU LYS LYS LEU LYS GLN GLU GLN ILE ALA LEU ASP VAL          
+SEQRES  10 A  157  SER ALA TYR LYS GLN VAL SER SER PHE VAL ALA GLU PHE          
+SEQRES  11 A  157  ILE MET ASN ASN THR GLY GLU TRP ILE ARG GLN ASN GLY          
+SEQRES  12 A  157  GLY TRP GLU ASP GLY PHE ILE LYS LYS PHE GLU PRO LYS          
+SEQRES  13 A  157  SER                                                          
+SEQRES   1 B   34  SER GLU SER GLN GLU GLU ILE ILE HIS ASN ILE ALA ARG          
+SEQRES   2 B   34  HIS LEU ALA GLN ILE GLY ASP GLU MET ASP HIS ASN ILE          
+SEQRES   3 B   34  GLN PRO THR LEU VAL ARG GLN LEU                              
+DBREF  2VOI A   -4     0  PDB    2VOI     2VOI            -4      0             
+DBREF  2VOI A    1   152  UNP    Q07440   B2LA1_MOUSE      1    152             
+DBREF  2VOI B   76   109  UNP    P70444   BID_MOUSE       76    109             

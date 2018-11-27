@@ -1,0 +1,21 @@
+KEYWDS    FIVE BETA-SHEETS BARREL FOLLOWED BY FIVE-HELIX BUNDLE, TRANSFERASE    
+HELIX    1   1 SER A  252  THR A  256  5                                   5    
+HELIX    2   2 ASP A  282  LEU A  287  5                                   6    
+HELIX    3   3 LEU A  289  PHE A  294  1                                   6    
+HELIX    4   4 ASN A  295  LEU A  302  1                                   8    
+HELIX    5   5 LEU A  302  GLY A  321  1                                  20    
+HELIX    6   6 SER A  331  GLY A  345  1                                  15    
+HELIX    7   7 THR A  350  LYS A  356  5                                   7    
+SEQRES   1 A  147  GLY ASP SER THR GLU TYR GLN ASP ASP LYS GLU PHE GLY          
+SEQRES   2 A  147  ILE GLY ASP LEU VAL TRP GLY LYS ILE LYS GLY PHE SER          
+SEQRES   3 A  147  TRP TRP PRO ALA MET VAL VAL SER TRP LYS ALA THR SER          
+SEQRES   4 A  147  LYS ARG GLN ALA MET PRO GLY MET ARG TRP VAL GLN TRP          
+SEQRES   5 A  147  PHE GLY ASP GLY LYS PHE SER GLU ILE SER ALA ASP LYS          
+SEQRES   6 A  147  LEU VAL ALA LEU GLY LEU PHE SER GLN HIS PHE ASN LEU          
+SEQRES   7 A  147  ALA THR PHE ASN LYS LEU VAL SER TYR ARG LYS ALA MET          
+SEQRES   8 A  147  TYR HIS THR LEU GLU LYS ALA ARG VAL ARG ALA GLY LYS          
+SEQRES   9 A  147  THR PHE SER SER SER PRO GLY GLU SER LEU GLU ASP GLN          
+SEQRES  10 A  147  LEU LYS PRO MET LEU GLU TRP ALA HIS GLY GLY PHE LYS          
+SEQRES  11 A  147  PRO THR GLY ILE GLU GLY LEU LYS PRO ASN LYS LYS GLN          
+SEQRES  12 A  147  PRO GLU ASN LYS                                              
+DBREF  1KHC A  219   365  UNP    O88509   DNM3B_MOUSE    219    365             

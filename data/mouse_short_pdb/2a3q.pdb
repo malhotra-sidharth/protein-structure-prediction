@@ -1,0 +1,42 @@
+HELIX    1   1 THR A   30  GLU A   44  1                                  15    
+HELIX    2   2 ASP A   46  GLN A   52  1                                   7    
+HELIX    3   3 GLN A   52  GLN A   72  1                                  21    
+HELIX    4   4 GLY A   80  TRP A   84  5                                   5    
+HELIX    5   5 PRO A   85  CYS A  110  1                                  26    
+HELIX    6   6 ASP A  113  TYR A  129  1                                  17    
+HELIX    7   7 THR B   30  GLU B   44  1                                  15    
+HELIX    8   8 ASP B   46  GLN B   52  1                                   7    
+HELIX    9   9 GLN B   52  GLN B   72  1                                  21    
+HELIX   10  10 GLY B   80  TRP B   84  5                                   5    
+HELIX   11  11 PRO B   85  CYS B  110  1                                  26    
+HELIX   12  12 ASP B  113  TYR B  129  1                                  17    
+SEQRES   1 A  170  MSE SER THR ALA GLY ASP GLY GLU ARG GLY THR VAL GLY          
+SEQRES   2 A  170  GLN GLU ASP SER ALA ALA ALA ARG PRO PHE ARG PHE SER          
+SEQRES   3 A  170  PRO GLU PRO THR LEU GLU ASP ILE ARG ARG LEU HIS ALA          
+SEQRES   4 A  170  GLU PHE ALA ALA GLU ARG ASP TRP GLU GLN PHE HIS GLN          
+SEQRES   5 A  170  PRO ARG ASN LEU LEU LEU ALA LEU VAL GLY GLU VAL GLY          
+SEQRES   6 A  170  GLU LEU ALA GLU LEU PHE GLN TRP LYS SER ASP THR GLU          
+SEQRES   7 A  170  PRO GLY PRO GLN ALA TRP PRO PRO LYS GLU ARG ALA ALA          
+SEQRES   8 A  170  LEU GLN GLU GLU LEU SER ASP VAL LEU ILE TYR LEU VAL          
+SEQRES   9 A  170  ALA LEU ALA ALA ARG CYS HIS VAL ASP LEU PRO GLN ALA          
+SEQRES  10 A  170  VAL ILE SER LYS MSE ASP THR ASN ARG GLN ARG TYR PRO          
+SEQRES  11 A  170  VAL HIS LEU SER ARG GLY SER ALA CYS LYS TYR THR ASP          
+SEQRES  12 A  170  LEU PRO ARG GLY THR ILE SER GLU ASN GLN ALA VAL GLY          
+SEQRES  13 A  170  ALA GLY ASP PRO ALA SER GLU LEU ARG ASP GLN ALA SER          
+SEQRES  14 A  170  THR                                                          
+SEQRES   1 B  170  MSE SER THR ALA GLY ASP GLY GLU ARG GLY THR VAL GLY          
+SEQRES   2 B  170  GLN GLU ASP SER ALA ALA ALA ARG PRO PHE ARG PHE SER          
+SEQRES   3 B  170  PRO GLU PRO THR LEU GLU ASP ILE ARG ARG LEU HIS ALA          
+SEQRES   4 B  170  GLU PHE ALA ALA GLU ARG ASP TRP GLU GLN PHE HIS GLN          
+SEQRES   5 B  170  PRO ARG ASN LEU LEU LEU ALA LEU VAL GLY GLU VAL GLY          
+SEQRES   6 B  170  GLU LEU ALA GLU LEU PHE GLN TRP LYS SER ASP THR GLU          
+SEQRES   7 B  170  PRO GLY PRO GLN ALA TRP PRO PRO LYS GLU ARG ALA ALA          
+SEQRES   8 B  170  LEU GLN GLU GLU LEU SER ASP VAL LEU ILE TYR LEU VAL          
+SEQRES   9 B  170  ALA LEU ALA ALA ARG CYS HIS VAL ASP LEU PRO GLN ALA          
+SEQRES  10 B  170  VAL ILE SER LYS MSE ASP THR ASN ARG GLN ARG TYR PRO          
+SEQRES  11 B  170  VAL HIS LEU SER ARG GLY SER ALA CYS LYS TYR THR ASP          
+SEQRES  12 B  170  LEU PRO ARG GLY THR ILE SER GLU ASN GLN ALA VAL GLY          
+SEQRES  13 B  170  ALA GLY ASP PRO ALA SER GLU LEU ARG ASP GLN ALA SER          
+SEQRES  14 B  170  THR                                                          
+DBREF  2A3Q A    1   170  GB     12963573 NP_075692        1    170             
+DBREF  2A3Q B    1   170  GB     12963573 NP_075692        1    170             

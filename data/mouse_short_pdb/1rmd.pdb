@@ -1,0 +1,17 @@
+HELIX    1   1 CYS A    2  LYS A    4  5                                   3    
+HELIX    2   2 THR A    9  LEU A   11  5                                   3    
+HELIX    3   3 ALA A   18  SER A   23  1                                   6    
+HELIX    4   4 ARG A   47  VAL A   56  1                                  10    
+HELIX    5   5 PRO A   70  ASP A   72  5                                   3    
+HELIX    6   6 LYS A   78  SER A   86  1                                   9    
+HELIX    7   7 LEU A  102  SER A  110  1                                   9    
+SEQRES   1 A  116  ASN CYS SER LYS ILE HIS LEU SER THR LYS LEU LEU ALA          
+SEQRES   2 A  116  VAL ASP PHE PRO ALA HIS PHE VAL LYS SER ILE SER CYS          
+SEQRES   3 A  116  GLN ILE CYS GLU HIS ILE LEU ALA ASP PRO VAL GLU THR          
+SEQRES   4 A  116  SER CYS LYS HIS LEU PHE CYS ARG ILE CYS ILE LEU ARG          
+SEQRES   5 A  116  CYS LEU LYS VAL MET GLY SER TYR CYS PRO SER CYS ARG          
+SEQRES   6 A  116  TYR PRO CYS PHE PRO THR ASP LEU GLU SER PRO VAL LYS          
+SEQRES   7 A  116  SER PHE LEU ASN ILE LEU ASN SER LEU MET VAL LYS CYS          
+SEQRES   8 A  116  PRO ALA GLN ASP CYS ASN GLU GLU VAL SER LEU GLU LYS          
+SEQRES   9 A  116  TYR ASN HIS HIS VAL SER SER HIS LYS GLU SER LYS              
+DBREF  1RMD A    1   116  UNP    P15919   RAG1_MOUSE     265    380             

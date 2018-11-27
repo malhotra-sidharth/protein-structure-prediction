@@ -1,0 +1,36 @@
+KEYWDS    HELIX TWO TURNS HELIX, ZINC FINGER, DNA BINDING, HYDROLASE            
+HELIX    1   1 GLU A    3  VAL A   18  1                                  16    
+HELIX    2   2 GLY A   29  LEU A   35  5                                   7    
+HELIX    3   3 TRP A   63  PHE A   69  5                                   7    
+HELIX    4   4 SER A  141  GLU A  152  1                                  12    
+HELIX    5   5 GLU A  153  ASP A  155  5                                   3    
+HELIX    6   6 SER A  162  LYS A  172  1                                  11    
+HELIX    7   7 MET A  177  ASP A  184  1                                   8    
+HELIX    8   8 GLY A  192  GLY A  204  1                                  13    
+HELIX    9   9 LYS A  210  LEU A  214  5                                   5    
+HELIX   10  10 SER A  215  GLY A  240  1                                  26    
+HELIX   11  11 ALA A  242  CYS A  247  5                                   6    
+SEQRES   1 A  287  VAL GLU GLY PRO GLY CYS THR LEU ASN GLY GLU LYS ILE          
+SEQRES   2 A  287  ARG ALA ARG VAL LEU PRO GLY GLN ALA VAL THR GLY VAL          
+SEQRES   3 A  287  ARG GLY THR ALA LEU GLN SER LEU LEU GLY PRO ALA MET          
+SEQRES   4 A  287  SER PRO ALA ALA SER LEU ALA ASP VAL ALA THR SER ALA          
+SEQRES   5 A  287  ALA PRO MET ASN ALA LYS ASP SER GLY TRP LYS LEU LEU          
+SEQRES   6 A  287  ARG LEU PHE ASN GLY TYR VAL TYR SER GLY VAL GLU THR          
+SEQRES   7 A  287  LEU GLY LYS GLU LEU PHE MET TYR PHE GLY PRO ARG ALA          
+SEQRES   8 A  287  LEU ARG ILE HIS PHE GLY MET LYS GLY SER ILE LEU ILE          
+SEQRES   9 A  287  ASN PRO ARG GLU GLY GLU ASN ARG ALA GLY ALA SER PRO          
+SEQRES  10 A  287  ALA LEU ALA VAL GLN LEU THR ARG ASP LEU ILE CYS PHE          
+SEQRES  11 A  287  TYR ASP SER SER VAL GLU LEU ARG ASN SER VAL GLU SER          
+SEQRES  12 A  287  GLN GLN ARG VAL ARG VAL MET GLU GLU LEU ASP ILE CYS          
+SEQRES  13 A  287  SER PRO LYS PHE SER PHE SER ARG ALA GLU SER GLU VAL          
+SEQRES  14 A  287  LYS LYS GLN GLY ASP ARG MET LEU CYS ASP VAL LEU LEU          
+SEQRES  15 A  287  ASP GLN ARG VAL LEU PRO GLY VAL GLY ASN ILE ILE LYS          
+SEQRES  16 A  287  ASN GLU ALA LEU PHE ASP SER GLY LEU HIS PRO ALA VAL          
+SEQRES  17 A  287  LYS VAL CYS GLN LEU SER ASP LYS GLN ALA CYS HIS LEU          
+SEQRES  18 A  287  VAL LYS MET THR ARG ASP PHE SER ILE LEU PHE TYR ARG          
+SEQRES  19 A  287  CYS CYS LYS ALA GLY SER ALA ILE SER LYS HIS CYS LYS          
+SEQRES  20 A  287  VAL TYR LYS ARG PRO ASN CYS ASP GLN CYS HIS SER LYS          
+SEQRES  21 A  287  ILE THR VAL CYS ARG PHE GLY GLU ASN SER ARG MET THR          
+SEQRES  22 A  287  TYR PHE CYS PRO HIS CYS GLN LYS HIS HIS HIS HIS HIS          
+SEQRES  23 A  287  HIS                                                          
+DBREF  3W0F A    2   282  UNP    Q8K203   NEIL3_MOUSE      2    282             

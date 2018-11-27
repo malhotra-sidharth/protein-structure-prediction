@@ -1,0 +1,42 @@
+HELIX    1   1 SER Z  134  ARG Z  146  1                                  13    
+HELIX    2   2 PRO Z  150  LEU Z  176  1                                  27    
+HELIX    3   3 GLU Z  221  THR Z  223  5                                   3    
+HELIX    4   4 SER Z  246  ARG Z  250  5                                   5    
+HELIX    5   5 SER Z  258  SER Z  273  1                                  16    
+HELIX    6   6 ASN Z  275  ASP Z  284  1                                  10    
+HELIX    7   7 LEU Z  330  ASP Z  334  5                                   5    
+HELIX    8   8 LEU Z  341  SER Z  357  1                                  17    
+HELIX    9   9 CYS Z  359  THR Z  374  1                                  16    
+HELIX   10  10 PRO Z  375  GLY Z  378  5                                   4    
+HELIX   11  11 THR Z  381  GLU Z  396  1                                  16    
+HELIX   12  12 SER Z  400  ASP Z  402  5                                   3    
+HELIX   13  13 MET Z  403  GLY Z  422  1                                  20    
+HELIX   14  14 THR Z  439  LEU Z  454  1                                  16    
+HELIX   15  15 SER Z  455  GLN Z  462  5                                   8    
+SEQRES   1 Z  335  GLY PRO LEU GLY SER SER LEU GLN GLU LYS LEU LEU SER          
+SEQRES   2 Z  335  TYR TYR ARG ASN ARG ALA ALA ILE PRO ALA GLY GLU GLN          
+SEQRES   3 Z  335  ALA ARG ALA LYS GLN ALA ALA VAL ASP ILE CYS ALA GLU          
+SEQRES   4 Z  335  LEU ALA SER PHE LEU ARG ALA LYS LEU PRO ASP MET PRO          
+SEQRES   5 Z  335  LEU ALA ALA MET TYR LEU SER GLY SER LEU TYR ASP ASP          
+SEQRES   6 Z  335  LEU GLN VAL VAL THR ALA ASP HIS ILE GLN LEU ILE VAL          
+SEQRES   7 Z  335  PRO LEU VAL LEU GLU ALA ALA LEU TRP SER CYS ILE PRO          
+SEQRES   8 Z  335  GLY GLU ASP THR ILE MET ASN VAL PRO GLY PHE PHE LEU          
+SEQRES   9 Z  335  VAL ARG ARG GLU ASN PRO GLU TYR PHE PRO ARG GLY SER          
+SEQRES  10 Z  335  SER TYR TRP ASP ARG CYS VAL VAL GLY GLY TYR LEU SER          
+SEQRES  11 Z  335  PRO LYS THR VAL ALA ASP THR PHE GLU LYS VAL VAL ALA          
+SEQRES  12 Z  335  GLY SER ILE ASN TRP PRO ALA ILE GLY SER LEU LEU ASP          
+SEQRES  13 Z  335  TYR VAL ILE ARG PRO ALA PRO PRO PRO GLU ALA LEU THR          
+SEQRES  14 Z  335  LEU GLU VAL GLN TYR GLU LYS ASP LYS HIS LEU VAL ILE          
+SEQRES  15 Z  335  ASP PHE LEU PRO SER VAL THR LEU GLY ASP THR VAL LEU          
+SEQRES  16 Z  335  VAL ALA ARG PRO HIS ARG LEU ALA GLN TYR ASP ASN LEU          
+SEQRES  17 Z  335  TRP ARG LEU SER LEU ARG PRO ALA GLU THR ALA ARG LEU          
+SEQRES  18 Z  335  ARG ALA LEU ASP GLN ALA ASP SER GLY CYS ARG SER LEU          
+SEQRES  19 Z  335  CYS LEU LYS ILE LEU LYS ALA ILE CYS LYS SER THR PRO          
+SEQRES  20 Z  335  ALA LEU GLY HIS LEU THR ALA SER GLN LEU THR ASN VAL          
+SEQRES  21 Z  335  ILE LEU HIS LEU ALA GLN GLU GLU ALA ASP TRP SER PRO          
+SEQRES  22 Z  335  ASP MET LEU ALA ASP ARG PHE LEU GLN ALA LEU ARG GLY          
+SEQRES  23 Z  335  LEU ILE SER TYR LEU GLU ALA GLY VAL LEU PRO SER ALA          
+SEQRES  24 Z  335  LEU ASN PRO LYS VAL ASN LEU PHE ALA GLU LEU THR PRO          
+SEQRES  25 Z  335  GLN GLU ILE ASP GLU LEU GLY TYR THR LEU TYR CYS SER          
+SEQRES  26 Z  335  LEU SER GLU PRO GLU VAL LEU LEU GLN THR                      
+DBREF  4OAI Z  134   463  UNP    Q8BGV8   MID51_MOUSE    134    463             

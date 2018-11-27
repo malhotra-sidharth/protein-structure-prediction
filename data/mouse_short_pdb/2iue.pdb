@@ -1,0 +1,28 @@
+HELIX    1   1 SER A   13  GLN A   17  5                                   5    
+HELIX    2   2 HIS A   19  SER A   38  1                                  20    
+HELIX    3   3 ASP A   62  LYS A   72  1                                  11    
+HELIX    4   4 GLY A   84  CYS A   95  1                                  12    
+HELIX    5   5 CYS A   95  GLY A  100  1                                   6    
+HELIX    6   6 LYS A  120  THR A  126  5                                   7    
+HELIX    7   7 ARG A  143  GLU A  147  5                                   5    
+HELIX    8   8 SER A  152  ASN A  164  1                                  13    
+HELIX    9   9 SER A  173  ILE A  186  1                                  14    
+HELIX   10  10 SER A  198  LYS A  211  1                                  14    
+SEQRES   1 A  212  ASP ASN SER VAL ASP LEU TYR PHE LEU MET GLY LEU SER          
+SEQRES   2 A  212  GLY SER ALA GLN GLY HIS LEU SER ASN VAL GLN THR LEU          
+SEQRES   3 A  212  GLY SER ASP LEU LEU LYS ALA LEU ASN GLU ILE SER ARG          
+SEQRES   4 A  212  SER GLY ARG ILE GLY PHE GLY SER ILE VAL ASN MET THR          
+SEQRES   5 A  212  PHE GLN HIS ILE LEU LYS LEU THR ALA ASP SER SER GLN          
+SEQRES   6 A  212  PHE GLN ARG GLU LEU ARG LYS GLN LEU VAL SER GLY LYS          
+SEQRES   7 A  212  LEU ALA THR PRO LYS GLY GLN LEU ASP ALA VAL VAL GLN          
+SEQRES   8 A  212  VAL ALA ILE CYS LEU GLY GLU ILE GLY TRP ARG ASN GLY          
+SEQRES   9 A  212  THR ARG PHE LEU VAL LEU VAL THR ASP ASN ASP PHE HIS          
+SEQRES  10 A  212  LEU ALA LYS ASP LYS THR LEU GLY THR ARG GLN ASN THR          
+SEQRES  11 A  212  SER ASP GLY ARG CYS HIS LEU ASP ASP GLY MET TYR ARG          
+SEQRES  12 A  212  SER ARG GLY GLU PRO ASP TYR GLN SER VAL VAL GLN LEU          
+SEQRES  13 A  212  ALA SER LYS LEU ALA GLU ASN ASN ILE GLN PRO ILE PHE          
+SEQRES  14 A  212  VAL VAL PRO SER ARG MET VAL LYS THR TYR GLU LYS LEU          
+SEQRES  15 A  212  THR THR PHE ILE PRO LYS LEU THR ILE GLY GLU LEU SER          
+SEQRES  16 A  212  ASP ASP SER SER ASN VAL ALA GLN LEU ILE ARG ASN ALA          
+SEQRES  17 A  212  TYR SER LYS LEU                                              
+DBREF  2IUE A    1   212  UNP    Q3UV74   Q3UV74_MOUSE   124    335             

@@ -1,0 +1,51 @@
+HELIX    1   1 PRO A   14  ASP A   30  1                                  17    
+HELIX    2   2 SER A   38  LYS A   56  1                                  19    
+HELIX    3   3 SER A   57  GLN A   64  5                                   8    
+HELIX    4   4 ALA A  110  LEU A  114  5                                   5    
+HELIX    5   5 LYS A  128  PHE A  132  1                                   5    
+HELIX    6   6 ASN A  175  ARG A  178  5                                   4    
+HELIX    7   7 LYS A  182  ASP A  184  5                                   3    
+HELIX    8   8 SER A  203  ASP A  220  1                                  18    
+HELIX    9   9 PRO B   14  ASP B   30  1                                  17    
+HELIX   10  10 SER B   38  LYS B   56  1                                  19    
+HELIX   11  11 SER B   57  GLN B   64  5                                   8    
+HELIX   12  12 ALA B  110  LEU B  114  5                                   5    
+HELIX   13  13 LYS B  128  PHE B  132  1                                   5    
+HELIX   14  14 LYS B  182  ASP B  184  5                                   3    
+HELIX   15  15 SER B  203  LEU B  218  1                                  16    
+SEQRES   1 A  211  GLY SER PRO GLU GLU ILE ARG ASN LEU LEU ALA ASP VAL          
+SEQRES   2 A  211  GLU THR PHE VAL ALA ASP THR LEU LYS GLY GLU ASN LEU          
+SEQRES   3 A  211  SER LYS LYS ALA LYS GLU LYS ARG GLU SER LEU ILE LYS          
+SEQRES   4 A  211  LYS ILE LYS ASP VAL LYS SER VAL TYR LEU GLN GLU PHE          
+SEQRES   5 A  211  GLN ASP LYS GLY ASP ALA GLU ASP GLY ASP GLU TYR ASP          
+SEQRES   6 A  211  ASP PRO PHE ALA GLY PRO ALA ASP THR ILE SER LEU ALA          
+SEQRES   7 A  211  SER GLU ARG TYR ASP LYS ASP ASP ASP GLY PRO SER ASP          
+SEQRES   8 A  211  GLY ASN GLN PHE PRO PRO ILE ALA ALA GLN ASP LEU PRO          
+SEQRES   9 A  211  PHE VAL ILE LYS ALA GLY TYR LEU GLU LYS ARG ARG LYS          
+SEQRES  10 A  211  ASP HIS SER PHE LEU GLY PHE GLU TRP GLN LYS ARG TRP          
+SEQRES  11 A  211  CYS ALA LEU SER LYS THR VAL PHE TYR TYR TYR GLY SER          
+SEQRES  12 A  211  ASP LYS ASP LYS GLN GLN LYS GLY GLU PHE ALA ILE ASP          
+SEQRES  13 A  211  GLY TYR ASP VAL ARG MET ASN ASN THR LEU ARG LYS ASP          
+SEQRES  14 A  211  GLY LYS LYS ASP CYS CYS PHE GLU ILE CYS ALA PRO ASP          
+SEQRES  15 A  211  LYS ARG ILE TYR GLN PHE THR ALA ALA SER PRO LYS ASP          
+SEQRES  16 A  211  ALA GLU GLU TRP VAL GLN GLN LEU LYS PHE ILE LEU GLN          
+SEQRES  17 A  211  ASP LEU GLY                                                  
+SEQRES   1 B  211  GLY SER PRO GLU GLU ILE ARG ASN LEU LEU ALA ASP VAL          
+SEQRES   2 B  211  GLU THR PHE VAL ALA ASP THR LEU LYS GLY GLU ASN LEU          
+SEQRES   3 B  211  SER LYS LYS ALA LYS GLU LYS ARG GLU SER LEU ILE LYS          
+SEQRES   4 B  211  LYS ILE LYS ASP VAL LYS SER VAL TYR LEU GLN GLU PHE          
+SEQRES   5 B  211  GLN ASP LYS GLY ASP ALA GLU ASP GLY ASP GLU TYR ASP          
+SEQRES   6 B  211  ASP PRO PHE ALA GLY PRO ALA ASP THR ILE SER LEU ALA          
+SEQRES   7 B  211  SER GLU ARG TYR ASP LYS ASP ASP ASP GLY PRO SER ASP          
+SEQRES   8 B  211  GLY ASN GLN PHE PRO PRO ILE ALA ALA GLN ASP LEU PRO          
+SEQRES   9 B  211  PHE VAL ILE LYS ALA GLY TYR LEU GLU LYS ARG ARG LYS          
+SEQRES  10 B  211  ASP HIS SER PHE LEU GLY PHE GLU TRP GLN LYS ARG TRP          
+SEQRES  11 B  211  CYS ALA LEU SER LYS THR VAL PHE TYR TYR TYR GLY SER          
+SEQRES  12 B  211  ASP LYS ASP LYS GLN GLN LYS GLY GLU PHE ALA ILE ASP          
+SEQRES  13 B  211  GLY TYR ASP VAL ARG MET ASN ASN THR LEU ARG LYS ASP          
+SEQRES  14 B  211  GLY LYS LYS ASP CYS CYS PHE GLU ILE CYS ALA PRO ASP          
+SEQRES  15 B  211  LYS ARG ILE TYR GLN PHE THR ALA ALA SER PRO LYS ASP          
+SEQRES  16 B  211  ALA GLU GLU TRP VAL GLN GLN LEU LYS PHE ILE LEU GLN          
+SEQRES  17 B  211  ASP LEU GLY                                                  
+DBREF  2OTX A   12   222  UNP    Q3UND0   SKAP2_MOUSE     12    222             
+DBREF  2OTX B   12   222  UNP    Q3UND0   SKAP2_MOUSE     12    222             

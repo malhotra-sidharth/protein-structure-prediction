@@ -1,0 +1,12 @@
+HELIX    1   1 THR A   12  GLY A   24  1                                  13    
+HELIX    2   2 THR A   73  HIS A   84  1                                  12    
+HELIX    3   3 HIS A   85  GLN A   87  5                                   3    
+SEQRES   1 A  101  MET ARG ARG TRP PHE HIS PRO ASN ILE THR GLY VAL GLU          
+SEQRES   2 A  101  ALA GLU ASN LEU LEU LEU THR ARG GLY VAL ASP GLY SER          
+SEQRES   3 A  101  PHE LEU ALA ARG PRO SER LYS SER ASN PRO GLY ASP PHE          
+SEQRES   4 A  101  THR LEU SER VAL ARG ARG ASN GLY ALA VAL THR HIS ILE          
+SEQRES   5 A  101  LYS ILE GLN ASN THR GLY ASP TYR TYR ASP LEU TYR GLY          
+SEQRES   6 A  101  GLY GLU LYS PHE ALA THR LEU ALA GLU LEU VAL GLN TYR          
+SEQRES   7 A  101  TYR MET GLU HIS HIS GLY GLN LEU LYS GLU LYS ASN GLY          
+SEQRES   8 A  101  ASP VAL ILE GLU LEU LYS TYR PRO LEU ASN                      
+DBREF  1AYD A    4   103  UNP    P35235   PTN11_MOUSE      4    103             

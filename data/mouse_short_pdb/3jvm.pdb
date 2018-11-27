@@ -1,0 +1,20 @@
+HELIX    1   1 SER A  352  PHE A  366  1                                  15    
+HELIX    2   2 ALA A  367  LYS A  369  5                                   3    
+HELIX    3   3 HIS A  370  TRP A  375  1                                   6    
+HELIX    4   4 PRO A  376  TYR A  378  5                                   3    
+HELIX    5   5 ASP A  382  GLY A  387  1                                   6    
+HELIX    6   6 ASP A  390  ILE A  395  1                                   6    
+HELIX    7   7 ASP A  400  SER A  410  1                                  11    
+HELIX    8   8 ASP A  415  ASN A  434  1                                  20    
+HELIX    9   9 HIS A  438  ALA A  456  1                                  19    
+SEQRES   1 A  120  GLY ALA MET GLY SER LYS ILE SER GLU GLN LEU LYS CYS          
+SEQRES   2 A  120  CYS SER GLY ILE LEU LYS GLU MET PHE ALA LYS LYS HIS          
+SEQRES   3 A  120  ALA ALA TYR ALA TRP PRO PHE TYR LYS PRO VAL ASP VAL          
+SEQRES   4 A  120  GLU ALA LEU GLY LEU HIS ASP TYR CYS ASP ILE ILE LYS          
+SEQRES   5 A  120  HIS PRO MET ASP MET SER THR ILE LYS SER LYS LEU GLU          
+SEQRES   6 A  120  SER ARG GLU TYR ARG ASP ALA GLN GLU PHE GLY ALA ASP          
+SEQRES   7 A  120  VAL ARG LEU MET PHE SER ASN CYS TYR LYS TYR ASN PRO          
+SEQRES   8 A  120  PRO ASP HIS GLU VAL VAL ALA MET ALA ARG LYS LEU GLN          
+SEQRES   9 A  120  ASP VAL PHE GLU MET ARG PHE ALA LYS MET PRO ASP GLU          
+SEQRES  10 A  120  PRO GLU GLU                                                  
+DBREF  3JVM A  349   464  UNP    Q9ESU6   BRD4_MOUSE     349    464             

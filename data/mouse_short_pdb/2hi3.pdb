@@ -1,0 +1,10 @@
+HELIX    1   1 THR A   10  VAL A   24  1                                  15    
+HELIX    2   2 ASP A   29  GLY A   41  1                                  13    
+HELIX    3   3 THR A   43  GLY A   63  1                                  21    
+SEQRES   1 A   73  MET SER ALA GLN THR VAL SER GLY PRO THR GLU ASP GLN          
+SEQRES   2 A   73  VAL GLU ILE LEU GLU TYR ASN PHE ASN LYS VAL ASN LYS          
+SEQRES   3 A   73  HIS PRO ASP PRO THR THR LEU CYS LEU ILE ALA ALA GLU          
+SEQRES   4 A   73  ALA GLY LEU THR GLU GLU GLN THR GLN LYS TRP PHE LYS          
+SEQRES   5 A   73  GLN ARG LEU ALA GLU TRP ARG ARG SER GLU GLY LEU PRO          
+SEQRES   6 A   73  SER GLU CYS ARG SER VAL THR ASP                              
+DBREF  2HI3 A    1    73  UNP    Q8R1H0   HOP_MOUSE        1     73             

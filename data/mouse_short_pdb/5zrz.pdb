@@ -1,0 +1,28 @@
+HELIX    1 AA1 SER A  808  ILE A  816  1                                   9    
+HELIX    2 AA2 LYS A  817  ARG A  820  5                                   4    
+HELIX    3 AA3 TYR A  821  ASN A  828  1                                   8    
+HELIX    4 AA4 SER A  832  ALA A  837  1                                   6    
+HELIX    5 AA5 THR A  840  LEU A  847  1                                   8    
+HELIX    6 AA6 LEU A  851  GLY A  872  1                                  22    
+HELIX    7 AA7 ASN B    4  LEU B   13  1                                  10    
+HELIX    8 AA8 LEU B   15  GLN B   17  5                                   3    
+HELIX    9 AA9 TYR B   18  ASN B   25  1                                   8    
+HELIX   10 AB1 ASP B   29  LYS B   34  1                                   6    
+HELIX   11 AB2 GLY B   37  GLY B   45  1                                   9    
+HELIX   12 AB3 ALA B   48  ARG B   63  1                                  16    
+SEQRES   1 A   80  GLY PRO GLY SER LEU GLY SER GLY ALA TYR ARG SER VAL          
+SEQRES   2 A   80  GLY GLU TRP LEU GLU ALA ILE LYS MET GLY ARG TYR THR          
+SEQRES   3 A   80  GLU ILE PHE MET GLU ASN GLY TYR SER SER MET ASP ALA          
+SEQRES   4 A   80  VAL ALA GLN VAL THR LEU GLU ASP LEU ARG ARG LEU GLY          
+SEQRES   5 A   80  VAL THR LEU VAL GLY HIS GLN LYS LYS ILE MET SER SER          
+SEQRES   6 A   80  LEU GLN GLU MET LYS VAL GLN MET VAL ASN GLY MET VAL          
+SEQRES   7 A   80  PRO VAL                                                      
+SEQRES   1 B   70  GLY PRO GLY SER MET CYS THR ASN ILE VAL TYR GLU TRP          
+SEQRES   2 B   70  LEU LYS ALA LEU GLN LEU PRO GLN TYR ALA GLU SER PHE          
+SEQRES   3 B   70  VAL ASP ASN GLY TYR ASP ASP LEU GLU VAL CYS LYS GLN          
+SEQRES   4 B   70  ILE GLY ASP PRO ASP LEU ASP ALA ILE GLY VAL LEU ALA          
+SEQRES   5 B   70  PRO ALA HIS ARG ARG ARG ILE LEU GLU ALA VAL HIS ARG          
+SEQRES   6 B   70  LEU ARG GLU GLN ASP                                          
+DBREF  5ZRZ A  799   876  UNP    Q60629   EPHA5_MOUSE    799    876             
+DBREF1 5ZRZ B    1    66  UNP                  A0A0R4J186_MOUSE                 
+DBREF2 5ZRZ B     A0A0R4J186                          1          66             

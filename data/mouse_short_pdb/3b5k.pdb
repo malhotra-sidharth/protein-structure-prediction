@@ -1,0 +1,33 @@
+KEYWDS    4-HELIX BUNDLE, CYTOKINE, GLYCOPROTEIN, GROWTH FACTOR,                
+HELIX    1   1 THR A    9  HIS A   21  1                                  13    
+HELIX    2   2 HIS A   21  THR A   26  1                                   6    
+HELIX    3   3 ASN A   40  LEU A   43  5                                   4    
+HELIX    4   4 CYS A   44  ASN A   57  1                                  14    
+HELIX    5   5 THR A   64  LYS A   85  1                                  22    
+HELIX    6   6 THR A   93  SER A  108  1                                  16    
+HELIX    7   7 THR B    9  HIS B   21  1                                  13    
+HELIX    8   8 HIS B   21  THR B   26  1                                   6    
+HELIX    9   9 ASN B   40  LEU B   43  5                                   4    
+HELIX   10  10 CYS B   44  ASN B   57  1                                  14    
+HELIX   11  11 THR B   64  LYS B   85  1                                  22    
+HELIX   12  12 THR B   93  VAL B  106  1                                  14    
+SEQRES   1 A  113  LEU GLU ILE PRO THR SER THR VAL VAL LYS GLU THR LEU          
+SEQRES   2 A  113  THR GLN LEU SER ALA HIS ARG ALA LEU LEU THR SER ASN          
+SEQRES   3 A  113  GLU THR LEU ARG LEU PRO VAL PRO THR HIS LYS ASN HIS          
+SEQRES   4 A  113  GLN LEU CYS ILE GLY GLU ILE PHE GLN GLY LEU ASP ILE          
+SEQRES   5 A  113  LEU LYS ASN GLN THR VAL ARG GLY GLY THR VAL GLU ARG          
+SEQRES   6 A  113  LEU PHE GLN ASN LEU SER LEU ILE LYS LYS TYR ILE ASP          
+SEQRES   7 A  113  ARG GLN LYS GLU LYS CYS GLY GLU GLU ARG ARG ARG THR          
+SEQRES   8 A  113  ARG GLN PHE LEU ASP TYR LEU GLN GLU PHE LEU GLY VAL          
+SEQRES   9 A  113  LEU SER THR GLU TRP ALA ILE GLU GLY                          
+SEQRES   1 B  113  LEU GLU ILE PRO THR SER THR VAL VAL LYS GLU THR LEU          
+SEQRES   2 B  113  THR GLN LEU SER ALA HIS ARG ALA LEU LEU THR SER ASN          
+SEQRES   3 B  113  GLU THR LEU ARG LEU PRO VAL PRO THR HIS LYS ASN HIS          
+SEQRES   4 B  113  GLN LEU CYS ILE GLY GLU ILE PHE GLN GLY LEU ASP ILE          
+SEQRES   5 B  113  LEU LYS ASN GLN THR VAL ARG GLY GLY THR VAL GLU ARG          
+SEQRES   6 B  113  LEU PHE GLN ASN LEU SER LEU ILE LYS LYS TYR ILE ASP          
+SEQRES   7 B  113  ARG GLN LYS GLU LYS CYS GLY GLU GLU ARG ARG ARG THR          
+SEQRES   8 B  113  ARG GLN PHE LEU ASP TYR LEU GLN GLU PHE LEU GLY VAL          
+SEQRES   9 B  113  LEU SER THR GLU TRP ALA ILE GLU GLY                          
+DBREF  3B5K A    3   115  UNP    P04401   IL5_MOUSE       21    133             
+DBREF  3B5K B    3   115  UNP    P04401   IL5_MOUSE       21    133             

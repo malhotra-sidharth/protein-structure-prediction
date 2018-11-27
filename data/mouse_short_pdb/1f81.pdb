@@ -1,0 +1,13 @@
+HELIX    1   1 SER A    1  CYS A   23  1                                  23    
+HELIX    2   2 LEU A   30  CYS A   46  1                                  17    
+HELIX    3   3 ARG A   48  GLY A   53  1                                   6    
+HELIX    4   4 CYS A   54  CYS A   71  1                                  18    
+HELIX    5   5 PHE A   80  LYS A   87  1                                   8    
+SEQRES   1 A   88  MET SER PRO GLN GLU SER ARG ARG LEU SER ILE GLN ARG          
+SEQRES   2 A   88  CYS ILE GLN SER LEU VAL HIS ALA CYS GLN CYS ARG ASN          
+SEQRES   3 A   88  ALA ASN CYS SER LEU PRO SER CYS GLN LYS MET LYS ARG          
+SEQRES   4 A   88  VAL VAL GLN HIS THR LYS GLY CYS LYS ARG LYS THR ASN          
+SEQRES   5 A   88  GLY GLY CYS PRO VAL CYS LYS GLN LEU ILE ALA LEU CYS          
+SEQRES   6 A   88  CYS TYR HIS ALA LYS HIS CYS GLN GLU ASN LYS CYS PRO          
+SEQRES   7 A   88  VAL PRO PHE CYS LEU ASN ILE LYS HIS LYS                      
+DBREF  1F81 A    1    87  UNP    P45481   CBP_MOUSE     1764   1850             

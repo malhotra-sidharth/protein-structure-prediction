@@ -1,0 +1,97 @@
+REMARK 900 WHIRLIN DOMAIN HHD2 3-HELIX CONFORMATION.                            
+HELIX    1 AA1 ARG A  424  LEU A  435  1                                  12    
+HELIX    2 AA2 THR A  436  GLY A  452  1                                  17    
+HELIX    3 AA3 SER A  456  LEU A  468  1                                  13    
+HELIX    4 AA4 THR A  470  SER A  475  1                                   6    
+HELIX    5 AA5 SER A  475  SER A  482  1                                   8    
+HELIX    6 AA6 ILE A  483  ILE A  484  5                                   2    
+HELIX    7 AA7 SER A  485  GLN A  487  5                                   3    
+HELIX    8 AA8 ASP A  488  VAL A  496  1                                   9    
+HELIX    9 AA9 ALA B  425  HIS B  433  1                                   9    
+HELIX   10 AB1 THR B  436  GLY B  452  1                                  17    
+HELIX   11 AB2 SER B  456  LEU B  468  1                                  13    
+HELIX   12 AB3 THR B  470  SER B  475  1                                   6    
+HELIX   13 AB4 SER B  475  SER B  482  1                                   8    
+HELIX   14 AB5 ILE B  483  ILE B  484  5                                   2    
+HELIX   15 AB6 SER B  485  GLN B  487  5                                   3    
+HELIX   16 AB7 ASP B  488  VAL B  496  1                                   9    
+HELIX   17 AB8 ARG C  424  LEU C  435  1                                  12    
+HELIX   18 AB9 THR C  436  GLY C  452  1                                  17    
+HELIX   19 AC1 SER C  456  LEU C  468  1                                  13    
+HELIX   20 AC2 THR C  470  SER C  475  1                                   6    
+HELIX   21 AC3 SER C  475  SER C  482  1                                   8    
+HELIX   22 AC4 ILE C  483  ILE C  484  5                                   2    
+HELIX   23 AC5 SER C  485  GLN C  487  5                                   3    
+HELIX   24 AC6 ASP C  488  VAL C  496  1                                   9    
+HELIX   25 AC7 ALA D  425  LEU D  435  1                                  11    
+HELIX   26 AC8 THR D  436  GLY D  452  1                                  17    
+HELIX   27 AC9 SER D  456  LEU D  468  1                                  13    
+HELIX   28 AD1 THR D  470  SER D  475  1                                   6    
+HELIX   29 AD2 SER D  475  SER D  482  1                                   8    
+HELIX   30 AD3 ILE D  483  ILE D  484  5                                   2    
+HELIX   31 AD4 SER D  485  GLN D  487  5                                   3    
+HELIX   32 AD5 ASP D  488  VAL D  496  1                                   9    
+HELIX   33 AD6 ALA E  425  LEU E  435  1                                  11    
+HELIX   34 AD7 THR E  436  GLY E  452  1                                  17    
+HELIX   35 AD8 SER E  456  LEU E  468  1                                  13    
+HELIX   36 AD9 THR E  470  SER E  475  1                                   6    
+HELIX   37 AE1 SER E  475  SER E  482  1                                   8    
+HELIX   38 AE2 ILE E  483  ILE E  484  5                                   2    
+HELIX   39 AE3 SER E  485  GLN E  487  5                                   3    
+HELIX   40 AE4 ASP E  488  VAL E  496  1                                   9    
+HELIX   41 AE5 LEU F  426  ARG F  432  1                                   7    
+HELIX   42 AE6 THR F  436  GLY F  452  1                                  17    
+HELIX   43 AE7 SER F  456  LEU F  468  1                                  13    
+HELIX   44 AE8 THR F  470  SER F  475  1                                   6    
+HELIX   45 AE9 SER F  475  SER F  482  1                                   8    
+HELIX   46 AF1 ILE F  483  ILE F  484  5                                   2    
+HELIX   47 AF2 SER F  485  GLN F  487  5                                   3    
+HELIX   48 AF3 ASP F  488  VAL F  496  1                                   9    
+SEQRES   1 A   85  GLY ALA MSE GLY SER GLY ASN GLN THR ARG ALA LEU LEU          
+SEQRES   2 A   85  ASP ASP GLN ALA ARG HIS LEU LEU THR GLU GLN GLU ARG          
+SEQRES   3 A   85  ALA THR MSE MSE TYR TYR LEU ALA GLN TYR ARG GLY GLY          
+SEQRES   4 A   85  THR ILE SER VAL GLU ALA MSE VAL MSE ALA LEU PHE GLU          
+SEQRES   5 A   85  LEU LEU ASN THR HIS ALA LYS PHE SER LEU LEU SER GLU          
+SEQRES   6 A   85  VAL ARG SER ILE ILE SER PRO GLN ASP LEU ASP ARG PHE          
+SEQRES   7 A   85  ASP HIS LEU VAL LEU ARG ARG                                  
+SEQRES   1 B   85  GLY ALA MSE GLY SER GLY ASN GLN THR ARG ALA LEU LEU          
+SEQRES   2 B   85  ASP ASP GLN ALA ARG HIS LEU LEU THR GLU GLN GLU ARG          
+SEQRES   3 B   85  ALA THR MSE MSE TYR TYR LEU ALA GLN TYR ARG GLY GLY          
+SEQRES   4 B   85  THR ILE SER VAL GLU ALA MSE VAL MSE ALA LEU PHE GLU          
+SEQRES   5 B   85  LEU LEU ASN THR HIS ALA LYS PHE SER LEU LEU SER GLU          
+SEQRES   6 B   85  VAL ARG SER ILE ILE SER PRO GLN ASP LEU ASP ARG PHE          
+SEQRES   7 B   85  ASP HIS LEU VAL LEU ARG ARG                                  
+SEQRES   1 C   85  GLY ALA MSE GLY SER GLY ASN GLN THR ARG ALA LEU LEU          
+SEQRES   2 C   85  ASP ASP GLN ALA ARG HIS LEU LEU THR GLU GLN GLU ARG          
+SEQRES   3 C   85  ALA THR MSE MSE TYR TYR LEU ALA GLN TYR ARG GLY GLY          
+SEQRES   4 C   85  THR ILE SER VAL GLU ALA MSE VAL MSE ALA LEU PHE GLU          
+SEQRES   5 C   85  LEU LEU ASN THR HIS ALA LYS PHE SER LEU LEU SER GLU          
+SEQRES   6 C   85  VAL ARG SER ILE ILE SER PRO GLN ASP LEU ASP ARG PHE          
+SEQRES   7 C   85  ASP HIS LEU VAL LEU ARG ARG                                  
+SEQRES   1 D   85  GLY ALA MSE GLY SER GLY ASN GLN THR ARG ALA LEU LEU          
+SEQRES   2 D   85  ASP ASP GLN ALA ARG HIS LEU LEU THR GLU GLN GLU ARG          
+SEQRES   3 D   85  ALA THR MSE MSE TYR TYR LEU ALA GLN TYR ARG GLY GLY          
+SEQRES   4 D   85  THR ILE SER VAL GLU ALA MSE VAL MSE ALA LEU PHE GLU          
+SEQRES   5 D   85  LEU LEU ASN THR HIS ALA LYS PHE SER LEU LEU SER GLU          
+SEQRES   6 D   85  VAL ARG SER ILE ILE SER PRO GLN ASP LEU ASP ARG PHE          
+SEQRES   7 D   85  ASP HIS LEU VAL LEU ARG ARG                                  
+SEQRES   1 E   85  GLY ALA MSE GLY SER GLY ASN GLN THR ARG ALA LEU LEU          
+SEQRES   2 E   85  ASP ASP GLN ALA ARG HIS LEU LEU THR GLU GLN GLU ARG          
+SEQRES   3 E   85  ALA THR MSE MSE TYR TYR LEU ALA GLN TYR ARG GLY GLY          
+SEQRES   4 E   85  THR ILE SER VAL GLU ALA MSE VAL MSE ALA LEU PHE GLU          
+SEQRES   5 E   85  LEU LEU ASN THR HIS ALA LYS PHE SER LEU LEU SER GLU          
+SEQRES   6 E   85  VAL ARG SER ILE ILE SER PRO GLN ASP LEU ASP ARG PHE          
+SEQRES   7 E   85  ASP HIS LEU VAL LEU ARG ARG                                  
+SEQRES   1 F   85  GLY ALA MSE GLY SER GLY ASN GLN THR ARG ALA LEU LEU          
+SEQRES   2 F   85  ASP ASP GLN ALA ARG HIS LEU LEU THR GLU GLN GLU ARG          
+SEQRES   3 F   85  ALA THR MSE MSE TYR TYR LEU ALA GLN TYR ARG GLY GLY          
+SEQRES   4 F   85  THR ILE SER VAL GLU ALA MSE VAL MSE ALA LEU PHE GLU          
+SEQRES   5 F   85  LEU LEU ASN THR HIS ALA LYS PHE SER LEU LEU SER GLU          
+SEQRES   6 F   85  VAL ARG SER ILE ILE SER PRO GLN ASP LEU ASP ARG PHE          
+SEQRES   7 F   85  ASP HIS LEU VAL LEU ARG ARG                                  
+DBREF  6FDD A  420   499  UNP    Q80VW5   WHRN_MOUSE     420    499             
+DBREF  6FDD B  420   499  UNP    Q80VW5   WHRN_MOUSE     420    499             
+DBREF  6FDD C  420   499  UNP    Q80VW5   WHRN_MOUSE     420    499             
+DBREF  6FDD D  420   499  UNP    Q80VW5   WHRN_MOUSE     420    499             
+DBREF  6FDD E  420   499  UNP    Q80VW5   WHRN_MOUSE     420    499             
+DBREF  6FDD F  420   499  UNP    Q80VW5   WHRN_MOUSE     420    499             
