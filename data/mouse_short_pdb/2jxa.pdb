@@ -1,0 +1,13 @@
+HELIX    1   1 ASP A   74  GLU A   79  1                                   6    
+HELIX    2   2 PRO A   86  ASN A   97  1                                  12    
+HELIX    3   3 GLY A  107  PHE A  111  5                                   5    
+SEQRES   1 A  106  GLY LEU PRO PHE GLY LEU MET ARG ARG GLU LEU ALA CYS          
+SEQRES   2 A  106  GLU GLY TYR PRO ILE GLU LEU ARG CYS PRO GLY SER ASP          
+SEQRES   3 A  106  VAL ILE MET VAL GLU ASN ALA ASN TYR GLY ARG THR ASP          
+SEQRES   4 A  106  ASP LYS ILE CYS ASP ALA ASP PRO PHE GLN MET GLU ASN          
+SEQRES   5 A  106  VAL GLN CYS TYR LEU PRO ASP ALA PHE LYS ILE MET SER          
+SEQRES   6 A  106  GLN ARG CYS ASN ASN ARG THR GLN CYS VAL VAL VAL ALA          
+SEQRES   7 A  106  GLY SER ASP ALA PHE PRO ASP PRO CYS PRO GLY THR TYR          
+SEQRES   8 A  106  LYS TYR LEU GLU VAL GLN TYR ASP CYS VAL PRO TYR LYS          
+SEQRES   9 A  106  VAL GLU                                                      
+DBREF  2JXA A   29   134  UNP    Q5U4D5   Q5U4D5_MOUSE    29    134             

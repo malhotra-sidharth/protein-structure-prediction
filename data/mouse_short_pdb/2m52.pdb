@@ -1,0 +1,14 @@
+HELIX    1   1 ASP A   21  SER A   37  1                                  17    
+HELIX    2   2 LYS A   38  GLY A   40  5                                   3    
+HELIX    3   3 SER A   68  LEU A   79  1                                  12    
+HELIX    4   4 ASP A   95  HIS A  100  1                                   6    
+SEQRES   1 A  105  GLY GLY HIS PRO THR GLU VAL LEU CYS LEU MET ASN MET          
+SEQRES   2 A  105  VAL LEU PRO GLU GLU LEU LEU ASP ASP GLU GLU TYR GLU          
+SEQRES   3 A  105  GLU ILE VAL GLU ASP VAL ARG ASP GLU CYS SER LYS TYR          
+SEQRES   4 A  105  GLY LEU VAL LYS SER ILE GLU ILE PRO ARG PRO VAL ASP          
+SEQRES   5 A  105  GLY VAL GLU VAL PRO GLY CYS GLY LYS ILE PHE VAL GLU          
+SEQRES   6 A  105  PHE THR SER VAL PHE ASP CYS GLN LYS ALA MET GLN GLY          
+SEQRES   7 A  105  LEU THR GLY ARG LYS PHE ALA ASN ARG VAL VAL VAL THR          
+SEQRES   8 A  105  LYS TYR CYS ASP PRO ASP SER TYR HIS ARG ARG ASP PHE          
+SEQRES   9 A  105  TRP                                                          
+DBREF  2M52 A    1   105  UNP    P26369   U2AF2_MOUSE    371    475             

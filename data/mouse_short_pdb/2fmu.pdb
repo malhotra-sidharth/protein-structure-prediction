@@ -1,0 +1,30 @@
+HELIX    1   1 HIS A    0  GLN A   17  1                                  12    
+HELIX    2   2 GLY A   28  ASN A   42  1                                  15    
+HELIX    3   3 ASP A   71  GLN A   83  5                                  13    
+HELIX    4   4 GLY A  100  ARG A  109  1                                  10    
+HELIX    5   5 ARG A  109  GLY A  122  1                                  14    
+HELIX    6   6 PHE A  141  LEU A  157  1                                  17    
+HELIX    7   7 SER A  194  TYR A  199  1                                   6    
+HELIX    8   8 VAL A  203  SER A  216  1                                  14    
+HELIX    9   9 ASN A  227  GLY A  234  1                                   8    
+SEQRES   1 A  248  MET GLY SER ASP LYS ILE HIS HIS HIS HIS HIS HIS LEU          
+SEQRES   2 A  248  PRO LYS LEU ARG GLU ASP PHE LYS MET GLN ASN LYS SER          
+SEQRES   3 A  248  VAL PHE ILE LEU GLY ALA SER GLY GLU THR GLY LYS VAL          
+SEQRES   4 A  248  LEU LEU LYS GLU ILE LEU GLY GLN ASN LEU PHE SER LYS          
+SEQRES   5 A  248  VAL THR LEU ILE GLY ARG ARG LYS LEU THR PHE GLU GLU          
+SEQRES   6 A  248  GLU ALA TYR LYS ASN VAL ASN GLN GLU VAL VAL ASP PHE          
+SEQRES   7 A  248  GLU LYS LEU ASP VAL TYR ALA SER ALA PHE GLN GLY HIS          
+SEQRES   8 A  248  ASP VAL GLY PHE CYS CYS LEU GLY THR THR ARG SER LYS          
+SEQRES   9 A  248  ALA GLY ALA GLU GLY PHE VAL ARG VAL ASP ARG ASP TYR          
+SEQRES  10 A  248  VAL LEU LYS SER ALA GLU LEU ALA LYS ALA GLY GLY CYS          
+SEQRES  11 A  248  LYS HIS PHE ASN LEU LEU SER SER ARG GLY ALA ASP LYS          
+SEQRES  12 A  248  SER SER SER PHE LEU TYR LEU GLN VAL LYS GLY GLU VAL          
+SEQRES  13 A  248  GLU ALA LYS VAL GLU GLU LEU LYS PHE ASP ARG LEU SER          
+SEQRES  14 A  248  VAL PHE ARG PRO GLY VAL LEU LEU CYS ASP ARG GLN GLU          
+SEQRES  15 A  248  SER ARG PRO GLY GLU TRP LEU ALA ARG LYS PHE PHE GLY          
+SEQRES  16 A  248  SER LEU PRO ASP SER TRP ALA SER GLY TYR ALA VAL PRO          
+SEQRES  17 A  248  VAL VAL THR VAL VAL ARG ALA MET LEU ASN ASN LEU VAL          
+SEQRES  18 A  248  SER PRO SER SER GLY GLN MET GLU LEU LEU GLU ASN LYS          
+SEQRES  19 A  248  ALA ILE LEU HIS LEU GLY LYS ASP ARG ASP VAL PRO LYS          
+SEQRES  20 A  248  LEU                                                          
+DBREF  2FMU A    7   242  GB     16924206 AAH17372         7    242             

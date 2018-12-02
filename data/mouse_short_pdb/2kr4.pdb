@@ -1,0 +1,11 @@
+HELIX    1   1 ARG A   38  SER A   48  1                                  11    
+HELIX    2   2 THR A   59  LEU A   63  5                                   5    
+HELIX    3   3 VAL A   66  SER A   83  1                                  18    
+SEQRES   1 A   85  PRO GLY SER ALA GLU ILE ASP TYR SER ASP ALA PRO ASP          
+SEQRES   2 A   85  GLU PHE ARG ASP PRO LEU MET ASP THR LEU MET THR ASP          
+SEQRES   3 A   85  PRO VAL ARG LEU PRO SER GLY THR VAL MET ASP ARG SER          
+SEQRES   4 A   85  ILE ILE LEU ARG HIS LEU LEU ASN SER PRO THR ASP PRO          
+SEQRES   5 A   85  PHE ASN ARG GLN MET LEU THR GLU SER MET LEU GLU PRO          
+SEQRES   6 A   85  VAL PRO GLU LEU LYS GLU GLN ILE GLN ALA TRP MET ARG          
+SEQRES   7 A   85  GLU LYS GLN SER SER ASP HIS                                  
+DBREF  2KR4 A    4    85  UNP    Q9ES00   UBE4B_MOUSE   1092   1173             

@@ -1,0 +1,14 @@
+COMPND   2 MOLECULE: PAIRED AMPHIPATHIC HELIX PROTEIN SIN3B;                    
+JRNL        TITL   A MIMETIC OF THE MSIN3-BINDING HELIX OF NRSF/REST            
+HELIX    1 AA1 ASP A   36  PHE A   48  1                                  13    
+HELIX    2 AA2 ASP A   51  SER A   67  1                                  17    
+HELIX    3 AA3 ASP A   71  PHE A   83  1                                  13    
+HELIX    4 AA4 HIS A   86  PHE A   96  1                                  11    
+SEQRES   1 A   80  GLY SER SER GLY SER SER GLY VAL HIS VAL GLU ASP ALA          
+SEQRES   2 A   80  LEU THR TYR LEU ASP GLN VAL LYS ILE ARG PHE GLY SER          
+SEQRES   3 A   80  ASP PRO ALA THR TYR ASN GLY PHE LEU GLU ILE MET LYS          
+SEQRES   4 A   80  GLU PHE LYS SER GLN SER ILE ASP THR PRO GLY VAL ILE          
+SEQRES   5 A   80  ARG ARG VAL SER GLN LEU PHE HIS GLU HIS PRO ASP LEU          
+SEQRES   6 A   80  ILE VAL GLY PHE ASN ALA PHE LEU PRO SER GLY PRO SER          
+SEQRES   7 A   80  SER GLY                                                      
+DBREF  5Y95 A   32    98  UNP    Q62141   SIN3B_MOUSE     32     98             

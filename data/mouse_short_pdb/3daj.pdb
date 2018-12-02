@@ -1,0 +1,36 @@
+HELIX    1   1 THR A  129  GLU A  131  5                                   3    
+HELIX    2   2 LYS A  166  GLY A  173  1                                   8    
+HELIX    3   3 VAL A  174  SER A  186  1                                  13    
+HELIX    4   4 THR A  217  SER A  226  1                                  10    
+HELIX    5   5 ASP A  229  LYS A  250  1                                  22    
+HELIX    6   6 LYS A  258  GLU A  260  5                                   3    
+HELIX    7   7 THR A  292  LEU A  296  5                                   5    
+HELIX    8   8 PRO A  297  ILE A  301  5                                   5    
+HELIX    9   9 LYS A  309  GLY A  325  1                                  17    
+HELIX   10  10 THR A  333  ARG A  343  1                                  11    
+HELIX   11  11 THR A  353  LEU A  364  1                                  12    
+HELIX   12  12 ASN A  367  ARG A  371  5                                   5    
+HELIX   13  13 THR A  373  GLU A  379  1                                   7    
+HELIX   14  14 HIS A  380  SER A  387  1                                   8    
+SEQRES   1 A  272  GLY PRO LEU GLY SER LYS ARG GLN TRP THR LEU GLU ASP          
+SEQRES   2 A  272  PHE ASP ILE GLY ARG PRO LEU GLY LYS GLY LYS PHE GLY          
+SEQRES   3 A  272  ASN VAL TYR LEU ALA ARG GLU ARG GLN SER LYS PHE ILE          
+SEQRES   4 A  272  LEU ALA LEU LYS VAL LEU PHE LYS THR GLN LEU GLU LYS          
+SEQRES   5 A  272  ALA GLY VAL GLU HIS GLN LEU ARG ARG GLU VAL GLU ILE          
+SEQRES   6 A  272  GLN SER HIS LEU ARG HIS PRO ASN ILE LEU ARG LEU TYR          
+SEQRES   7 A  272  GLY TYR PHE HIS ASP ALA THR ARG VAL TYR LEU ILE LEU          
+SEQRES   8 A  272  GLU TYR ALA PRO LEU GLY THR VAL TYR ARG GLU LEU GLN          
+SEQRES   9 A  272  LYS LEU SER ARG PHE ASP GLU GLN ARG THR ALA THR TYR          
+SEQRES  10 A  272  ILE THR GLU LEU ALA ASN ALA LEU SER TYR CYS HIS SER          
+SEQRES  11 A  272  LYS ARG VAL ILE HIS ARG ASP ILE LYS PRO GLU ASN LEU          
+SEQRES  12 A  272  LEU LEU GLY SER ASN GLY GLU LEU LYS ILE ALA ASP PHE          
+SEQRES  13 A  272  GLY TRP SER VAL HIS ALA PRO SER SER ARG ARG ASP THR          
+SEQRES  14 A  272  LEU CYS GLY THR LEU ASP TYR LEU PRO PRO GLU MET ILE          
+SEQRES  15 A  272  GLU GLY ARG MET HIS ASP GLU LYS VAL ASP LEU TRP SER          
+SEQRES  16 A  272  LEU GLY VAL LEU CYS TYR GLU PHE LEU VAL GLY MET PRO          
+SEQRES  17 A  272  PRO PHE GLU ALA HIS THR TYR GLN GLU THR TYR ARG ARG          
+SEQRES  18 A  272  ILE SER ARG VAL GLU PHE THR PHE PRO ASP PHE VAL THR          
+SEQRES  19 A  272  GLU GLY ALA ARG ASP LEU ILE SER ARG LEU LEU LYS HIS          
+SEQRES  20 A  272  ASN ALA SER GLN ARG LEU THR LEU ALA GLU VAL LEU GLU          
+SEQRES  21 A  272  HIS PRO TRP ILE LYS ALA ASN SER SER LYS PRO SER              
+DBREF  3DAJ A  125   391  UNP    Q8C3H8   Q8C3H8_MOUSE   116    382             

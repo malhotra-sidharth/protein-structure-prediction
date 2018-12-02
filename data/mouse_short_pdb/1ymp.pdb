@@ -1,0 +1,42 @@
+KEYWDS    ANKYRIN REPEATS, HELIX-TURN-HELIX, TRANSCRIPTION                      
+HELIX    1   1 ARG A  107  LEU A  111  5                                   5    
+HELIX    2   2 THR A  120  ALA A  129  1                                  10    
+HELIX    3   3 GLY A  132  SER A  140  1                                   9    
+HELIX    4   4 SER A  153  VAL A  161  1                                   9    
+HELIX    5   5 ASN A  163  ASN A  173  1                                  11    
+HELIX    6   6 THR A  186  GLY A  195  1                                  10    
+HELIX    7   7 SER A  196  HIS A  206  1                                  11    
+HELIX    8   8 LEU A  219  ARG A  227  1                                   9    
+HELIX    9   9 HIS A  229  ASP A  237  1                                   9    
+HELIX   10  10 THR B  120  ALA B  129  1                                  10    
+HELIX   11  11 LEU B  130  SER B  140  1                                  11    
+HELIX   12  12 SER B  153  VAL B  161  1                                   9    
+HELIX   13  13 ASN B  163  ASN B  173  1                                  11    
+HELIX   14  14 THR B  186  GLY B  195  1                                  10    
+HELIX   15  15 SER B  196  HIS B  206  1                                  11    
+HELIX   16  16 LEU B  219  ARG B  227  1                                   9    
+HELIX   17  17 HIS B  229  ASP B  237  1                                   9    
+SEQRES   1 A  135  LEU ARG ASN ARG ALA THR ASP LEU ASP ALA ARG MET HIS          
+SEQRES   2 A  135  ASP GLY THR THR PRO LEU ILE LEU ALA ALA ARG LEU ALA          
+SEQRES   3 A  135  LEU GLU GLY MET LEU GLU ASP LEU ILE ASN SER HIS ALA          
+SEQRES   4 A  135  ASP VAL ASN ALA VAL ASP ASP LEU GLY LYS SER ALA LEU          
+SEQRES   5 A  135  HIS TRP ALA ALA ALA VAL ASN ASN VAL ASP ALA ALA VAL          
+SEQRES   6 A  135  VAL LEU LEU LYS ASN GLY ALA ASN LYS ASP MET GLN ASN          
+SEQRES   7 A  135  ASN LYS GLU GLU THR PRO LEU PHE LEU ALA ALA ARG GLU          
+SEQRES   8 A  135  GLY SER TYR GLU THR ALA LYS VAL LEU LEU ASP HIS PHE          
+SEQRES   9 A  135  ALA ASN ARG ASP ILE THR ASP HIS MET ASP ARG LEU PRO          
+SEQRES  10 A  135  ARG ASP ILE ALA GLN GLU ARG MET HIS HIS ASP ILE VAL          
+SEQRES  11 A  135  ARG LEU LEU ASP GLU                                          
+SEQRES   1 B  135  LEU ARG ASN ARG ALA THR ASP LEU ASP ALA ARG MET HIS          
+SEQRES   2 B  135  ASP GLY THR THR PRO LEU ILE LEU ALA ALA ARG LEU ALA          
+SEQRES   3 B  135  LEU GLU GLY MET LEU GLU ASP LEU ILE ASN SER HIS ALA          
+SEQRES   4 B  135  ASP VAL ASN ALA VAL ASP ASP LEU GLY LYS SER ALA LEU          
+SEQRES   5 B  135  HIS TRP ALA ALA ALA VAL ASN ASN VAL ASP ALA ALA VAL          
+SEQRES   6 B  135  VAL LEU LEU LYS ASN GLY ALA ASN LYS ASP MET GLN ASN          
+SEQRES   7 B  135  ASN LYS GLU GLU THR PRO LEU PHE LEU ALA ALA ARG GLU          
+SEQRES   8 B  135  GLY SER TYR GLU THR ALA LYS VAL LEU LEU ASP HIS PHE          
+SEQRES   9 B  135  ALA ASN ARG ASP ILE THR ASP HIS MET ASP ARG LEU PRO          
+SEQRES  10 B  135  ARG ASP ILE ALA GLN GLU ARG MET HIS HIS ASP ILE VAL          
+SEQRES  11 B  135  ARG LEU LEU ASP GLU                                          
+DBREF  1YMP A  104   238  UNP    Q07008   NOTC1_RAT     1971   2105             
+DBREF  1YMP B  104   238  UNP    Q07008   NOTC1_RAT     1971   2105             

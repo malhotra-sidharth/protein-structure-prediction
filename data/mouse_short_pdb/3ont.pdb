@@ -1,0 +1,18 @@
+HELIX    1   1 CYS A   12  VAL A   31  1                                  20    
+HELIX    2   2 ILE A   33  ARG A   38  5                                   6    
+HELIX    3   3 ASP A   55  HIS A   72  1                                  18    
+HELIX    4   4 ILE A  107  ASP A  112  1                                   6    
+HELIX    5   5 ASP A  112  THR A  146  1                                  35    
+SEQRES   1 A  152  GLY SER MSE GLN VAL LEU THR LYS ARG TYR PRO LYS ASN          
+SEQRES   2 A  152  CYS LEU LEU THR VAL MSE ASP ARG TYR SER ALA VAL VAL          
+SEQRES   3 A  152  ARG ASN MSE GLU GLN VAL VAL MSE ILE PRO SER LEU LEU          
+SEQRES   4 A  152  ARG ASP VAL GLN LEU SER GLY PRO GLY GLY SER VAL GLN          
+SEQRES   5 A  152  ASP GLY ALA PRO ASP LEU TYR THR TYR PHE THR MSE LEU          
+SEQRES   6 A  152  LYS SER ILE CYS VAL GLU VAL ASP HIS GLY LEU LEU PRO          
+SEQRES   7 A  152  ARG GLU GLU TRP GLN ALA LYS VAL ALA GLY ASN GLU THR          
+SEQRES   8 A  152  SER GLU ALA GLU ASN ASP ALA ALA GLU THR GLU GLU ALA          
+SEQRES   9 A  152  GLU GLU ASP ARG ILE SER GLU GLU LEU ASP LEU GLU ALA          
+SEQRES  10 A  152  GLN PHE HIS LEU HIS PHE CYS SER LEU HIS HIS ILE LEU          
+SEQRES  11 A  152  THR HIS LEU THR ARG LYS ALA GLN GLU VAL THR ARG LYS          
+SEQRES  12 A  152  TYR GLN GLU MSE THR GLY GLN VAL LEU                          
+DBREF  3ONT A    1   150  UNP    Q62264   THRSP_MOUSE      1    150             

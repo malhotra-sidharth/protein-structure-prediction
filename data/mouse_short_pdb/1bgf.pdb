@@ -1,0 +1,19 @@
+HELIX    1   1 GLN A    3  GLN A    9  1                                   7    
+HELIX    2   2 ILE A   12  PHE A   21  5                                  10    
+HELIX    3   3 MET A   28  LEU A   33  1                                   6    
+HELIX    4   4 ALA A   35  THR A   40  1                                   6    
+HELIX    5   5 TRP A   43  ASN A   48  1                                   6    
+HELIX    6   6 GLU A   50  LYS A   73  1                                  24    
+HELIX    7   7 LEU A   77  HIS A   95  1                                  19    
+HELIX    8   8 PRO A   98  ALA A  118  1                                  21    
+SEQRES   1 A  124  GLY GLY SER GLN TRP ASN GLN VAL GLN GLN LEU GLU ILE          
+SEQRES   2 A  124  LYS PHE LEU GLU GLN VAL ASP GLN PHE TYR ASP ASP ASN          
+SEQRES   3 A  124  PHE PRO MET GLU ILE ARG HIS LEU LEU ALA GLN TRP ILE          
+SEQRES   4 A  124  GLU THR GLN ASP TRP GLU VAL ALA SER ASN ASN GLU THR          
+SEQRES   5 A  124  MET ALA THR ILE LEU LEU GLN ASN LEU LEU ILE GLN LEU          
+SEQRES   6 A  124  ASP GLU GLN LEU GLY ARG VAL SER LYS GLU LYS ASN LEU          
+SEQRES   7 A  124  LEU LEU ILE HIS ASN LEU LYS ARG ILE ARG LYS VAL LEU          
+SEQRES   8 A  124  GLN GLY LYS PHE HIS GLY ASN PRO MET HIS VAL ALA VAL          
+SEQRES   9 A  124  VAL ILE SER ASN CYS LEU ARG GLU GLU ARG ARG ILE LEU          
+SEQRES  10 A  124  ALA ALA ALA ASN MET PRO ILE                                  
+DBREF  1BGF A    2   123  UNP    P42228   STA4_MOUSE       2    123             

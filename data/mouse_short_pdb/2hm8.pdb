@@ -1,0 +1,19 @@
+HELIX    1   1 ASN A  325  GLY A  342  1                                  18    
+HELIX    2   2 ASP A  343  LEU A  354  1                                  12    
+HELIX    3   3 VAL A  356  SER A  374  1                                  19    
+HELIX    4   4 GLY A  376  SER A  393  1                                  18    
+HELIX    5   5 THR A  397  TYR A  409  1                                  13    
+HELIX    6   6 HIS A  421  GLY A  437  1                                  17    
+HELIX    7   7 SER A  440  CYS A  447  1                                   8    
+SEQRES   1 A  136  GLY PRO LEU GLY SER GLY GLY GLN GLN PRO VAL ASN HIS          
+SEQRES   2 A  136  LEU VAL LYS GLU ILE ASP MET LEU LEU LYS GLU TYR LEU          
+SEQRES   3 A  136  LEU SER GLY ASP ILE SER GLU ALA GLU HIS CYS LEU LYS          
+SEQRES   4 A  136  GLU LEU GLU VAL PRO HIS PHE HIS HIS GLU LEU VAL TYR          
+SEQRES   5 A  136  GLU ALA ILE VAL MET VAL LEU GLU SER THR GLY GLU SER          
+SEQRES   6 A  136  ALA PHE LYS MET ILE LEU ASP LEU LEU LYS SER LEU TRP          
+SEQRES   7 A  136  LYS SER SER THR ILE THR ILE ASP GLN MET LYS ARG GLY          
+SEQRES   8 A  136  TYR GLU ARG ILE TYR ASN GLU ILE PRO ASP ILE ASN LEU          
+SEQRES   9 A  136  ASP VAL PRO HIS SER TYR SER VAL LEU GLU ARG PHE VAL          
+SEQRES  10 A  136  GLU GLU CYS PHE GLN ALA GLY ILE ILE SER LYS GLN LEU          
+SEQRES  11 A  136  ARG ASP LEU CYS PRO SER                                      
+DBREF  2HM8 A  319   449  UNP    Q61823   Q61823_MOUSE   319    449             

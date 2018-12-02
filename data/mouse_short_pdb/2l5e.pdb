@@ -1,0 +1,21 @@
+HELIX    1   1 THR A   36  VAL A   45  1                                  10    
+HELIX    2   2 VAL A   45  LYS A   52  1                                   8    
+HELIX    3   3 ALA A   56  TYR A   60  5                                   5    
+HELIX    4   4 ASP A   72  ILE A   77  1                                   6    
+HELIX    5   5 MET A   83  ASN A   92  1                                  10    
+HELIX    6   6 SER A   97  SER A   99  5                                   3    
+HELIX    7   7 GLU A  100  ASN A  116  1                                  17    
+HELIX    8   8 ASP A  120  ALA A  138  1                                  19    
+SEQRES   1 A  128  GLY PRO LEU GLY SER GLU VAL SER ASN PRO SER LYS PRO          
+SEQRES   2 A  128  GLY ARG LYS THR ASN GLN LEU GLN TYR MET GLN ASN VAL          
+SEQRES   3 A  128  VAL VAL LYS THR LEU TRP LYS HIS GLN PHE ALA TRP PRO          
+SEQRES   4 A  128  PHE TYR GLN PRO VAL ASP ALA ILE LYS LEU ASN LEU PRO          
+SEQRES   5 A  128  ASP TYR HIS LYS ILE ILE LYS ASN PRO MET ASP MET GLY          
+SEQRES   6 A  128  THR ILE LYS LYS ARG LEU GLU ASN ASN TYR TYR TRP SER          
+SEQRES   7 A  128  ALA SER GLU CYS MET GLN ASP PHE ASN THR MET PHE THR          
+SEQRES   8 A  128  ASN CYS TYR ILE TYR ASN LYS PRO THR ASP ASP ILE VAL          
+SEQRES   9 A  128  LEU MET ALA GLN ALA LEU GLU LYS ILE PHE LEU GLN LYS          
+SEQRES  10 A  128  VAL ALA GLN MET PRO GLN GLU GLU VAL GLU LEU                  
+SEQRES   1 B   13  LYS ALA SER GLY ALY GLY LYS ALY LYS ARG GLY SER ASN          
+DBREF  2L5E A   25   147  UNP    Q3TUI3   Q3TUI3_MOUSE    25    147             
+DBREF  2L5E B  308   320  PDB    2L5E     2L5E           308    320             

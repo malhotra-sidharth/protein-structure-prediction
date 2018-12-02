@@ -1,0 +1,9 @@
+HELIX    1   1 THR A   12  GLY A   27  1                                  16    
+HELIX    2   2 HIS A   29  PHE A   37  1                                   9    
+HELIX    3   3 ARG A   44  SER A   57  1                                  14    
+SEQRES   1 A   62  GLY SER SER GLY SER SER GLY ARG LYS ASP PHE THR LYS          
+SEQRES   2 A   62  GLU GLU VAL ASN TYR LEU PHE HIS GLY VAL LYS THR MET          
+SEQRES   3 A   62  GLY ASN HIS TRP ASN SER ILE LEU TRP SER PHE PRO PHE          
+SEQRES   4 A   62  GLN LYS GLY ARG ARG ALA VAL ASP LEU ALA HIS LYS TYR          
+SEQRES   5 A   62  HIS ARG LEU ILE SER GLY PRO SER SER GLY                      
+DBREF  1X58 A    8    56  UNP    Q8C0V1   Q8C0V1_MOUSE   712    760             

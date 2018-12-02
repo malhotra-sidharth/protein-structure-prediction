@@ -1,0 +1,8 @@
+SEQRES   1 A   31  ASP LEU LYS CYS PRO THR PRO GLY CYS ASP GLY SER GLY          
+SEQRES   2 A   31  HIS ILE THR GLY ASN TYR ALA SER HIS ARG SER LEU SER          
+SEQRES   3 A   31  GLY CYS PRO ARG ALA                                          
+SEQRES   1 B   13   DA  DC  DC  DG  DA  DA  DA  DG  DT  DT  DC  DA  DC          
+SEQRES   1 C   13   DG  DT  DG  DA  DA  DC  DT  DT  DT  DC  DG  DG  DT          
+DBREF  2JX1 A    9    39  UNP    Q8CFC2   MYT1_MOUSE     843    873             
+DBREF  2JX1 B    1    13  PDB    2JX1     2JX1             1     13             
+DBREF  2JX1 C   14    26  PDB    2JX1     2JX1            14     26             

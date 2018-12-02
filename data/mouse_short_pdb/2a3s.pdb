@@ -1,0 +1,14 @@
+KEYWDS    DNA-BINDING DOMAIN, WINGED-HELIX, FORKHEAD, NMR, DNA                  
+HELIX    1   1 ALA A    9  SER A   17  1                                   9    
+HELIX    2   2 THR A   25  TYR A   37  1                                  13    
+HELIX    3   3 GLY A   46  ASN A   58  1                                  13    
+HELIX    4   4 SER A   83  ARG A   93  1                                  11    
+SEQRES   1 A  101  GLU SER LYS PRO PRO TYR SER TYR ALA GLN LEU ILE VAL          
+SEQRES   2 A  101  GLN ALA ILE SER SER ALA GLN ASP ARG GLN LEU THR LEU          
+SEQRES   3 A  101  SER GLY ILE TYR ALA HIS ILE THR LYS HIS TYR PRO TYR          
+SEQRES   4 A  101  TYR ARG THR ALA ASP LYS GLY TRP GLN ASN SER ILE ARG          
+SEQRES   5 A  101  HIS ASN LEU SER LEU ASN ARG TYR PHE ILE LYS VAL PRO          
+SEQRES   6 A  101  ARG SER GLN GLU GLU PRO GLY LYS GLY SER PHE TRP ARG          
+SEQRES   7 A  101  ILE ASP PRO ALA SER GLU ALA LYS LEU VAL GLU GLN ALA          
+SEQRES   8 A  101  PHE ARG LYS ARG ARG GLN ARG GLY VAL SER                      
+DBREF  2A3S A    1   101  UNP    P42128   FOXK1_MOUSE    287    387             

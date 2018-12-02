@@ -1,0 +1,9 @@
+HELIX    1  H1 LYS A    4  PRO A   10 10                                   7    
+HELIX    2  H2 SER A   72  VAL A   76  5                                   5    
+SEQRES   1 A   77  LYS LYS PRO LEU PRO PRO THR PRO GLU ASP ASN ARG ARG          
+SEQRES   2 A   77  SER PHE GLN GLU PRO GLU GLU THR LEU VAL ILE ALA LEU          
+SEQRES   3 A   77  TYR ASP TYR GLN THR ASN ASP PRO GLN GLU LEU ALA LEU          
+SEQRES   4 A   77  ARG CYS ASP GLU GLU TYR TYR LEU LEU ASP SER SER GLU          
+SEQRES   5 A   77  ILE HIS TRP TRP ARG VAL GLN ASP LYS ASN GLY HIS GLU          
+SEQRES   6 A   77  GLY TYR ALA PRO SER SER TYR LEU VAL GLU LYS SER              
+DBREF  1AWJ A    3    79  UNP    Q03526   ITK_MOUSE      160    236             

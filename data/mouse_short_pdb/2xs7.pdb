@@ -1,0 +1,13 @@
+HELIX    1   1 ASP A   52  ALA A   61  1                                  10    
+HELIX    2   2 ARG A   62  GLY A   64  5                                   3    
+HELIX    3   3 ASP A   92  VAL A   97  1                                   6    
+SEQRES   1 A   87  SER LEU PRO GLU GLY LYS ILE MET PRO ASN THR VAL PHE          
+SEQRES   2 A   87  VAL GLY GLY ILE ASP VAL ARG MET ASP GLU THR GLU ILE          
+SEQRES   3 A   87  ARG SER PHE PHE ALA ARG TYR GLY SER VAL LYS GLU VAL          
+SEQRES   4 A   87  LYS ILE ILE THR ASP ARG THR GLY VAL SER LYS GLY TYR          
+SEQRES   5 A   87  GLY PHE VAL SER PHE TYR ASN ASP VAL ASP VAL GLN LYS          
+SEQRES   6 A   87  ILE VAL GLU SER GLN ILE ASN PHE HIS GLY LYS LYS LEU          
+SEQRES   7 A   87  LYS LEU GLY PRO ALA ILE ARG LYS GLN                          
+SEQRES   1 B    6    U   U   G   U   U   U                                      
+DBREF  2XS7 A   32   117  UNP    Q64368   DAZL_MOUSE      32    117             
+DBREF  2XS7 B    1     6  PDB    2XS7     2XS7             1      6             

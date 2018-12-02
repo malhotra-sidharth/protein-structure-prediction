@@ -1,0 +1,28 @@
+HELIX    1   1 ASP A   19  PHE A   32  1                                  14    
+HELIX    2   2 PRO A   39  ARG A   43  5                                   5    
+HELIX    3   3 LEU A   47  ARG A   56  1                                  10    
+HELIX    4   4 PRO A   57  GLU A   68  1                                  12    
+HELIX    5   5 GLY A   81  ASP A   91  1                                  11    
+HELIX    6   6 LYS A  106  HIS A  109  5                                   4    
+HELIX    7   7 CYS A  110  LEU A  122  1                                  13    
+HELIX    8   8 GLY A  123  GLU A  128  1                                   6    
+HELIX    9   9 ASP A  135  VAL A  139  5                                   5    
+HELIX   10  10 CYS A  167  GLN A  171  5                                   5    
+HELIX   11  11 ASN A  188  ALA A  198  1                                  11    
+SEQRES   1 A  200  MET ALA VAL LYS ARG PRO VAL ARG VAL LEU VAL ASN MET          
+SEQRES   2 A  200  ASP GLY VAL LEU ALA ASP PHE GLU SER GLY LEU LEU GLN          
+SEQRES   3 A  200  GLY PHE ARG ARG ARG PHE PRO GLU GLU PRO HIS VAL PRO          
+SEQRES   4 A  200  LEU GLU GLN ARG ARG GLY PHE LEU ALA ASN GLU GLN TYR          
+SEQRES   5 A  200  GLY ALA LEU ARG PRO ASP LEU ALA GLU LYS VAL ALA SER          
+SEQRES   6 A  200  VAL TYR GLU SER PRO GLY PHE PHE LEU ASN LEU GLU PRO          
+SEQRES   7 A  200  ILE PRO GLY ALA LEU ASP ALA LEU ARG GLU MET ASN ASP          
+SEQRES   8 A  200  MET LYS ASP THR GLU VAL PHE ILE CYS THR THR PRO LEU          
+SEQRES   9 A  200  LEU LYS TYR ASP HIS CYS VAL GLY GLU LYS TYR ARG TRP          
+SEQRES  10 A  200  VAL GLU GLN ASN LEU GLY PRO GLU PHE VAL GLU ARG ILE          
+SEQRES  11 A  200  ILE LEU THR ARG ASP LYS THR VAL VAL MET GLY ASP LEU          
+SEQRES  12 A  200  LEU ILE ASP ASP LYS ASP ASN ILE GLN GLY LEU GLU GLU          
+SEQRES  13 A  200  THR PRO SER TRP GLU HIS ILE LEU PHE THR CYS CYS HIS          
+SEQRES  14 A  200  ASN GLN HIS LEU ALA LEU PRO PRO THR ARG ARG ARG LEU          
+SEQRES  15 A  200  LEU SER TRP SER ASP ASN TRP ARG GLY ILE ILE GLU SER          
+SEQRES  16 A  200  LYS ARG ALA SER LEU                                          
+DBREF  2JAO A    1   200  UNP    Q9JM14   NT5C_MOUSE       1    200             

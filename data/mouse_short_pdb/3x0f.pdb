@@ -1,0 +1,30 @@
+HELIX    1   1 ASN A  115  ASP A  137  1                                  23    
+HELIX    2   2 ALA A  140  ASN A  155  1                                  16    
+HELIX    3   3 ASN A  160  ARG A  171  1                                  12    
+HELIX    4   4 ASN A  172  CYS A  175  5                                   4    
+HELIX    5   5 LEU A  182  GLN A  187  5                                   6    
+HELIX    6   6 ASP A  189  PHE A  198  1                                  10    
+HELIX    7   7 ASN B  115  ASP B  117  5                                   3    
+HELIX    8   8 GLN B  118  ASP B  137  1                                  20    
+HELIX    9   9 ALA B  140  ASN B  155  1                                  16    
+HELIX   10  10 ASN B  160  LEU B  170  1                                  11    
+HELIX   11  11 ARG B  171  CYS B  175  5                                   5    
+HELIX   12  12 ASP B  189  SER B  199  1                                  11    
+SEQRES   1 A   93  SER HIS MET PHE VAL ASN LYS ASP GLN ILE ALA LYS ASP          
+SEQRES   2 A   93  VAL LYS GLN PHE TYR ASP GLN ALA LEU GLN GLN ALA VAL          
+SEQRES   3 A   93  MET ASP ASP ASP ALA ASN ASN ALA LYS ALA VAL VAL LYS          
+SEQRES   4 A   93  THR PHE HIS GLU THR LEU ASN CYS CYS GLY SER ASN ALA          
+SEQRES   5 A   93  LEU THR THR LEU THR THR THR ILE LEU ARG ASN SER LEU          
+SEQRES   6 A   93  CYS PRO SER GLY GLY ASN ILE LEU THR PRO LEU LEU GLN          
+SEQRES   7 A   93  GLN ASP CYS HIS GLN LYS ILE ASP GLU LEU PHE SER GLY          
+SEQRES   8 A   93  LYS LEU                                                      
+SEQRES   1 B   93  SER HIS MET PHE VAL ASN LYS ASP GLN ILE ALA LYS ASP          
+SEQRES   2 B   93  VAL LYS GLN PHE TYR ASP GLN ALA LEU GLN GLN ALA VAL          
+SEQRES   3 B   93  MET ASP ASP ASP ALA ASN ASN ALA LYS ALA VAL VAL LYS          
+SEQRES   4 B   93  THR PHE HIS GLU THR LEU ASN CYS CYS GLY SER ASN ALA          
+SEQRES   5 B   93  LEU THR THR LEU THR THR THR ILE LEU ARG ASN SER LEU          
+SEQRES   6 B   93  CYS PRO SER GLY GLY ASN ILE LEU THR PRO LEU LEU GLN          
+SEQRES   7 B   93  GLN ASP CYS HIS GLN LYS ILE ASP GLU LEU PHE SER GLY          
+SEQRES   8 B   93  LYS LEU                                                      
+DBREF  3X0F A  113   202  UNP    P35762   CD81_MOUSE     113    202             
+DBREF  3X0F B  113   202  UNP    P35762   CD81_MOUSE     113    202             

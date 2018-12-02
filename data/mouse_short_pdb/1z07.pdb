@@ -1,0 +1,21 @@
+HELIX    1   1 GLY A   33  GLY A   44  1                                  12    
+HELIX    2   2 GLN A   80  SER A   85  5                                   6    
+HELIX    3   3 LEU A   86  ARG A   92  1                                   7    
+HELIX    4   4 ASN A  105  ALA A  123  1                                  19    
+HELIX    5   5 LEU A  138  ARG A  142  5                                   5    
+HELIX    6   6 GLU A  145  ASN A  156  1                                  12    
+HELIX    7   7 ASN A  170  LYS A  181  1                                  12    
+SEQRES   1 A  166  GLY SER ILE CYS GLN PHE LYS LEU VAL LEU LEU GLY GLU          
+SEQRES   2 A  166  SER ALA VAL GLY LYS SER SER LEU VAL LEU ARG PHE VAL          
+SEQRES   3 A  166  LYS GLY GLN PHE HIS GLU TYR GLN GLU SER THR ILE GLN          
+SEQRES   4 A  166  ALA ALA PHE LEU THR GLN THR VAL CYS LEU ASP ASP THR          
+SEQRES   5 A  166  THR VAL LYS PHE GLU ILE TRP ASP THR ALA GLY GLN GLU          
+SEQRES   6 A  166  ARG TYR HIS SER LEU ALA PRO MET TYR TYR ARG GLY ALA          
+SEQRES   7 A  166  GLN ALA ALA ILE VAL VAL TYR ASP ILE THR ASN THR ASP          
+SEQRES   8 A  166  THR PHE ALA ARG ALA LYS ASN TRP VAL LYS GLU LEU GLN          
+SEQRES   9 A  166  ARG GLN ALA SER PRO ASN ILE VAL ILE ALA LEU ALA GLY          
+SEQRES  10 A  166  ASN LYS ALA ASP LEU ALA SER LYS ARG ALA VAL GLU PHE          
+SEQRES  11 A  166  GLN GLU ALA GLN ALA TYR ALA ASP ASP ASN SER LEU LEU          
+SEQRES  12 A  166  PHE MET GLU THR SER ALA LYS THR ALA MET ASN VAL ASN          
+SEQRES  13 A  166  GLU ILE PHE MET ALA ILE ALA LYS LYS LEU                      
+DBREF  1Z07 A   19   182  UNP    P35278   RAB5C_MOUSE     19    182             

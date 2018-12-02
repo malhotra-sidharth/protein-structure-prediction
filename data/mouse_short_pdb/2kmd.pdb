@@ -1,0 +1,17 @@
+HELIX    1   1 LYS A   42  THR A   52  1                                  11    
+HELIX    2   2 SER A   54  ARG A   62  1                                   9    
+HELIX    3   3 GLU A   74  GLU A   87  1                                  14    
+HELIX    4   4 PHE A   95  PHE A   98  1                                   4    
+HELIX    5   5 GLY A  102  ALA A  107  1                                   6    
+HELIX    6   6 GLY A  109  LEU A  116  1                                   8    
+HELIX    7   7 ASP A  119  LYS A  134  1                                  16    
+SEQRES   1 A  113  GLY SER HIS MET GLU CYS ALA ASP VAL PRO LEU LEU TPO          
+SEQRES   2 A  113  PRO SER SEP LYS GLU MET MET SER GLN ALA LEU LYS ALA          
+SEQRES   3 A  113  THR PHE SER GLY PHE THR LYS GLU GLN GLN ARG LEU GLY          
+SEQRES   4 A  113  ILE PRO LYS ASP PRO ARG GLN TRP THR GLU THR HIS VAL          
+SEQRES   5 A  113  ARG ASP TRP VAL MET TRP ALA VAL ASN GLU PHE SER LEU          
+SEQRES   6 A  113  LYS GLY VAL ASP PHE GLN LYS PHE CYS MET SER GLY ALA          
+SEQRES   7 A  113  ALA LEU CYS ALA LEU GLY LYS GLU CYS PHE LEU GLU LEU          
+SEQRES   8 A  113  ALA PRO ASP PHE VAL GLY ASP ILE LEU TRP GLU HIS LEU          
+SEQRES   9 A  113  GLU ILE LEU GLN LYS GLU ASP VAL LYS                          
+DBREF  2KMD A   29   138  UNP    P27577   ETS1_MOUSE      29    138             

@@ -1,0 +1,14 @@
+KEYWDS    THREE-HELIX BUNDLE, BETA-ARM, DISHEVELLED-1, SEGMENT                  
+HELIX    1   1 ASP A   20  LEU A   30  1                                  11    
+HELIX    2   2 VAL A   51  VAL A   64  1                                  14    
+HELIX    3   3 GLU A   69  HIS A   83  1                                  15    
+SEQRES   1 A  105  THR SER SER VAL PRO GLY ALA PRO GLN LEU GLU GLU ALA          
+SEQRES   2 A  105  PRO LEU THR VAL LYS SER ASP MET SER ALA ILE VAL ARG          
+SEQRES   3 A  105  VAL MET GLN LEU PRO ASP SER GLY LEU GLU ILE ARG ASP          
+SEQRES   4 A  105  ARG MET TRP LEU LYS ILE THR ILE ALA ASN ALA VAL ILE          
+SEQRES   5 A  105  GLY ALA ASP VAL VAL ASP TRP LEU TYR THR HIS VAL GLU          
+SEQRES   6 A  105  GLY PHE LYS GLU ARG ARG GLU ALA ARG LYS TYR ALA SER          
+SEQRES   7 A  105  SER MET LEU LYS HIS GLY PHE LEU ARG HIS THR VAL ASN          
+SEQRES   8 A  105  LYS ILE THR PHE SER GLU GLN CYS TYR TYR VAL PHE GLY          
+SEQRES   9 A  105  ASP                                                          
+DBREF  1FSH A    1   105  UNP    P51141   DVL1_MOUSE     391    495             

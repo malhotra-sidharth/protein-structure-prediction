@@ -1,0 +1,16 @@
+HELIX    1   1 ASP A   30  ARG A   35  1                                   6    
+HELIX    2   2 LEU A   53  VAL A   60  1                                   8    
+HELIX    3   3 GLU A   62  TYR A   67  1                                   6    
+HELIX    4   4 THR A  101  GLY A  113  1                                  13    
+HELIX    5   5 PRO A  125  LEU A  129  5                                   5    
+SEQRES   1 A  129  MET THR ASN TYR ARG PRO ASP TRP ASN ARG LEU ARG GLY          
+SEQRES   2 A  129  LEU ALA ARG GLY ARG VAL GLU THR CYS GLY GLY CYS GLN          
+SEQRES   3 A  129  LEU ASN ARG LEU LYS GLU VAL LYS ALA PHE VAL THR GLU          
+SEQRES   4 A  129  ASP ILE GLN LEU TYR HIS ASN LEU VAL MET LYS HIS LEU          
+SEQRES   5 A  129  PRO GLY ALA ASP PRO GLU LEU VAL LEU LEU SER ARG ASN          
+SEQRES   6 A  129  TYR GLN GLU LEU GLU ARG ILE PRO LEU SER GLN MET THR          
+SEQRES   7 A  129  ARG ASP GLU ILE ASN ALA LEU VAL GLN GLU LEU GLY PHE          
+SEQRES   8 A  129  TYR ARG LYS SER ALA PRO GLU ALA GLN VAL PRO PRO GLU          
+SEQRES   9 A  129  TYR LEU TRP ALA PRO ALA LYS PRO PRO GLU GLU ALA SER          
+SEQRES  10 A  129  GLU HIS ASP ASP LEU GLU HIS HIS HIS HIS HIS HIS              
+DBREF  2A2P A   25   145  UNP    Q8VHC3   SELM_MOUSE      25    145             

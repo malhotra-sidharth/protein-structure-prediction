@@ -1,0 +1,18 @@
+HELIX    1 AA1 PRO A   36  SER A   40  5                                   5    
+HELIX    2 AA2 PRO A   44  ILE A   48  5                                   5    
+HELIX    3 AA3 PRO A   51  ARG A   63  1                                  13    
+HELIX    4 AA4 PRO B   36  SER B   40  5                                   5    
+HELIX    5 AA5 GLU B   46  ILE B   48  5                                   3    
+HELIX    6 AA6 ASP B   50  GLU B   62  1                                  13    
+SEQRES   1 A   64  GLY SER HIS MET GLY GLU GLN VAL PHE ALA VAL GLU SER          
+SEQRES   2 A   64  ILE ARG LYS LYS ARG VAL ARG LYS GLY LYS VAL GLU TYR          
+SEQRES   3 A   64  LEU VAL LYS TRP LYS GLY TRP PRO PRO LYS TYR SER THR          
+SEQRES   4 A   64  TRP GLU PRO GLU GLU HIS ILE LEU ASP PRO ARG LEU VAL          
+SEQRES   5 A   64  MET ALA TYR GLU GLU LYS GLU GLU ARG ASP ARG ALA              
+SEQRES   1 B   64  GLY SER HIS MET GLY GLU GLN VAL PHE ALA VAL GLU SER          
+SEQRES   2 B   64  ILE ARG LYS LYS ARG VAL ARG LYS GLY LYS VAL GLU TYR          
+SEQRES   3 B   64  LEU VAL LYS TRP LYS GLY TRP PRO PRO LYS TYR SER THR          
+SEQRES   4 B   64  TRP GLU PRO GLU GLU HIS ILE LEU ASP PRO ARG LEU VAL          
+SEQRES   5 B   64  MET ALA TYR GLU GLU LYS GLU GLU ARG ASP ARG ALA              
+DBREF  4X3U A    7    66  UNP    Q8VDS3   CBX7_MOUSE       7     66             
+DBREF  4X3U B    7    66  UNP    Q8VDS3   CBX7_MOUSE       7     66             

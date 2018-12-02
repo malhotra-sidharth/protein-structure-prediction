@@ -1,0 +1,22 @@
+HELIX    1   1 ASN D  339  ASN D  349  1                                  11    
+HELIX    2   2 PRO D  353  LYS D  357  5                                   5    
+HELIX    3   3 ASN C  339  ASN C  349  1                                  11    
+HELIX    4   4 PRO C  353  LYS C  357  5                                   5    
+SEQRES   1 Y   20   DT  DT  DC  DT  DG  DA  DT  DA  DA  DG  DA  DC  DT          
+SEQRES   2 Y   20   DT  DA  DT  DC  DT  DG  DC                                  
+SEQRES   1 Z   20   DA  DA  DG  DC  DA  DG  DA  DT  DA  DA  DG  DT  DC          
+SEQRES   2 Z   20   DT  DT  DA  DT  DC  DA  DG                                  
+SEQRES   1 D   63  SER ALA ALA ARG ARG ALA GLY THR SER CYS ALA ASN CYS          
+SEQRES   2 D   63  GLN THR THR THR THR THR LEU TRP ARG ARG ASN ALA ASN          
+SEQRES   3 D   63  GLY ASP PRO VAL CYS ASN ALA CYS GLY LEU TYR TYR LYS          
+SEQRES   4 D   63  LEU HIS ASN ILE ASN ARG PRO LEU THR MET LYS LYS GLU          
+SEQRES   5 D   63  GLY ILE GLN THR ARG ASN ARG LYS MET SER SER                  
+SEQRES   1 C   63  SER ALA ALA ARG ARG ALA GLY THR SER CYS ALA ASN CYS          
+SEQRES   2 C   63  GLN THR THR THR THR THR LEU TRP ARG ARG ASN ALA ASN          
+SEQRES   3 C   63  GLY ASP PRO VAL CYS ASN ALA CYS GLY LEU TYR TYR LYS          
+SEQRES   4 C   63  LEU HIS ASN ILE ASN ARG PRO LEU THR MET LYS LYS GLU          
+SEQRES   5 C   63  GLY ILE GLN THR ARG ASN ARG LYS MET SER SER                  
+DBREF  3DFV D  308   370  UNP    P23772   GATA3_MOUSE    308    370             
+DBREF  3DFV C  308   370  UNP    P23772   GATA3_MOUSE    308    370             
+DBREF  3DFV Y    1    20  PDB    3DFV     3DFV             1     20             
+DBREF  3DFV Z    1    20  PDB    3DFV     3DFV             1     20             

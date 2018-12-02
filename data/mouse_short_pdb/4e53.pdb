@@ -1,0 +1,51 @@
+HELIX    1   1 GLN A    9  ASP A   21  1                                  13    
+HELIX    2   2 THR A   29  LEU A   40  1                                  12    
+HELIX    3   3 LEU A   49  ASP A   57  1                                   9    
+HELIX    4   4 ASP A   65  ASP A   94  1                                  30    
+HELIX    5   5 ALA A  103  LEU A  113  1                                  11    
+HELIX    6   6 THR A  118  GLU A  128  1                                  11    
+HELIX    7   7 ASN A  138  THR A  147  1                                  10    
+HELIX    8   9 GLN B    9  LYS B   14  1                                   6    
+HELIX    9  10 THR B   30  ARG B   38  1                                   9    
+HELIX   10  11 SER B   39  GLY B   41  5                                   3    
+HELIX   11  12 THR B   45  GLU B   55  1                                  11    
+HELIX   12  13 ASP B   65  ARG B   87  1                                  23    
+HELIX   13  14 ALA B  103  LEU B  113  1                                  11    
+HELIX   14  15 THR B  118  ASP B  130  1                                  13    
+HELIX   15  16 TYR B  139  MET B  146  1                                   8    
+SEQRES   1 A  185  MET HIS HIS HIS HIS HIS HIS MET ALA ASP GLN LEU THR          
+SEQRES   2 A  185  GLU GLU GLN ILE ALA GLU PHE LYS GLU ALA PHE SER LEU          
+SEQRES   3 A  185  PHE ASP LYS ASP GLY ASP GLY THR ILE THR THR LYS GLU          
+SEQRES   4 A  185  LEU GLY THR VAL MET ARG SER LEU GLY GLN ASN PRO THR          
+SEQRES   5 A  185  GLU ALA GLU LEU GLN ASP MET ILE ASN GLU VAL ASP ALA          
+SEQRES   6 A  185  ASP GLY ASN GLY THR ILE ASP PHE PRO GLU PHE LEU THR          
+SEQRES   7 A  185  MET MET ALA ARG LYS MET LYS ASP THR ASP SER GLU GLU          
+SEQRES   8 A  185  GLU ILE ARG GLU ALA PHE ARG VAL PHE ASP LYS ASP GLY          
+SEQRES   9 A  185  ASN GLY TYR ILE SER ALA ALA GLU LEU ARG HIS VAL MET          
+SEQRES  10 A  185  THR ASN LEU GLY GLU LYS LEU THR ASP GLU GLU VAL ASP          
+SEQRES  11 A  185  GLU MET ILE ARG GLU ALA ASP ILE ASP GLY ASP GLY GLN          
+SEQRES  12 A  185  VAL ASN TYR GLU GLU PHE VAL GLN MET MET THR ALA LYS          
+SEQRES  13 A  185  GLY GLY GLY GLY GLY ALA ALA THR LYS ILE GLN ALA SER          
+SEQRES  14 A  185  PHE ARG GLY HIS ILE THR ARG LYS LYS LEU LYS GLY GLU          
+SEQRES  15 A  185  LYS LYS GLY                                                  
+SEQRES   1 B  185  MET HIS HIS HIS HIS HIS HIS MET ALA ASP GLN LEU THR          
+SEQRES   2 B  185  GLU GLU GLN ILE ALA GLU PHE LYS GLU ALA PHE SER LEU          
+SEQRES   3 B  185  PHE ASP LYS ASP GLY ASP GLY THR ILE THR THR LYS GLU          
+SEQRES   4 B  185  LEU GLY THR VAL MET ARG SER LEU GLY GLN ASN PRO THR          
+SEQRES   5 B  185  GLU ALA GLU LEU GLN ASP MET ILE ASN GLU VAL ASP ALA          
+SEQRES   6 B  185  ASP GLY ASN GLY THR ILE ASP PHE PRO GLU PHE LEU THR          
+SEQRES   7 B  185  MET MET ALA ARG LYS MET LYS ASP THR ASP SER GLU GLU          
+SEQRES   8 B  185  GLU ILE ARG GLU ALA PHE ARG VAL PHE ASP LYS ASP GLY          
+SEQRES   9 B  185  ASN GLY TYR ILE SER ALA ALA GLU LEU ARG HIS VAL MET          
+SEQRES  10 B  185  THR ASN LEU GLY GLU LYS LEU THR ASP GLU GLU VAL ASP          
+SEQRES  11 B  185  GLU MET ILE ARG GLU ALA ASP ILE ASP GLY ASP GLY GLN          
+SEQRES  12 B  185  VAL ASN TYR GLU GLU PHE VAL GLN MET MET THR ALA LYS          
+SEQRES  13 B  185  GLY GLY GLY GLY GLY ALA ALA THR LYS ILE GLN ALA SER          
+SEQRES  14 B  185  PHE ARG GLY HIS ILE THR ARG LYS LYS LEU LYS GLY GLU          
+SEQRES  15 B  185  LYS LYS GLY                                                  
+DBREF  4E53 A    1   149  UNP    P62204   CALM_MOUSE       1    149             
+DBREF  4E53 A  150   154  PDB    4E53     4E53           150    154             
+DBREF  4E53 A  155   178  UNP    P06837   NEUM_MOUSE      34     57             
+DBREF  4E53 B    1   149  UNP    P62204   CALM_MOUSE       1    149             
+DBREF  4E53 B  150   154  PDB    4E53     4E53           150    154             
+DBREF  4E53 B  155   178  UNP    P06837   NEUM_MOUSE      34     57             

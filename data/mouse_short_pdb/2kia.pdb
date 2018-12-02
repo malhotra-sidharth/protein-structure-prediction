@@ -1,0 +1,17 @@
+HELIX    1   1 ALA A    1  ASP A    7  1                                   7    
+HELIX    2   2 ARG A   21  ASP A   28  1                                   8    
+HELIX    3   3 ASN A   74  GLY A   79  1                                   6    
+HELIX    4   4 LEU A   89  GLY A  101  1                                  13    
+HELIX    5   5 GLY A  101  SER A  112  1                                  12    
+HELIX    6   6 TYR A  119  LEU A  128  1                                  10    
+SEQRES   1 A  129  ALA ARG GLN GLN GLU ILE ASP MET LYS ARG GLN GLN ARG          
+SEQRES   2 A  129  PHE PHE ARG ILE PRO PHE ILE ARG PRO ALA ASP GLN TYR          
+SEQRES   3 A  129  LYS ASP PRO GLN ASN LYS LYS LYS GLY TRP TRP TYR ALA          
+SEQRES   4 A  129  HIS PHE ASP GLY PRO TRP ILE ALA ARG GLN MET GLU LEU          
+SEQRES   5 A  129  HIS PRO ASP LYS PRO PRO ILE LEU LEU VAL ALA GLY LYS          
+SEQRES   6 A  129  ASP ASP MET GLU MET CYS GLU LYS ASN LEU GLU GLU THR          
+SEQRES   7 A  129  GLY LEU THR ARG LYS ARG GLY ALA GLU ILE LEU PRO ARG          
+SEQRES   8 A  129  GLN PHE GLU GLU ILE TRP GLU ARG CYS GLY GLY ILE GLN          
+SEQRES   9 A  129  TYR LEU GLN SER ALA ILE GLU SER ARG GLN ALA ARG PRO          
+SEQRES  10 A  129  THR TYR ALA THR ALA MET LEU GLN ASN LEU LEU LYS              
+DBREF  2KIA A    1   129  UNP    Q64331   MYO6_MOUSE    1137   1265             

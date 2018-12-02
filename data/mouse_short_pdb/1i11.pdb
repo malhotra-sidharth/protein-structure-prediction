@@ -1,0 +1,11 @@
+HELIX    1   1 ALA A    9  PHE A   25  1                                  17    
+HELIX    2   2 ASN A   30  ALA A   43  1                                  14    
+HELIX    3   3 PRO A   51  TYR A   67  1                                  17    
+SEQRES   1 A   81  GLY SER PRO HIS ILE LYS ARG PRO MET ASN ALA PHE MET          
+SEQRES   2 A   81  VAL TRP ALA LYS ASP GLU ARG ARG LYS ILE LEU GLN ALA          
+SEQRES   3 A   81  PHE PRO ASP MET HIS ASN SER ASN ILE SER LYS ILE LEU          
+SEQRES   4 A   81  GLY SER ARG TRP LYS ALA MET THR ASN LEU GLU LYS GLN          
+SEQRES   5 A   81  PRO TYR TYR GLU GLU GLN ALA ARG LEU SER LYS GLN HIS          
+SEQRES   6 A   81  LEU GLU LYS TYR PRO ASP TYR LYS TYR LYS PRO ARG PRO          
+SEQRES   7 A   81  LYS ARG THR                                                  
+DBREF  1I11 A    1    79  UNP    P35710   SOX5_MOUSE     183    261             

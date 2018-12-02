@@ -1,0 +1,22 @@
+HELIX    1 AA1 MET A  429  LEU A  441  1                                  13    
+HELIX    2 AA2 THR A  445  MET A  450  1                                   6    
+HELIX    3 AA3 ARG A  454  CYS A  456  5                                   3    
+HELIX    4 AA4 ASP A  466  SER A  476  1                                  11    
+HELIX    5 AA5 LYS A  498  ALA A  501  5                                   4    
+HELIX    6 AA6 ASP A  504  CYS A  508  5                                   5    
+HELIX    7 AA7 LEU A  511  ASN A  519  1                                   9    
+HELIX    8 AA8 LYS A  530  LYS A  540  1                                  11    
+HELIX    9 AA9 LEU A  569  LYS A  578  1                                  10    
+SEQRES   1 A  152  MET GLU GLU LEU ASN ILE ILE GLN GLY ALA LEU GLU LEU          
+SEQRES   2 A  152  ARG THR LYS THR VAL GLU ASP VAL MET THR PRO LEU ARG          
+SEQRES   3 A  152  ASP CYS PHE MET ILE THR GLY GLU ALA ILE LEU ASP PHE          
+SEQRES   4 A  152  ASN THR MET SER GLU ILE MET GLU SER GLY TYR THR ARG          
+SEQRES   5 A  152  ILE PRO VAL PHE GLU GLY GLU ARG SER ASN ILE VAL ASP          
+SEQRES   6 A  152  LEU LEU PHE VAL LYS ASP LEU ALA PHE VAL ASP PRO ASP          
+SEQRES   7 A  152  ASP CYS THR PRO LEU LYS THR ILE THR LYS PHE TYR ASN          
+SEQRES   8 A  152  HIS PRO LEU HIS PHE VAL PHE ASN ASP THR LYS LEU ASP          
+SEQRES   9 A  152  ALA MET LEU GLU GLU PHE LYS LYS GLY LYS SER HIS LEU          
+SEQRES  10 A  152  ALA ILE VAL GLN ARG VAL ASN ASN GLU GLY GLU GLY ASP          
+SEQRES  11 A  152  PRO PHE TYR GLU VAL LEU GLY ILE VAL THR LEU GLU ASP          
+SEQRES  12 A  152  VAL ILE GLU GLU ILE ILE LYS SER GLU                          
+DBREF  4P1G A  430   580  UNP    Q3TWN3   CNNM2_MOUSE    430    580             

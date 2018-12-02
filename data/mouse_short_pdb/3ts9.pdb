@@ -1,0 +1,20 @@
+KEYWDS    HELIX BUNDLE, FANCM HELICASE, SUPER FAMILY 2 HELICASE, SF2 HELICASE,  
+HELIX    1   1 ASN A    8  CYS A   25  1                                  18    
+HELIX    2   2 THR A   35  GLY A   53  1                                  19    
+HELIX    3   3 ASN A   54  ILE A   77  1                                  24    
+HELIX    4   4 ARG A   78  VAL A  100  1                                  23    
+HELIX    5   5 ASP A  111  GLU A  133  1                                  23    
+HELIX    6   6 ASN A  134  GLU A  138  5                                   5    
+SEQRES   1 A  138  GLY HIS MET ASP THR ARG GLU ASN PRO PHE LYS GLU LYS          
+SEQRES   2 A  138  LEU LEU GLU ILE MET ALA SER ILE GLN THR TYR CYS GLN          
+SEQRES   3 A  138  LYS SER PRO MET SER ASP PHE GLY THR GLN HIS TYR GLU          
+SEQRES   4 A  138  GLN TRP ALA ILE GLN MET GLU LYS LYS ALA ALA LYS ASP          
+SEQRES   5 A  138  GLY ASN ARG LYS ASP ARG VAL CYS ALA GLU HIS LEU ARG          
+SEQRES   6 A  138  LYS TYR ASN GLU ALA LEU GLN ILE ASN ASP THR ILE ARG          
+SEQRES   7 A  138  MET ILE ASP ALA TYR SER HIS LEU GLU THR PHE TYR THR          
+SEQRES   8 A  138  ASP GLU LYS GLU LYS LYS PHE ALA VAL LEU ASN ASP SER          
+SEQRES   9 A  138  LYS LYS SER LEU LYS LEU ASP GLU THR ASP GLU PHE LEU          
+SEQRES  10 A  138  MET ASN LEU PHE PHE ASP ASN LYS LYS MET LEU LYS LYS          
+SEQRES  11 A  138  LEU ALA GLU ASN PRO LYS TYR GLU                              
+DBREF  3TS9 A    4   104  UNP    Q8R5F7   IFIH1_MOUSE    545    645             
+DBREF  3TS9 A  105   138  UNP    Q8R5F7   IFIH1_MOUSE    664    697             

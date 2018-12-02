@@ -1,0 +1,47 @@
+HELIX    1 AA1 THR C  374  LYS C  383  1                                  10    
+HELIX    2 AA2 LEU C  384  LYS C  389  5                                   6    
+HELIX    3 AA3 SER C  402  ASP C  415  1                                  14    
+HELIX    4 AA4 ARG C  430  GLN C  438  1                                   9    
+HELIX    5 AA5 GLN C  438  GLY C  443  1                                   6    
+HELIX    6 AA6 TYR C  458  LEU C  467  1                                  10    
+HELIX    7 AA7 CYS C  486  GLY C  499  1                                  14    
+HELIX    8 AA8 SER C  514  GLN C  522  1                                   9    
+HELIX    9 AA9 GLN C  522  GLY C  527  1                                   6    
+HELIX   10 AB1 ARG C  542  GLY C  555  1                                  14    
+HELIX   11 AB2 CYS C  570  GLN C  578  1                                   9    
+HELIX   12 AB3 ARG C  598  SER C  610  1                                  13    
+HELIX   13 AB4 ARG C  626  GLN C  634  1                                   9    
+SEQRES   1 A   28   DT  DG  DT  DG  DG  DG  DC  DG  DT  DG  DG  DC  DA          
+SEQRES   2 A   28   DC  DA  DG  DG  DT  DA  DA  DA  DA  DA  DG  DG  DG          
+SEQRES   3 A   28   DC  DA                                                      
+SEQRES   1 B   28   DT  DG  DC  DC  DC  DT  DT  DT  DT  DT  DA  DC  DC          
+SEQRES   2 B   28   DT  DG  DT  DG  DC  DC  DA  DC  DG  DC  DC  DC  DA          
+SEQRES   3 B   28   DC  DA                                                      
+SEQRES   1 C  314  GLY PRO GLY SER PRO HIS LYS CYS LYS GLU CYS GLY LYS          
+SEQRES   2 C  314  ALA PHE HIS THR PRO SER GLN LEU SER HIS HIS GLN LYS          
+SEQRES   3 C  314  LEU HIS VAL GLY GLU LYS PRO TYR LYS CYS GLN GLU CYS          
+SEQRES   4 C  314  GLY LYS ALA PHE PRO SER ASN ALA GLN LEU SER LEU HIS          
+SEQRES   5 C  314  HIS ARG VAL HIS THR ASP GLU LYS CYS PHE GLU CYS LYS          
+SEQRES   6 C  314  GLU CYS GLY LYS ALA PHE MET ARG PRO SER HIS LEU LEU          
+SEQRES   7 C  314  ARG HIS GLN ARG ILE HIS THR GLY GLU LYS PRO HIS LYS          
+SEQRES   8 C  314  CYS LYS GLU CYS GLY LYS ALA PHE ARG TYR ASP THR GLN          
+SEQRES   9 C  314  LEU SER LEU HIS LEU LEU THR HIS ALA GLY ALA ARG ARG          
+SEQRES  10 C  314  PHE GLU CYS LYS ASP CYS ASP LYS VAL TYR SER CYS ALA          
+SEQRES  11 C  314  SER GLN LEU ALA LEU HIS GLN MET SER HIS THR GLY GLU          
+SEQRES  12 C  314  LYS PRO HIS LYS CYS LYS GLU CYS GLY LYS GLY PHE ILE          
+SEQRES  13 C  314  SER ASP SER HIS LEU LEU ARG HIS GLN SER VAL HIS THR          
+SEQRES  14 C  314  GLY GLU THR PRO TYR LYS CYS LYS GLU CYS GLY LYS GLY          
+SEQRES  15 C  314  PHE ARG ARG GLY SER GLU LEU ALA ARG HIS GLN ARG ALA          
+SEQRES  16 C  314  HIS SER GLY ASP LYS PRO TYR LYS CYS LYS GLU CYS GLY          
+SEQRES  17 C  314  LYS SER PHE THR CYS THR THR GLU LEU PHE ARG HIS GLN          
+SEQRES  18 C  314  LYS VAL HIS THR GLY ASP ARG PRO HIS LYS CYS LYS GLU          
+SEQRES  19 C  314  CYS GLY LYS ALA PHE ILE ARG ARG SER GLU LEU THR HIS          
+SEQRES  20 C  314  HIS GLU ARG SER HIS SER GLY GLU LYS PRO TYR GLU CYS          
+SEQRES  21 C  314  LYS GLU CYS GLY LYS THR PHE GLY ARG GLY SER GLU LEU          
+SEQRES  22 C  314  SER ARG HIS GLN LYS ILE HIS THR GLY GLU LYS PRO TYR          
+SEQRES  23 C  314  LYS CYS GLN GLN CYS GLY LYS ALA PHE ILE ARG GLY SER          
+SEQRES  24 C  314  HIS LEU THR GLN HIS GLN ARG ILE HIS THR GLY ARG ARG          
+SEQRES  25 C  314  LEU GLU                                                      
+DBREF  5V3M A    1    28  PDB    5V3M     5V3M             1     28             
+DBREF  5V3M B    1    28  PDB    5V3M     5V3M             1     28             
+DBREF  5V3M C  362   669  UNP    E9PYI1   ZN568_MOUSE    362    669             

@@ -1,0 +1,26 @@
+HELIX    1 AA1 SER A   18  VAL A   34  1                                  17    
+HELIX    2 AA2 VAL A   34  THR A   40  1                                   7    
+HELIX    3 AA3 ASP A   44  GLN A   63  1                                  20    
+HELIX    4 AA4 ASN A   64  ASN A   88  1                                  25    
+HELIX    5 AA5 ASN A   92  VAL A  119  1                                  28    
+HELIX    6 AA6 ASP A  124  GLN A  144  1                                  21    
+HELIX    7 AA7 THR A  148  SER A  163  1                                  16    
+HELIX    8 AA8 ASP A  164  TYR A  172  1                                   9    
+HELIX    9 AA9 PHE A  178  GLU A  195  1                                  18    
+SEQRES   1 A  198  MET LEU SER GLU ALA GLU GLU PRO ARG GLU VAL ALA THR          
+SEQRES   2 A  198  ASP VAL PHE ASN SER LYS ASN LEU ALA VAL GLN ALA GLN          
+SEQRES   3 A  198  LYS LYS ILE LEU GLY LYS MET VAL SER LYS SER ILE ALA          
+SEQRES   4 A  198  THR THR LEU ILE ASP ASP THR SER SER GLU VAL LEU ASP          
+SEQRES   5 A  198  GLU LEU TYR ARG VAL THR LYS GLU TYR THR GLN ASN LYS          
+SEQRES   6 A  198  LYS GLU ALA GLU ARG VAL ILE LYS ASN LEU ILE LYS THR          
+SEQRES   7 A  198  VAL ILE LYS LEU ALA VAL LEU HIS ARG ASN ASN GLN PHE          
+SEQRES   8 A  198  ASN GLN ASP GLU LEU ALA LEU MET GLU LYS PHE LYS LYS          
+SEQRES   9 A  198  LYS VAL HIS GLN LEU ALA MET THR VAL VAL SER PHE HIS          
+SEQRES  10 A  198  GLN VAL GLU TYR THR PHE ASP ARG ASN VAL LEU SER ARG          
+SEQRES  11 A  198  LEU LEU ASN GLU CYS ARG GLU LEU LEU HIS GLU ILE ILE          
+SEQRES  12 A  198  GLN ARG HIS LEU THR ALA LYS SER HIS GLY ARG VAL ASN          
+SEQRES  13 A  198  ASN VAL PHE ASP HIS PHE SER ASP SER ASP PHE LEU ALA          
+SEQRES  14 A  198  ALA LEU TYR ASN PRO PHE GLY LYS PHE LYS PRO HIS LEU          
+SEQRES  15 A  198  GLN LYS LEU CYS ASP GLY ILE ASN LYS MET LEU ASP GLU          
+SEQRES  16 A  198  GLU ASN ILE                                                  
+DBREF  5JXD A    1   198  UNP    Q921Z5   TFIP8_MOUSE      1    198             

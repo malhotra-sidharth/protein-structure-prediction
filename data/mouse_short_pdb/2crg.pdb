@@ -1,0 +1,11 @@
+KEYWDS    TRANSCRIPTION FACTOR, HELIX TURN HELIX, STRUCTURAL GENOMICS,          
+HELIX    1   1 SER A   12  TYR A   26  1                                  15    
+HELIX    2   2 ASP A   29  ASP A   36  1                                   8    
+HELIX    3   3 SER A   42  THR A   55  1                                  14    
+SEQRES   1 A   70  GLY SER SER GLY SER SER GLY MET GLU GLU TRP SER ALA          
+SEQRES   2 A   70  SER GLU ALA CYS LEU PHE GLU GLU ALA LEU GLU LYS TYR          
+SEQRES   3 A   70  GLY LYS ASP PHE ASN ASP ILE ARG GLN ASP PHE LEU PRO          
+SEQRES   4 A   70  TRP LYS SER LEU THR SER ILE ILE GLU TYR TYR TYR MET          
+SEQRES   5 A   70  TRP LYS THR THR ASP ARG TYR VAL GLN GLN LYS ARG SER          
+SEQRES   6 A   70  GLY PRO SER SER GLY                                          
+DBREF  2CRG A    8    64  UNP    Q924K8   MTA3_MOUSE     267    323             

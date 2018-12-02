@@ -1,0 +1,17 @@
+HELIX    1   1 LEU A  336  SER A  346  1                                  11    
+HELIX    2   2 ASP A  347  GLU A  351  5                                   5    
+HELIX    3   3 LYS A  359  SER A  361  5                                   3    
+HELIX    4   4 ASP A  368  ASN A  381  1                                  14    
+HELIX    5   5 THR A  386  LEU A  400  1                                  15    
+HELIX    6   6 THR A  418  MET A  423  1                                   6    
+HELIX    7   7 ARG A  429  GLU A  434  1                                   6    
+SEQRES   1 A  106  GLY SER HIS MET ARG LEU LEU TRP ASP TYR VAL TYR GLN          
+SEQRES   2 A  106  LEU LEU SER ASP SER ARG TYR GLU ASN PHE ILE ARG TRP          
+SEQRES   3 A  106  GLU ASP LYS GLU SER LYS ILE PHE ARG ILE VAL ASP PRO          
+SEQRES   4 A  106  ASN GLY LEU ALA ARG LEU TRP GLY ASN HIS LYS ASN ARG          
+SEQRES   5 A  106  THR ASN MET THR TYR GLU LYS MET SER ARG ALA LEU ARG          
+SEQRES   6 A  106  HIS TYR TYR LYS LEU ASN ILE ILE ARG LYS GLU PRO GLY          
+SEQRES   7 A  106  GLN ARG LEU LEU PHE ARG PHE MET LYS THR PRO ASP GLU          
+SEQRES   8 A  106  ILE MET SER GLY ARG THR ASP ARG LEU GLU HIS LEU GLU          
+SEQRES   9 A  106  SER GLN                                                      
+DBREF  2LF7 A  335   436  UNP    P97360   ETV6_MOUSE     335    436             

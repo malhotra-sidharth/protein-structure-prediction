@@ -1,0 +1,10 @@
+REMARK 650 HELIX                                                                
+HELIX    1   1 PHE A   44  VAL A   47  1                                   4    
+HELIX    2   2 PRO A   60  GLN A   64  1                                   5    
+SEQRES   1 A   71  GLY SER SER GLY SER SER GLY ASP MET PRO VAL ASP PRO          
+SEQRES   2 A   71  ASN GLU PRO THR TYR CYS LEU CYS HIS GLN VAL SER TYR          
+SEQRES   3 A   71  GLY GLU MET ILE GLY CYS ASP ASN PRO ASP CYS SER ILE          
+SEQRES   4 A   71  GLU TRP PHE HIS PHE ALA CYS VAL GLY LEU THR THR LYS          
+SEQRES   5 A   71  PRO ARG GLY LYS TRP PHE CYS PRO ARG CYS SER GLN GLU          
+SEQRES   6 A   71  SER GLY PRO SER SER GLY                                      
+DBREF  1WEN A    8    65  UNP    Q8C0D7   ING4_MOUSE     187    244             

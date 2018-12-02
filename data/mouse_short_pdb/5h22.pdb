@@ -1,0 +1,27 @@
+HELIX    1 AA1 GLN A   23  THR A   36  1                                  14    
+HELIX    2 AA2 GLU A   42  ASP A   66  1                                  25    
+HELIX    3 AA3 PRO A   67  ASP A   71  5                                   5    
+HELIX    4 AA4 THR A   99  ASN A  105  1                                   7    
+HELIX    5 AA5 ASN A  105  GLN A  123  1                                  19    
+HELIX    6 AA6 ASP A  127  GLY A  135  5                                   9    
+HELIX    7 AA7 VAL A  136  LEU A  143  5                                   8    
+HELIX    8 AA8 GLN A  194  LEU A  198  5                                   5    
+HELIX    9 AA9 GLU A  199  SER A  211  1                                  13    
+SEQRES   1 A  215  GLN PRO MET GLU GLU GLU GLU VAL GLU THR PHE ALA PHE          
+SEQRES   2 A  215  GLN ALA GLU ILE ALA GLN LEU MET SER LEU ILE ILE ASN          
+SEQRES   3 A  215  THR PHE TYR SER ASN LYS GLU ILE PHE LEU ARG GLU LEU          
+SEQRES   4 A  215  ILE SER ASN SER SER ASP ALA LEU ASP LYS ILE ARG TYR          
+SEQRES   5 A  215  GLU SER LEU THR ASP PRO SER LYS LEU ASP SER GLY LYS          
+SEQRES   6 A  215  GLU LEU HIS ILE ASN LEU ILE PRO SER LYS GLN ASP ARG          
+SEQRES   7 A  215  THR LEU THR ILE VAL ASP THR GLY ILE GLY MET THR LYS          
+SEQRES   8 A  215  ALA ASP LEU ILE ASN ASN LEU GLY THR ILE ALA LYS SER          
+SEQRES   9 A  215  GLY THR LYS ALA PHE MET GLU ALA LEU GLN ALA GLY ALA          
+SEQRES  10 A  215  ASP ILE SER MET ILE GLY GLN PHE GLY VAL GLY PHE TYR          
+SEQRES  11 A  215  SER ALA TYR LEU VAL ALA GLU LYS VAL THR VAL ILE THR          
+SEQRES  12 A  215  LYS HIS ASN ASP ASP GLU GLN TYR ALA TRP GLU SER SER          
+SEQRES  13 A  215  ALA GLY GLY SER PHE THR VAL ARG THR ASP THR GLY GLU          
+SEQRES  14 A  215  PRO MET GLY ARG GLY THR LYS VAL ILE LEU HIS LEU LYS          
+SEQRES  15 A  215  GLU ASP GLN THR GLU TYR LEU GLU GLU ARG ARG ILE LYS          
+SEQRES  16 A  215  GLU ILE VAL LYS LYS HIS SER GLN PHE ILE GLY TYR PRO          
+SEQRES  17 A  215  ILE THR LEU PHE VAL GLU LYS                                  
+DBREF  5H22 A   10   224  UNP    A0PJ91   A0PJ91_MOUSE    10    224             

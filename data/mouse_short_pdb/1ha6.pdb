@@ -1,0 +1,9 @@
+HELIX    1   1 PRO A   16  ARG A   18  5                                   3    
+HELIX    2   2 GLN A   53  VAL A   67  1                                  15    
+SEQRES   1 A   70  ALA SER ASN TYR ASP CYS CYS LEU SER TYR ILE GLN THR          
+SEQRES   2 A   70  PRO LEU PRO SER ARG ALA ILE VAL GLY PHE THR ARG GLN          
+SEQRES   3 A   70  MET ALA ASP GLU ALA CYS ASP ILE ASN ALA ILE ILE PHE          
+SEQRES   4 A   70  HIS THR LYS LYS ARG LYS SER VAL CYS ALA ASP PRO LYS          
+SEQRES   5 A   70  GLN ASN TRP VAL LYS ARG ALA VAL ASN LEU LEU SER LEU          
+SEQRES   6 A   70  ARG VAL LYS LYS MET                                          
+DBREF  1HA6 A    1    70  UNP    O89093   SY20_MOUSE      27     96             

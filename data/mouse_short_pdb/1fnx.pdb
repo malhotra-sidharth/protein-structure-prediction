@@ -1,0 +1,21 @@
+HELIX    1   1 THR H   51  SER H   61  1                                  11    
+HELIX    2   2 ASP H   89  LEU H  100  1                                  12    
+HELIX    3   3 SER H  137  GLN H  147  1                                  11    
+HELIX    4   4 LYS H  175  GLY H  185  1                                  11    
+SEQRES   1 H  174  MET ASP SER LYS THR ASN LEU ILE VAL ASN TYR LEU PRO          
+SEQRES   2 H  174  GLN ASN MET THR GLN ASP GLU PHE LYS SER LEU PHE GLY          
+SEQRES   3 H  174  SER ILE GLY ASP ILE GLU SER CYS LYS LEU VAL ARG ASP          
+SEQRES   4 H  174  LYS ILE THR GLY GLN SER LEU GLY TYR GLY PHE VAL ASN          
+SEQRES   5 H  174  TYR SER ASP PRO ASN ASP ALA ASP LYS ALA ILE ASN THR          
+SEQRES   6 H  174  LEU ASN GLY LEU LYS LEU GLN THR LYS THR ILE LYS VAL          
+SEQRES   7 H  174  SER TYR ALA ARG PRO SER SER ALA SER ILE ARG ASP ALA          
+SEQRES   8 H  174  ASN LEU TYR VAL SER GLY LEU PRO LYS THR MET SER GLN          
+SEQRES   9 H  174  LYS GLU MET GLU GLN LEU PHE SER GLN TYR GLY ARG ILE          
+SEQRES  10 H  174  ILE THR SER ARG ILE LEU LEU ASP GLN ALA THR GLY VAL          
+SEQRES  11 H  174  SER ARG GLY VAL GLY PHE ILE ARG PHE ASP LYS ARG ILE          
+SEQRES  12 H  174  GLU ALA GLU GLU ALA ILE LYS GLY LEU ASN GLY GLN LYS          
+SEQRES  13 H  174  PRO LEU GLY ALA ALA GLU PRO ILE THR VAL LYS PHE ALA          
+SEQRES  14 H  174  ASN ASN PRO SER GLN                                          
+SEQRES   1 R   10    U   A   U   U   U   A   U   U   U   U                      
+DBREF  1FNX H   35   208  UNP    Q60900   ELAV3_MOUSE     35    208             
+DBREF  1FNX R    0     9  PDB    1FNX     1FNX             0      9             

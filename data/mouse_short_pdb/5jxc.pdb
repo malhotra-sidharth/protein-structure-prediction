@@ -1,0 +1,66 @@
+HELIX    1 AA1 SER A 1189  ASP A 1273  1                                  85    
+HELIX    2 AA2 GLU B 1196  ARG B 1272  1                                  77    
+HELIX    3 AA3 TYR C 1195  ARG C 1271  1                                  77    
+HELIX    4 AA4 TYR D 1195  LEU D 1270  1                                  76    
+HELIX    5 AA5 ARG E 1190  LEU E 1270  1                                  81    
+HELIX    6 AA6 GLU F 1194  LEU F 1270  1                                  77    
+SEQRES   1 A   92  GLY PRO GLY SER ASP GLU SER ARG LEU ASP ARG GLU TYR          
+SEQRES   2 A   92  GLU GLU GLU ILE HIS SER LEU LYS GLU ARG LEU HIS MET          
+SEQRES   3 A   92  SER ASN ARG LYS LEU GLU GLU TYR GLU ARG ARG LEU LEU          
+SEQRES   4 A   92  SER GLN GLU GLU GLN THR SER LYS ILE LEU MET GLN TYR          
+SEQRES   5 A   92  GLN ALA ARG LEU GLU GLN SER GLU LYS ARG LEU ARG GLN          
+SEQRES   6 A   92  GLN GLN VAL GLU LYS ASP SER GLN ILE LYS SER ILE ILE          
+SEQRES   7 A   92  GLY ARG LEU MET LEU VAL GLU GLU GLU LEU ARG ARG ASP          
+SEQRES   8 A   92  HIS                                                          
+SEQRES   1 B   92  GLY PRO GLY SER ASP GLU SER ARG LEU ASP ARG GLU TYR          
+SEQRES   2 B   92  GLU GLU GLU ILE HIS SER LEU LYS GLU ARG LEU HIS MET          
+SEQRES   3 B   92  SER ASN ARG LYS LEU GLU GLU TYR GLU ARG ARG LEU LEU          
+SEQRES   4 B   92  SER GLN GLU GLU GLN THR SER LYS ILE LEU MET GLN TYR          
+SEQRES   5 B   92  GLN ALA ARG LEU GLU GLN SER GLU LYS ARG LEU ARG GLN          
+SEQRES   6 B   92  GLN GLN VAL GLU LYS ASP SER GLN ILE LYS SER ILE ILE          
+SEQRES   7 B   92  GLY ARG LEU MET LEU VAL GLU GLU GLU LEU ARG ARG ASP          
+SEQRES   8 B   92  HIS                                                          
+SEQRES   1 C   92  GLY PRO GLY SER ASP GLU SER ARG LEU ASP ARG GLU TYR          
+SEQRES   2 C   92  GLU GLU GLU ILE HIS SER LEU LYS GLU ARG LEU HIS MET          
+SEQRES   3 C   92  SER ASN ARG LYS LEU GLU GLU TYR GLU ARG ARG LEU LEU          
+SEQRES   4 C   92  SER GLN GLU GLU GLN THR SER LYS ILE LEU MET GLN TYR          
+SEQRES   5 C   92  GLN ALA ARG LEU GLU GLN SER GLU LYS ARG LEU ARG GLN          
+SEQRES   6 C   92  GLN GLN VAL GLU LYS ASP SER GLN ILE LYS SER ILE ILE          
+SEQRES   7 C   92  GLY ARG LEU MET LEU VAL GLU GLU GLU LEU ARG ARG ASP          
+SEQRES   8 C   92  HIS                                                          
+SEQRES   1 D   92  GLY PRO GLY SER ASP GLU SER ARG LEU ASP ARG GLU TYR          
+SEQRES   2 D   92  GLU GLU GLU ILE HIS SER LEU LYS GLU ARG LEU HIS MET          
+SEQRES   3 D   92  SER ASN ARG LYS LEU GLU GLU TYR GLU ARG ARG LEU LEU          
+SEQRES   4 D   92  SER GLN GLU GLU GLN THR SER LYS ILE LEU MET GLN TYR          
+SEQRES   5 D   92  GLN ALA ARG LEU GLU GLN SER GLU LYS ARG LEU ARG GLN          
+SEQRES   6 D   92  GLN GLN VAL GLU LYS ASP SER GLN ILE LYS SER ILE ILE          
+SEQRES   7 D   92  GLY ARG LEU MET LEU VAL GLU GLU GLU LEU ARG ARG ASP          
+SEQRES   8 D   92  HIS                                                          
+SEQRES   1 E   92  GLY PRO GLY SER ASP GLU SER ARG LEU ASP ARG GLU TYR          
+SEQRES   2 E   92  GLU GLU GLU ILE HIS SER LEU LYS GLU ARG LEU HIS MET          
+SEQRES   3 E   92  SER ASN ARG LYS LEU GLU GLU TYR GLU ARG ARG LEU LEU          
+SEQRES   4 E   92  SER GLN GLU GLU GLN THR SER LYS ILE LEU MET GLN TYR          
+SEQRES   5 E   92  GLN ALA ARG LEU GLU GLN SER GLU LYS ARG LEU ARG GLN          
+SEQRES   6 E   92  GLN GLN VAL GLU LYS ASP SER GLN ILE LYS SER ILE ILE          
+SEQRES   7 E   92  GLY ARG LEU MET LEU VAL GLU GLU GLU LEU ARG ARG ASP          
+SEQRES   8 E   92  HIS                                                          
+SEQRES   1 F   92  GLY PRO GLY SER ASP GLU SER ARG LEU ASP ARG GLU TYR          
+SEQRES   2 F   92  GLU GLU GLU ILE HIS SER LEU LYS GLU ARG LEU HIS MET          
+SEQRES   3 F   92  SER ASN ARG LYS LEU GLU GLU TYR GLU ARG ARG LEU LEU          
+SEQRES   4 F   92  SER GLN GLU GLU GLN THR SER LYS ILE LEU MET GLN TYR          
+SEQRES   5 F   92  GLN ALA ARG LEU GLU GLN SER GLU LYS ARG LEU ARG GLN          
+SEQRES   6 F   92  GLN GLN VAL GLU LYS ASP SER GLN ILE LYS SER ILE ILE          
+SEQRES   7 F   92  GLY ARG LEU MET LEU VAL GLU GLU GLU LEU ARG ARG ASP          
+SEQRES   8 F   92  HIS                                                          
+DBREF1 5JXC A 1187  1274  UNP                  A0A0J9YUM2_MOUSE                 
+DBREF2 5JXC A     A0A0J9YUM2                       1171        1258             
+DBREF1 5JXC B 1187  1274  UNP                  A0A0J9YUM2_MOUSE                 
+DBREF2 5JXC B     A0A0J9YUM2                       1171        1258             
+DBREF1 5JXC C 1187  1274  UNP                  A0A0J9YUM2_MOUSE                 
+DBREF2 5JXC C     A0A0J9YUM2                       1171        1258             
+DBREF1 5JXC D 1187  1274  UNP                  A0A0J9YUM2_MOUSE                 
+DBREF2 5JXC D     A0A0J9YUM2                       1171        1258             
+DBREF1 5JXC E 1187  1274  UNP                  A0A0J9YUM2_MOUSE                 
+DBREF2 5JXC E     A0A0J9YUM2                       1171        1258             
+DBREF1 5JXC F 1187  1274  UNP                  A0A0J9YUM2_MOUSE                 
+DBREF2 5JXC F     A0A0J9YUM2                       1171        1258             

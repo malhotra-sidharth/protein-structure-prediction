@@ -1,0 +1,15 @@
+HELIX    1   1 SER A    4  HIS A   14  1                                  11    
+HELIX    2   2 ASP A   22  ARG A   33  1                                  12    
+HELIX    3   3 ASN A   49  ALA A   55  1                                   7    
+HELIX    4   4 ILE A   56  GLY A   58  5                                   3    
+SEQRES   1 A  121  GLN ASP ASP SER ARG TYR THR LYS PHE LEU THR GLN HIS          
+SEQRES   2 A  121  HIS ASP ALA LYS PRO LYS GLY ARG ASP ASP ARG TYR CYS          
+SEQRES   3 A  121  GLU ARG MET MET LYS ARG ARG SER LEU THR SER PRO CYS          
+SEQRES   4 A  121  LYS ASP VAL ASN THR PHE ILE HIS GLY ASN LYS SER ASN          
+SEQRES   5 A  121  ILE LYS ALA ILE CYS GLY ALA ASN GLY SER PRO TYR ARG          
+SEQRES   6 A  121  GLU ASN LEU ARG MET SER LYS SER PRO PHE GLN VAL THR          
+SEQRES   7 A  121  THR CYS LYS HIS THR GLY GLY SER PRO ARG PRO PRO CYS          
+SEQRES   8 A  121  GLN TYR ARG ALA SER ALA GLY PHE ARG HIS VAL VAL ILE          
+SEQRES   9 A  121  ALA CYS GLU ASN GLY LEU PRO VAL HIS PHE ASP GLU SER          
+SEQRES  10 A  121  PHE PHE SER LEU                                              
+DBREF  2BWL A    1   121  UNP    P21570   ANG1_MOUSE      25    145             

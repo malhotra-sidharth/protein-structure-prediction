@@ -1,0 +1,6 @@
+HELIX    1   1 LYS A   27  PHE A   33  1                                   7    
+SEQRES   1 A   49  MET VAL ALA ALA ALA MET LEU LEU ARG SER CYS PRO VAL          
+SEQRES   2 A   49  LEU SER GLN GLY PRO THR GLY LEU LEU GLY LYS VAL ALA          
+SEQRES   3 A   49  LYS THR TYR GLN PHE LEU PHE SER ILE GLY ARG CYS PRO          
+SEQRES   4 A   49  ILE LEU ALA THR GLN GLY PRO THR CYS SER                      
+DBREF  1H7D A    1    49  UNP    Q64452   Q64452           1     49             

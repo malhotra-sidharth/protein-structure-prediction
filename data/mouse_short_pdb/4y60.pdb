@@ -1,0 +1,17 @@
+HELIX    1 AA1 ASN C    8  ASN C   25  1                                  18    
+HELIX    2 AA2 HIS C   29  LEU C   44  1                                  16    
+HELIX    3 AA3 ASN C   45  HIS C   67  1                                  23    
+SEQRES   1 C   80  GLY LEU ARG ILE ARG ARG PRO MET ASN ALA PHE MET VAL          
+SEQRES   2 C   80  TRP ALA LYS ASP GLU ARG LYS ARG LEU ALA GLN GLN ASN          
+SEQRES   3 C   80  PRO ASP LEU HIS ASN ALA VAL LEU SER LYS MET LEU GLY          
+SEQRES   4 C   80  LYS ALA TRP LYS GLU LEU ASN THR ALA GLU LYS ARG PRO          
+SEQRES   5 C   80  PHE VAL GLU GLU ALA GLU ARG LEU ARG VAL GLN HIS LEU          
+SEQRES   6 C   80  ARG ASP HIS PRO ASN TYR LYS TYR ARG PRO ARG ARG LYS          
+SEQRES   7 C   80  LYS GLN                                                      
+SEQRES   1 A   17   DC  DA  DC  DT  DA  DG  DC  DA  DT  DT  DG  DT  DC          
+SEQRES   2 A   17   DT  DG  DG  DG                                              
+SEQRES   1 B   17   DG  DC  DC  DC  DA  DG  DA  DC  DA  DA  DT  DG  DC          
+SEQRES   2 B   17   DT  DA  DG  DT                                              
+DBREF  4Y60 C    1    79  UNP    P43680   SOX18_MOUSE     77    155             
+DBREF  4Y60 A    0    16  PDB    4Y60     4Y60             0     16             
+DBREF  4Y60 B    0    16  PDB    4Y60     4Y60             0     16             

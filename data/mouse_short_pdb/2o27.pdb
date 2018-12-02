@@ -1,0 +1,37 @@
+KEYWDS   2 RECEPTOR/LIGAND COMPLEX, GROWTH FACTOR, CYTOKINE, 4-HELIX            
+HELIX    1   1 ASP A   14  ASN A   21  1                                   8    
+HELIX    2   2 PRO A   40  CYS A   43  5                                   4    
+HELIX    3   3 TRP A   44  ASP A   61  1                                  18    
+HELIX    4   4 SER A   71  ALA A   94  1                                  24    
+HELIX    5   5 THR A  111  LYS A  127  1                                  17    
+HELIX    6   6 ASP B   14  ASN B   21  1                                   8    
+HELIX    7   7 PRO B   40  CYS B   43  5                                   4    
+HELIX    8   8 TRP B   44  ASP B   61  1                                  18    
+HELIX    9   9 SER B   71  GLU B   92  1                                  22    
+HELIX   10  10 THR B  111  LYS B  127  1                                  17    
+SEQRES   1 A  145  ILE CYS GLY ASN PRO VAL THR ASP ASN VAL LYS ASP ILE          
+SEQRES   2 A  145  THR LYS LEU VAL ALA ASN LEU PRO ASN ASP TYR MET ILE          
+SEQRES   3 A  145  THR LEU ASN TYR VAL ALA GLY MET ASP VAL LEU PRO SER          
+SEQRES   4 A  145  HIS CYS TRP LEU ARG ASP MET VAL ILE GLN LEU SER LEU          
+SEQRES   5 A  145  SER LEU THR THR LEU LEU ASP LYS PHE SER ASN ILE SER          
+SEQRES   6 A  145  GLU GLY LEU SER ASN TYR SER ILE ILE ASP LYS LEU GLY          
+SEQRES   7 A  145  LYS ILE VAL ASP ASP LEU VAL LEU CYS MET GLU GLU ASN          
+SEQRES   8 A  145  ALA PRO LYS ASN ILE LYS GLU SER PRO LYS ARG PRO GLU          
+SEQRES   9 A  145  THR ARG SER PHE THR PRO GLU GLU PHE PHE SER ILE PHE          
+SEQRES  10 A  145  ASN ARG SER ILE ASP ALA PHE LYS ASP PHE MET VAL ALA          
+SEQRES  11 A  145  SER ASP THR SER ASP CYS VAL LEU SER HIS HIS HIS HIS          
+SEQRES  12 A  145  HIS HIS                                                      
+SEQRES   1 B  145  ILE CYS GLY ASN PRO VAL THR ASP ASN VAL LYS ASP ILE          
+SEQRES   2 B  145  THR LYS LEU VAL ALA ASN LEU PRO ASN ASP TYR MET ILE          
+SEQRES   3 B  145  THR LEU ASN TYR VAL ALA GLY MET ASP VAL LEU PRO SER          
+SEQRES   4 B  145  HIS CYS TRP LEU ARG ASP MET VAL ILE GLN LEU SER LEU          
+SEQRES   5 B  145  SER LEU THR THR LEU LEU ASP LYS PHE SER ASN ILE SER          
+SEQRES   6 B  145  GLU GLY LEU SER ASN TYR SER ILE ILE ASP LYS LEU GLY          
+SEQRES   7 B  145  LYS ILE VAL ASP ASP LEU VAL LEU CYS MET GLU GLU ASN          
+SEQRES   8 B  145  ALA PRO LYS ASN ILE LYS GLU SER PRO LYS ARG PRO GLU          
+SEQRES   9 B  145  THR ARG SER PHE THR PRO GLU GLU PHE PHE SER ILE PHE          
+SEQRES  10 B  145  ASN ARG SER ILE ASP ALA PHE LYS ASP PHE MET VAL ALA          
+SEQRES  11 B  145  SER ASP THR SER ASP CYS VAL LEU SER HIS HIS HIS HIS          
+SEQRES  12 B  145  HIS HIS                                                      
+DBREF  2O27 A    3   141  UNP    P20826   SCF_MOUSE       28    166             
+DBREF  2O27 B    3   141  UNP    P20826   SCF_MOUSE       28    166             

@@ -1,0 +1,24 @@
+HELIX    1   1 LEU A    8  GLN A   19  1                                  12    
+HELIX    2   2 ASP A   29  THR A   34  1                                   6    
+HELIX    3   3 GLY A   36  ASP A   47  1                                  12    
+HELIX    4   4 SER A   52  SER A   57  1                                   6    
+HELIX    5   5 ASP A   61  ASN A   66  5                                   6    
+HELIX    6   6 TRP A   67  GLU A   87  1                                  21    
+HELIX    7   7 ASP A  100  GLU A  106  1                                   7    
+HELIX    8   8 ASP A  109  ALA A  124  1                                  16    
+HELIX    9   9 LYS A  129  LEU A  140  1                                  12    
+HELIX   10  10 GLU A  141  SER A  159  1                                  19    
+SEQRES   1 A  164  GLY SER SER GLY SER SER GLY LEU PRO LEU CYS ASP SER          
+SEQRES   2 A  164  LEU ILE ILE TRP LEU GLN THR PHE LYS THR ALA SER PRO          
+SEQRES   3 A  164  CYS GLN ASP VAL LYS GLN LEU THR ASN GLY VAL THR MET          
+SEQRES   4 A  164  ALA GLN VAL LEU HIS GLN ILE ASP VAL ALA TRP PHE SER          
+SEQRES   5 A  164  GLU SER TRP LEU SER ARG ILE LYS ASP ASP VAL GLY ASP          
+SEQRES   6 A  164  ASN TRP ARG ILE LYS ALA SER ASN LEU LYS LYS VAL LEU          
+SEQRES   7 A  164  HIS GLY ILE THR SER TYR TYR HIS GLU PHE LEU GLY GLN          
+SEQRES   8 A  164  GLN ILE SER GLU GLU LEU ILE PRO ASP LEU ASN GLN ILE          
+SEQRES   9 A  164  THR GLU CYS ALA ASP PRO VAL GLU LEU GLY ARG LEU LEU          
+SEQRES  10 A  164  GLN LEU ILE LEU GLY CYS ALA VAL ASN CYS GLU LYS LYS          
+SEQRES  11 A  164  GLN GLU HIS ILE LYS ASN ILE MET THR LEU GLU GLU SER          
+SEQRES  12 A  164  VAL GLN HIS VAL VAL MET THR ALA ILE GLN GLU LEU MET          
+SEQRES  13 A  164  SER LYS SER GLY PRO SER SER GLY                              
+DBREF  1WIX A    8   158  UNP    Q8BIL5   HOOK1_MOUSE     12    162             

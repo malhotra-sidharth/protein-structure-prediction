@@ -1,0 +1,10 @@
+REMARK   1  TITL 2 HELIX-TURN-HELIX-RELATED MOTIF WITH CONSERVED TRYPTOPHANS    
+HELIX    1  H1 GLU A  149  LEU A  162  1                                  14    
+HELIX    2  H2 TRP A  166  LEU A  172  1                                   7    
+HELIX    3  H3 ASP A  178  SER A  187  1                                  10    
+SEQRES   1 A   53  VAL LYS LYS THR SER TRP THR GLU GLU GLU ASP ARG ILE          
+SEQRES   2 A   53  ILE TYR GLN ALA HIS LYS ARG LEU GLY ASN ARG TRP ALA          
+SEQRES   3 A   53  GLU ILE ALA LYS LEU LEU PRO GLY ARG THR ASP ASN ALA          
+SEQRES   4 A   53  ILE LYS ASN HIS TRP ASN SER THR MET ARG ARG LYS VAL          
+SEQRES   5 A   53  NH2                                                          
+DBREF  1MBJ A  142   193  UNP    P06876   MYB_MOUSE      142    193             

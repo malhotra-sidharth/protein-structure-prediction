@@ -1,0 +1,13 @@
+REMARK 650 HELIX                                                                
+HELIX    1   1 LEU A    9  SER A   18  1                                  10    
+HELIX    2   2 PHE A   67  HIS A   74  1                                   8    
+HELIX    3   3 PRO A   76  MET A   79  1                                   4    
+SEQRES   1 A   97  GLY SER SER GLY SER SER GLY ASN LEU LEU ASP ASP ALA          
+SEQRES   2 A   97  VAL LYS ARG ILE SER GLU ASP PRO PRO CYS LYS CYS PRO          
+SEQRES   3 A   97  THR LYS PHE CYS VAL GLU ARG LEU SER GLN GLY ARG TYR          
+SEQRES   4 A   97  ARG VAL GLY GLU LYS ILE LEU PHE ILE ARG MET LEU HIS          
+SEQRES   5 A   97  ASN LYS HIS VAL MET VAL ARG VAL GLY GLY GLY TRP GLU          
+SEQRES   6 A   97  THR PHE ALA GLY TYR LEU LEU LYS HIS ASP PRO CYS ARG          
+SEQRES   7 A   97  MET LEU GLN ILE SER ARG VAL ASP GLY LYS THR SER PRO          
+SEQRES   8 A   97  SER GLY PRO SER SER GLY                                      
+DBREF  1V5R A    8    91  UNP    P11862   GAS2_MOUSE     201    284             

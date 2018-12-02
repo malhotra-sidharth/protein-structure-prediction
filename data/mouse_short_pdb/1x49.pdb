@@ -1,0 +1,12 @@
+REMARK 650 HELIX                                                                
+HELIX    1   1 PHE A   15  MET A   26  1                                  12    
+HELIX    2   2 LYS A   66  LEU A   81  1                                  16    
+SEQRES   1 A   97  GLY SER SER GLY SER SER GLY MET ALA SER ASP THR PRO          
+SEQRES   2 A   97  GLY PHE TYR MET ASP LYS LEU ASN LYS TYR ARG GLN MET          
+SEQRES   3 A   97  HIS GLY VAL ALA ILE THR TYR LYS GLU LEU SER THR SER          
+SEQRES   4 A   97  GLY PRO PRO HIS ASP ARG ARG PHE THR PHE GLN VAL LEU          
+SEQRES   5 A   97  ILE ASP GLU LYS GLU PHE PRO GLU ALA LYS GLY ARG SER          
+SEQRES   6 A   97  LYS GLN GLU ALA ARG ASN ALA ALA ALA LYS LEU ALA VAL          
+SEQRES   7 A   97  ASP ILE LEU ASP ASN GLU ASN LYS VAL ASP CYS HIS THR          
+SEQRES   8 A   97  SER GLY PRO SER SER GLY                                      
+DBREF  1X49 A    8    91  UNP    Q03963   E2AK2_MOUSE      1     84             

@@ -1,0 +1,11 @@
+HELIX    1   1 GLY A   39  GLY A   45  1                                   7    
+HELIX    2   2 SER A   65  SER A   76  1                                  12    
+SEQRES   1 A   94  GLY PRO LEU GLY SER ASP HIS ASP ASP SER PHE HIS VAL          
+SEQRES   2 A   94  ILE LEU ASN LYS SER SER PRO GLU GLU GLN LEU GLY ILE          
+SEQRES   3 A   94  LYS LEU VAL ARG ARG VAL ASP GLU PRO GLY VAL PHE ILE          
+SEQRES   4 A   94  PHE ASN VAL LEU ASN GLY GLY VAL ALA ASP ARG HIS GLY          
+SEQRES   5 A   94  GLN LEU GLU GLU ASN ASP ARG VAL LEU ALA ILE ASN GLY          
+SEQRES   6 A   94  HIS ASP LEU ARG PHE GLY SER PRO GLU SER ALA ALA HIS          
+SEQRES   7 A   94  LEU ILE GLN ALA SER GLU ARG ARG VAL HIS LEU VAL VAL          
+SEQRES   8 A   94  SER ARG GLN                                                  
+DBREF  3VQF A    1    87  UNP    O70263   LNX1_MOUSE     381    467             

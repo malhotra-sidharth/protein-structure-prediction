@@ -1,0 +1,18 @@
+HELIX    1   1 ALA A   28  LEU A   37  1                                  10    
+HELIX    2   2 ILE A   43  LYS A   49  1                                   7    
+HELIX    3   3 PHE A   54  LEU A   66  1                                  13    
+HELIX    4   4 VAL A   71  ASN A   75  1                                   5    
+HELIX    5   5 ASP A   86  LEU A   89  1                                   4    
+HELIX    6   6 LEU A   97  GLN A  100  1                                   4    
+HELIX    7   7 GLU A  104  LEU A  106  5                                   3    
+SEQRES   1 A  121  GLY SER SER GLY SER SER GLY GLU PRO ALA HIS GLY ARG          
+SEQRES   2 A  121  GLN HIS THR PRO CYS LEU PHE CYS ASP ARG LEU PHE ALA          
+SEQRES   3 A  121  SER ALA GLU GLU THR PHE SER HIS CYS LYS LEU GLU HIS          
+SEQRES   4 A  121  GLN PHE ASN ILE ASP SER MET VAL HIS LYS HIS GLY LEU          
+SEQRES   5 A  121  GLU PHE TYR GLY TYR ILE LYS LEU ILE ASN PHE ILE ARG          
+SEQRES   6 A  121  LEU LYS ASN PRO THR VAL GLU TYR MET ASN SER ILE TYR          
+SEQRES   7 A  121  ASN PRO VAL PRO TRP GLU LYS ASP GLU TYR LEU LYS PRO          
+SEQRES   8 A  121  VAL LEU GLU ASP ASP LEU LEU LEU GLN PHE ASP VAL GLU          
+SEQRES   9 A  121  ASP LEU TYR GLU PRO VAL SER THR PRO PHE SER SER GLY          
+SEQRES  10 A  121  PRO SER SER GLY                                              
+DBREF  1WIR A    8   115  UNP    Q922H1   ANM3_MOUSE      38    145             

@@ -1,0 +1,35 @@
+HELIX    1   1 ASP A    4  ALA A   18  1                                  15    
+HELIX    2   2 ARG A   20  GLN A   34  1                                  15    
+HELIX    3   3 SER A   39  GLN A   69  1                                  31    
+HELIX    4   4 ASN A   74  TYR A  106  1                                  33    
+HELIX    5   5 TYR A  106  ALA A  111  1                                   6    
+HELIX    6   6 GLN A  113  ALA A  135  1                                  23    
+HELIX    7   7 SER A  136  MET A  162  1                                  27    
+HELIX    8   8 HIS A  166  ILE A  183  1                                  18    
+HELIX    9   9 SER A  186  GLU A  204  1                                  19    
+HELIX   10  10 LEU A  205  LEU A  208  5                                   4    
+HELIX   11  11 SER A  212  THR A  231  1                                  20    
+HELIX   12  12 ASP B  118  VAL B  135  1                                  18    
+SEQRES   1 A  245  MET THR MET ASP LYS SER GLU LEU VAL GLN LYS ALA LYS          
+SEQRES   2 A  245  LEU ALA GLU GLN ALA GLU ARG TYR ASP ASP MET ALA ALA          
+SEQRES   3 A  245  ALA MET LYS ALA VAL THR GLU GLN GLY HIS GLU LEU SER          
+SEQRES   4 A  245  ASN GLU GLU ARG ASN LEU LEU SER VAL ALA TYR LYS ASN          
+SEQRES   5 A  245  VAL VAL GLY ALA ARG ARG SER SER TRP ARG VAL ILE SER          
+SEQRES   6 A  245  SER ILE GLU GLN LYS THR GLU ARG ASN GLU LYS LYS GLN          
+SEQRES   7 A  245  GLN MET GLY LYS GLU TYR ARG GLU LYS ILE GLU ALA GLU          
+SEQRES   8 A  245  LEU GLN ASP ILE CYS ASN ASP VAL LEU GLU LEU LEU ASP          
+SEQRES   9 A  245  LYS TYR LEU ILE LEU ASN ALA THR GLN ALA GLU SER LYS          
+SEQRES  10 A  245  VAL PHE TYR LEU LYS MET LYS GLY ASP TYR PHE ARG TYR          
+SEQRES  11 A  245  LEU SER GLU VAL ALA SER GLY GLU ASN LYS GLN THR THR          
+SEQRES  12 A  245  VAL SER ASN SER GLN GLN ALA TYR GLN GLU ALA PHE GLU          
+SEQRES  13 A  245  ILE SER LYS LYS GLU MET GLN PRO THR HIS PRO ILE ARG          
+SEQRES  14 A  245  LEU GLY LEU ALA LEU ASN PHE SER VAL PHE TYR TYR GLU          
+SEQRES  15 A  245  ILE LEU ASN SER PRO GLU LYS ALA CYS SER LEU ALA LYS          
+SEQRES  16 A  245  THR ALA PHE ASP GLU ALA ILE ALA GLU LEU ASP THR LEU          
+SEQRES  17 A  245  ASN GLU GLU SER TYR LYS ASP SER THR LEU ILE MET GLN          
+SEQRES  18 A  245  LEU LEU ARG ASP ASN LEU THR LEU TRP THR SER GLU ASN          
+SEQRES  19 A  245  GLN GLY ASP GLU GLY GLU ASN LEU TYR PHE GLN                  
+SEQRES   1 B   21  ARG ASP LYS ILE ARG LEU ASN ASN ALA ILE TRP ARG ALA          
+SEQRES   2 B   21  TRP TYR ILE GLN TYR VAL GLN ARG                              
+DBREF  4GNT A    1   239  UNP    Q9CQV8   1433B_MOUSE      1    239             
+DBREF  4GNT B  117   137  UNP    Q99MZ3   MLXPL_MOUSE    117    137             

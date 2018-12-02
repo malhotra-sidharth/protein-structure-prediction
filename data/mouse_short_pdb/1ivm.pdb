@@ -1,0 +1,19 @@
+HELIX    1   1 GLU A    4  GLY A   16  1                                  13    
+HELIX    2   2 SER A   24  SER A   36  1                                  13    
+HELIX    3   3 ARG A   47  GLN A   50  5                                   4    
+HELIX    4   4 ASN A   80  LEU A   85  5                                   6    
+HELIX    5   5 ILE A   89  ARG A  101  1                                  13    
+HELIX    6   6 GLY A  105  ALA A  108  5                                   4    
+HELIX    7   7 TRP A  109  ALA A  114  1                                   6    
+HELIX    8   8 LEU A  121  ARG A  126  1                                   6    
+SEQRES   1 A  130  LYS VAL TYR GLU ARG CYS GLU PHE ALA ARG THR LEU LYS          
+SEQRES   2 A  130  ARG ASN GLY MET ALA GLY TYR TYR GLY VAL SER LEU ALA          
+SEQRES   3 A  130  ASP TRP VAL CYS LEU ALA GLN HIS GLU SER ASN TYR ASN          
+SEQRES   4 A  130  THR ARG ALA THR ASN TYR ASN ARG GLY ASP GLN SER THR          
+SEQRES   5 A  130  ASP TYR GLY ILE PHE GLN ILE ASN SER ARG TYR TRP CYS          
+SEQRES   6 A  130  ASN ASP GLY LYS THR PRO ARG ALA VAL ASN ALA CYS GLY          
+SEQRES   7 A  130  ILE ASN CYS SER ALA LEU LEU GLN ASP ASP ILE THR ALA          
+SEQRES   8 A  130  ALA ILE GLN CYS ALA LYS ARG VAL VAL ARG ASP PRO GLN          
+SEQRES   9 A  130  GLY ILE ARG ALA TRP VAL ALA TRP ARG ALA HIS CYS GLN          
+SEQRES  10 A  130  ASN ARG ASP LEU SER GLN TYR ILE ARG ASN CYS GLY VAL          
+DBREF  1IVM A    1   130  UNP    P08905   LYSCM_MOUSE     19    148             

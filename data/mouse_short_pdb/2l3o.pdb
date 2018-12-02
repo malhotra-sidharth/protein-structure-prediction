@@ -1,0 +1,18 @@
+HELIX    1   1 CYS A   43  LEU A   54  1                                  12    
+HELIX    2   2 PRO A   66  ASN A   70  5                                   5    
+HELIX    3   3 PHE A   73  GLY A   86  1                                  14    
+HELIX    4   4 GLU A   87  VAL A   88  5                                   2    
+HELIX    5   5 ASP A   89  TYR A   94  5                                   6    
+HELIX    6   6 ILE A   96  LEU A  107  1                                  12    
+HELIX    7   7 ASP A  123  LEU A  138  1                                  16    
+SEQRES   1 A  127  GLY ALA MET ASP THR HIS ARG LEU THR ARG THR LEU ASN          
+SEQRES   2 A  127  CYS SER SER ILE VAL LYS GLU ILE ILE GLY LYS LEU PRO          
+SEQRES   3 A  127  GLU PRO GLU LEU LYS THR ASP ASP GLU GLY PRO SER LEU          
+SEQRES   4 A  127  ARG ASN LYS SER PHE ARG ARG VAL ASN LEU SER LYS PHE          
+SEQRES   5 A  127  VAL GLU SER GLN GLY GLU VAL ASP PRO GLU ASP ARG TYR          
+SEQRES   6 A  127  VAL ILE LYS SER ASN LEU GLN LYS LEU ASN ALA CYS LEU          
+SEQRES   7 A  127  PRO THR SER ALA ASN ASP SER ALA LEU PRO GLY VAL PHE          
+SEQRES   8 A  127  ILE ARG ASP LEU ASP ASP PHE ARG LYS LYS LEU ARG PHE          
+SEQRES   9 A  127  TYR MET VAL HIS LEU ASN ASP LEU GLU THR VAL LEU THR          
+SEQRES  10 A  127  SER ARG PRO PRO GLN PRO ALA SER GLY SER                      
+DBREF  2L3O A   33   156  UNP    Q5SX77   Q5SX77_MOUSE    33    156             

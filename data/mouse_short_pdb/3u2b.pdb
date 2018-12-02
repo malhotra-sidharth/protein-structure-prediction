@@ -1,0 +1,17 @@
+HELIX    1   1 ASN C    8  GLU C   23  1                                  16    
+HELIX    2   2 HIS C   29  LEU C   44  1                                  16    
+HELIX    3   3 LYS C   45  TYR C   67  1                                  23    
+SEQRES   1 A   16   DG  DT  DC  DT  DC  DT  DA  DT  DT  DG  DT  DC  DC          
+SEQRES   2 A   16   DT  DG  DG                                                  
+SEQRES   1 B   16   DC  DC  DA  DG  DG  DA  DC  DA  DA  DT  DA  DG  DA          
+SEQRES   2 B   16   DG  DA  DC                                                  
+SEQRES   1 C   79  GLY HIS ILE LYS ARG PRO MET ASN ALA PHE MET VAL TRP          
+SEQRES   2 C   79  SER GLN ILE GLU ARG ARG LYS ILE MET GLU GLN SER PRO          
+SEQRES   3 C   79  ASP MET HIS ASN ALA GLU ILE SER LYS ARG LEU GLY LYS          
+SEQRES   4 C   79  ARG TRP LYS LEU LEU LYS ASP SER ASP LYS ILE PRO PHE          
+SEQRES   5 C   79  ILE GLN GLU ALA GLU ARG LEU ARG LEU LYS HIS MET ALA          
+SEQRES   6 C   79  ASP TYR PRO ASP TYR LYS TYR ARG PRO ARG LYS LYS VAL          
+SEQRES   7 C   79  LYS                                                          
+DBREF  3U2B A    1    16  PDB    3U2B     3U2B             1     16             
+DBREF  3U2B B    1    16  PDB    3U2B     3U2B             1     16             
+DBREF  3U2B C    1    79  UNP    Q06831   SOX4_MOUSE      57    135             

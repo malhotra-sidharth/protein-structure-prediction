@@ -1,0 +1,5 @@
+KEYWDS    V-ATPASE, SUBUNIT A, ALPHA HELIX, PH SENSOR, SEC7 BINDING MOTIF,      
+HELIX    1   1 SER A    3  LEU A   17  1                                  15    
+SEQRES   1 A   17  MET GLY SER LEU PHE ARG SER GLU SER MET CYS LEU ALA          
+SEQRES   2 A   17  GLN LEU PHE LEU                                              
+DBREF  2LX4 A    1    17  UNP    P15920   VPP2_MOUSE       1     17             

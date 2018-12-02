@@ -1,0 +1,19 @@
+REMARK 650 HELIX                                                                
+HELIX    1   1 PRO A  621  GLN A  636  1                                  16    
+HELIX    2   2 LEU A  653  GLU A  662  1                                  10    
+HELIX    3   3 MET A  666  ASP A  671  1                                   6    
+HELIX    4   4 TRP A  675  MET A  681  1                                   7    
+HELIX    5   5 ARG A  691  CYS A  700  1                                  10    
+HELIX    6   6 LEU A  703  SER A  708  1                                   6    
+HELIX    7   7 PRO A  711  GLU A  726  1                                  16    
+SEQRES   1 A  121  GLY PRO LEU GLY SER LEU GLY ARG ARG TRP GLY PRO ASN          
+SEQRES   2 A  121  VAL GLN ARG LEU ALA CYS ILE LYS LYS HIS LEU ARG SER          
+SEQRES   3 A  121  GLN GLY ILE THR MET ASP GLU LEU PRO LEU ILE GLY GLY          
+SEQRES   4 A  121  CYS GLU LEU ASP LEU ALA CYS PHE PHE ARG LEU ILE ASN          
+SEQRES   5 A  121  GLU MET GLY GLY MET GLN GLN VAL THR ASP LEU LYS LYS          
+SEQRES   6 A  121  TRP ASN LYS LEU ALA ASP MET LEU ARG ILE PRO LYS THR          
+SEQRES   7 A  121  ALA GLN ASP ARG LEU ALA LYS LEU GLN GLU ALA TYR CYS          
+SEQRES   8 A  121  GLN TYR LEU LEU SER TYR ASP SER LEU SER PRO GLU GLU          
+SEQRES   9 A  121  HIS ARG ARG LEU GLU LYS GLU VAL LEU MET GLU LYS GLU          
+SEQRES  10 A  121  ILE LEU GLU LYS                                              
+DBREF  2RQ5 A  615   730  UNP    Q62315   JARD2_MOUSE    615    730             

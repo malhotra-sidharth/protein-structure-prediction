@@ -1,0 +1,4 @@
+SEQRES   1 A   29  SER GLU HIS ARG LYS GLN PRO CYS PRO TYR GLY LYS LYS          
+SEQRES   2 A   29  CYS THR TYR GLY ILE LYS CYS ARG PHE PHE HIS PRO GLU          
+SEQRES   3 A   29  ARG PRO SER                                                  
+DBREF  2N5K A  299   327  UNP    Q5D1E7   ZC12A_MOUSE    299    327             

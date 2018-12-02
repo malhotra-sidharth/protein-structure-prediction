@@ -1,0 +1,23 @@
+COMPND   9 MOLECULE: PAIRED AMPHIPATHIC HELIX PROTEIN SIN3A;                    
+HELIX    1   1 THR A  212  ASN A  224  1                                  13    
+HELIX    2   2 ASP B  615  SER B  642  1                                  28    
+HELIX    3   3 SER B  645  PHE B  652  1                                   8    
+HELIX    4   4 SER B  662  TYR B  674  1                                  13    
+HELIX    5   5 LYS B  677  ARG B  686  1                                  10    
+HELIX    6   6 ASN B  688  PHE B  714  1                                  27    
+HELIX    7   7 PHE B  714  LYS B  724  1                                  11    
+SEQRES   1 A   27  SER ASN ALA ALA GLN LEU ASN TYR LEU LEU THR ASP GLU          
+SEQRES   2 A   27  GLN ILE MET GLU ASP LEU ARG THR LEU ASN LYS LEU LYS          
+SEQRES   3 A   27  SER                                                          
+SEQRES   1 B  125  SER ASN ALA GLU HIS ILE TYR ARG CYS GLU ASP GLU ARG          
+SEQRES   2 B  125  PHE GLU LEU ASP VAL VAL LEU GLU THR ASN LEU ALA THR          
+SEQRES   3 B  125  ILE ARG VAL LEU GLU ALA ILE GLN LYS LYS LEU SER ARG          
+SEQRES   4 B  125  LEU SER ALA GLU GLU GLN ALA LYS PHE ARG LEU ASP ASN          
+SEQRES   5 B  125  THR LEU GLY GLY THR SER GLU VAL ILE HIS ARG LYS ALA          
+SEQRES   6 B  125  LEU GLN ARG ILE TYR ALA ASP LYS ALA ALA ASP ILE ILE          
+SEQRES   7 B  125  ASP GLY LEU ARG LYS ASN PRO SER ILE ALA VAL PRO ILE          
+SEQRES   8 B  125  VAL LEU LYS ARG LEU LYS MET LYS GLU GLU GLU TRP ARG          
+SEQRES   9 B  125  GLU ALA GLN ARG GLY PHE ASN LYS VAL TRP ARG GLU GLN          
+SEQRES  10 B  125  ASN GLU LYS TYR TYR LEU LYS SER                              
+DBREF  2N2H A  205   228  UNP    Q8BR65   SDS3_MOUSE     205    228             
+DBREF  2N2H B  608   729  UNP    Q60520   SIN3A_MOUSE    608    729             

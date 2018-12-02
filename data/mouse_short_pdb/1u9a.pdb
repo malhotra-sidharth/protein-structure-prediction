@@ -1,0 +1,19 @@
+HELIX    1   1 MET A    1  LYS A   18  1                                  18    
+HELIX    2   2 SER A   95  LEU A   97  5                                   3    
+HELIX    3   3 ILE A  109  ASN A  121  1                                  13    
+HELIX    4   4 ALA A  131  GLN A  139  1                                   9    
+HELIX    5   5 ARG A  141  PHE A  155  1                                  15    
+SEQRES   1 A  160  LEU ASN MET SER GLY ILE ALA LEU SER ARG LEU ALA GLN          
+SEQRES   2 A  160  GLU ARG LYS ALA TRP ARG LYS ASP HIS PRO PHE GLY PHE          
+SEQRES   3 A  160  VAL ALA VAL PRO THR LYS ASN PRO ASP GLY THR MET ASN          
+SEQRES   4 A  160  LEU MET ASN TRP GLU CYS ALA ILE PRO GLY LYS LYS GLY          
+SEQRES   5 A  160  THR PRO TRP GLU GLY GLY LEU PHE LYS LEU ARG MET LEU          
+SEQRES   6 A  160  PHE LYS ASP ASP TYR PRO SER SER PRO PRO LYS CYS LYS          
+SEQRES   7 A  160  PHE GLU PRO PRO LEU PHE HIS PRO ASN VAL TYR PRO SER          
+SEQRES   8 A  160  GLY THR VAL CYS LEU SER ILE LEU GLU GLU ASP LYS ASP          
+SEQRES   9 A  160  TRP ARG PRO ALA ILE THR ILE LYS GLN ILE LEU LEU GLY          
+SEQRES  10 A  160  ILE GLN GLU LEU LEU ASN GLU PRO ASN ILE GLN ASP PRO          
+SEQRES  11 A  160  ALA GLN ALA GLU ALA TYR THR ILE TYR CYS GLN ASN ARG          
+SEQRES  12 A  160  VAL GLU TYR GLU LYS ARG VAL ARG ALA GLN ALA LYS LYS          
+SEQRES  13 A  160  PHE ALA PRO SER                                              
+DBREF  1U9A A    1   158  UNP    P63280   UBE2I_MOUSE      1    158             

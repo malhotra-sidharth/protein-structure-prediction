@@ -1,0 +1,5 @@
+HELIX    1   1 GLY A   20  GLY A   24  5                                   5    
+SEQRES   1 A   39  GLY ALA MET GLY SER VAL ASP SER ALA ASP ALA GLY GLY          
+SEQRES   2 A   39  GLY SER GLY TRP LEU THR GLY TRP LEU PRO THR TRP CYS          
+SEQRES   3 A   39  PRO THR SER THR SER HIS LEU LYS GLU ALA GLU GLU LYS          
+DBREF  5A4H A   10    43  UNP    Q9DBL9   ABHD5_MOUSE     10     43             

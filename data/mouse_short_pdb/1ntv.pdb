@@ -1,0 +1,20 @@
+HELIX    1   1 SER A   27  LYS A   36  1                                  10    
+HELIX    2   2 GLY A   57  SER A   77  1                                  21    
+HELIX    3   3 ALA A  109  HIS A  111  5                                   3    
+HELIX    4   4 ALA A  147  ARG A  167  1                                  21    
+HELIX    5   5 GLU A  169  ALA A  174  1                                   6    
+SEQRES   1 A  152  GLY GLN ASP ARG SER GLU ALA THR LEU ILE LYS ARG PHE          
+SEQRES   2 A  152  LYS GLY GLU GLY VAL ARG TYR LYS ALA LYS LEU ILE GLY          
+SEQRES   3 A  152  ILE ASP GLU VAL SER ALA ALA ARG GLY ASP LYS LEU CYS          
+SEQRES   4 A  152  GLN ASP SER MET MET LYS LEU LYS GLY VAL VAL ALA GLY          
+SEQRES   5 A  152  ALA ARG SER LYS GLY GLU HIS LYS GLN LYS ILE PHE LEU          
+SEQRES   6 A  152  THR ILE SER PHE GLY GLY ILE LYS ILE PHE ASP GLU LYS          
+SEQRES   7 A  152  THR GLY ALA LEU GLN HIS HIS HIS ALA VAL HIS GLU ILE          
+SEQRES   8 A  152  SER TYR ILE ALA LYS ASP ILE THR ASP HIS ARG ALA PHE          
+SEQRES   9 A  152  GLY TYR VAL CYS GLY LYS GLU GLY ASN HIS ARG PHE VAL          
+SEQRES  10 A  152  ALA ILE LYS THR ALA GLN ALA ALA GLU PRO VAL ILE LEU          
+SEQRES  11 A  152  ASP LEU ARG ASP LEU PHE GLN LEU ILE TYR GLU LEU LYS          
+SEQRES  12 A  152  GLN ARG GLU GLU LEU GLU LYS LYS ALA                          
+SEQRES   1 B   10  ASN PHE ASP ASN PRO VAL TYR ARG LYS THR                      
+DBREF  1NTV A   23   174  UNP    P97318   DAB1_MOUSE      23    174             
+DBREF  1NTV B    5    14  PDB    1NTV     1NTV             5     14             

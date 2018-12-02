@@ -1,0 +1,15 @@
+KEYWDS    TRIPLE HELIX BANDLE, CAIR-1, BIS, RIKEN STRUCTURAL                    
+REMARK 650 HELIX                                                                
+HELIX    1   1 PRO A   27  ASP A   47  1                                  21    
+HELIX    2   2 LYS A   56  SER A   74  1                                  19    
+HELIX    3   3 ALA A   81  ALA A  105  1                                  25    
+SEQRES   1 A  111  GLY SER SER GLY SER SER GLY ALA PRO ALA GLU PRO ALA          
+SEQRES   2 A  111  ALA PRO LYS SER GLY GLU ALA GLU THR PRO PRO LYS HIS          
+SEQRES   3 A  111  PRO GLY VAL LEU LYS VAL GLU ALA ILE LEU GLU LYS VAL          
+SEQRES   4 A  111  GLN GLY LEU GLU GLN ALA VAL ASP SER PHE GLU GLY LYS          
+SEQRES   5 A  111  LYS THR ASP LYS LYS TYR LEU MET ILE GLU GLU TYR LEU          
+SEQRES   6 A  111  THR LYS GLU LEU LEU ALA LEU ASP SER VAL ASP PRO GLU          
+SEQRES   7 A  111  GLY ARG ALA ASP VAL ARG GLN ALA ARG ARG ASP GLY VAL          
+SEQRES   8 A  111  ARG LYS VAL GLN THR ILE LEU GLU LYS LEU GLU GLN LYS          
+SEQRES   9 A  111  ALA SER GLY PRO SER SER GLY                                  
+DBREF  1UK5 A    8   105  UNP    Q9JLV1   BAG3_MOUSE     406    503             

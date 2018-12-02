@@ -1,0 +1,5 @@
+HELIX    1   1 GLY A    8  LYS A   10  5                                   3    
+HELIX    2   2 LEU A   11  TYR A   16  1                                   6    
+SEQRES   1 A   24  PHE ASN ALA PRO PHE ASP VAL GLY ILE LYS LEU SER GLY          
+SEQRES   2 A   24  ALA GLN TYR GLN GLN HIS GLY ARG ALA LEU NH2                  
+DBREF  2JSH A    1    23  UNP    Q9EQX0   GHRL_MOUSE      76     98             

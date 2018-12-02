@@ -1,0 +1,80 @@
+HELIX    1   1 GLY A   10  GLN A   26  1                                  17    
+HELIX    2   2 ASP A   29  HIS A   52  1                                  24    
+HELIX    3   3 GLY B   10  GLN B   26  1                                  17    
+HELIX    4   4 ASP B   29  HIS B   50  1                                  22    
+HELIX    5   5 GLY C   10  GLN C   26  1                                  17    
+HELIX    6   6 ASP C   29  HIS C   51  1                                  23    
+HELIX    7   7 GLY D   10  GLN D   26  1                                  17    
+HELIX    8   8 ASP D   29  HIS D   51  1                                  23    
+HELIX    9   9 GLY E   10  GLN E   26  1                                  17    
+HELIX   10  10 ASP E   29  HIS E   51  1                                  23    
+HELIX   11  11 GLY F   10  GLN F   26  1                                  17    
+HELIX   12  12 ASP F   29  HIS F   52  1                                  24    
+HELIX   13  13 GLY G   10  GLN G   26  1                                  17    
+HELIX   14  14 ASP G   29  HIS G   50  1                                  22    
+HELIX   15  15 GLY H   10  GLN H   26  1                                  17    
+HELIX   16  16 ASP H   29  HIS H   50  1                                  22    
+SEQRES   1 A   54  MET GLY HIS ILE GLN ILE PRO PRO GLY LEU THR GLU LEU          
+SEQRES   2 A   54  LEU GLN GLY TYR THR VAL GLU VAL LEU ARG GLN GLN PRO          
+SEQRES   3 A   54  PRO ASP LEU VAL ASP PHE ALA VAL GLU TYR PHE THR ARG          
+SEQRES   4 A   54  LEU ARG GLU ALA ARG ARG GLY LEU GLU HIS HIS HIS HIS          
+SEQRES   5 A   54  HIS HIS                                                      
+SEQRES   1 B   54  MET GLY HIS ILE GLN ILE PRO PRO GLY LEU THR GLU LEU          
+SEQRES   2 B   54  LEU GLN GLY TYR THR VAL GLU VAL LEU ARG GLN GLN PRO          
+SEQRES   3 B   54  PRO ASP LEU VAL ASP PHE ALA VAL GLU TYR PHE THR ARG          
+SEQRES   4 B   54  LEU ARG GLU ALA ARG ARG GLY LEU GLU HIS HIS HIS HIS          
+SEQRES   5 B   54  HIS HIS                                                      
+SEQRES   1 C   54  MET GLY HIS ILE GLN ILE PRO PRO GLY LEU THR GLU LEU          
+SEQRES   2 C   54  LEU GLN GLY TYR THR VAL GLU VAL LEU ARG GLN GLN PRO          
+SEQRES   3 C   54  PRO ASP LEU VAL ASP PHE ALA VAL GLU TYR PHE THR ARG          
+SEQRES   4 C   54  LEU ARG GLU ALA ARG ARG GLY LEU GLU HIS HIS HIS HIS          
+SEQRES   5 C   54  HIS HIS                                                      
+SEQRES   1 D   54  MET GLY HIS ILE GLN ILE PRO PRO GLY LEU THR GLU LEU          
+SEQRES   2 D   54  LEU GLN GLY TYR THR VAL GLU VAL LEU ARG GLN GLN PRO          
+SEQRES   3 D   54  PRO ASP LEU VAL ASP PHE ALA VAL GLU TYR PHE THR ARG          
+SEQRES   4 D   54  LEU ARG GLU ALA ARG ARG GLY LEU GLU HIS HIS HIS HIS          
+SEQRES   5 D   54  HIS HIS                                                      
+SEQRES   1 E   54  MET GLY HIS ILE GLN ILE PRO PRO GLY LEU THR GLU LEU          
+SEQRES   2 E   54  LEU GLN GLY TYR THR VAL GLU VAL LEU ARG GLN GLN PRO          
+SEQRES   3 E   54  PRO ASP LEU VAL ASP PHE ALA VAL GLU TYR PHE THR ARG          
+SEQRES   4 E   54  LEU ARG GLU ALA ARG ARG GLY LEU GLU HIS HIS HIS HIS          
+SEQRES   5 E   54  HIS HIS                                                      
+SEQRES   1 F   54  MET GLY HIS ILE GLN ILE PRO PRO GLY LEU THR GLU LEU          
+SEQRES   2 F   54  LEU GLN GLY TYR THR VAL GLU VAL LEU ARG GLN GLN PRO          
+SEQRES   3 F   54  PRO ASP LEU VAL ASP PHE ALA VAL GLU TYR PHE THR ARG          
+SEQRES   4 F   54  LEU ARG GLU ALA ARG ARG GLY LEU GLU HIS HIS HIS HIS          
+SEQRES   5 F   54  HIS HIS                                                      
+SEQRES   1 G   54  MET GLY HIS ILE GLN ILE PRO PRO GLY LEU THR GLU LEU          
+SEQRES   2 G   54  LEU GLN GLY TYR THR VAL GLU VAL LEU ARG GLN GLN PRO          
+SEQRES   3 G   54  PRO ASP LEU VAL ASP PHE ALA VAL GLU TYR PHE THR ARG          
+SEQRES   4 G   54  LEU ARG GLU ALA ARG ARG GLY LEU GLU HIS HIS HIS HIS          
+SEQRES   5 G   54  HIS HIS                                                      
+SEQRES   1 H   54  MET GLY HIS ILE GLN ILE PRO PRO GLY LEU THR GLU LEU          
+SEQRES   2 H   54  LEU GLN GLY TYR THR VAL GLU VAL LEU ARG GLN GLN PRO          
+SEQRES   3 H   54  PRO ASP LEU VAL ASP PHE ALA VAL GLU TYR PHE THR ARG          
+SEQRES   4 H   54  LEU ARG GLU ALA ARG ARG GLY LEU GLU HIS HIS HIS HIS          
+SEQRES   5 H   54  HIS HIS                                                      
+DBREF  2IZY A    2     3  PDB    2IZY     2IZY             2      3             
+DBREF  2IZY A    4    46  UNP    P12368   KAP2_RAT         2     44             
+DBREF  2IZY A   47    55  PDB    2IZY     2IZY            47     55             
+DBREF  2IZY B    2     3  PDB    2IZY     2IZY             2      3             
+DBREF  2IZY B    4    46  UNP    P12368   KAP2_RAT         2     44             
+DBREF  2IZY B   47    55  PDB    2IZY     2IZY            47     55             
+DBREF  2IZY C    2     3  PDB    2IZY     2IZY             2      3             
+DBREF  2IZY C    4    46  UNP    P12368   KAP2_RAT         2     44             
+DBREF  2IZY C   47    55  PDB    2IZY     2IZY            47     55             
+DBREF  2IZY D    2     3  PDB    2IZY     2IZY             2      3             
+DBREF  2IZY D    4    46  UNP    P12368   KAP2_RAT         2     44             
+DBREF  2IZY D   47    55  PDB    2IZY     2IZY            47     55             
+DBREF  2IZY E    2     3  PDB    2IZY     2IZY             2      3             
+DBREF  2IZY E    4    46  UNP    P12368   KAP2_RAT         2     44             
+DBREF  2IZY E   47    55  PDB    2IZY     2IZY            47     55             
+DBREF  2IZY F    2     3  PDB    2IZY     2IZY             2      3             
+DBREF  2IZY F    4    46  UNP    P12368   KAP2_RAT         2     44             
+DBREF  2IZY F   47    55  PDB    2IZY     2IZY            47     55             
+DBREF  2IZY G    2     3  PDB    2IZY     2IZY             2      3             
+DBREF  2IZY G    4    46  UNP    P12368   KAP2_RAT         2     44             
+DBREF  2IZY G   47    55  PDB    2IZY     2IZY            47     55             
+DBREF  2IZY H    2     3  PDB    2IZY     2IZY             2      3             
+DBREF  2IZY H    4    46  UNP    P12368   KAP2_RAT         2     44             
+DBREF  2IZY H   47    55  PDB    2IZY     2IZY            47     55             

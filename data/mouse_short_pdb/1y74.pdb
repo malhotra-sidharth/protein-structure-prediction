@@ -1,0 +1,34 @@
+HELIX    1   1 GLY A   18  GLY A   37  1                                  20    
+HELIX    2   2 PRO A   40  SER A   53  1                                  14    
+HELIX    3   3 SER A   53  THR A   73  1                                  21    
+HELIX    4   4 ALA B   83  CYS B   96  1                                  14    
+HELIX    5   5 ASN B  100  GLN B  112  1                                  13    
+HELIX    6   6 GLN B  112  SER B  131  1                                  20    
+HELIX    7   7 GLY C   18  GLY C   37  1                                  20    
+HELIX    8   8 PRO C   40  SER C   53  1                                  14    
+HELIX    9   9 SER C   53  THR C   73  1                                  21    
+HELIX   10  10 ALA D   83  CYS D   96  1                                  14    
+HELIX   11  11 ASN D  100  GLN D  112  1                                  13    
+HELIX   12  12 GLN D  112  TYR D  130  1                                  19    
+SEQRES   1 A   57  LEU GLY LEU GLU ARG ASP VAL SER ARG ALA VAL GLU LEU          
+SEQRES   2 A   57  LEU GLU ARG LEU GLN ARG SER GLY GLU LEU PRO PRO GLN          
+SEQRES   3 A   57  LYS LEU GLN ALA LEU GLN ARG VAL LEU GLN SER ARG PHE          
+SEQRES   4 A   57  CYS SER ALA ILE ARG GLU VAL TYR GLU GLN LEU TYR ASP          
+SEQRES   5 A   57  THR LEU ASP ILE THR                                          
+SEQRES   1 B   50  ALA VAL GLN ARG ALA LYS GLU VAL LEU GLU GLU ILE SER          
+SEQRES   2 B   50  CYS TYR PRO GLU ASN ASN ASP ALA LYS GLU LEU LYS ARG          
+SEQRES   3 B   50  ILE LEU THR GLN PRO HIS PHE MET ALA LEU LEU GLN THR          
+SEQRES   4 B   50  HIS ASP VAL VAL ALA HIS GLU VAL TYR SER ASP                  
+SEQRES   1 C   57  LEU GLY LEU GLU ARG ASP VAL SER ARG ALA VAL GLU LEU          
+SEQRES   2 C   57  LEU GLU ARG LEU GLN ARG SER GLY GLU LEU PRO PRO GLN          
+SEQRES   3 C   57  LYS LEU GLN ALA LEU GLN ARG VAL LEU GLN SER ARG PHE          
+SEQRES   4 C   57  CYS SER ALA ILE ARG GLU VAL TYR GLU GLN LEU TYR ASP          
+SEQRES   5 C   57  THR LEU ASP ILE THR                                          
+SEQRES   1 D   50  ALA VAL GLN ARG ALA LYS GLU VAL LEU GLU GLU ILE SER          
+SEQRES   2 D   50  CYS TYR PRO GLU ASN ASN ASP ALA LYS GLU LEU LYS ARG          
+SEQRES   3 D   50  ILE LEU THR GLN PRO HIS PHE MET ALA LEU LEU GLN THR          
+SEQRES   4 D   50  HIS ASP VAL VAL ALA HIS GLU VAL TYR SER ASP                  
+DBREF  1Y74 A   17    73  UNP    O88951   LIN7B_MOUSE      8     64             
+DBREF  1Y74 C   17    73  UNP    O88951   LIN7B_MOUSE      8     64             
+DBREF  1Y74 B   83   132  UNP    O70589   CSKP_MOUSE     405    454             
+DBREF  1Y74 D   83   132  UNP    O70589   CSKP_MOUSE     405    454             

@@ -1,0 +1,10 @@
+HELIX    1   1 SER A   45  ASN A   49  5                                   5    
+HELIX    2   2 CYS A   59  LYS A   74  1                                  16    
+SEQRES   1 A   83  GLY SER HIS MET GLY LYS LYS THR LYS ARG THR ALA ASP          
+SEQRES   2 A   83  SER SER SER SER GLU ASP GLU GLU GLU TYR VAL VAL GLU          
+SEQRES   3 A   83  LYS VAL LEU ASP ARG ARG MET VAL LYS GLY GLN VAL GLU          
+SEQRES   4 A   83  TYR LEU LEU LYS TRP LYS GLY PHE SER GLU GLU HIS ASN          
+SEQRES   5 A   83  THR TRP GLU PRO GLU LYS ASN LEU ASP CYS PRO GLU LEU          
+SEQRES   6 A   83  ILE SER GLU PHE MET LYS LYS TYR LYS LYS MET LYS GLU          
+SEQRES   7 A   83  GLY GLU ASN ASN LYS                                          
+DBREF  2RVL A    1    80  UNP    Q61686   CBX5_MOUSE       1     80             

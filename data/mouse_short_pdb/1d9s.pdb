@@ -1,0 +1,20 @@
+KEYWDS    HELIX-TURN-HELIX, ANKYRIN REPEAT, SIGNALING PROTEIN                   
+HELIX    1   1 ALA A    8  ARG A   16  1                                   9    
+HELIX    2   2 GLN A   18  ALA A   28  1                                  11    
+HELIX    3   3 SER A   50  GLY A   61  1                                  12    
+HELIX    4   4 ARG A   74  GLY A   83  1                                  10    
+HELIX    5   5 PHE A   84  ALA A   94  1                                  11    
+HELIX    6   6 LEU A  107  GLY A  116  1                                  10    
+HELIX    7   7 HIS A  117  GLY A  129  1                                  13    
+SEQRES   1 A  136  GLY SER PRO GLY ILE HIS MET LEU GLY GLY SER SER ASP          
+SEQRES   2 A  136  ALA GLY LEU ALA THR ALA ALA ALA ARG GLY GLN VAL GLU          
+SEQRES   3 A  136  THR VAL ARG GLN LEU LEU GLU ALA GLY ALA ASP PRO ASN          
+SEQRES   4 A  136  ALA LEU ASN ARG PHE GLY ARG ARG PRO ILE GLN VAL MET          
+SEQRES   5 A  136  MET MET GLY SER ALA GLN VAL ALA GLU LEU LEU LEU LEU          
+SEQRES   6 A  136  HIS GLY ALA GLU PRO ASN CYS ALA ASP PRO ALA THR LEU          
+SEQRES   7 A  136  THR ARG PRO VAL HIS ASP ALA ALA ARG GLU GLY PHE LEU          
+SEQRES   8 A  136  ASP THR LEU VAL VAL LEU HIS ARG ALA GLY ALA ARG LEU          
+SEQRES   9 A  136  ASP VAL CYS ASP ALA TRP GLY ARG LEU PRO VAL ASP LEU          
+SEQRES  10 A  136  ALA GLU GLU GLN GLY HIS ARG ASP ILE ALA ARG TYR LEU          
+SEQRES  11 A  136  HIS ALA ALA THR GLY ASP                                      
+DBREF  1D9S A   -5   130  UNP    P55271   CDN2B_MOUSE      1    130             

@@ -1,0 +1,60 @@
+HELIX    1   1 THR A 1920  TYR A 1928  1                                   9    
+HELIX    2   2 ARG A 1930  ALA A 1940  1                                  11    
+HELIX    3   3 THR A 1953  ASP A 1962  1                                  10    
+HELIX    4   4 ALA A 1963  ASN A 1973  1                                  11    
+HELIX    5   5 THR A 1987  LEU A 1995  1                                   9    
+HELIX    6   6 LEU A 1997  SER A 2007  1                                  11    
+HELIX    7   7 SER A 2020  VAL A 2028  1                                   9    
+HELIX    8   8 ASN A 2030  ASN A 2040  1                                  11    
+HELIX    9   9 THR A 2053  GLY A 2062  1                                  10    
+HELIX   10  10 SER A 2063  HIS A 2073  1                                  11    
+HELIX   11  11 LEU A 2086  GLU A 2093  1                                   8    
+HELIX   12  12 HIS A 2096  GLU A 2105  1                                  10    
+HELIX   13  13 THR B 1920  TYR B 1928  1                                   9    
+HELIX   14  14 ARG B 1930  GLU B 1939  1                                  10    
+HELIX   15  15 THR B 1953  ALA B 1961  1                                   9    
+HELIX   16  16 ALA B 1963  ASN B 1973  1                                  11    
+HELIX   17  17 THR B 1987  ALA B 1996  1                                  10    
+HELIX   18  18 LEU B 1997  SER B 2007  1                                  11    
+HELIX   19  19 SER B 2020  VAL B 2028  1                                   9    
+HELIX   20  20 ASN B 2030  ASN B 2040  1                                  11    
+HELIX   21  21 THR B 2053  GLY B 2062  1                                  10    
+HELIX   22  22 SER B 2063  ASP B 2072  1                                  10    
+HELIX   23  23 LEU B 2086  GLN B 2092  1                                   7    
+HELIX   24  24 HIS B 2096  ASP B 2104  1                                   9    
+SEQRES   1 A  210  GLY SER VAL ILE SER ASP PHE ILE TYR GLN GLY ALA SER          
+SEQRES   2 A  210  LEU HIS ASN GLN THR ASP ARG THR GLY GLU THR ALA LEU          
+SEQRES   3 A  210  HIS LEU ALA ALA ARG TYR SER ARG SER ASP ALA ALA LYS          
+SEQRES   4 A  210  ARG LEU LEU GLU ALA SER ALA ASP ALA AHB ILE GLN ASP          
+SEQRES   5 A  210  ASN MET GLY ARG THR PRO LEU HIS ALA ALA VAL SER ALA          
+SEQRES   6 A  210  ASP ALA GLN GLY VAL PHE GLN ILE LEU LEU ARG ASN ARG          
+SEQRES   7 A  210  ALA THR ASP LEU ASP ALA ARG MET HIS ASP GLY THR THR          
+SEQRES   8 A  210  PRO LEU ILE LEU ALA ALA ARG LEU ALA LEU GLU GLY MET          
+SEQRES   9 A  210  LEU GLU ASP LEU ILE ASN SER HIS ALA ASP VAL ASN ALA          
+SEQRES  10 A  210  VAL ASP ASP LEU GLY LYS SER ALA LEU HIS TRP ALA ALA          
+SEQRES  11 A  210  ALA VAL ASN ASN VAL ASP ALA ALA VAL VAL LEU LEU LYS          
+SEQRES  12 A  210  ASN GLY ALA ASN LYS ASP MET GLN ASN ASN LYS GLU GLU          
+SEQRES  13 A  210  THR PRO LEU PHE LEU ALA ALA ARG GLU GLY SER TYR GLU          
+SEQRES  14 A  210  THR ALA LYS VAL LEU LEU ASP HIS PHE ALA ASN ARG ASP          
+SEQRES  15 A  210  ILE THR ASP HIS MET ASP ARG LEU PRO ARG ASP ILE ALA          
+SEQRES  16 A  210  GLN GLU ARG MET HIS HIS ASP ILE VAL ARG LEU LEU ASP          
+SEQRES  17 A  210  GLU TYR                                                      
+SEQRES   1 B  210  GLY SER VAL ILE SER ASP PHE ILE TYR GLN GLY ALA SER          
+SEQRES   2 B  210  LEU HIS ASN GLN THR ASP ARG THR GLY GLU THR ALA LEU          
+SEQRES   3 B  210  HIS LEU ALA ALA ARG TYR SER ARG SER ASP ALA ALA LYS          
+SEQRES   4 B  210  ARG LEU LEU GLU ALA SER ALA ASP ALA AHB ILE GLN ASP          
+SEQRES   5 B  210  ASN MET GLY ARG THR PRO LEU HIS ALA ALA VAL SER ALA          
+SEQRES   6 B  210  ASP ALA GLN GLY VAL PHE GLN ILE LEU LEU ARG ASN ARG          
+SEQRES   7 B  210  ALA THR ASP LEU ASP ALA ARG MET HIS ASP GLY THR THR          
+SEQRES   8 B  210  PRO LEU ILE LEU ALA ALA ARG LEU ALA LEU GLU GLY MET          
+SEQRES   9 B  210  LEU GLU ASP LEU ILE ASN SER HIS ALA ASP VAL ASN ALA          
+SEQRES  10 B  210  VAL ASP ASP LEU GLY LYS SER ALA LEU HIS TRP ALA ALA          
+SEQRES  11 B  210  ALA VAL ASN ASN VAL ASP ALA ALA VAL VAL LEU LEU LYS          
+SEQRES  12 B  210  ASN GLY ALA ASN LYS ASP MET GLN ASN ASN LYS GLU GLU          
+SEQRES  13 B  210  THR PRO LEU PHE LEU ALA ALA ARG GLU GLY SER TYR GLU          
+SEQRES  14 B  210  THR ALA LYS VAL LEU LEU ASP HIS PHE ALA ASN ARG ASP          
+SEQRES  15 B  210  ILE THR ASP HIS MET ASP ARG LEU PRO ARG ASP ILE ALA          
+SEQRES  16 B  210  GLN GLU ARG MET HIS HIS ASP ILE VAL ARG LEU LEU ASP          
+SEQRES  17 B  210  GLU TYR                                                      
+DBREF  2QC9 A 1899  2106  UNP    Q8K428   Q8K428_MOUSE  1899   2106             
+DBREF  2QC9 B 1899  2106  UNP    Q8K428   Q8K428_MOUSE  1899   2106             

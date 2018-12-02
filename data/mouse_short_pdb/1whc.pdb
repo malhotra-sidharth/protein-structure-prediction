@@ -1,0 +1,9 @@
+HELIX    1   1 THR A   11  GLU A   18  1                                   8    
+HELIX    2   2 PRO A   22  GLY A   34  1                                  13    
+HELIX    3   3 GLY A   37  GLU A   49  1                                  13    
+SEQRES   1 A   64  GLY SER SER GLY SER SER GLY ALA GLU LEU THR ALA LEU          
+SEQRES   2 A   64  GLU SER LEU ILE GLU MET GLY PHE PRO ARG GLY ARG ALA          
+SEQRES   3 A   64  GLU LYS ALA LEU ALA LEU THR GLY ASN GLN GLY ILE GLU          
+SEQRES   4 A   64  ALA ALA MET ASP TRP LEU MET GLU HIS GLU ASP ASP PRO          
+SEQRES   5 A   64  ASP VAL ASP GLU PRO LEU SER GLY PRO SER SER GLY              
+DBREF  1WHC A    8    58  UNP    Q922Y1   U33K_MOUSE       2     52             

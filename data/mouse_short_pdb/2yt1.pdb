@@ -1,0 +1,22 @@
+REMARK 650 HELIX                                                                
+HELIX    1   1 PRO A   13  GLN A   22  1                                  10    
+HELIX    2   2 PRO A   29  GLU A   35  1                                   7    
+HELIX    3   3 MET A   89  SER A  102  1                                  14    
+HELIX    4   4 ALA A  175  CYS A  185  1                                  11    
+SEQRES   1 A  185  GLY SER SER GLY SER SER GLY ASP ALA ALA VAL THR PRO          
+SEQRES   2 A  185  GLU GLU ARG HIS LEU SER LYS MET GLN GLN ASN GLY TYR          
+SEQRES   3 A  185  GLU ASN PRO THR TYR LYS PHE PHE GLU GLN MET GLN ASN          
+SEQRES   4 A  185  SER GLY PRO SER SER GLY ILE GLU GLY ARG GLY SER SER          
+SEQRES   5 A  185  GLY SER SER GLY SER SER GLY SER SER GLY PRO THR PRO          
+SEQRES   6 A  185  LYS THR GLU LEU VAL GLN LYS PHE ARG VAL GLN TYR LEU          
+SEQRES   7 A  185  GLY MET LEU PRO VAL ASP ARG PRO VAL GLY MET ASP THR          
+SEQRES   8 A  185  LEU ASN SER ALA ILE GLU ASN LEU MET THR SER SER SER          
+SEQRES   9 A  185  LYS GLU ASP TRP PRO SER VAL ASN MET ASN VAL ALA ASP          
+SEQRES  10 A  185  ALA THR VAL THR VAL ILE SER GLU LYS ASN GLU GLU GLU          
+SEQRES  11 A  185  VAL LEU VAL GLU CYS ARG VAL ARG PHE LEU SER PHE MET          
+SEQRES  12 A  185  GLY VAL GLY LYS ASP VAL HIS THR PHE ALA PHE ILE MET          
+SEQRES  13 A  185  ASP THR GLY ASN GLN ARG PHE GLU CYS HIS VAL PHE TRP          
+SEQRES  14 A  185  CYS GLU PRO ASN ALA ALA ASN VAL SER GLU ALA VAL GLN          
+SEQRES  15 A  185  ALA ALA CYS                                                  
+DBREF  2YT1 A    8    39  UNP    P12023   A4_MOUSE       739    770             
+DBREF  2YT1 A   63   185  UNP    Q9DBR4   APBB2_MOUSE    582    704             

@@ -1,0 +1,105 @@
+KEYWDS    ROQ DOMAIN, WINGED-HELIX DOMAIN, RNA BINDING, TNF CDE RNA, RNA        
+HELIX    1   1 ASN A  175  ALA A  189  1                                  15    
+HELIX    2   2 GLY A  196  GLU A  212  1                                  17    
+HELIX    3   3 ARG A  219  GLU A  231  1                                  13    
+HELIX    4   4 SER A  238  ALA A  252  1                                  15    
+HELIX    5   5 GLU A  271  ARG A  274  5                                   4    
+HELIX    6   6 THR A  275  ALA A  294  1                                  20    
+HELIX    7   7 ALA A  299  GLY A  309  1                                  11    
+HELIX    8   8 HIS A  313  GLN A  325  1                                  13    
+HELIX    9   9 ASN B  175  ALA B  189  1                                  15    
+HELIX   10  10 GLY B  196  GLU B  212  1                                  17    
+HELIX   11  11 SER B  218  GLU B  231  1                                  14    
+HELIX   12  12 SER B  238  ALA B  252  1                                  15    
+HELIX   13  13 GLU B  271  ARG B  274  5                                   4    
+HELIX   14  14 THR B  275  ALA B  294  1                                  20    
+HELIX   15  15 ALA B  299  GLY B  309  1                                  11    
+HELIX   16  16 HIS B  313  GLN B  325  1                                  13    
+HELIX   17  17 ASN C  175  ALA C  189  1                                  15    
+HELIX   18  18 GLY C  196  GLU C  212  1                                  17    
+HELIX   19  19 ARG C  219  GLU C  231  1                                  13    
+HELIX   20  20 SER C  238  ALA C  252  1                                  15    
+HELIX   21  21 GLU C  271  ARG C  274  5                                   4    
+HELIX   22  22 THR C  275  ALA C  294  1                                  20    
+HELIX   23  23 ALA C  299  GLY C  309  1                                  11    
+HELIX   24  24 HIS C  313  GLN C  325  1                                  13    
+HELIX   25  25 ASN D  175  ALA D  189  1                                  15    
+HELIX   26  26 GLY D  196  GLU D  212  1                                  17    
+HELIX   27  27 ARG D  219  GLU D  231  1                                  13    
+HELIX   28  28 SER D  238  ALA D  252  1                                  15    
+HELIX   29  29 GLU D  271  ARG D  274  5                                   4    
+HELIX   30  30 THR D  275  ALA D  294  1                                  20    
+HELIX   31  31 ALA D  299  GLY D  309  1                                  11    
+HELIX   32  32 HIS D  313  GLN D  325  1                                  13    
+SEQRES   1 A  180  GLU GLU GLU GLY ARG ILE ARG ALA MET ARG ALA ALA ARG          
+SEQRES   2 A  180  SER LEU GLY GLU ARG THR VAL THR GLU LEU ILE LEU GLN          
+SEQRES   3 A  180  HIS GLN ASN PRO GLN GLN LEU SER SER ASN LEU TRP ALA          
+SEQRES   4 A  180  ALA VAL ARG ALA ARG GLY CYS GLN PHE LEU GLY PRO ALA          
+SEQRES   5 A  180  MET GLN GLU GLU ALA LEU LYS LEU VAL LEU LEU ALA LEU          
+SEQRES   6 A  180  GLU ASP GLY SER ALA LEU SER ARG LYS VAL LEU VAL LEU          
+SEQRES   7 A  180  PHE VAL VAL GLN ARG LEU GLU PRO ARG PHE PRO GLN ALA          
+SEQRES   8 A  180  SER LYS THR SER ILE GLY HIS VAL VAL GLN LEU LEU TYR          
+SEQRES   9 A  180  ARG ALA SER CYS PHE LYS VAL THR LYS ARG ASP GLU ASP          
+SEQRES  10 A  180  SER SER LEU MET GLN LEU LYS GLU GLU PHE ARG THR TYR          
+SEQRES  11 A  180  GLU ALA LEU ARG ARG GLU HIS ASP SER GLN ILE VAL GLN          
+SEQRES  12 A  180  ILE ALA MET GLU ALA GLY LEU ARG ILE ALA PRO ASP GLN          
+SEQRES  13 A  180  TRP SER SER LEU LEU TYR GLY ASP GLN SER HIS LYS SER          
+SEQRES  14 A  180  HIS MET GLN SER ILE ILE ASP LYS LEU GLN THR                  
+SEQRES   1 B  180  GLU GLU GLU GLY ARG ILE ARG ALA MET ARG ALA ALA ARG          
+SEQRES   2 B  180  SER LEU GLY GLU ARG THR VAL THR GLU LEU ILE LEU GLN          
+SEQRES   3 B  180  HIS GLN ASN PRO GLN GLN LEU SER SER ASN LEU TRP ALA          
+SEQRES   4 B  180  ALA VAL ARG ALA ARG GLY CYS GLN PHE LEU GLY PRO ALA          
+SEQRES   5 B  180  MET GLN GLU GLU ALA LEU LYS LEU VAL LEU LEU ALA LEU          
+SEQRES   6 B  180  GLU ASP GLY SER ALA LEU SER ARG LYS VAL LEU VAL LEU          
+SEQRES   7 B  180  PHE VAL VAL GLN ARG LEU GLU PRO ARG PHE PRO GLN ALA          
+SEQRES   8 B  180  SER LYS THR SER ILE GLY HIS VAL VAL GLN LEU LEU TYR          
+SEQRES   9 B  180  ARG ALA SER CYS PHE LYS VAL THR LYS ARG ASP GLU ASP          
+SEQRES  10 B  180  SER SER LEU MET GLN LEU LYS GLU GLU PHE ARG THR TYR          
+SEQRES  11 B  180  GLU ALA LEU ARG ARG GLU HIS ASP SER GLN ILE VAL GLN          
+SEQRES  12 B  180  ILE ALA MET GLU ALA GLY LEU ARG ILE ALA PRO ASP GLN          
+SEQRES  13 B  180  TRP SER SER LEU LEU TYR GLY ASP GLN SER HIS LYS SER          
+SEQRES  14 B  180  HIS MET GLN SER ILE ILE ASP LYS LEU GLN THR                  
+SEQRES   1 C  180  GLU GLU GLU GLY ARG ILE ARG ALA MET ARG ALA ALA ARG          
+SEQRES   2 C  180  SER LEU GLY GLU ARG THR VAL THR GLU LEU ILE LEU GLN          
+SEQRES   3 C  180  HIS GLN ASN PRO GLN GLN LEU SER SER ASN LEU TRP ALA          
+SEQRES   4 C  180  ALA VAL ARG ALA ARG GLY CYS GLN PHE LEU GLY PRO ALA          
+SEQRES   5 C  180  MET GLN GLU GLU ALA LEU LYS LEU VAL LEU LEU ALA LEU          
+SEQRES   6 C  180  GLU ASP GLY SER ALA LEU SER ARG LYS VAL LEU VAL LEU          
+SEQRES   7 C  180  PHE VAL VAL GLN ARG LEU GLU PRO ARG PHE PRO GLN ALA          
+SEQRES   8 C  180  SER LYS THR SER ILE GLY HIS VAL VAL GLN LEU LEU TYR          
+SEQRES   9 C  180  ARG ALA SER CYS PHE LYS VAL THR LYS ARG ASP GLU ASP          
+SEQRES  10 C  180  SER SER LEU MET GLN LEU LYS GLU GLU PHE ARG THR TYR          
+SEQRES  11 C  180  GLU ALA LEU ARG ARG GLU HIS ASP SER GLN ILE VAL GLN          
+SEQRES  12 C  180  ILE ALA MET GLU ALA GLY LEU ARG ILE ALA PRO ASP GLN          
+SEQRES  13 C  180  TRP SER SER LEU LEU TYR GLY ASP GLN SER HIS LYS SER          
+SEQRES  14 C  180  HIS MET GLN SER ILE ILE ASP LYS LEU GLN THR                  
+SEQRES   1 D  180  GLU GLU GLU GLY ARG ILE ARG ALA MET ARG ALA ALA ARG          
+SEQRES   2 D  180  SER LEU GLY GLU ARG THR VAL THR GLU LEU ILE LEU GLN          
+SEQRES   3 D  180  HIS GLN ASN PRO GLN GLN LEU SER SER ASN LEU TRP ALA          
+SEQRES   4 D  180  ALA VAL ARG ALA ARG GLY CYS GLN PHE LEU GLY PRO ALA          
+SEQRES   5 D  180  MET GLN GLU GLU ALA LEU LYS LEU VAL LEU LEU ALA LEU          
+SEQRES   6 D  180  GLU ASP GLY SER ALA LEU SER ARG LYS VAL LEU VAL LEU          
+SEQRES   7 D  180  PHE VAL VAL GLN ARG LEU GLU PRO ARG PHE PRO GLN ALA          
+SEQRES   8 D  180  SER LYS THR SER ILE GLY HIS VAL VAL GLN LEU LEU TYR          
+SEQRES   9 D  180  ARG ALA SER CYS PHE LYS VAL THR LYS ARG ASP GLU ASP          
+SEQRES  10 D  180  SER SER LEU MET GLN LEU LYS GLU GLU PHE ARG THR TYR          
+SEQRES  11 D  180  GLU ALA LEU ARG ARG GLU HIS ASP SER GLN ILE VAL GLN          
+SEQRES  12 D  180  ILE ALA MET GLU ALA GLY LEU ARG ILE ALA PRO ASP GLN          
+SEQRES  13 D  180  TRP SER SER LEU LEU TYR GLY ASP GLN SER HIS LYS SER          
+SEQRES  14 D  180  HIS MET GLN SER ILE ILE ASP LYS LEU GLN THR                  
+SEQRES   1 E   23    A   C   A   U   G   U   U   U   U   C   U   G   U          
+SEQRES   2 E   23    G   A   A   A   A   C   G   G   A   G                      
+SEQRES   1 F   23    A   C   A   U   G   U   U   U   U   C   U   G   U          
+SEQRES   2 F   23    G   A   A   A   A   C   G   G   A   G                      
+SEQRES   1 G   23    A   C   A   U   G   U   U   U   U   C   U   G   U          
+SEQRES   2 G   23    G   A   A   A   A   C   G   G   A   G                      
+SEQRES   1 H   23    A   C   A   U   G   U   U   U   U   C   U   G   U          
+SEQRES   2 H   23    G   A   A   A   A   C   G   G   A   G                      
+DBREF  4QI2 A  147   326  UNP    Q4VGL6   RC3H1_MOUSE    147    326             
+DBREF  4QI2 B  147   326  UNP    Q4VGL6   RC3H1_MOUSE    147    326             
+DBREF  4QI2 C  147   326  UNP    Q4VGL6   RC3H1_MOUSE    147    326             
+DBREF  4QI2 D  147   326  UNP    Q4VGL6   RC3H1_MOUSE    147    326             
+DBREF  4QI2 E    1    23  PDB    4QI2     4QI2             1     23             
+DBREF  4QI2 F    1    23  PDB    4QI2     4QI2             1     23             
+DBREF  4QI2 G    1    23  PDB    4QI2     4QI2             1     23             
+DBREF  4QI2 H    1    23  PDB    4QI2     4QI2             1     23             

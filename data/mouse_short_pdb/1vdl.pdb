@@ -1,0 +1,11 @@
+HELIX    1   2 GLN A   24  ILE A   34  1                                  11    
+HELIX    2   3 ALA A   40  SER A   50  1                                  11    
+HELIX    3   4 LEU A   54  THR A   62  1                                   9    
+SEQRES   1 A   80  GLY SER SER GLY SER SER GLY MET THR VAL GLU GLN ASN          
+SEQRES   2 A   80  VAL LEU GLN GLN SER ALA ALA GLN LYS HIS GLN GLN THR          
+SEQRES   3 A   80  PHE LEU ASN GLN LEU ARG GLU ILE THR GLY ILE ASN ASP          
+SEQRES   4 A   80  ALA GLN ILE LEU GLN GLN ALA LEU LYS ASP SER ASN GLY          
+SEQRES   5 A   80  ASN LEU GLU LEU ALA VAL ALA PHE LEU THR ALA LYS ASN          
+SEQRES   6 A   80  ALA LYS THR PRO PRO GLN GLU GLU THR SER GLY PRO SER          
+SEQRES   7 A   80  SER GLY                                                      
+DBREF  1VDL A    8    74  UNP    P57080   UBP25_MOUSE      1     67             

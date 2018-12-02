@@ -1,0 +1,27 @@
+HELIX    1   1 SER A   66  GLY A   76  1                                  11    
+HELIX    2   2 SER A  126  TYR A  134  1                                   9    
+HELIX    3   3 SER B   51  PHE B   57  1                                   7    
+HELIX    4   4 SER B   66  GLY B   76  1                                  11    
+HELIX    5   5 SER B  126  TYR B  134  1                                   9    
+SEQRES   1 A  100  GLY SER PHE ILE ASP ILE GLU PHE PRO GLU TRP PHE HIS          
+SEQRES   2 A  100  GLU GLY LEU SER ARG HIS GLN ALA GLU ASN LEU LEU MET          
+SEQRES   3 A  100  GLY LYS ASP ILE GLY PHE PHE ILE ILE ARG ALA SER GLN          
+SEQRES   4 A  100  SER SER PRO GLY ASP PHE SER ILE SER VAL ARG HIS GLU          
+SEQRES   5 A  100  ASP ASP VAL GLN HIS PHE LYS VAL MET ARG ASP THR LYS          
+SEQRES   6 A  100  GLY ASN TYR PHE LEU TRP THR GLU LYS PHE PRO SER LEU          
+SEQRES   7 A  100  ASN LYS LEU VAL ASP TYR TYR ARG THR THR SER ILE SER          
+SEQRES   8 A  100  LYS GLN LYS GLN VAL PHE LEU ARG ASP                          
+SEQRES   1 B  100  GLY SER PHE ILE ASP ILE GLU PHE PRO GLU TRP PHE HIS          
+SEQRES   2 B  100  GLU GLY LEU SER ARG HIS GLN ALA GLU ASN LEU LEU MET          
+SEQRES   3 B  100  GLY LYS ASP ILE GLY PHE PHE ILE ILE ARG ALA SER GLN          
+SEQRES   4 B  100  SER SER PRO GLY ASP PHE SER ILE SER VAL ARG HIS GLU          
+SEQRES   5 B  100  ASP ASP VAL GLN HIS PHE LYS VAL MET ARG ASP THR LYS          
+SEQRES   6 B  100  GLY ASN TYR PHE LEU TRP THR GLU LYS PHE PRO SER LEU          
+SEQRES   7 B  100  ASN LYS LEU VAL ASP TYR TYR ARG THR THR SER ILE SER          
+SEQRES   8 B  100  LYS GLN LYS GLN VAL PHE LEU ARG ASP                          
+SEQRES   1 C    7  ACE ARG GLU PTR VAL ASN VAL                                  
+SEQRES   1 D    7  ACE ARG GLU PTR VAL ASN VAL                                  
+DBREF  1R1Q A   52   149  UNP    O89100   GRAP2_MOUSE     50    147             
+DBREF  1R1Q B   52   149  UNP    O89100   GRAP2_MOUSE     50    147             
+DBREF  1R1Q C  555   561  PDB    1R1Q     1R1Q           555    561             
+DBREF  1R1Q D  555   561  PDB    1R1Q     1R1Q           555    561             

@@ -1,0 +1,14 @@
+KEYWDS    TRIPLE HELIX BUNDLE, RIKEN STRUCTURAL GENOMICS/PROTEOMICS             
+HELIX    1   1 SER A   16  ILE A   30  1                                  15    
+HELIX    2   2 ILE A   30  GLY A   36  1                                   7    
+HELIX    3   3 LYS A   44  VAL A   63  1                                  20    
+HELIX    4   4 LYS A   68  SER A   94  1                                  27    
+SEQRES   1 A   99  GLY SER SER GLY SER SER GLY MET ASP MET GLY ASN GLN          
+SEQRES   2 A   99  HIS PRO SER ILE SER ARG LEU GLN GLU ILE GLN ARG GLU          
+SEQRES   3 A   99  VAL LYS ALA ILE GLU PRO GLN VAL VAL GLY PHE SER GLY          
+SEQRES   4 A   99  LEU SER ASP ASP LYS ASN TYR LYS ARG LEU GLU ARG ILE          
+SEQRES   5 A   99  LEU THR LYS GLN LEU PHE GLU ILE ASP SER VAL ASP THR          
+SEQRES   6 A   99  GLU GLY LYS GLY ASP ILE GLN GLN ALA ARG LYS ARG ALA          
+SEQRES   7 A   99  ALA GLN GLU THR GLU ARG LEU LEU LYS GLU LEU GLU GLN          
+SEQRES   8 A   99  ASN ALA SER GLY PRO SER SER GLY                              
+DBREF  1UGO A    8    93  UNP    Q8CI32   BAG5_MOUSE       1     86             

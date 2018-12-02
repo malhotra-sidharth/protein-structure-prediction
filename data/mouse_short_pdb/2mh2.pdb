@@ -1,0 +1,12 @@
+JRNL        TITL 2 HELIX DOMAIN OF THE MEIOTIC RECOMBINATION HOP2 PROTEIN.      
+HELIX    1   1 GLY A   11  ASN A   24  1                                  14    
+HELIX    2   2 ALA A   29  LYS A   38  1                                  10    
+HELIX    3   3 GLY A   43  GLY A   58  1                                  16    
+SEQRES   1 A   84  MET SER LYS SER ARG ALA GLU ALA ALA ALA GLY ALA PRO          
+SEQRES   2 A   84  GLY ILE ILE LEU ARG TYR LEU GLN GLU GLN ASN ARG PRO          
+SEQRES   3 A   84  TYR SER ALA GLN ASP VAL PHE GLY ASN LEU GLN LYS GLU          
+SEQRES   4 A   84  HIS GLY LEU GLY LYS ALA ALA VAL VAL LYS ALA LEU ASP          
+SEQRES   5 A   84  GLN LEU ALA GLN GLU GLY LYS ILE LYS GLU LYS THR TYR          
+SEQRES   6 A   84  GLY LYS GLN LYS ILE TYR PHE ALA ASP GLN ASN GLN PHE          
+SEQRES   7 A   84  ASP THR VAL SER ASP ALA                                      
+DBREF  2MH2 A    1    84  UNP    O35047   HOP2_MOUSE       1     84             

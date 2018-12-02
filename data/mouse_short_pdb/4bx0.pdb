@@ -1,0 +1,38 @@
+HELIX    1   1 ARG A    8  ALA A   19  1                                  12    
+HELIX    2   2 GLY A   39  ALA A   50  1                                  12    
+HELIX    3   3 ALA A   64  LEU A   75  1                                  12    
+HELIX    4   4 ARG A   81  GLU A   83  5                                   3    
+HELIX    5   5 SER A   88  LEU A  100  1                                  13    
+HELIX    6   6 GLY A  115  ALA A  125  1                                  11    
+HELIX    7   7 SER A  151  LEU A  162  1                                  12    
+HELIX    8   8 GLY A  188  GLY A  201  1                                  14    
+HELIX    9   9 PRO A  212  PHE A  222  1                                  11    
+HELIX   10  10 ASP A  225  ALA A  227  5                                   3    
+HELIX   11  11 THR A  238  GLY A  247  1                                  10    
+HELIX   12  12 SER A  259  ALA A  269  1                                  11    
+HELIX   13  13 GLN A  271  VAL A  275  5                                   5    
+HELIX   14  14 SER A  282  LEU A  290  5                                   9    
+SEQRES   1 A  292  MET ALA ARG CYS GLU ARG LEU ARG GLY ALA ALA LEU ARG          
+SEQRES   2 A  292  ASP VAL LEU GLY GLN ALA GLN GLY VAL LEU PHE ASP CYS          
+SEQRES   3 A  292  ASP GLY VAL LEU TRP ASN GLY GLU ARG ILE VAL PRO GLY          
+SEQRES   4 A  292  ALA PRO GLU LEU LEU GLN ARG LEU ALA ARG ALA GLY LYS          
+SEQRES   5 A  292  ASN THR LEU PHE VAL SER ASN ASN SER ARG ARG ALA ARG          
+SEQRES   6 A  292  PRO GLU LEU ALA LEU ARG PHE ALA ARG LEU GLY PHE ALA          
+SEQRES   7 A  292  GLY LEU ARG ALA GLU GLN LEU PHE SER SER ALA LEU CYS          
+SEQRES   8 A  292  ALA ALA ARG LEU LEU ARG GLN ARG LEU SER GLY PRO PRO          
+SEQRES   9 A  292  ASP ALA SER GLY ALA VAL PHE VAL LEU GLY GLY GLU GLY          
+SEQRES  10 A  292  LEU ARG ALA GLU LEU ARG ALA ALA GLY LEU ARG LEU ALA          
+SEQRES  11 A  292  GLY ASP PRO GLY GLU ASP PRO ARG VAL ARG ALA VAL LEU          
+SEQRES  12 A  292  VAL GLY TYR ASP GLU GLN PHE SER PHE SER ARG LEU THR          
+SEQRES  13 A  292  GLU ALA CYS ALA HIS LEU ARG ASP PRO ASP CYS LEU LEU          
+SEQRES  14 A  292  VAL ALA THR ASP ARG ASP PRO TRP HIS PRO LEU SER ASP          
+SEQRES  15 A  292  GLY SER ARG THR PRO GLY THR GLY SER LEU ALA LYS LYS          
+SEQRES  16 A  292  VAL GLU THR ALA SER GLY ARG GLN ALA LEU VAL VAL GLY          
+SEQRES  17 A  292  LYS PRO SER PRO TYR MET PHE GLN CYS ILE THR GLU ASP          
+SEQRES  18 A  292  PHE SER VAL ASP PRO ALA ARG THR LEU MET VAL GLY ASP          
+SEQRES  19 A  292  ARG LEU GLU THR ASP ILE LEU PHE GLY HIS ARG CYS GLY          
+SEQRES  20 A  292  MET THR THR VAL LEU THR LEU THR GLY VAL SER SER LEU          
+SEQRES  21 A  292  GLU GLU ALA GLN ALA TYR LEU THR ALA GLY GLN ARG ASP          
+SEQRES  22 A  292  LEU VAL PRO HIS TYR TYR VAL GLU SER ILE ALA ASP LEU          
+SEQRES  23 A  292  MET GLU GLY LEU GLU ASP                                      
+DBREF  4BX0 A    1   292  UNP    P60487   PLPP_MOUSE       1    292             

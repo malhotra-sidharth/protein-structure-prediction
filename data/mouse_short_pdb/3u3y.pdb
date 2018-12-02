@@ -1,0 +1,78 @@
+HELIX    1   1 LEU B   24  ARG B   28  5                                   5    
+HELIX    2   2 ARG B   41  ASN B   46  1                                   6    
+HELIX    3   3 SER B   78  GLY B   86  1                                   9    
+HELIX    4   4 SER B   88  GLN B   95  1                                   8    
+HELIX    5   5 ASP B  101  ARG B  114  1                                  14    
+HELIX    6   6 TYR B  129  ARG B  140  1                                  12    
+HELIX    7   7 SER B  155  GLN B  164  1                                  10    
+HELIX    8   8 SER B  178  TRP B  188  1                                  11    
+HELIX    9   9 THR B  196  TRP B  210  1                                  15    
+HELIX   10  10 LYS B  211  ALA B  223  1                                  13    
+HELIX   11  11 SER B  227  VAL B  229  5                                   3    
+HELIX   12  12 LEU A   24  ARG A   28  5                                   5    
+HELIX   13  13 ARG A   41  GLU A   45  1                                   5    
+HELIX   14  14 SER A   78  GLY A   86  1                                   9    
+HELIX   15  15 SER A   88  GLN A   95  1                                   8    
+HELIX   16  16 ASP A  101  ARG A  114  1                                  14    
+HELIX   17  17 TYR A  129  ARG A  140  1                                  12    
+HELIX   18  18 SER A  155  GLU A  163  1                                   9    
+HELIX   19  19 SER A  178  TRP A  188  1                                  11    
+HELIX   20  20 THR A  196  GLN A  209  1                                  14    
+HELIX   21  21 LYS A  211  ALA A  223  1                                  13    
+HELIX   22  22 SER A  227  VAL A  229  5                                   3    
+SEQRES   1 B  314  MET GLY SER GLN THR LEU PRO HIS GLY HIS MET GLN THR          
+SEQRES   2 B  314  LEU ILE PHE LEU ASP LEU GLU ALA THR GLY LEU PRO SER          
+SEQRES   3 B  314  SER ARG PRO GLU VAL THR GLU LEU CYS LEU LEU ALA VAL          
+SEQRES   4 B  314  HIS ARG ARG ALA LEU GLU ASN THR SER ILE SER GLN GLY          
+SEQRES   5 B  314  HIS PRO PRO PRO VAL PRO ARG PRO PRO ARG VAL VAL ASP          
+SEQRES   6 B  314  LYS LEU SER LEU CYS ILE ALA PRO GLY LYS ALA CYS SER          
+SEQRES   7 B  314  PRO GLY ALA SER GLU ILE THR GLY LEU SER LYS ALA GLU          
+SEQRES   8 B  314  LEU GLU VAL GLN GLY ARG GLN ARG PHE ASP ASP ASN LEU          
+SEQRES   9 B  314  ALA ILE LEU LEU ARG ALA PHE LEU GLN ARG GLN PRO GLN          
+SEQRES  10 B  314  PRO CYS CYS LEU VAL ALA HIS ASN GLY ASP ARG TYR ASP          
+SEQRES  11 B  314  PHE PRO LEU LEU GLN THR GLU LEU ALA ARG LEU SER THR          
+SEQRES  12 B  314  PRO SER PRO LEU ASP GLY THR PHE CYS VAL ASP SER ILE          
+SEQRES  13 B  314  ALA ALA LEU LYS ALA LEU GLU GLN ALA SER SER PRO SER          
+SEQRES  14 B  314  GLY ASN GLY SER ARG LYS SER TYR SER LEU GLY SER ILE          
+SEQRES  15 B  314  TYR THR ARG LEU TYR TRP GLN ALA PRO THR ASP SER HIS          
+SEQRES  16 B  314  THR ALA GLU GLY HIS VAL LEU THR LEU LEU SER ILE CYS          
+SEQRES  17 B  314  GLN TRP LYS PRO GLN ALA LEU LEU GLN TRP VAL ASP GLU          
+SEQRES  18 B  314  HIS ALA ARG PRO PHE SER THR VAL LYS PRO MET TYR GLY          
+SEQRES  19 B  314  THR PRO ALA THR THR GLY THR THR ASN LEU ARG PRO HIS          
+SEQRES  20 B  314  ALA ALA THR ALA THR THR PRO LEU ALA THR ALA ASN GLY          
+SEQRES  21 B  314  SER PRO SER ASN GLY ARG SER ARG ARG PRO LYS SER PRO          
+SEQRES  22 B  314  PRO PRO GLU LYS VAL PRO GLU ALA PRO SER GLN GLU GLY          
+SEQRES  23 B  314  LEU LEU ALA PRO LEU SER LEU LEU THR LEU LEU THR LEU          
+SEQRES  24 B  314  ALA ILE ALA THR LEU TYR GLY LEU PHE LEU ALA SER PRO          
+SEQRES  25 B  314  GLY GLN                                                      
+SEQRES   1 A  314  MET GLY SER GLN THR LEU PRO HIS GLY HIS MET GLN THR          
+SEQRES   2 A  314  LEU ILE PHE LEU ASP LEU GLU ALA THR GLY LEU PRO SER          
+SEQRES   3 A  314  SER ARG PRO GLU VAL THR GLU LEU CYS LEU LEU ALA VAL          
+SEQRES   4 A  314  HIS ARG ARG ALA LEU GLU ASN THR SER ILE SER GLN GLY          
+SEQRES   5 A  314  HIS PRO PRO PRO VAL PRO ARG PRO PRO ARG VAL VAL ASP          
+SEQRES   6 A  314  LYS LEU SER LEU CYS ILE ALA PRO GLY LYS ALA CYS SER          
+SEQRES   7 A  314  PRO GLY ALA SER GLU ILE THR GLY LEU SER LYS ALA GLU          
+SEQRES   8 A  314  LEU GLU VAL GLN GLY ARG GLN ARG PHE ASP ASP ASN LEU          
+SEQRES   9 A  314  ALA ILE LEU LEU ARG ALA PHE LEU GLN ARG GLN PRO GLN          
+SEQRES  10 A  314  PRO CYS CYS LEU VAL ALA HIS ASN GLY ASP ARG TYR ASP          
+SEQRES  11 A  314  PHE PRO LEU LEU GLN THR GLU LEU ALA ARG LEU SER THR          
+SEQRES  12 A  314  PRO SER PRO LEU ASP GLY THR PHE CYS VAL ASP SER ILE          
+SEQRES  13 A  314  ALA ALA LEU LYS ALA LEU GLU GLN ALA SER SER PRO SER          
+SEQRES  14 A  314  GLY ASN GLY SER ARG LYS SER TYR SER LEU GLY SER ILE          
+SEQRES  15 A  314  TYR THR ARG LEU TYR TRP GLN ALA PRO THR ASP SER HIS          
+SEQRES  16 A  314  THR ALA GLU GLY HIS VAL LEU THR LEU LEU SER ILE CYS          
+SEQRES  17 A  314  GLN TRP LYS PRO GLN ALA LEU LEU GLN TRP VAL ASP GLU          
+SEQRES  18 A  314  HIS ALA ARG PRO PHE SER THR VAL LYS PRO MET TYR GLY          
+SEQRES  19 A  314  THR PRO ALA THR THR GLY THR THR ASN LEU ARG PRO HIS          
+SEQRES  20 A  314  ALA ALA THR ALA THR THR PRO LEU ALA THR ALA ASN GLY          
+SEQRES  21 A  314  SER PRO SER ASN GLY ARG SER ARG ARG PRO LYS SER PRO          
+SEQRES  22 A  314  PRO PRO GLU LYS VAL PRO GLU ALA PRO SER GLN GLU GLY          
+SEQRES  23 A  314  LEU LEU ALA PRO LEU SER LEU LEU THR LEU LEU THR LEU          
+SEQRES  24 A  314  ALA ILE ALA THR LEU TYR GLY LEU PHE LEU ALA SER PRO          
+SEQRES  25 A  314  GLY GLN                                                      
+SEQRES   1 C    4   DG  DA  DC  DG                                              
+SEQRES   1 D    4   DG  DA  DC  DG                                              
+DBREF  3U3Y B    1   314  UNP    Q91XB0   TREX1_MOUSE      1    314             
+DBREF  3U3Y A    1   314  UNP    Q91XB0   TREX1_MOUSE      1    314             
+DBREF  3U3Y C    1     4  PDB    3U3Y     3U3Y             1      4             
+DBREF  3U3Y D    1     4  PDB    3U3Y     3U3Y             1      4             

@@ -1,0 +1,10 @@
+HELIX    1   1 PRO A   11  GLY A   15  5                                   5    
+HELIX    2   2 ASN A   35  GLU A   39  5                                   5    
+HELIX    3   3 ARG A   46  GLY A   51  1                                   6    
+HELIX    4   4 LEU A   52  GLN A   54  5                                   3    
+SEQRES   1 A   57  CYS SER LYS ASN ARG LYS ALA LYS ALA LYS PRO VAL THR          
+SEQRES   2 A   57  ARG GLY THR GLY ALA GLY SER ARG PRO ARG GLY GLN ASN          
+SEQRES   3 A   57  LYS GLU ARG PRO PRO PRO VAL PRO ASN PRO ASP TYR GLU          
+SEQRES   4 A   57  PRO ILE ARG LYS GLY GLN ARG ASP LEU TYR SER GLY LEU          
+SEQRES   5 A   57  ASN GLN ARG ALA VAL                                          
+DBREF  2K4F A    2    57  UNP    P22646   CD3E_MOUSE     134    189             

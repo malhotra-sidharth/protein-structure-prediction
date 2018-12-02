@@ -1,0 +1,16 @@
+HELIX    1   1 TRP A  145  MET A  154  1                                  10    
+HELIX    2   2 PRO A  165  TYR A  169  5                                   5    
+HELIX    3   3 ASN A  171  THR A  190  1                                  20    
+HELIX    4   4 THR A  191  GLY A  195  5                                   5    
+HELIX    5   5 THR A  199  SER A  222  1                                  24    
+HELIX    6   6 GLN A  223  ALA A  225  5                                   3    
+SEQRES   1 A  114  GLY SER VAL VAL GLY GLY LEU GLY GLY TYR MET LEU GLY          
+SEQRES   2 A  114  SER ALA MET SER ARG PRO MET ILE HIS PHE GLY ASN ASP          
+SEQRES   3 A  114  TRP GLU ASP ARG TYR TYR ARG GLU ASN MET TYR ARG TYR          
+SEQRES   4 A  114  PRO ASN GLN VAL TYR TYR ARG PRO VAL ASP GLN TYR SER          
+SEQRES   5 A  114  ASN GLN ASN ASN PHE VAL HIS ASP CYS VAL ASN ILE THR          
+SEQRES   6 A  114  ILE LYS GLN HIS THR VAL THR THR THR THR LYS GLY GLU          
+SEQRES   7 A  114  ASN PHE THR GLU THR ASP VAL LYS MET MET GLU ARG VAL          
+SEQRES   8 A  114  VAL GLU GLN MET CYS VAL THR GLN TYR GLN LYS GLU SER          
+SEQRES   9 A  114  GLN ALA ALA ALA ASP GLY ARG ARG SER SER                      
+DBREF  2KFM A  121   232  UNP    P04925   PRIO_MOUSE     120    231             

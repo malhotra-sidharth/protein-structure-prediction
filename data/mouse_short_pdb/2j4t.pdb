@@ -1,0 +1,35 @@
+HELIX    1   1 ASN A    2  TYR A   13  1                                  12    
+HELIX    2   2 ASP A   21  ARG A   32  1                                  12    
+HELIX    3   3 LYS A   49  ALA A   54  1                                   6    
+HELIX    4   4 ILE A   55  GLY A   57  5                                   3    
+HELIX    5   5 GLU A  115  SER A  119  5                                   5    
+HELIX    6   6 ASN B    2  TYR B   13  1                                  12    
+HELIX    7   7 ASP B   21  ARG B   32  1                                  12    
+HELIX    8   8 THR B   48  ALA B   54  1                                   7    
+HELIX    9   9 ILE B   55  GLY B   57  5                                   3    
+SEQRES   1 A  144  MET THR MET SER PRO CYS PRO LEU LEU LEU VAL PHE VAL          
+SEQRES   2 A  144  LEU GLY LEU VAL VAL ILE PRO PRO THR LEU ALA GLN ASN          
+SEQRES   3 A  144  GLU ARG TYR GLU LYS PHE LEU ARG GLN HIS TYR ASP ALA          
+SEQRES   4 A  144  LYS PRO GLN GLY ARG ASP ASP ARG TYR CYS GLU SER MET          
+SEQRES   5 A  144  MET LYS GLU ARG LYS LEU THR SER PRO CYS LYS ASP VAL          
+SEQRES   6 A  144  ASN THR PHE ILE HIS GLY THR LYS LYS ASN ILE ARG ALA          
+SEQRES   7 A  144  ILE CYS GLY LYS LYS GLY SER PRO TYR GLY GLU ASN PHE          
+SEQRES   8 A  144  ARG ILE SER ASN SER PRO PHE GLN ILE THR THR CYS THR          
+SEQRES   9 A  144  HIS SER ARG GLY SER PRO TRP PRO PRO CYS GLY TYR ARG          
+SEQRES  10 A  144  ALA PHE LYS ASP PHE ARG TYR ILE VAL ILE ALA CYS GLU          
+SEQRES  11 A  144  ASP GLY TRP PRO VAL HIS PHE ASP GLU SER PHE ILE SER          
+SEQRES  12 A  144  PRO                                                          
+SEQRES   1 B  144  MET THR MET SER PRO CYS PRO LEU LEU LEU VAL PHE VAL          
+SEQRES   2 B  144  LEU GLY LEU VAL VAL ILE PRO PRO THR LEU ALA GLN ASN          
+SEQRES   3 B  144  GLU ARG TYR GLU LYS PHE LEU ARG GLN HIS TYR ASP ALA          
+SEQRES   4 B  144  LYS PRO GLN GLY ARG ASP ASP ARG TYR CYS GLU SER MET          
+SEQRES   5 B  144  MET LYS GLU ARG LYS LEU THR SER PRO CYS LYS ASP VAL          
+SEQRES   6 B  144  ASN THR PHE ILE HIS GLY THR LYS LYS ASN ILE ARG ALA          
+SEQRES   7 B  144  ILE CYS GLY LYS LYS GLY SER PRO TYR GLY GLU ASN PHE          
+SEQRES   8 B  144  ARG ILE SER ASN SER PRO PHE GLN ILE THR THR CYS THR          
+SEQRES   9 B  144  HIS SER ARG GLY SER PRO TRP PRO PRO CYS GLY TYR ARG          
+SEQRES  10 B  144  ALA PHE LYS ASP PHE ARG TYR ILE VAL ILE ALA CYS GLU          
+SEQRES  11 B  144  ASP GLY TRP PRO VAL HIS PHE ASP GLU SER PHE ILE SER          
+SEQRES  12 B  144  PRO                                                          
+DBREF  2J4T A  -23   120  UNP    Q80Z85   Q80Z85_MOUSE     1    144             
+DBREF  2J4T B  -23   120  UNP    Q80Z85   Q80Z85_MOUSE     1    144             

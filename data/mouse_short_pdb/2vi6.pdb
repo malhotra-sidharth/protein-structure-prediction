@@ -1,0 +1,88 @@
+HELIX    1   1 SER A    9  GLN A   23  1                                  15    
+HELIX    2   2 SER A   27  ASN A   39  1                                  13    
+HELIX    3   3 SER A   41  LYS A   55  1                                  15    
+HELIX    4   4 CYS A   56  GLN A   60  5                                   5    
+HELIX    5   5 SER B    9  GLN B   23  1                                  15    
+HELIX    6   6 SER B   27  ASN B   39  1                                  13    
+HELIX    7   7 SER B   41  MET B   54  1                                  14    
+HELIX    8   8 LYS B   55  GLN B   60  5                                   6    
+HELIX    9   9 SER C    9  GLN C   23  1                                  15    
+HELIX   10  10 SER C   27  ASN C   39  1                                  13    
+HELIX   11  11 SER C   41  MET C   54  1                                  14    
+HELIX   12  12 LYS C   55  GLN C   60  5                                   6    
+HELIX   13  13 SER D    9  GLN D   21  1                                  13    
+HELIX   14  14 SER D   27  ASN D   39  1                                  13    
+HELIX   15  15 SER D   41  CYS D   56  1                                  16    
+HELIX   16  16 LYS D   57  GLN D   60  5                                   4    
+HELIX   17  17 SER E    9  GLN E   21  1                                  13    
+HELIX   18  18 SER E   27  LEU E   38  1                                  12    
+HELIX   19  19 SER E   41  LYS E   55  1                                  15    
+HELIX   20  20 CYS E   56  GLN E   60  5                                   5    
+HELIX   21  21 SER F    9  GLN F   23  1                                  15    
+HELIX   22  22 SER F   27  ASN F   39  1                                  13    
+HELIX   23  23 SER F   41  LYS F   55  1                                  15    
+HELIX   24  24 CYS F   56  GLN F   60  5                                   5    
+HELIX   25  25 SER G    9  GLN G   23  1                                  15    
+HELIX   26  26 SER G   27  ASN G   39  1                                  13    
+HELIX   27  27 SER G   41  MET G   54  1                                  14    
+HELIX   28  28 LYS G   55  GLN G   60  5                                   6    
+HELIX   29  29 SER H    9  GLN H   21  1                                  13    
+HELIX   30  30 SER H   27  ASN H   39  1                                  13    
+HELIX   31  31 SER H   41  CYS H   56  1                                  16    
+HELIX   32  32 LYS H   57  GLN H   60  5                                   4    
+SEQRES   1 A   62  GLY THR LYS GLN LYS MET ARG THR VAL PHE SER GLN ALA          
+SEQRES   2 A   62  GLN LEU CYS ALA LEU LYS ASP ARG PHE GLN LYS GLN LYS          
+SEQRES   3 A   62  TYR LEU SER LEU GLN GLN MET GLN GLU LEU SER SER ILE          
+SEQRES   4 A   62  LEU ASN LEU SER TYR LYS GLN VAL LYS THR TRP PHE GLN          
+SEQRES   5 A   62  ASN GLN ARG MET LYS CYS LYS ARG TRP GLN                      
+SEQRES   1 B   62  GLY THR LYS GLN LYS MET ARG THR VAL PHE SER GLN ALA          
+SEQRES   2 B   62  GLN LEU CYS ALA LEU LYS ASP ARG PHE GLN LYS GLN LYS          
+SEQRES   3 B   62  TYR LEU SER LEU GLN GLN MET GLN GLU LEU SER SER ILE          
+SEQRES   4 B   62  LEU ASN LEU SER TYR LYS GLN VAL LYS THR TRP PHE GLN          
+SEQRES   5 B   62  ASN GLN ARG MET LYS CYS LYS ARG TRP GLN                      
+SEQRES   1 C   62  GLY THR LYS GLN LYS MET ARG THR VAL PHE SER GLN ALA          
+SEQRES   2 C   62  GLN LEU CYS ALA LEU LYS ASP ARG PHE GLN LYS GLN LYS          
+SEQRES   3 C   62  TYR LEU SER LEU GLN GLN MET GLN GLU LEU SER SER ILE          
+SEQRES   4 C   62  LEU ASN LEU SER TYR LYS GLN VAL LYS THR TRP PHE GLN          
+SEQRES   5 C   62  ASN GLN ARG MET LYS CYS LYS ARG TRP GLN                      
+SEQRES   1 D   62  GLY THR LYS GLN LYS MET ARG THR VAL PHE SER GLN ALA          
+SEQRES   2 D   62  GLN LEU CYS ALA LEU LYS ASP ARG PHE GLN LYS GLN LYS          
+SEQRES   3 D   62  TYR LEU SER LEU GLN GLN MET GLN GLU LEU SER SER ILE          
+SEQRES   4 D   62  LEU ASN LEU SER TYR LYS GLN VAL LYS THR TRP PHE GLN          
+SEQRES   5 D   62  ASN GLN ARG MET LYS CYS LYS ARG TRP GLN                      
+SEQRES   1 E   62  GLY THR LYS GLN LYS MET ARG THR VAL PHE SER GLN ALA          
+SEQRES   2 E   62  GLN LEU CYS ALA LEU LYS ASP ARG PHE GLN LYS GLN LYS          
+SEQRES   3 E   62  TYR LEU SER LEU GLN GLN MET GLN GLU LEU SER SER ILE          
+SEQRES   4 E   62  LEU ASN LEU SER TYR LYS GLN VAL LYS THR TRP PHE GLN          
+SEQRES   5 E   62  ASN GLN ARG MET LYS CYS LYS ARG TRP GLN                      
+SEQRES   1 F   62  GLY THR LYS GLN LYS MET ARG THR VAL PHE SER GLN ALA          
+SEQRES   2 F   62  GLN LEU CYS ALA LEU LYS ASP ARG PHE GLN LYS GLN LYS          
+SEQRES   3 F   62  TYR LEU SER LEU GLN GLN MET GLN GLU LEU SER SER ILE          
+SEQRES   4 F   62  LEU ASN LEU SER TYR LYS GLN VAL LYS THR TRP PHE GLN          
+SEQRES   5 F   62  ASN GLN ARG MET LYS CYS LYS ARG TRP GLN                      
+SEQRES   1 G   62  GLY THR LYS GLN LYS MET ARG THR VAL PHE SER GLN ALA          
+SEQRES   2 G   62  GLN LEU CYS ALA LEU LYS ASP ARG PHE GLN LYS GLN LYS          
+SEQRES   3 G   62  TYR LEU SER LEU GLN GLN MET GLN GLU LEU SER SER ILE          
+SEQRES   4 G   62  LEU ASN LEU SER TYR LYS GLN VAL LYS THR TRP PHE GLN          
+SEQRES   5 G   62  ASN GLN ARG MET LYS CYS LYS ARG TRP GLN                      
+SEQRES   1 H   62  GLY THR LYS GLN LYS MET ARG THR VAL PHE SER GLN ALA          
+SEQRES   2 H   62  GLN LEU CYS ALA LEU LYS ASP ARG PHE GLN LYS GLN LYS          
+SEQRES   3 H   62  TYR LEU SER LEU GLN GLN MET GLN GLU LEU SER SER ILE          
+SEQRES   4 H   62  LEU ASN LEU SER TYR LYS GLN VAL LYS THR TRP PHE GLN          
+SEQRES   5 H   62  ASN GLN ARG MET LYS CYS LYS ARG TRP GLN                      
+DBREF  2VI6 A   -1     0  PDB    2VI6     2VI6            -1      0             
+DBREF  2VI6 A    1    60  UNP    Q80Z64   NANOG_MOUSE     96    155             
+DBREF  2VI6 B   -1     0  PDB    2VI6     2VI6            -1      0             
+DBREF  2VI6 B    1    60  UNP    Q80Z64   NANOG_MOUSE     96    155             
+DBREF  2VI6 C   -1     0  PDB    2VI6     2VI6            -1      0             
+DBREF  2VI6 C    1    60  UNP    Q80Z64   NANOG_MOUSE     96    155             
+DBREF  2VI6 D   -1     0  PDB    2VI6     2VI6            -1      0             
+DBREF  2VI6 D    1    60  UNP    Q80Z64   NANOG_MOUSE     96    155             
+DBREF  2VI6 E   -1     0  PDB    2VI6     2VI6            -1      0             
+DBREF  2VI6 E    1    60  UNP    Q80Z64   NANOG_MOUSE     96    155             
+DBREF  2VI6 F   -1     0  PDB    2VI6     2VI6            -1      0             
+DBREF  2VI6 F    1    60  UNP    Q80Z64   NANOG_MOUSE     96    155             
+DBREF  2VI6 G   -1     0  PDB    2VI6     2VI6            -1      0             
+DBREF  2VI6 G    1    60  UNP    Q80Z64   NANOG_MOUSE     96    155             
+DBREF  2VI6 H   -1     0  PDB    2VI6     2VI6            -1      0             
+DBREF  2VI6 H    1    60  UNP    Q80Z64   NANOG_MOUSE     96    155             

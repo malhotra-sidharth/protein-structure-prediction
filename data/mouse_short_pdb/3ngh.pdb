@@ -1,0 +1,28 @@
+HELIX    1   1 SER A   42  ALA A   47  1                                   6    
+HELIX    2   2 GLU A   67  SER A   78  1                                  12    
+HELIX    3   3 ASP A   88  ASN A   98  1                                  11    
+HELIX    4   4 ASP A  101  LEU A  105  5                                   5    
+HELIX    5   5 SER B   42  GLY B   48  1                                   7    
+HELIX    6   6 GLU B   67  SER B   78  1                                  12    
+HELIX    7   7 ASP B   88  ASN B   98  1                                  11    
+HELIX    8   8 ASP B  101  LEU B  105  5                                   5    
+SEQRES   1 A  106  GLY PRO ARG GLU SER LYS LEU SER LYS GLN GLU GLY GLN          
+SEQRES   2 A  106  ASN TYR GLY PHE PHE LEU ARG ILE GLU LYS ASP THR ASP          
+SEQRES   3 A  106  GLY HIS LEU ILE ARG VAL ILE GLU GLU GLY SER PRO ALA          
+SEQRES   4 A  106  GLU LYS ALA GLY LEU LEU ASP GLY ASP ARG VAL LEU ARG          
+SEQRES   5 A  106  ILE ASN GLY VAL PHE VAL ASP LYS GLU GLU HIS ALA GLN          
+SEQRES   6 A  106  VAL VAL GLU LEU VAL ARG LYS SER GLY ASN SER VAL THR          
+SEQRES   7 A  106  LEU LEU VAL LEU ASP GLY ASP SER TYR GLU LYS ALA VAL          
+SEQRES   8 A  106  LYS ASN GLN VAL ASP LEU LYS GLU LEU ASP GLN GLU ALA          
+SEQRES   9 A  106  LYS LEU                                                      
+SEQRES   1 B  106  GLY PRO ARG GLU SER LYS LEU SER LYS GLN GLU GLY GLN          
+SEQRES   2 B  106  ASN TYR GLY PHE PHE LEU ARG ILE GLU LYS ASP THR ASP          
+SEQRES   3 B  106  GLY HIS LEU ILE ARG VAL ILE GLU GLU GLY SER PRO ALA          
+SEQRES   4 B  106  GLU LYS ALA GLY LEU LEU ASP GLY ASP ARG VAL LEU ARG          
+SEQRES   5 B  106  ILE ASN GLY VAL PHE VAL ASP LYS GLU GLU HIS ALA GLN          
+SEQRES   6 B  106  VAL VAL GLU LEU VAL ARG LYS SER GLY ASN SER VAL THR          
+SEQRES   7 B  106  LEU LEU VAL LEU ASP GLY ASP SER TYR GLU LYS ALA VAL          
+SEQRES   8 B  106  LYS ASN GLN VAL ASP LEU LYS GLU LEU ASP GLN GLU ALA          
+SEQRES   9 B  106  LYS LEU                                                      
+DBREF  3NGH A    7   106  UNP    Q9JIL4   NHRF3_MOUSE      7    106             
+DBREF  3NGH B    7   106  UNP    Q9JIL4   NHRF3_MOUSE      7    106             

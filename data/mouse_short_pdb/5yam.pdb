@@ -1,0 +1,18 @@
+HELIX    1 AA1 PRO A   21  ALA A   23  5                                   3    
+HELIX    2 AA2 LYS A   56  SER A   69  1                                  14    
+HELIX    3 AA3 PRO B   21  ALA B   23  5                                   3    
+HELIX    4 AA4 LYS B   56  MET B   68  1                                  13    
+SEQRES   1 A   69  MET SER PRO TYR GLY SER ASP THR THR PRO CYS CYS PHE          
+SEQRES   2 A   69  ALA TYR LEU SER LEU ALA LEU PRO ARG ALA HIS VAL LYS          
+SEQRES   3 A   69  GLU TYR PHE TYR THR SER SER LYS CYS SER ASN LEU ALA          
+SEQRES   4 A   69  VAL VAL PHE VAL THR ARG ARG ASN ARG GLN VAL CYS ALA          
+SEQRES   5 A   69  ASN PRO GLU LYS LYS TRP VAL GLN GLU TYR ILE ASN TYR          
+SEQRES   6 A   69  LEU GLU MET SER                                              
+SEQRES   1 B   69  MET SER PRO TYR GLY SER ASP THR THR PRO CYS CYS PHE          
+SEQRES   2 B   69  ALA TYR LEU SER LEU ALA LEU PRO ARG ALA HIS VAL LYS          
+SEQRES   3 B   69  GLU TYR PHE TYR THR SER SER LYS CYS SER ASN LEU ALA          
+SEQRES   4 B   69  VAL VAL PHE VAL THR ARG ARG ASN ARG GLN VAL CYS ALA          
+SEQRES   5 B   69  ASN PRO GLU LYS LYS TRP VAL GLN GLU TYR ILE ASN TYR          
+SEQRES   6 B   69  LEU GLU MET SER                                              
+DBREF  5YAM A    2    69  UNP    P30882   CCL5_MOUSE      24     91             
+DBREF  5YAM B    2    69  UNP    P30882   CCL5_MOUSE      24     91             

@@ -1,0 +1,61 @@
+REVDAT   6   29-NOV-17 1GLQ    1       REMARK HELIX                             
+HELIX    1  1A ARG A   11  CYS A   14  5                                   4    
+HELIX    2  2A CYS A   14  GLN A   24  1                                  11    
+HELIX    3  3A THR A   34  GLN A   40  1                                   7    
+HELIX    4  4A LEU A   43  CYS A   47  5                                   5    
+HELIX    5  5A GLN A   64  LEU A   76  1                                  13    
+HELIX    6  6A GLN A   83  THR A  109  1                                  27    
+HELIX    7  7A TYR A  111  GLN A  135  1                                  25    
+HELIX    8  8A GLN A  137  LYS A  140  5LEFT-HANDED                        4    
+HELIX    9  9A PHE A  150  ALA A  166  1                                  17    
+HELIX   10 10A PHE A  173  ARG A  186  1                                  14    
+HELIX   11 11A PRO A  187  SER A  195  1                                   9    
+HELIX   12 12A SER A  195  ARG A  201  1                                   7    
+HELIX   13  1B ARG B   11  CYS B   14  5                                   4    
+HELIX   14  2B CYS B   14  GLN B   24  1                                  11    
+HELIX   15  3B THR B   34  GLN B   40  1                                   7    
+HELIX   16  4B LEU B   43  CYS B   47  5                                   5    
+HELIX   17  5B GLN B   64  LEU B   76  1                                  13    
+HELIX   18  6B GLN B   83  THR B  109  1                                  27    
+HELIX   19  7B TYR B  111  GLN B  135  1                                  25    
+HELIX   20  8B GLN B  137  LYS B  140  5LEFT-HANDED                        4    
+HELIX   21  9B PHE B  150  ALA B  166  1                                  17    
+HELIX   22 10B PHE B  173  ARG B  186  1                                  14    
+HELIX   23 11B PRO B  187  SER B  195  1                                   9    
+HELIX   24 12B SER B  195  ARG B  201  1                                   7    
+SEQRES   1 A  209  PRO PRO TYR THR ILE VAL TYR PHE PRO VAL ARG GLY ARG          
+SEQRES   2 A  209  CYS GLU ALA MET ARG MET LEU LEU ALA ASP GLN GLY GLN          
+SEQRES   3 A  209  SER TRP LYS GLU GLU VAL VAL THR ILE ASP THR TRP MET          
+SEQRES   4 A  209  GLN GLY LEU LEU LYS PRO THR CYS LEU TYR GLY GLN LEU          
+SEQRES   5 A  209  PRO LYS PHE GLU ASP GLY ASP LEU THR LEU TYR GLN SER          
+SEQRES   6 A  209  ASN ALA ILE LEU ARG HIS LEU GLY ARG SER LEU GLY LEU          
+SEQRES   7 A  209  TYR GLY LYS ASN GLN ARG GLU ALA ALA GLN MET ASP MET          
+SEQRES   8 A  209  VAL ASN ASP GLY VAL GLU ASP LEU ARG GLY LYS TYR VAL          
+SEQRES   9 A  209  THR LEU ILE TYR THR ASN TYR GLU ASN GLY LYS ASN ASP          
+SEQRES  10 A  209  TYR VAL LYS ALA LEU PRO GLY HIS LEU LYS PRO PHE GLU          
+SEQRES  11 A  209  THR LEU LEU SER GLN ASN GLN GLY GLY LYS ALA PHE ILE          
+SEQRES  12 A  209  VAL GLY ASP GLN ILE SER PHE ALA ASP TYR ASN LEU LEU          
+SEQRES  13 A  209  ASP LEU LEU LEU ILE HIS GLN VAL LEU ALA PRO GLY CYS          
+SEQRES  14 A  209  LEU ASP ASN PHE PRO LEU LEU SER ALA TYR VAL ALA ARG          
+SEQRES  15 A  209  LEU SER ALA ARG PRO LYS ILE LYS ALA PHE LEU SER SER          
+SEQRES  16 A  209  PRO GLU HIS VAL ASN ARG PRO ILE ASN GLY ASN GLY LYS          
+SEQRES  17 A  209  GLN                                                          
+SEQRES   1 B  209  PRO PRO TYR THR ILE VAL TYR PHE PRO VAL ARG GLY ARG          
+SEQRES   2 B  209  CYS GLU ALA MET ARG MET LEU LEU ALA ASP GLN GLY GLN          
+SEQRES   3 B  209  SER TRP LYS GLU GLU VAL VAL THR ILE ASP THR TRP MET          
+SEQRES   4 B  209  GLN GLY LEU LEU LYS PRO THR CYS LEU TYR GLY GLN LEU          
+SEQRES   5 B  209  PRO LYS PHE GLU ASP GLY ASP LEU THR LEU TYR GLN SER          
+SEQRES   6 B  209  ASN ALA ILE LEU ARG HIS LEU GLY ARG SER LEU GLY LEU          
+SEQRES   7 B  209  TYR GLY LYS ASN GLN ARG GLU ALA ALA GLN MET ASP MET          
+SEQRES   8 B  209  VAL ASN ASP GLY VAL GLU ASP LEU ARG GLY LYS TYR VAL          
+SEQRES   9 B  209  THR LEU ILE TYR THR ASN TYR GLU ASN GLY LYS ASN ASP          
+SEQRES  10 B  209  TYR VAL LYS ALA LEU PRO GLY HIS LEU LYS PRO PHE GLU          
+SEQRES  11 B  209  THR LEU LEU SER GLN ASN GLN GLY GLY LYS ALA PHE ILE          
+SEQRES  12 B  209  VAL GLY ASP GLN ILE SER PHE ALA ASP TYR ASN LEU LEU          
+SEQRES  13 B  209  ASP LEU LEU LEU ILE HIS GLN VAL LEU ALA PRO GLY CYS          
+SEQRES  14 B  209  LEU ASP ASN PHE PRO LEU LEU SER ALA TYR VAL ALA ARG          
+SEQRES  15 B  209  LEU SER ALA ARG PRO LYS ILE LYS ALA PHE LEU SER SER          
+SEQRES  16 B  209  PRO GLU HIS VAL ASN ARG PRO ILE ASN GLY ASN GLY LYS          
+SEQRES  17 B  209  GLN                                                          
+DBREF  1GLQ A    1   209  UNP    P19157   GSTP1_MOUSE      1    209             
+DBREF  1GLQ B    1   209  UNP    P19157   GSTP1_MOUSE      1    209             

@@ -1,0 +1,10 @@
+HELIX    1   1 ALA A  456  ASP A  460  5                                   5    
+HELIX    2   2 GLU A  462  SER A  470  1                                   9    
+SEQRES   1 A   82  GLY PRO LEU GLY SER PRO GLU PHE GLY TYR TRP ILE THR          
+SEQRES   2 A   82  CYS CYS PRO THR CYS ASP VAL ASP ILE ASN THR TRP VAL          
+SEQRES   3 A   82  PRO PHE TYR SER THR GLU LEU ASN LYS PRO ALA MET ILE          
+SEQRES   4 A   82  TYR CYS SER HIS GLY ASP GLY HIS TRP VAL HIS ALA GLN          
+SEQRES   5 A   82  CYS MET ASP LEU GLU GLU ARG THR LEU ILE HIS LEU SER          
+SEQRES   6 A   82  GLU GLY SER ASN LYS TYR TYR CYS ASN GLU HIS VAL GLN          
+SEQRES   7 A   82  ILE ALA ARG ALA                                              
+DBREF  2JWO A  414   487  UNP    P21784   RAG2_MOUSE     414    487             

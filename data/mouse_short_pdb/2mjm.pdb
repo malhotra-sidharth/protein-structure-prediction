@@ -1,0 +1,16 @@
+HELIX    1   1 MET A    6  SER A   10  5                                   5    
+HELIX    2   2 ASN A   15  LYS A   28  1                                  14    
+HELIX    3   3 ASN A   29  LEU A   41  1                                  13    
+HELIX    4   4 ASN A   54  GLY A   69  1                                  16    
+HELIX    5   5 GLY A   69  LEU A   84  1                                  16    
+HELIX    6   6 MET A   90  SER A   96  1                                   7    
+HELIX    7   7 ILE A   97  GLY A   99  5                                   3    
+SEQRES   1 A  101  GLY PRO LEU GLY SER MET ASP ALA GLU SER ILE ARG LEU          
+SEQRES   2 A  101  ASN ASN GLU ASN LEU TRP ALA TRP LEU VAL ARG LEU LEU          
+SEQRES   3 A  101  SER LYS ASN PRO GLU TRP LEU SER ALA LYS LEU ARG SER          
+SEQRES   4 A  101  PHE LEU PRO THR MET ASP LEU ASP CYS SER TYR GLU PRO          
+SEQRES   5 A  101  SER ASN PRO GLU VAL ILE HIS ARG GLN LEU ASN ARG LEU          
+SEQRES   6 A  101  PHE ALA GLN GLY MET ALA THR TRP LYS SER PHE ILE ASN          
+SEQRES   7 A  101  ASP LEU CYS PHE GLU LEU ASP VAL PRO LEU ASP MET GLU          
+SEQRES   8 A  101  ILE PRO LEU VAL SER ILE TRP GLY PRO ARG                      
+DBREF  2MJM A    6   101  UNP    C3VPR6   NLRC5_MOUSE      1     96             

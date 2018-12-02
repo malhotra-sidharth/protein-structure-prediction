@@ -1,0 +1,23 @@
+HELIX    1 AA1 GLY A    3  ASP A   22  1                                  20    
+HELIX    2 AA2 ALA A   23  ALA A   25  5                                   3    
+HELIX    3 AA3 LEU A   30  GLY A   42  1                                  13    
+HELIX    4 AA4 ASN A   46  TYR A   51  1                                   6    
+HELIX    5 AA5 PRO A   72  GLN A   75  5                                   4    
+HELIX    6 AA6 ALA B    4  GLN B   21  1                                  18    
+HELIX    7 AA7 ALA B   23  ALA B   25  5                                   3    
+HELIX    8 AA8 LEU B   30  GLY B   42  1                                  13    
+HELIX    9 AA9 ASN B   46  TYR B   51  1                                   6    
+SEQRES   1 A   75  SER THR GLY ALA ALA ASN LYS SER LEU SER LEU LEU SER          
+SEQRES   2 A   75  THR GLU THR MSE SER ILE LEU GLN ASP ALA PRO ALA CYS          
+SEQRES   3 A   75  CYS LEU PRO LEU PHE LYS PHE ILE ASP ILE TYR GLU LYS          
+SEQRES   4 A   75  LYS TYR GLY HIS LYS LEU ASN VAL SER ASP LEU TYR LYS          
+SEQRES   5 A   75  LEU THR ASP THR ILE ALA ILE ARG GLU GLN GLY ASN GLY          
+SEQRES   6 A   75  ARG LEU VAL CYS LEU LEU PRO SER ASN GLN                      
+SEQRES   1 B   75  SER THR GLY ALA ALA ASN LYS SER LEU SER LEU LEU SER          
+SEQRES   2 B   75  THR GLU THR MSE SER ILE LEU GLN ASP ALA PRO ALA CYS          
+SEQRES   3 B   75  CYS LEU PRO LEU PHE LYS PHE ILE ASP ILE TYR GLU LYS          
+SEQRES   4 B   75  LYS TYR GLY HIS LYS LEU ASN VAL SER ASP LEU TYR LYS          
+SEQRES   5 B   75  LEU THR ASP THR ILE ALA ILE ARG GLU GLN GLY ASN GLY          
+SEQRES   6 B   75  ARG LEU VAL CYS LEU LEU PRO SER ASN GLN                      
+DBREF  5YAD A    1    75  UNP    Q8BJ34   MARF1_MOUSE    858    932             
+DBREF  5YAD B    1    75  UNP    Q8BJ34   MARF1_MOUSE    858    932             

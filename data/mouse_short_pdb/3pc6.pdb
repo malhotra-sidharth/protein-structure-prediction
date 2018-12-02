@@ -1,0 +1,27 @@
+HELIX    1   1 ASP A  555  PHE A  567  1                                  13    
+HELIX    2   2 ASP A  589  MET A  597  1                                   9    
+HELIX    3   3 ARG A  606  GLN A  617  1                                  12    
+HELIX    4   4 PRO A  621  GLY A  626  5                                   6    
+HELIX    5   5 GLN A  630  HIS A  634  5                                   5    
+HELIX    6   6 ASP B  555  PHE B  567  1                                  13    
+HELIX    7   7 ASN B  591  ASN B  599  1                                   9    
+HELIX    8   8 PRO B  607  GLN B  617  1                                  11    
+HELIX    9   9 PRO B  621  GLY B  626  5                                   6    
+SEQRES   1 A  104  MET PRO GLU LEU PRO ASP PHE PHE GLU GLY LYS HIS PHE          
+SEQRES   2 A  104  PHE LEU TYR GLY GLU PHE PRO GLY ASP GLU ARG ARG ARG          
+SEQRES   3 A  104  LEU ILE ARG TYR VAL THR ALA PHE ASN GLY GLU LEU GLU          
+SEQRES   4 A  104  ASP TYR MET ASN GLU ARG VAL GLN PHE VAL ILE THR ALA          
+SEQRES   5 A  104  GLN GLU TRP ASP PRO ASN PHE GLU GLU ALA LEU MET GLU          
+SEQRES   6 A  104  ASN PRO SER LEU ALA PHE VAL ARG PRO ARG TRP ILE TYR          
+SEQRES   7 A  104  SER CYS ASN GLU LYS GLN LYS LEU LEU PRO HIS GLN LEU          
+SEQRES   8 A  104  TYR GLY VAL VAL PRO GLN ALA HIS HIS HIS HIS HIS HIS          
+SEQRES   1 B  104  MET PRO GLU LEU PRO ASP PHE PHE GLU GLY LYS HIS PHE          
+SEQRES   2 B  104  PHE LEU TYR GLY GLU PHE PRO GLY ASP GLU ARG ARG ARG          
+SEQRES   3 B  104  LEU ILE ARG TYR VAL THR ALA PHE ASN GLY GLU LEU GLU          
+SEQRES   4 B  104  ASP TYR MET ASN GLU ARG VAL GLN PHE VAL ILE THR ALA          
+SEQRES   5 B  104  GLN GLU TRP ASP PRO ASN PHE GLU GLU ALA LEU MET GLU          
+SEQRES   6 B  104  ASN PRO SER LEU ALA PHE VAL ARG PRO ARG TRP ILE TYR          
+SEQRES   7 B  104  SER CYS ASN GLU LYS GLN LYS LEU LEU PRO HIS GLN LEU          
+SEQRES   8 B  104  TYR GLY VAL VAL PRO GLN ALA HIS HIS HIS HIS HIS HIS          
+DBREF  3PC6 A  535   631  UNP    Q60596   XRCC1_MOUSE    535    631             
+DBREF  3PC6 B  535   631  UNP    Q60596   XRCC1_MOUSE    535    631             

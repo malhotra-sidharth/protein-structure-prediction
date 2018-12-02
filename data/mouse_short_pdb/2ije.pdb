@@ -1,0 +1,34 @@
+HELIX    1   1 GLY S 1023  SER S 1045  1                                  23    
+HELIX    2   2 PRO S 1047  LYS S 1058  5                                  12    
+HELIX    3   3 GLU S 1060  THR S 1065  1                                   6    
+HELIX    4   4 THR S 1065  ARG S 1088  1                                  24    
+HELIX    5   5 ASP S 1091  LEU S 1112  1                                  22    
+HELIX    6   6 ASN S 1114  ASN S 1126  1                                  13    
+HELIX    7   7 ARG S 1127  ARG S 1132  1                                   6    
+HELIX    8   8 LEU S 1133  LYS S 1139  1                                   7    
+HELIX    9   9 SER S 1141  VAL S 1155  1                                  15    
+HELIX   10  10 SER S 1157  ASN S 1170  1                                  14    
+HELIX   11  11 TYR S 1178  THR S 1193  1                                  16    
+HELIX   12  12 ASN S 1203  THR S 1223  1                                  21    
+HELIX   13  13 GLN S 1230  ASP S 1239  1                                  10    
+HELIX   14  14 ASP S 1245  GLU S 1257  1                                  13    
+SEQRES   1 S  240  GLY PRO LEU GLY SER ALA LEU GLU ILE ALA GLU GLN LEU          
+SEQRES   2 S  240  THR LEU LEU ASP HIS LEU VAL PHE LYS SER ILE PRO TYR          
+SEQRES   3 S  240  GLU GLU PHE PHE GLY GLN GLY TRP MET LYS ALA GLU LYS          
+SEQRES   4 S  240  TYR GLU ARG THR PRO TYR ILE MET LYS THR THR LYS HIS          
+SEQRES   5 S  240  PHE ASN HIS VAL SER ASN PHE ILE ALA SER GLU ILE ILE          
+SEQRES   6 S  240  ARG ASN GLU ASP ILE SER ALA ARG ALA SER ALA ILE GLU          
+SEQRES   7 S  240  LYS TRP VAL ALA VAL ALA ASP ILE CYS ARG CYS LEU HIS          
+SEQRES   8 S  240  ASN TYR ASN ALA VAL LEU GLU ILE THR SER SER ILE ASN          
+SEQRES   9 S  240  ARG SER ALA ILE PHE ARG LEU LYS LYS THR TRP LEU LYS          
+SEQRES  10 S  240  VAL SER LYS GLN THR LYS SER LEU LEU ASP LYS LEU GLN          
+SEQRES  11 S  240  LYS LEU VAL SER SER ASP GLY ARG PHE LYS ASN LEU ARG          
+SEQRES  12 S  240  GLU SER LEU ARG ASN CYS ASP PRO PRO CYS VAL PRO TYR          
+SEQRES  13 S  240  LEU GLY MET TYR LEU THR ASP LEU VAL PHE ILE GLU GLU          
+SEQRES  14 S  240  GLY THR PRO ASN TYR THR GLU ASP GLY LEU VAL ASN PHE          
+SEQRES  15 S  240  SER LYS MET ARG MET ILE SER HIS ILE ILE ARG GLU ILE          
+SEQRES  16 S  240  ARG GLN PHE GLN GLN THR THR TYR LYS ILE ASP PRO GLN          
+SEQRES  17 S  240  PRO LYS VAL ILE GLN TYR LEU LEU ASP GLU SER PHE MET          
+SEQRES  18 S  240  LEU ASP GLU GLU SER LEU TYR GLU SER SER LEU LEU ILE          
+SEQRES  19 S  240  GLU PRO LYS LEU PRO THR                                      
+DBREF  2IJE S 1028  1262  UNP    P27671   GNRP_MOUSE    1028   1262             

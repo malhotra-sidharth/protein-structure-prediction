@@ -1,0 +1,21 @@
+KEYWDS    MOUSE CDT1, REPLICATION LICENSING FACTOR, WINGED HELIX FOLD,          
+JRNL        TITL 2 CONSERVATION OF THE WINGED HELIX FOLD IN                     
+HELIX    1   1 SER A   12  LEU A   28  1                                  17    
+HELIX    2   2 GLU A   36  GLU A   45  1                                  10    
+HELIX    3   3 ARG A   46  GLU A   61  1                                  16    
+HELIX    4   4 MET A   68  ASP A   77  1                                  10    
+HELIX    5   5 SER A   78  GLN A   80  5                                   3    
+HELIX    6   6 SER A   84  LEU A   99  1                                  16    
+HELIX    7   7 ASP A  121  HIS A  131  1                                  11    
+SEQRES   1 A  138  PRO ALA ALA SER PRO SER ALA LEU LYS GLY VAL SER GLN          
+SEQRES   2 A  138  ALA LEU LEU GLU ARG ILE ARG ALA LYS GLU VAL GLN LYS          
+SEQRES   3 A  138  GLN LEU ALA ARG MET THR ARG CYS PRO GLU GLN GLU LEU          
+SEQRES   4 A  138  ARG LEU GLN ARG LEU GLU ARG LEU PRO GLU LEU ALA ARG          
+SEQRES   5 A  138  VAL LEU ARG ASN VAL PHE VAL SER GLU ARG LYS PRO ALA          
+SEQRES   6 A  138  LEU THR MET GLU VAL VAL CYS ALA ARG MET VAL ASP SER          
+SEQRES   7 A  138  CYS GLN THR ALA LEU SER PRO GLY GLU MET GLU LYS HIS          
+SEQRES   8 A  138  LEU VAL LEU LEU ALA GLU LEU LEU PRO ASP TRP LEU SER          
+SEQRES   9 A  138  LEU HIS ARG ILE ARG THR ASP THR TYR VAL LYS LEU ASP          
+SEQRES  10 A  138  LYS ALA VAL ASP LEU ALA GLY LEU THR ALA ARG LEU ALA          
+SEQRES  11 A  138  HIS HIS VAL HIS ALA GLU GLY LEU                              
+DBREF  2KLO A    1   138  UNP    Q8R4E9   CDT1_MOUSE     420    557             

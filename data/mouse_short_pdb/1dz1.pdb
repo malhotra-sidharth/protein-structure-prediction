@@ -1,0 +1,23 @@
+HELIX    1   1 GLY A  112  ARG A  115  5                                   4    
+HELIX    2   2 ALA A  149  LYS A  155  1                                   7    
+HELIX    3   3 PRO A  157  GLU A  166  1                                  10    
+HELIX    4   4 GLY B  112  ARG B  115  5                                   4    
+HELIX    5   5 ALA B  149  LYS B  155  1                                   7    
+HELIX    6   6 PRO B  157  GLU B  166  1                                  10    
+SEQRES   1 A   70  HIS MET LYS GLU GLU SER GLU LYS PRO ARG GLY PHE ALA          
+SEQRES   2 A   70  ARG GLY LEU GLU PRO GLU ARG ILE ILE GLY ALA THR ASP          
+SEQRES   3 A   70  SER SER GLY GLU LEU MET PHE LEU MET LYS TRP LYS ASN          
+SEQRES   4 A   70  SER ASP GLU ALA ASP LEU VAL PRO ALA LYS GLU ALA ASN          
+SEQRES   5 A   70  VAL LYS CYS PRO GLN VAL VAL ILE SER PHE TYR GLU GLU          
+SEQRES   6 A   70  ARG LEU THR TRP HIS                                          
+SEQRES   1 B   70  HIS MET LYS GLU GLU SER GLU LYS PRO ARG GLY PHE ALA          
+SEQRES   2 B   70  ARG GLY LEU GLU PRO GLU ARG ILE ILE GLY ALA THR ASP          
+SEQRES   3 B   70  SER SER GLY GLU LEU MET PHE LEU MET LYS TRP LYS ASN          
+SEQRES   4 B   70  SER ASP GLU ALA ASP LEU VAL PRO ALA LYS GLU ALA ASN          
+SEQRES   5 B   70  VAL LYS CYS PRO GLN VAL VAL ILE SER PHE TYR GLU GLU          
+SEQRES   6 B   70  ARG LEU THR TRP HIS                                          
+REVDAT   2   19-JUL-00 1DZ1    1       DBREF                                    
+DBREF  1DZ1 A  102   103  PDB    1DZ1     1DZ1           102    103             
+DBREF  1DZ1 A  104   171  UNP    P83917   CBX1_MOUSE     104    171             
+DBREF  1DZ1 B  102   103  PDB    1DZ1     1DZ1           102    103             
+DBREF  1DZ1 B  104   171  UNP    P83917   CBX1_MOUSE     104    171             

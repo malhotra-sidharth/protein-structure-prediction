@@ -1,0 +1,11 @@
+REMARK 650 HELIX                                                                
+HELIX    1   1 ASP A   21  VAL A   30  1                                  10    
+HELIX    2   2 GLU A   36  LEU A   46  1                                  11    
+HELIX    3   3 VAL A   50  ASP A   64  1                                  15    
+SEQRES   1 A   72  GLY SER SER GLY SER SER GLY GLY ILE LYS ASP SER PRO          
+SEQRES   2 A   72  VAL ASN LYS VAL GLU PRO ASN ASP THR LEU GLU LYS VAL          
+SEQRES   3 A   72  PHE VAL SER VAL THR LYS TYR PRO ASP GLU LYS ARG LEU          
+SEQRES   4 A   72  LYS GLY LEU SER LYS GLN LEU ASP TRP SER VAL ARG LYS          
+SEQRES   5 A   72  ILE GLN CYS TRP PHE ARG HIS ARG ARG ASN GLN ASP LYS          
+SEQRES   6 A   72  PRO SER GLY PRO SER SER GLY                                  
+DBREF  2CQX A    8    66  UNP    Q9D6K9   LASS5_MOUSE     77    135             

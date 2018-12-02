@@ -1,0 +1,14 @@
+HELIX    1   1 ASP A   58  GLN A   61  5                                   4    
+HELIX    2   2 ALA A   62  ARG A   66  5                                   5    
+HELIX    3   3 THR A   75  GLU A   78  5                                   4    
+HELIX    4   4 ARG A   89  GLU A   93  5                                   5    
+SEQRES   1 A  116  GLN PHE ARG VAL ILE GLY PRO GLY TYR PRO ILE ARG ALA          
+SEQRES   2 A  116  LEU VAL GLY ASP GLU ALA GLU LEU PRO CYS ARG ILE SER          
+SEQRES   3 A  116  PRO GLY LYS ASN ALA THR GLY MET GLU VAL GLY TRP TYR          
+SEQRES   4 A  116  ARG SER PRO PHE SER ARG VAL VAL HIS LEU TYR ARG ASN          
+SEQRES   5 A  116  GLY LYS ASP GLN ASP ALA GLU GLN ALA PRO GLU TYR ARG          
+SEQRES   6 A  116  GLY ARG THR GLU LEU LEU LYS GLU THR ILE SER GLU GLY          
+SEQRES   7 A  116  LYS VAL THR LEU ARG ILE GLN ASN VAL ARG PHE SER ASP          
+SEQRES   8 A  116  GLU GLY GLY TYR THR CYS PHE PHE ARG ASP HIS SER TYR          
+SEQRES   9 A  116  GLN GLU GLU ALA ALA MET GLU LEU LYS VAL GLU ASP              
+DBREF  1PY9 A    2   117  UNP    Q61885   MOG_MOUSE       30    145             

@@ -1,0 +1,9 @@
+HELIX    1   1 GLN A   13  HIS A   25  1                                  13    
+HELIX    2   2 SER A   32  GLY A   44  1                                  13    
+HELIX    3   3 THR A   46  ARG A   58  1                                  13    
+SEQRES   1 A   64  SER SER GLY HIS ILE GLU GLY ARG HIS MET ASN LYS GLN          
+SEQRES   2 A   64  ALA THR GLU ILE LEU ASN GLU TYR PHE TYR SER HIS LEU          
+SEQRES   3 A   64  SER ASN PRO TYR PRO SER GLU GLU ALA LYS GLU GLU LEU          
+SEQRES   4 A   64  ALA LYS LYS CYS GLY ILE THR VAL SER GLN VAL SER ASN          
+SEQRES   5 A   64  TRP PHE GLY ASN LYS ARG ILE ARG TYR LYS LYS ASN              
+DBREF  1DU6 A   11    64  UNP    P41778   PBX1_MOUSE     241    294             

@@ -1,0 +1,28 @@
+HELIX    1   1 GLN A  457  ASP A  460  5                                   4    
+HELIX    2   2 GLU A  462  GLU A  471  1                                  10    
+HELIX    3   3 SER B  410  GLY B  414  5                                   5    
+HELIX    4   4 GLN B  457  ASP B  460  5                                   4    
+HELIX    5   5 GLU B  462  GLY B  472  1                                  11    
+SEQRES   1 A   82  GLY PRO LEU GLY SER PRO GLU PHE GLY TYR TRP ILE THR          
+SEQRES   2 A   82  CYS CYS PRO THR CYS ASP VAL ASP ILE ASN THR TRP VAL          
+SEQRES   3 A   82  PRO PHE TYR SER THR GLU LEU ASN LYS PRO ALA MET ILE          
+SEQRES   4 A   82  TYR CYS SER HIS GLY ASP GLY HIS TRP VAL HIS ALA GLN          
+SEQRES   5 A   82  CYS MET ASP LEU GLU GLU ARG THR LEU ILE HIS LEU SER          
+SEQRES   6 A   82  GLU GLY SER ASN LYS TYR TYR CYS ASN GLU HIS VAL GLN          
+SEQRES   7 A   82  ILE ALA ARG ALA                                              
+SEQRES   1 B   82  GLY PRO LEU GLY SER PRO GLU PHE GLY TYR TRP ILE THR          
+SEQRES   2 B   82  CYS CYS PRO THR CYS ASP VAL ASP ILE ASN THR TRP VAL          
+SEQRES   3 B   82  PRO PHE TYR SER THR GLU LEU ASN LYS PRO ALA MET ILE          
+SEQRES   4 B   82  TYR CYS SER HIS GLY ASP GLY HIS TRP VAL HIS ALA GLN          
+SEQRES   5 B   82  CYS MET ASP LEU GLU GLU ARG THR LEU ILE HIS LEU SER          
+SEQRES   6 B   82  GLU GLY SER ASN LYS TYR TYR CYS ASN GLU HIS VAL GLN          
+SEQRES   7 B   82  ILE ALA ARG ALA                                              
+SEQRES   1 D   13  ALA 2MR THR M3L GLN THR ALA ARG LYS SER THR GLY GLY          
+SEQRES   1 E   13  ALA 2MR THR M3L GLN THR ALA ARG LYS SER THR GLY GLY          
+REVDAT   4   08-FEB-17 2V87    1       COMPND SOURCE DBREF                      
+DBREF  2V87 A  406   413  PDB    2V87     2V87           406    413             
+DBREF  2V87 A  414   487  UNP    P21784   RAG2_MOUSE     414    487             
+DBREF  2V87 B  406   413  PDB    2V87     2V87           406    413             
+DBREF  2V87 B  414   487  UNP    P21784   RAG2_MOUSE     414    487             
+DBREF  2V87 D    1    13  UNP    P84228   H32_MOUSE        2     14             
+DBREF  2V87 E    1    13  UNP    P84228   H32_MOUSE        2     14             

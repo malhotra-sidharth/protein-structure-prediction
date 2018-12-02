@@ -1,0 +1,11 @@
+HELIX    1   1 GLY A   14  PHE A   30  1                                  17    
+HELIX    2   2 THR A   69  GLN A   88  1                                  20    
+SEQRES   1 A   96  MET ALA LEU ALA VAL ARG VAL VAL TYR SER GLY ALA CYS          
+SEQRES   2 A   96  GLY TYR LYS PRO LYS TYR LEU GLN LEU LYS GLU LYS LEU          
+SEQRES   3 A   96  GLU HIS GLU PHE PRO GLY CYS LEU ASP ILE CYS GLY GLU          
+SEQRES   4 A   96  GLY THR PRO GLN VAL THR GLY PHE PHE GLU VAL THR VAL          
+SEQRES   5 A   96  ALA GLY LYS LEU VAL HIS SER LYS LYS ARG GLY ASP GLY          
+SEQRES   6 A   96  TYR VAL ASP THR GLU SER LYS PHE ARG LYS LEU VAL THR          
+SEQRES   7 A   96  ALA ILE LYS ALA ALA LEU ALA GLN CYS GLN LEU GLU HIS          
+SEQRES   8 A   96  HIS HIS HIS HIS HIS                                          
+DBREF  2NPB A    1    88  UNP    P63300   SEPW1_MOUSE      1     88             

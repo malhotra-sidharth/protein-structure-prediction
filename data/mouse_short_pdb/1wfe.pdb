@@ -1,0 +1,10 @@
+HELIX    1   1 CYS A   51  ARG A   55  5                                   5    
+HELIX    2   2 GLN A   57  ASP A   61  5                                   5    
+SEQRES   1 A   86  GLY SER SER GLY SER SER GLY CYS SER GLU VAL ASN VAL          
+SEQRES   2 A   86  VAL LYS GLU ARG PRO LYS THR ASP GLU HIS LYS SER TYR          
+SEQRES   3 A   86  SER CYS SER PHE LYS GLY CYS THR ASP VAL GLU LEU VAL          
+SEQRES   4 A   86  ALA VAL ILE CYS PRO TYR CYS GLU LYS ASN PHE CYS LEU          
+SEQRES   5 A   86  ARG HIS ARG HIS GLN SER ASP HIS ASP CYS GLU LYS LEU          
+SEQRES   6 A   86  GLU VAL ALA LYS PRO ARG MET ALA ALA THR GLN LYS LEU          
+SEQRES   7 A   86  VAL ARG SER GLY PRO SER SER GLY                              
+DBREF  1WFE A    8    80  UNP    Q8BFR6   ZFAN1_MOUSE     44    116             

@@ -1,0 +1,26 @@
+HELIX    1   1 PRO A  418  GLN A  421  5                                   4    
+HELIX    2   2 ASP A  451  LEU A  462  1                                  12    
+HELIX    3   3 SER A  493  CYS A  497  5                                   5    
+HELIX    4   4 VAL A  508  ASP A  512  5                                   5    
+HELIX    5   5 PRO B  418  GLN B  421  5                                   4    
+HELIX    6   6 ASP B  451  LEU B  462  1                                  12    
+HELIX    7   7 SER B  493  CYS B  497  5                                   5    
+HELIX    8   8 VAL B  508  ASP B  512  5                                   5    
+SEQRES   1 A  102  ALA PRO LEU ALA GLN ARG VAL ARG ILE MET GLY GLY THR          
+SEQRES   2 A  102  ASN ARG GLY ARG ALA GLU VAL TYR TYR ASN ASN GLU TRP          
+SEQRES   3 A  102  GLY THR ILE CYS ASP ASP ASP TRP ASP ASN ASN ASP ALA          
+SEQRES   4 A  102  THR VAL PHE CYS ARG MET LEU GLY TYR SER ARG GLY ARG          
+SEQRES   5 A  102  ALA LEU SER SER TYR GLY GLY GLY SER GLY ASN ILE TRP          
+SEQRES   6 A  102  LEU ASP ASN VAL ASN CYS ARG GLY THR GLU ASN SER LEU          
+SEQRES   7 A  102  TRP ASP CYS SER LYS ASN SER TRP GLY ASN HIS ASN CYS          
+SEQRES   8 A  102  VAL HIS ASN GLU ASP ALA GLY VAL GLU CYS SER                  
+SEQRES   1 B  102  ALA PRO LEU ALA GLN ARG VAL ARG ILE MET GLY GLY THR          
+SEQRES   2 B  102  ASN ARG GLY ARG ALA GLU VAL TYR TYR ASN ASN GLU TRP          
+SEQRES   3 B  102  GLY THR ILE CYS ASP ASP ASP TRP ASP ASN ASN ASP ALA          
+SEQRES   4 B  102  THR VAL PHE CYS ARG MET LEU GLY TYR SER ARG GLY ARG          
+SEQRES   5 B  102  ALA LEU SER SER TYR GLY GLY GLY SER GLY ASN ILE TRP          
+SEQRES   6 B  102  LEU ASP ASN VAL ASN CYS ARG GLY THR GLU ASN SER LEU          
+SEQRES   7 B  102  TRP ASP CYS SER LYS ASN SER TRP GLY ASN HIS ASN CYS          
+SEQRES   8 B  102  VAL HIS ASN GLU ASP ALA GLY VAL GLU CYS SER                  
+DBREF  2OYA A  421   518  UNP    Q60754   MARCO_MOUSE    421    518             
+DBREF  2OYA B  421   518  UNP    Q60754   MARCO_MOUSE    421    518             

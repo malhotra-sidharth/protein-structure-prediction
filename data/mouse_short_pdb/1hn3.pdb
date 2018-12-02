@@ -1,0 +1,7 @@
+HELIX    1   1 ARG A    6  GLY A   18  1                                  13    
+HELIX    2   2 GLN A   22  SER A   33  1                                  12    
+SEQRES   1 A   40  GLY SER HIS MET GLY ARG ARG PHE LEU VAL THR VAL ARG          
+SEQRES   2 A   40  ILE GLN ARG ALA GLY ARG PRO LEU GLN GLU ARG VAL PHE          
+SEQRES   3 A   40  LEU VAL LYS PHE VAL ARG SER ARG ARG PRO ARG THR ALA          
+SEQRES   4 A   40  SER                                                          
+DBREF  1HN3 A    4    40  UNP    Q64364   CD2A2_MOUSE      1     37             

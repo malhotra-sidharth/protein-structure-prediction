@@ -1,0 +1,30 @@
+HELIX    1   1 MET A    1  PHE A   25  1                                  25    
+HELIX    2   2 SER A   35  GLU A   41  1                                   7    
+HELIX    3   3 HIS A   47  ASN A   75  1                                  29    
+HELIX    4   4 ASN A   83  PHE A   95  1                                  13    
+HELIX    5   5 ASP A   99  ALA A  110  1                                  12    
+HELIX    6   6 SER A  120  GLY A  134  1                                  15    
+HELIX    7   7 THR A  135  ASP A  148  1                                  14    
+HELIX    8   8 THR A  156  MET A  171  1                                  16    
+HELIX    9   9 GLN A  186  ASP A  196  1                                  11    
+HELIX   10  10 THR A  204  LYS A  214  1                                  11    
+HELIX   11  11 ASP A  215  GLU A  226  1                                  12    
+SEQRES   1 A  229  MET ASN LEU GLU GLY LEU GLU MET ILE ALA VAL LEU ILE          
+SEQRES   2 A  229  VAL ILE VAL LEU PHE VAL LYS LEU LEU GLU GLN PHE GLY          
+SEQRES   3 A  229  LEU ILE GLU ALA GLY LEU GLU ASP SER VAL GLU ASP GLU          
+SEQRES   4 A  229  LEU GLU MET ALA THR VAL ARG HIS ARG PRO GLU ALA LEU          
+SEQRES   5 A  229  GLU LEU LEU GLU ALA GLN SER LYS PHE THR LYS LYS GLU          
+SEQRES   6 A  229  LEU GLN ILE LEU TYR ARG GLY PHE LYS ASN GLU CYS PRO          
+SEQRES   7 A  229  SER GLY VAL VAL ASN GLU GLU THR PHE LYS GLU ILE TYR          
+SEQRES   8 A  229  SER GLN PHE PHE PRO GLN GLY ASP SER THR THR TYR ALA          
+SEQRES   9 A  229  HIS PHE LEU PHE ASN ALA PHE ASP THR ASP HIS ASN GLY          
+SEQRES  10 A  229  ALA VAL SER PHE GLU ASP PHE ILE LYS GLY LEU SER ILE          
+SEQRES  11 A  229  LEU LEU ARG GLY THR VAL GLN GLU LYS LEU ASN TRP ALA          
+SEQRES  12 A  229  PHE ASN LEU TYR ASP ILE ASN LYS ASP GLY TYR ILE THR          
+SEQRES  13 A  229  LYS GLU GLU MET LEU ASP ILE MET LYS ALA ILE TYR ASP          
+SEQRES  14 A  229  MET MET GLY LYS CYS THR TYR PRO VAL LEU LYS GLU ASP          
+SEQRES  15 A  229  ALA PRO ARG GLN HIS VAL GLU THR PHE PHE GLN LYS MET          
+SEQRES  16 A  229  ASP LYS ASN LYS ASP GLY VAL VAL THR ILE ASP GLU PHE          
+SEQRES  17 A  229  ILE GLU SER CYS GLN LYS ASP GLU ASN ILE MET ARG SER          
+SEQRES  18 A  229  MET GLN LEU PHE GLU ASN VAL ILE                              
+DBREF  3DD4 A    1   229  UNP    Q6PHZ8   KCIP4_MOUSE      1    229             

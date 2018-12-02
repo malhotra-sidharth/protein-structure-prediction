@@ -1,0 +1,9 @@
+HELIX    1   1 ASN A  213  ALA A  221  1                                   9    
+HELIX    2   2 LEU A  227  CYS A  232  1                                   6    
+HELIX    3   3 CYS A  232  LEU A  237  1                                   6    
+SEQRES   1 A   57  GLY SER CYS ALA SER CYS PRO ASN ASN CYS GLU ASN GLY          
+SEQRES   2 A   57  LEU CYS THR ASN SER CYS ASP PHE GLU ASP LEU LEU SER          
+SEQRES   3 A   57  ASN CYS GLU SER LEU LYS THR SER ALA GLY CYS LYS HIS          
+SEQRES   4 A   57  GLU LEU LEU LYS THR LYS CYS GLN ALA THR CYS LEU CYS          
+SEQRES   5 A   57  GLU ASP LYS ILE HIS                                          
+DBREF  2A05 A  189   243  UNP    P16563   CRIS2_MOUSE    189    243             

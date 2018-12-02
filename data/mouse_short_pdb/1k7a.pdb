@@ -1,0 +1,42 @@
+HELIX    1   1 LEU A  337  THR A  346  1                                  10    
+HELIX    2   2 PRO A  368  LYS A  379  1                                  12    
+HELIX    3   3 TYR A  386  TYR A  396  1                                  11    
+HELIX    4   4 LEU A  418  LEU A  422  1                                   5    
+HELIX    5   5 PRO A  426  LEU A  433  1                                   8    
+HELIX    6   6 LEU D  337  THR D  346  1                                  10    
+HELIX    7   7 PRO D  368  LYS D  379  1                                  12    
+HELIX    8   8 TYR D  386  TYR D  396  1                                  11    
+HELIX    9   9 LEU D  418  LEU D  422  1                                   5    
+HELIX   10  10 PRO D  426  LEU D  433  1                                   8    
+SEQRES   1 B   15   DT  DA  DG  DT  DG  DC  DC  DG  DG  DA  DG  DA  DT          
+SEQRES   2 B   15   DG  DT                                                      
+SEQRES   1 C   15   DC  DA  DC  DA  DT  DC  DT  DC  DC  DG  DG  DC  DA          
+SEQRES   2 C   15   DC  DT                                                      
+SEQRES   1 E   15   DT  DA  DG  DT  DG  DC  DC  DG  DG  DA  DG  DA  DT          
+SEQRES   2 E   15   DG  DT                                                      
+SEQRES   1 F   15   DC  DA  DC  DA  DT  DC  DT  DC  DC  DG  DG  DC  DA          
+SEQRES   2 F   15   DC  DT                                                      
+SEQRES   1 A  110  GLY SER GLY PRO ILE GLN LEU TRP GLN PHE LEU LEU GLU          
+SEQRES   2 A  110  LEU LEU THR ASP LYS SER CYS GLN SER PHE ILE SER TRP          
+SEQRES   3 A  110  THR GLY ASP GLY TRP GLU PHE LYS LEU SER ASP PRO ASP          
+SEQRES   4 A  110  GLU VAL ALA ARG ARG TRP GLY LYS ARG LYS ASN LYS PRO          
+SEQRES   5 A  110  LYS MET ASN TYR GLU LYS LEU SER ARG GLY LEU ARG TYR          
+SEQRES   6 A  110  TYR TYR ASP LYS ASN ILE ILE HIS LYS THR ALA GLY LYS          
+SEQRES   7 A  110  ARG TYR VAL TYR ARG PHE VAL CYS ASP LEU GLN SER LEU          
+SEQRES   8 A  110  LEU GLY TYR THR PRO GLU GLU LEU HIS ALA MET LEU ASP          
+SEQRES   9 A  110  VAL LYS PRO ASP ALA ASP                                      
+SEQRES   1 D  110  GLY SER GLY PRO ILE GLN LEU TRP GLN PHE LEU LEU GLU          
+SEQRES   2 D  110  LEU LEU THR ASP LYS SER CYS GLN SER PHE ILE SER TRP          
+SEQRES   3 D  110  THR GLY ASP GLY TRP GLU PHE LYS LEU SER ASP PRO ASP          
+SEQRES   4 D  110  GLU VAL ALA ARG ARG TRP GLY LYS ARG LYS ASN LYS PRO          
+SEQRES   5 D  110  LYS MET ASN TYR GLU LYS LEU SER ARG GLY LEU ARG TYR          
+SEQRES   6 D  110  TYR TYR ASP LYS ASN ILE ILE HIS LYS THR ALA GLY LYS          
+SEQRES   7 D  110  ARG TYR VAL TYR ARG PHE VAL CYS ASP LEU GLN SER LEU          
+SEQRES   8 D  110  LEU GLY TYR THR PRO GLU GLU LEU HIS ALA MET LEU ASP          
+SEQRES   9 D  110  VAL LYS PRO ASP ALA ASP                                      
+DBREF  1K7A A  331   440  UNP    P27577   ETS1_MOUSE     331    440             
+DBREF  1K7A D  331   440  UNP    P27577   ETS1_MOUSE     331    440             
+DBREF  1K7A B    1    15  PDB    1K7A     1K7A             1     15             
+DBREF  1K7A C    1    15  PDB    1K7A     1K7A             1     15             
+DBREF  1K7A E    1    15  PDB    1K7A     1K7A             1     15             
+DBREF  1K7A F    1    15  PDB    1K7A     1K7A             1     15             

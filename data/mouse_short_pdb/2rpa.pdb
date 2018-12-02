@@ -1,0 +1,10 @@
+HELIX    1   1 LEU A    3  GLY A   20  1                                  18    
+HELIX    2   2 TYR A   22  SER A   42  1                                  21    
+HELIX    3   3 ASP A   45  MET A   70  1                                  26    
+SEQRES   1 A   78  GLY SER ASP HIS MET THR MET SER LEU GLN MET ILE VAL          
+SEQRES   2 A   78  GLU ASN VAL LYS LEU ALA ARG GLU TYR ALA LEU LEU GLY          
+SEQRES   3 A   78  ASN TYR ASP SER ALA MET VAL TYR TYR GLN GLY VAL LEU          
+SEQRES   4 A   78  ASP GLN MET ASN LYS TYR LEU TYR SER VAL LYS ASP THR          
+SEQRES   5 A   78  HIS LEU ARG GLN LYS TRP GLN GLN VAL TRP GLN GLU ILE          
+SEQRES   6 A   78  ASN VAL GLU ALA LYS GLN VAL LYS ASP ILE MET LYS THR          
+DBREF  2RPA A    1    72  UNP    Q9WV86   KTNA1_MOUSE      1     72             

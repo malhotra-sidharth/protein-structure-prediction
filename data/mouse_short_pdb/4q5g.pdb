@@ -1,0 +1,31 @@
+KEYWDS    FOUR HELIX BUNDLE, SERUM AMYLOID A3, RETINOL BINDING, RETINOL         
+HELIX    1   1 ARG A   20  ASN A   46  1                                  27    
+HELIX    2   2 SER A   50  ARG A   65  1                                  16    
+HELIX    3   3 GLY A   66  PHE A   86  1                                  21    
+HELIX    4   4 SER A   94  SER A  106  1                                  13    
+HELIX    5   5 ASP A  109  ARG A  114  5                                   6    
+HELIX    6   6 TRP B   21  ASN B   46  1                                  26    
+HELIX    7   7 SER B   50  ARG B   64  1                                  15    
+HELIX    8   8 GLY B   66  PHE B   86  1                                  21    
+HELIX    9   9 SER B   94  SER B  106  1                                  13    
+HELIX   10  10 ASP B  109  ARG B  114  5                                   6    
+REVDAT   2   01-JUL-15 4Q5G    1       DBREF  SEQRES                            
+SEQRES   1 A  104  GLN ARG TRP VAL GLN PHE MSE LYS GLU ALA GLY GLN GLY          
+SEQRES   2 A  104  SER ARG ASP MSE TRP ARG ALA TYR SER ASP MSE LYS LYS          
+SEQRES   3 A  104  ALA ASN TRP LYS ASN SER ASP LYS TYR PHE HIS ALA ARG          
+SEQRES   4 A  104  GLY ASN TYR ASP ALA ALA ARG ARG GLY PRO GLY GLY ALA          
+SEQRES   5 A  104  TRP ALA ALA LYS VAL ILE SER ASP ALA ARG GLU ALA VAL          
+SEQRES   6 A  104  GLN LYS PHE THR GLY HIS GLY ALA GLU ASP SER ARG ALA          
+SEQRES   7 A  104  ASP GLN PHE ALA ASN GLU TRP GLY ARG SER GLY LYS ASP          
+SEQRES   8 A  104  PRO ASN HIS PHE ARG PRO ALA GLY LEU PRO LYS ARG TYR          
+SEQRES   1 B  104  GLN ARG TRP VAL GLN PHE MSE LYS GLU ALA GLY GLN GLY          
+SEQRES   2 B  104  SER ARG ASP MSE TRP ARG ALA TYR SER ASP MSE LYS LYS          
+SEQRES   3 B  104  ALA ASN TRP LYS ASN SER ASP LYS TYR PHE HIS ALA ARG          
+SEQRES   4 B  104  GLY ASN TYR ASP ALA ALA ARG ARG GLY PRO GLY GLY ALA          
+SEQRES   5 B  104  TRP ALA ALA LYS VAL ILE SER ASP ALA ARG GLU ALA VAL          
+SEQRES   6 B  104  GLN LYS PHE THR GLY HIS GLY ALA GLU ASP SER ARG ALA          
+SEQRES   7 B  104  ASP GLN PHE ALA ASN GLU TRP GLY ARG SER GLY LYS ASP          
+SEQRES   8 B  104  PRO ASN HIS PHE ARG PRO ALA GLY LEU PRO LYS ARG TYR          
+REVDAT   2   01-JUL-15 4Q5G    1       DBREF  SEQRES                            
+DBREF  4Q5G A   19   122  UNP    P04918   SAA3_MOUSE      19    122             
+DBREF  4Q5G B   19   122  UNP    P04918   SAA3_MOUSE      19    122             

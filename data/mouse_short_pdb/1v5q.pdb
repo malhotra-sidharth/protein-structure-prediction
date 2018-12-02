@@ -1,0 +1,14 @@
+REMARK 650 HELIX                                                                
+HELIX    1   1 PRO A   57  CYS A   61  1                                   5    
+HELIX    2   2 THR A   82  SER A   94  1                                  13    
+SEQRES   1 A  122  GLY SER SER GLY SER SER GLY ALA GLY GLN VAL VAL HIS          
+SEQRES   2 A  122  THR GLU THR THR GLU VAL VAL LEU THR ALA ASP PRO VAL          
+SEQRES   3 A  122  THR GLY PHE GLY ILE GLN LEU GLN GLY SER VAL PHE ALA          
+SEQRES   4 A  122  THR GLU THR LEU SER SER PRO PRO LEU ILE SER TYR ILE          
+SEQRES   5 A  122  GLU ALA ASP SER PRO ALA GLU ARG CYS GLY VAL LEU GLN          
+SEQRES   6 A  122  ILE GLY ASP ARG VAL MET ALA ILE ASN GLY ILE PRO THR          
+SEQRES   7 A  122  GLU ASP SER THR PHE GLU GLU ALA ASN GLN LEU LEU ARG          
+SEQRES   8 A  122  ASP SER SER ILE THR SER LYS VAL THR LEU GLU ILE GLU          
+SEQRES   9 A  122  PHE ASP VAL ALA GLU SER VAL ILE PRO SER SER GLY SER          
+SEQRES  10 A  122  GLY PRO SER SER GLY                                          
+DBREF  1V5Q A    8   116  GB     26325828 BAC26668        46    154             

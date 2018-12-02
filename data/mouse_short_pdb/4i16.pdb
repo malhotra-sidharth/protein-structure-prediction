@@ -1,0 +1,17 @@
+KEYWDS    CBM COMPLEX, HELIX BUNDLE, SCAFFOLD PROTEIN, BCL10 AND MALT1 BINDING, 
+HELIX    1   1 TRP A   23  CYS A   28  1                                   6    
+HELIX    2   2 ASN A   29  ILE A   37  1                                   9    
+HELIX    3   3 ASN A   38  CYS A   49  1                                  12    
+HELIX    4   4 ASP A   53  ASN A   62  1                                  10    
+HELIX    5   5 ALA A   73  HIS A   81  1                                   9    
+HELIX    6   6 LYS A   83  TYR A   99  1                                  17    
+HELIX    7   7 TYR A   99  GLY A  108  1                                  10    
+SEQRES   1 A   93  ALA GLU ALA ALA LEU TRP ASP ASN VAL GLU CYS ASN ARG          
+SEQRES   2 A   93  HIS MET LEU SER ARG TYR ILE ASN PRO ALA LYS LEU THR          
+SEQRES   3 A   93  PRO TYR LEU ARG GLN CYS LYS VAL ILE ASP GLU GLN ASP          
+SEQRES   4 A   93  GLU ASP GLU VAL LEU ASN ALA PRO MET LEU PRO SER LYS          
+SEQRES   5 A   93  ILE ASN ARG ALA GLY ARG LEU LEU ASP ILE LEU HIS THR          
+SEQRES   6 A   93  LYS GLY GLN ARG GLY TYR VAL VAL PHE LEU GLU SER LEU          
+SEQRES   7 A   93  GLU PHE TYR TYR PRO GLU LEU TYR LYS LEU VAL THR GLY          
+SEQRES   8 A   93  LYS GLU                                                      
+DBREF  4I16 A   18   110  UNP    Q8CIS0   CAR11_MOUSE     18    110             

@@ -1,0 +1,51 @@
+HELIX    1   1 HIS A   17  ALA A   21  5                                   5    
+HELIX    2   2 LYS A   23  GLY A   35  1                                  13    
+HELIX    3   3 THR A   42  GLY A   51  1                                  10    
+HELIX    4   4 SER A   57  ALA A   63  1                                   7    
+HELIX    5   5 LYS A   64  ALA A   73  1                                  10    
+HELIX    6   6 CYS A   75  LYS A   92  1                                  18    
+HELIX    7   7 SER A  103  ALA A  108  5                                   6    
+HELIX    8   8 MET A  115  GLN A  119  5                                   5    
+HELIX    9   9 THR A  125  GLY A  145  1                                  21    
+HELIX   10  10 GLN A  158  SER A  160  5                                   3    
+HELIX   11  11 TRP A  161  TYR A  172  1                                  12    
+HELIX   12  12 GLY A  190  LEU A  193  5                                   4    
+HELIX   13  13 PHE A  194  GLY A  208  1                                  15    
+HELIX   14  14 SER A  220  ILE A  230  1                                  11    
+HELIX   15  15 TYR A  240  GLU A  244  5                                   5    
+HELIX   16  16 ASP A  245  GLU A  255  1                                  11    
+HELIX   17  17 CYS A  262  THR A  269  1                                   8    
+HELIX   18  18 HIS A  278  ASP A  286  1                                   9    
+HELIX   19  19 ALA A  296  LYS A  301  1                                   6    
+HELIX   20  20 THR A  303  GLY A  316  1                                  14    
+HELIX   21  21 THR A  318  SER A  332  1                                  15    
+HELIX   22  22 PRO A  336  TYR A  351  1                                  16    
+SEQRES   1 A  353  GLY SER HIS MET THR PRO ALA PHE ASN LYS PRO LYS VAL          
+SEQRES   2 A  353  GLU LEU HIS VAL HIS LEU SER GLY ALA ILE LYS PRO GLU          
+SEQRES   3 A  353  THR ILE LEU TYR PHE GLY LYS LYS ARG GLY ILE ALA LEU          
+SEQRES   4 A  353  PRO ALA ASP THR VAL GLU GLU LEU ARG ASN ILE ILE GLY          
+SEQRES   5 A  353  MET ASP LYS PRO LEU SER GLN PRO GLY THR LEU ALA LYS          
+SEQRES   6 A  353  TRP ASP TYR TYR MET PRO VAL ILE ALA GLY CYS ARG GLU          
+SEQRES   7 A  353  ALA ILE LYS ARG ILE ALA TYR GLU PHE VAL GLU MET LYS          
+SEQRES   8 A  353  ALA LYS GLU GLY VAL VAL TYR VAL GLU VAL ARG TYR SER          
+SEQRES   9 A  353  PRO HIS LEU LEU ALA ASN SER LYS VAL ASP PRO MET PRO          
+SEQRES  10 A  353  TRP ASN GLN THR GLU GLY ASP VAL THR PRO ASP ASP VAL          
+SEQRES  11 A  353  VAL ASP LEU VAL ASN GLN GLY LEU HIS GLU GLY GLU GLN          
+SEQRES  12 A  353  ALA PHE GLY ILE LYS VAL ARG SER ILE LEU CYS CYS MET          
+SEQRES  13 A  353  ARG HIS GLN PRO SER TRP SER LEU GLU VAL LEU GLU LEU          
+SEQRES  14 A  353  CYS LYS LYS TYR ASN GLN LYS THR VAL VAL ALA MET ASP          
+SEQRES  15 A  353  LEU ILE GLY ASP GLU THR ILE GLU GLY SER SER LEU PHE          
+SEQRES  16 A  353  PRO GLY HIS VAL GLU ALA TYR GLU GLY ALA VAL LYS ASN          
+SEQRES  17 A  353  GLY ILE HIS ARG THR VAL HIS ALA GLY GLU PHE GLY SER          
+SEQRES  18 A  353  PRO GLU VAL VAL ARG GLU ALA VAL ASP ILE LEU LYS THR          
+SEQRES  19 A  353  GLU ARG VAL GLY HIS GLY TYR HIS THR ILE GLU ASP GLU          
+SEQRES  20 A  353  ALA LEU TYR ASN ARG LEU LEU LYS GLU ASN MET HIS PHE          
+SEQRES  21 A  353  GLU VAL CYS PRO TRP SER SER TYR LEU THR GLY ALA TRP          
+SEQRES  22 A  353  ASP PRO LYS THR THR HIS ALA VAL VAL ARG PHE LYS ASN          
+SEQRES  23 A  353  ASP LYS ALA ASN TYR SER LEU ASN THR ASP ALA PRO LEU          
+SEQRES  24 A  353  GLU PHE LYS SER THR LEU ASP THR ASP TYR GLN MET THR          
+SEQRES  25 A  353  LYS LYS ASP MET GLY PHE THR GLU GLU GLU PHE LYS ARG          
+SEQRES  26 A  353  LEU ASN ILE ASN ALA ALA LYS SER SER PHE LEU PRO GLU          
+SEQRES  27 A  353  GLU GLU LYS LYS GLU LEU LEU GLU ARG LEU TYR ARG GLU          
+SEQRES  28 A  353  TYR GLN                                                      
+DBREF  3T1G A    4   352  UNP    P03958   ADA_MOUSE        4    352             

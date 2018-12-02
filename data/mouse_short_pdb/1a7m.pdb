@@ -1,0 +1,22 @@
+HELIX    1   1 CYS A   12  ILE A   14  5                                   3    
+HELIX    2   2 LEU A   22  GLN A   48  1                                  27    
+HELIX    3   3 LEU A   56  LEU A   59  1                                   4    
+HELIX    4   4 GLU A   76  LEU A  104  1                                  29    
+HELIX    5   5 ALA A  108  LYS A  136  1                                  29    
+HELIX    6   6 GLU A  154  LYS A  160  1                                   7    
+HELIX    7   7 CYS A  163  VAL A  176  1                                  14    
+SEQRES   1 A  180  SER PRO LEU PRO ILE THR PRO VAL ASN ALA THR CYS ALA          
+SEQRES   2 A  180  ILE ARG HIS PRO CYS HIS GLY ASN LEU MET ASN GLN ILE          
+SEQRES   3 A  180  LYS ASN GLN LEU ALA GLN LEU ASN GLY SER ALA ASN ALA          
+SEQRES   4 A  180  LEU PHE ILE SER TYR TYR THR ALA GLN GLY GLU PRO PHE          
+SEQRES   5 A  180  PRO ASN ASN LEU ASP LYS LEU CYS GLY PRO ASN VAL THR          
+SEQRES   6 A  180  ASP PHE PRO PRO PHE HIS ALA ASN GLY THR GLU LYS ALA          
+SEQRES   7 A  180  LYS LEU VAL GLU LEU TYR ARG MET VAL ALA TYR LEU SER          
+SEQRES   8 A  180  ALA SER LEU THR ASN ILE THR ARG ASP GLN LYS VAL LEU          
+SEQRES   9 A  180  ASN PRO SER ALA VAL SER LEU HIS SER LYS LEU ASN ALA          
+SEQRES  10 A  180  THR ILE ASP VAL MET ARG GLY LEU LEU SER ASN VAL LEU          
+SEQRES  11 A  180  CYS ARG LEU CYS ASN LYS TYR ARG VAL GLY HIS VAL ASP          
+SEQRES  12 A  180  VAL PRO PRO VAL PRO ASP HIS SER ASP LYS GLU VAL PHE          
+SEQRES  13 A  180  GLN LYS LYS LYS LEU GLY CYS GLN LEU LEU GLY THR TYR          
+SEQRES  14 A  180  LYS GLN VAL ILE SER VAL VAL VAL GLN ALA PHE                  
+DBREF  1A7M A    1   180  UNP    P09056   LIF_MOUSE       24    203             

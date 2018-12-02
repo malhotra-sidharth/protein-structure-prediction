@@ -1,0 +1,10 @@
+HELIX    1   1 GLN A   52  ALA A   59  1                                   8    
+HELIX    2   2 ARG A   60  LEU A   65  1                                   6    
+HELIX    3   3 LEU A   68  ASN A   77  1                                  10    
+HELIX    4   4 LYS A   87  ARG A   92  5                                   6    
+SEQRES   1 A   57  GLY SER ASN PRO ASP PRO GLN GLU VAL GLN ARG ALA LEU          
+SEQRES   2 A   57  ALA ARG ILE LEU CYS ALA LEU GLY GLU LEU ASP LYS LEU          
+SEQRES   3 A   57  VAL LYS ASP GLN ALA ASN ALA GLY GLN GLN GLU PHE LYS          
+SEQRES   4 A   57  LEU PRO LYS ASP PHE THR GLY ARG SER LYS CYS ARG SER          
+SEQRES   5 A   57  LEU GLY ARG ILE LYS                                          
+DBREF  2LMK A   48   102  UNP    Q3LHH8   Q3LHH8_MOUSE    48    102             

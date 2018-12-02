@@ -1,0 +1,22 @@
+HELIX    1   1 GLY A   17  ASP A   28  1                                  12    
+HELIX    2   2 GLN A   64  ALA A   69  5                                   6    
+HELIX    3   3 LEU A   70  ARG A   76  1                                   7    
+HELIX    4   4 LYS A   89  THR A   95  1                                   7    
+HELIX    5   5 THR A   95  GLY A  107  1                                  13    
+HELIX    6   6 LEU A  122  ARG A  126  5                                   5    
+HELIX    7   7 MET A  129  ILE A  140  1                                  12    
+HELIX    8   8 ASN A  154  ILE A  166  1                                  13    
+SEQRES   1 A  169  GLY SER LEU ARG GLU LEU LYS VAL CYS LEU LEU GLY ASP          
+SEQRES   2 A  169  THR GLY VAL GLY LYS SER SER ILE VAL TRP ARG PHE VAL          
+SEQRES   3 A  169  GLU ASP SER PHE ASP PRO ASN ILE ASN PRO THR ILE GLY          
+SEQRES   4 A  169  ALA SER PHE MET THR LYS THR VAL GLN TYR GLN ASN GLU          
+SEQRES   5 A  169  LEU HIS LYS PHE LEU ILE TRP ASP THR ALA GLY GLN GLU          
+SEQRES   6 A  169  ARG PHE ARG ALA LEU ALA PRO MET TYR TYR ARG GLY SER          
+SEQRES   7 A  169  ALA ALA ALA ILE ILE VAL TYR ASP ILE THR LYS GLU GLU          
+SEQRES   8 A  169  THR PHE SER THR LEU LYS ASN TRP VAL ARG GLU LEU ARG          
+SEQRES   9 A  169  GLN HIS GLY PRO PRO SER ILE VAL VAL ALA ILE ALA GLY          
+SEQRES  10 A  169  ASN LYS CYS ASP LEU THR ASP VAL ARG GLU VAL MET GLU          
+SEQRES  11 A  169  ARG ASP ALA LYS ASP TYR ALA ASP SER ILE HIS ALA ILE          
+SEQRES  12 A  169  PHE VAL GLU THR SER ALA LYS ASN ALA ILE ASN ILE ASN          
+SEQRES  13 A  169  GLU LEU PHE ILE GLU ILE SER ARG ARG ILE PRO SER THR          
+DBREF  1YVD A    3   169  UNP    P35285   RB22A_MOUSE      3    169             

@@ -1,0 +1,13 @@
+SEQRES   1 A   93  GLY PRO LEU GLY SER PHE ASP ILE LYS LYS GLU LEU LEU          
+SEQRES   2 A   93  THR CYS PRO THR PRO GLY CYS ASP GLY SER GLY HIS ILE          
+SEQRES   3 A   93  THR GLY ASN TYR ALA SER HIS ARG SER LEU SER GLY CYS          
+SEQRES   4 A   93  PRO LEU ALA ASP LYS SER LEU ARG ASN LEU MET ALA ALA          
+SEQRES   5 A   93  HIS SER ALA ASP LEU LYS CYS PRO THR PRO GLY CYS ASP          
+SEQRES   6 A   93  GLY SER GLY HIS ILE THR GLY ASN TYR ALA SER HIS ARG          
+SEQRES   7 A   93  SER LEU SER GLY CYS PRO ARG ALA LYS LYS SER GLY LEU          
+SEQRES   8 A   93  ARG VAL                                                      
+SEQRES   1 B   13   DA  DC  DC  DG  DA  DA  DA  DG  DT  DT  DC  DA  DC          
+SEQRES   1 C   13   DG  DT  DG  DA  DA  DC  DT  DT  DT  DC  DG  DG  DT          
+DBREF  2MF8 A  792   880  UNP    Q8CFC2   MYT1_MOUSE     792    880             
+DBREF  2MF8 B    1    13  PDB    2MF8     2MF8             1     13             
+DBREF  2MF8 C   14    26  PDB    2MF8     2MF8            14     26             

@@ -1,0 +1,12 @@
+HELIX    1   1 SER A  369  ARG A  406  1                                  38    
+HELIX    2   2 SER B  369  GLU B  407  1                                  39    
+SEQRES   1 A   46  GLY SER PRO GLU LEU GLN ASN PHE LEU THR ILE LEU GLU          
+SEQRES   2 A   46  LYS GLU GLU GLN ASP LYS ILE HIS GLN LEU GLN LYS LYS          
+SEQRES   3 A   46  TYR ASN LYS PHE ARG GLN LYS LEU GLU GLU ALA LEU ARG          
+SEQRES   4 A   46  GLU SER GLN GLY LYS PRO GLY                                  
+SEQRES   1 B   46  GLY SER PRO GLU LEU GLN ASN PHE LEU THR ILE LEU GLU          
+SEQRES   2 B   46  LYS GLU GLU GLN ASP LYS ILE HIS GLN LEU GLN LYS LYS          
+SEQRES   3 B   46  TYR ASN LYS PHE ARG GLN LYS LEU GLU GLU ALA LEU ARG          
+SEQRES   4 B   46  GLU SER GLN GLY LYS PRO GLY                                  
+DBREF  2YMY A  370   413  UNP    Q5EBH1   RASF5_MOUSE    370    413             
+DBREF  2YMY B  370   413  UNP    Q5EBH1   RASF5_MOUSE    370    413             

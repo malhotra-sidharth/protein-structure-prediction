@@ -1,0 +1,16 @@
+KEYWDS    WINGED HELIX, STRUCTURAL GENOMICS, RIKEN STRUCTURAL                   
+HELIX    1   1 ASP A   13  LYS A   33  1                                  21    
+HELIX    2   2 TYR A   38  THR A   44  1                                   7    
+HELIX    3   3 VAL A   45  SER A   53  1                                   9    
+HELIX    4   4 SER A   73  GLY A   91  1                                  19    
+SEQRES   1 A  120  GLY SER SER GLY SER SER GLY ASN LYS ASP ASN LEU ASP          
+SEQRES   2 A  120  LEU ALA GLY LEU THR SER LEU LEU SER GLU LYS ILE LYS          
+SEQRES   3 A  120  GLU PHE LEU GLN GLU LYS LYS MET GLN SER PHE TYR GLN          
+SEQRES   4 A  120  GLN GLU LEU GLU THR VAL GLU SER LEU GLN SER LEU ALA          
+SEQRES   5 A  120  SER ARG PRO VAL THR HIS SER THR GLY SER ASP GLN VAL          
+SEQRES   6 A  120  GLU LEU LYS ASP SER GLY THR SER GLY VAL ALA GLN ARG          
+SEQRES   7 A  120  VAL PHE LYS ASN ALA LEU GLN LEU LEU GLN GLU LYS GLY          
+SEQRES   8 A  120  LEU VAL PHE GLN ARG ASP SER GLY SER ASP LYS LEU TYR          
+SEQRES   9 A  120  TYR VAL THR THR LYS ASP LYS ASP LEU GLN SER GLY PRO          
+SEQRES  10 A  120  SER SER GLY                                                  
+DBREF  1WJ5 A    8   114  UNP    Q8K2X3   OBFC1_MOUSE    205    311             

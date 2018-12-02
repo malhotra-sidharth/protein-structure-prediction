@@ -1,0 +1,72 @@
+HELIX    1   1 SER A   77  ASN A   86  1                                  10    
+HELIX    2   2 ASN A   89  GLU A  107  1                                  19    
+HELIX    3   3 PRO A  111  ALA A  118  1                                   8    
+HELIX    4   4 LEU A  120  GLY A  129  1                                  10    
+HELIX    5   5 CYS A  133  SER A  149  1                                  17    
+HELIX    6   6 THR A  151  GLY A  161  1                                  11    
+HELIX    7   7 GLY A  162  LEU A  170  1                                   9    
+HELIX    8   8 LEU A  171  SER A  173  5                                   3    
+HELIX    9   9 HIS A  175  GLY A  191  1                                  17    
+HELIX   10  10 GLY A  193  HIS A  203  1                                  11    
+HELIX   11  11 ALA A  205  LEU A  212  1                                   8    
+HELIX   12  12 ASP A  217  LEU A  221  5                                   5    
+HELIX   13  13 ALA A  222  LEU A  236  1                                  15    
+HELIX   14  14 PRO A  245  LEU A  260  1                                  16    
+HELIX   15  15 ASP A  264  THR A  279  1                                  16    
+HELIX   16  16 PRO A  282  LYS A  292  1                                  11    
+HELIX   17  17 VAL A  294  GLY A  303  1                                  10    
+HELIX   18  18 GLU A  306  THR A  322  1                                  17    
+HELIX   19  19 THR A  324  ALA A  334  1                                  11    
+HELIX   20  20 GLY A  335  ALA A  338  5                                   4    
+HELIX   21  21 VAL A  339  THR A  345  1                                   7    
+HELIX   22  22 LYS A  348  THR A  363  1                                  16    
+HELIX   23  23 ARG A  366  HIS A  376  1                                  11    
+HELIX   24  24 LEU A  378  LYS A  388  1                                  11    
+HELIX   25  25 ASP A  390  GLY A  408  1                                  19    
+HELIX   26  26 THR A  409  CYS A  419  1                                  11    
+HELIX   27  27 ILE A  421  LEU A  428  1                                   8    
+HELIX   28  28 LEU A  429  ALA A  431  5                                   3    
+HELIX   29  29 ASP A  433  LYS A  453  1                                  21    
+HELIX   30  30 GLU A  456  GLY A  468  1                                  13    
+HELIX   31  31 GLY A  468  LEU A  476  1                                   9    
+HELIX   32  32 ASN A  481  PHE A  496  1                                  16    
+SEQRES   1 A  427  GLN GLY THR VAL ASN TRP SER VAL GLU ASP ILE VAL LYS          
+SEQRES   2 A  427  GLY ILE ASN SER ASN ASN LEU GLU SER GLN LEU GLN ALA          
+SEQRES   3 A  427  THR GLN ALA ALA ARG LYS LEU LEU SER ARG GLU LYS GLN          
+SEQRES   4 A  427  PRO PRO ILE ASP ASN ILE ILE ARG ALA GLY LEU ILE PRO          
+SEQRES   5 A  427  LYS PHE VAL SER PHE LEU GLY LYS THR ASP CYS SER PRO          
+SEQRES   6 A  427  ILE GLN PHE GLU SER ALA TRP ALA LEU THR ASN ILE ALA          
+SEQRES   7 A  427  SER GLY THR SER GLU GLN THR LYS ALA VAL VAL ASP GLY          
+SEQRES   8 A  427  GLY ALA ILE PRO ALA PHE ILE SER LEU LEU ALA SER PRO          
+SEQRES   9 A  427  HIS ALA HIS ILE SER GLU GLN ALA VAL TRP ALA LEU GLY          
+SEQRES  10 A  427  ASN ILE ALA GLY ASP GLY SER ALA PHE ARG ASP LEU VAL          
+SEQRES  11 A  427  ILE LYS HIS GLY ALA ILE ASP PRO LEU LEU ALA LEU LEU          
+SEQRES  12 A  427  ALA VAL PRO ASP LEU SER THR LEU ALA CYS GLY TYR LEU          
+SEQRES  13 A  427  ARG ASN LEU THR TRP THR LEU SER ASN LEU CYS ARG ASN          
+SEQRES  14 A  427  LYS ASN PRO ALA PRO PRO LEU ASP ALA VAL GLU GLN ILE          
+SEQRES  15 A  427  LEU PRO THR LEU VAL ARG LEU LEU HIS HIS ASN ASP PRO          
+SEQRES  16 A  427  GLU VAL LEU ALA ASP SER CYS TRP ALA ILE SER TYR LEU          
+SEQRES  17 A  427  THR ASP GLY PRO ASN GLU ARG ILE GLU MET VAL VAL LYS          
+SEQRES  18 A  427  LYS GLY VAL VAL PRO GLN LEU VAL LYS LEU LEU GLY ALA          
+SEQRES  19 A  427  THR GLU LEU PRO ILE VAL THR PRO ALA LEU ARG ALA ILE          
+SEQRES  20 A  427  GLY ASN ILE VAL THR GLY THR ASP GLU GLN THR GLN LYS          
+SEQRES  21 A  427  VAL ILE ASP ALA GLY ALA LEU ALA VAL PHE PRO SER LEU          
+SEQRES  22 A  427  LEU THR ASN PRO LYS THR ASN ILE GLN LYS GLU ALA THR          
+SEQRES  23 A  427  TRP THR MET SER ASN ILE THR ALA GLY ARG GLN ASP GLN          
+SEQRES  24 A  427  ILE GLN GLN VAL VAL ASN HIS GLY LEU VAL PRO PHE LEU          
+SEQRES  25 A  427  VAL GLY VAL LEU SER LYS ALA ASP PHE LYS THR GLN LYS          
+SEQRES  26 A  427  GLU ALA ALA TRP ALA ILE THR ASN TYR THR SER GLY GLY          
+SEQRES  27 A  427  THR VAL GLU GLN ILE VAL TYR LEU VAL HIS CYS GLY ILE          
+SEQRES  28 A  427  ILE GLU PRO LEU MET ASN LEU LEU SER ALA LYS ASP THR          
+SEQRES  29 A  427  LYS ILE ILE GLN VAL ILE LEU ASP ALA ILE SER ASN ILE          
+SEQRES  30 A  427  PHE GLN ALA ALA GLU LYS LEU GLY GLU THR GLU LYS LEU          
+SEQRES  31 A  427  SER ILE MET ILE GLU GLU CYS GLY GLY LEU ASP LYS ILE          
+SEQRES  32 A  427  GLU ALA LEU GLN ARG HIS GLU ASN GLU SER VAL TYR LYS          
+SEQRES  33 A  427  ALA SER LEU ASN LEU ILE GLU LYS TYR PHE SER                  
+SEQRES   1 B   15  GLY SER GLU PHE GLU SER PRO PHE LYS LYS LYS ARG ARG          
+SEQRES   2 B   15  GLU ALA                                                      
+SEQRES   1 C   15  GLY SER GLU PHE GLU SER PRO PHE LYS LYS LYS ARG ARG          
+SEQRES   2 C   15  GLU ALA                                                      
+DBREF  3L3Q A   71   497  UNP    P52293   IMA2_MOUSE      71    497             
+DBREF  3L3Q B    1    15  PDB    3L3Q     3L3Q             1     15             
+DBREF  3L3Q C    1    15  PDB    3L3Q     3L3Q             1     15             

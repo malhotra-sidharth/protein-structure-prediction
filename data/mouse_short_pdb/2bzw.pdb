@@ -1,0 +1,34 @@
+HELIX    1   1 SER A    2  GLN A   19  1                                  18    
+HELIX    2   2 SER A   23  PHE A   27  5                                   5    
+HELIX    3   3 PRO A   82  TYR A  101  1                                  20    
+HELIX    4   4 ARG A  102  SER A  106  5                                   5    
+HELIX    5   5 ASP A  107  LEU A  112  1                                   6    
+HELIX    6   6 THR A  118  PHE A  131  1                                  14    
+HELIX    7   7 ASN A  136  LYS A  157  1                                  22    
+HELIX    8   8 VAL A  161  LEU A  178  1                                  18    
+HELIX    9   9 LEU A  178  ASN A  185  1                                   8    
+HELIX   10  10 GLY A  187  TYR A  195  1                                   9    
+HELIX   11  11 PRO B   96  ASN B   98  5                                   3    
+HELIX   12  12 LEU B   99  SER B  119  1                                  21    
+SEQRES   1 A  211  MET SER GLN SER ASN ARG GLU LEU VAL VAL ASP PHE LEU          
+SEQRES   2 A  211  SER TYR LYS LEU SER GLN LYS GLY TYR SER TRP SER GLN          
+SEQRES   3 A  211  PHE SER ASP VAL GLU GLU ASN ARG THR GLU ALA PRO GLU          
+SEQRES   4 A  211  GLU THR GLU ALA GLU ARG GLU THR PRO SER ALA ILE ASN          
+SEQRES   5 A  211  GLY ASN PRO SER TRP HIS LEU ALA ASP SER PRO ALA VAL          
+SEQRES   6 A  211  ASN GLY ALA THR GLY HIS SER SER SER LEU ASP ALA ARG          
+SEQRES   7 A  211  GLU VAL ILE PRO MET ALA ALA VAL LYS GLN ALA LEU ARG          
+SEQRES   8 A  211  GLU ALA GLY ASP GLU PHE GLU LEU ARG TYR ARG ARG ALA          
+SEQRES   9 A  211  PHE SER ASP LEU THR SER GLN LEU HIS ILE THR PRO GLY          
+SEQRES  10 A  211  THR ALA TYR GLN SER PHE GLU GLN VAL VAL ASN GLU LEU          
+SEQRES  11 A  211  PHE ARG ASP GLY VAL ASN TRP GLY ARG ILE VAL ALA PHE          
+SEQRES  12 A  211  PHE SER PHE GLY GLY ALA LEU CYS VAL GLU SER VAL ASP          
+SEQRES  13 A  211  LYS GLU MET GLN VAL LEU VAL SER ARG ILE ALA SER TRP          
+SEQRES  14 A  211  MET ALA THR TYR LEU ASN ASP HIS LEU GLU PRO TRP ILE          
+SEQRES  15 A  211  GLN GLU ASN GLY GLY TRP ASP THR PHE VAL ASP LEU TYR          
+SEQRES  16 A  211  GLY ASN ASN ALA ALA ALA GLU SER ARG LYS GLY GLN GLU          
+SEQRES  17 A  211  ARG PHE ASN                                                  
+SEQRES   1 B   27  ALA PRO PRO ASN LEU TRP ALA ALA GLN ARG TYR GLY ARG          
+SEQRES   2 B   27  GLU LEU ARG ARG MET SER ASP GLU PHE GLU GLY SER PHE          
+SEQRES   3 B   27  LYS                                                          
+DBREF  2BZW A    1   211  UNP    Q64373   BCLX_MOUSE       1    211             
+DBREF  2BZW B   95   121  UNP    Q61337   BAD_MOUSE      137    163             

@@ -1,0 +1,24 @@
+HELIX    1   1 HIS A   15  SER A   27  1                                  13    
+HELIX    2   2 ARG A   32  GLY A   39  1                                   8    
+HELIX    3   3 ILE A   83  ASN A  100  1                                  18    
+HELIX    4   4 VAL A  106  PHE A  113  1                                   8    
+HELIX    5   5 ASN A  125  PHE A  138  1                                  14    
+HELIX    6   6 MET A  142  HIS A  162  1                                  21    
+HELIX    7   7 LEU A  167  GLN A  180  1                                  14    
+HELIX    8   8 TYR A  185  ASN A  192  1                                   8    
+SEQRES   1 A  195  MET ASP SER GLU VAL SER ASN GLY SER GLY LEU GLY ALA          
+SEQRES   2 A  195  LYS HIS ILE THR ASP LEU LEU VAL PHE GLY PHE LEU GLN          
+SEQRES   3 A  195  SER SER GLY CYS THR ARG GLN GLU LEU GLU VAL LEU GLY          
+SEQRES   4 A  195  ARG GLU LEU PRO VAL GLN ALA TYR TRP GLU ALA ASP LEU          
+SEQRES   5 A  195  GLU ASP GLU LEU GLN THR ASP GLY SER GLN ALA SER ARG          
+SEQRES   6 A  195  SER PHE ASN GLN GLY ARG ILE GLU PRO ASP SER GLU SER          
+SEQRES   7 A  195  GLN GLU GLU ILE ILE HIS ASN ILE ALA ARG HIS LEU ALA          
+SEQRES   8 A  195  GLN ILE GLY ASP GLU MET ASP HIS ASN ILE GLN PRO THR          
+SEQRES   9 A  195  LEU VAL ARG GLN LEU ALA ALA GLN PHE MET ASN GLY SER          
+SEQRES  10 A  195  LEU SER GLU GLU ASP LYS ARG ASN CYS LEU ALA LYS ALA          
+SEQRES  11 A  195  LEU ASP GLU VAL LYS THR ALA PHE PRO ARG ASP MET GLU          
+SEQRES  12 A  195  ASN ASP LYS ALA MET LEU ILE MET THR MET LEU LEU ALA          
+SEQRES  13 A  195  LYS LYS VAL ALA SER HIS ALA PRO SER LEU LEU ARG ASP          
+SEQRES  14 A  195  VAL PHE HIS THR THR VAL ASN PHE ILE ASN GLN ASN LEU          
+SEQRES  15 A  195  PHE SER TYR VAL ARG ASN LEU VAL ARG ASN GLU MET ASP          
+DBREF  1DDB A    1   195  UNP    P70444   BID_MOUSE        1    195             

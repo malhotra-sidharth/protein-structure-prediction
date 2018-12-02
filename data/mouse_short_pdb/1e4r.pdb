@@ -1,0 +1,7 @@
+HELIX    1   1 SER A    5  GLY A   10  5                                   6    
+SEQRES   1 A   35  ASN GLU PRO VAL SER CYS ILE ARG ASN GLY GLY ILE CYS          
+SEQRES   2 A   35  GLN TYR ARG CYS ILE GLY LEU ARG HIS LYS ILE GLY THR          
+SEQRES   3 A   35  CYS GLY SER PRO PHE LYS CYS CYS LYS                          
+REVDAT   5   20-JUN-18 1E4R    1       COMPND SOURCE JRNL   DBREF               
+REVDAT   2   23-AUG-01 1E4R    1       TITLE  COMPND REMARK DBREF               
+DBREF  1E4R A    1    35  UNP    Q91V82   DEFB8_MOUSE     26     60             

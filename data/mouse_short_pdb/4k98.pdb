@@ -1,0 +1,50 @@
+HELIX    1   1 LYS A  149  ARG A  158  1                                  10    
+HELIX    2   2 LYS A  160  GLN A  183  1                                  24    
+HELIX    3   3 GLY A  198  GLU A  202  1                                   5    
+HELIX    4   4 ASN A  246  HIS A  250  5                                   5    
+HELIX    5   5 SER A  258  GLU A  276  1                                  19    
+HELIX    6   6 PRO A  319  LYS A  323  5                                   5    
+HELIX    7   7 GLY A  333  ARG A  342  1                                  10    
+HELIX    8   8 PHE A  367  ASN A  377  1                                  11    
+HELIX    9   9 CYS A  393  PHE A  412  1                                  20    
+HELIX   10  10 GLN A  413  ASP A  416  5                                   4    
+HELIX   11  11 CYS A  419  ASP A  434  1                                  16    
+HELIX   12  12 GLN A  436  ARG A  443  5                                   8    
+HELIX   13  13 ASN A  444  GLU A  463  1                                  20    
+HELIX   14  14 ASP A  482  ASN A  499  1                                  18    
+HELIX   15  15 GLY A  500  LYS A  506  5                                   7    
+SEQRES   1 A  362  SER PRO ASP LYS LEU LYS LYS VAL LEU ASP LYS LEU ARG          
+SEQRES   2 A  362  LEU LYS ARG LYS ASP ILE SER GLU ALA ALA GLU THR VAL          
+SEQRES   3 A  362  ASN LYS VAL VAL GLU ARG LEU LEU ARG ARG MET GLN LYS          
+SEQRES   4 A  362  ARG GLU SER GLU PHE LYS GLY VAL GLU GLN LEU ASN THR          
+SEQRES   5 A  362  GLY SER TYR TYR GLU HIS VAL LYS ILE SER ALA PRO ASN          
+SEQRES   6 A  362  GLU PHE ASP VAL MET PHE LYS LEU GLU VAL PRO ARG ILE          
+SEQRES   7 A  362  GLU LEU GLN GLU TYR TYR GLU THR GLY ALA PHE TYR LEU          
+SEQRES   8 A  362  VAL LYS PHE LYS ARG ILE PRO ARG GLY ASN PRO LEU SER          
+SEQRES   9 A  362  HIS PHE LEU GLU GLY GLU VAL LEU SER ALA THR LYS MET          
+SEQRES  10 A  362  LEU SER LYS PHE ARG LYS ILE ILE LYS GLU GLU VAL LYS          
+SEQRES  11 A  362  GLU ILE LYS ASP ILE ASP VAL SER VAL GLU LYS GLU LYS          
+SEQRES  12 A  362  PRO GLY SER PRO ALA VAL THR LEU LEU ILE ARG ASN PRO          
+SEQRES  13 A  362  GLU GLU ILE SER VAL ASP ILE ILE LEU ALA LEU GLU SER          
+SEQRES  14 A  362  LYS GLY SER TRP PRO ILE SER THR LYS GLU GLY LEU PRO          
+SEQRES  15 A  362  ILE GLN GLY TRP LEU GLY THR LYS VAL ARG THR ASN LEU          
+SEQRES  16 A  362  ARG ARG GLU PRO PHE TYR LEU VAL PRO LYS ASN ALA LYS          
+SEQRES  17 A  362  ASP GLY ASN SER PHE GLN GLY GLU THR TRP ARG LEU SER          
+SEQRES  18 A  362  PHE SER HIS THR GLU LYS TYR ILE LEU ASN ASN HIS GLY          
+SEQRES  19 A  362  ILE GLU LYS THR CYS CYS GLU SER SER GLY ALA LYS CYS          
+SEQRES  20 A  362  CYS ARG LYS GLU CYS LEU LYS LEU MET LYS TYR LEU LEU          
+SEQRES  21 A  362  GLU GLN LEU LYS LYS GLU PHE GLN GLU LEU ASP ALA PHE          
+SEQRES  22 A  362  CYS SER TYR HIS VAL LYS THR ALA ILE PHE HIS MET TRP          
+SEQRES  23 A  362  THR GLN ASP PRO GLN ASP SER GLN TRP ASP PRO ARG ASN          
+SEQRES  24 A  362  LEU SER SER CYS PHE ASP LYS LEU LEU ALA PHE PHE LEU          
+SEQRES  25 A  362  GLU CYS LEU ARG THR GLU LYS LEU ASP HIS TYR PHE ILE          
+SEQRES  26 A  362  PRO LYS PHE ASN LEU PHE SER GLN GLU LEU ILE ASP ARG          
+SEQRES  27 A  362  LYS SER LYS GLU PHE LEU SER LYS LYS ILE GLU TYR GLU          
+SEQRES  28 A  362  ARG ASN ASN GLY PHE PRO ILE PHE ASP LYS LEU                  
+SEQRES   1 D   17   DA  DA  DA  DT  DT  DG  DC  DC  DG  DA  DA  DG  DA          
+SEQRES   2 D   17   DC  DG  DA  DA                                              
+SEQRES   1 E   17   DT  DT  DT  DC  DG  DT  DC  DT  DT  DC  DG  DG  DC          
+SEQRES   2 E   17   DA  DA  DT  DT                                              
+DBREF  4K98 A  147   507  UNP    Q8C6L5   CGAS_MOUSE     147    507             
+DBREF  4K98 D    1    17  PDB    4K98     4K98             1     17             
+DBREF  4K98 E    1    17  PDB    4K98     4K98             1     17             

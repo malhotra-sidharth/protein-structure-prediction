@@ -1,0 +1,8 @@
+HELIX    1   1 SER A   46  GLY A   59  1                                  14    
+HELIX    2   2 SER A   61  GLY A   73  1                                  13    
+HELIX    3   3 ASP A   77  GLY A   89  1                                  13    
+SEQRES   1 A   49  GLY PRO HIS MET THR SER GLU LEU GLN MET LYS VAL ASP          
+SEQRES   2 A   49  PHE PHE ARG LYS LEU GLY TYR SER SER SER GLU ILE HIS          
+SEQRES   3 A   49  SER VAL LEU GLN LYS LEU GLY VAL GLN ALA ASP THR ASN          
+SEQRES   4 A   49  THR VAL LEU GLY GLU LEU VAL LYS HIS GLY                      
+DBREF  2N5J A   45    89  UNP    Q5D1E7   ZC12A_MOUSE     45     89             

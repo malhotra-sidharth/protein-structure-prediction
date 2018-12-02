@@ -1,0 +1,6 @@
+KEYWDS    TRANSMEMBRANE HELIX; DHPC; MOUSE DOPPEL, UNKNOWN FUNCTION             
+HELIX    1   1 THR A    7  LEU A   21  1                                  15    
+SEQRES   1 A   30  MET LYS ASN ARG LEU GLY THR TRP TRP VAL ALA ILE LEU          
+SEQRES   2 A   30  CYS MET LEU LEU ALA SER HIS LEU SER THR VAL LYS ALA          
+SEQRES   3 A   30  ARG GLY ILE LYS                                              
+DBREF  1Z65 A    1    30  UNP    Q9QUG3   PRND_MOUSE       1     30             

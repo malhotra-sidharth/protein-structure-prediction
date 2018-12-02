@@ -1,0 +1,25 @@
+HELIX    1   1 GLU A    9  PHE A   11  5                                   3    
+HELIX    2   2 ASN A   24  GLY A   28A 5                                   6    
+HELIX    3   3 GLU B    9  PHE B   11  5                                   3    
+HELIX    4   4 ASN B   24  GLY B   28A 5                                   6    
+HELIX    5   5 ARG B   64  THR B   69  1                                   6    
+SEQRES   1 A  106  ALA SER ASP HIS GLN THR GLN ALA GLY LYS PRO GLN PRO          
+SEQRES   2 A  106  LEU ASN PRO LYS ILE ILE ILE PHE GLU GLN GLU ASN PHE          
+SEQRES   3 A  106  GLN GLY HIS SER HIS GLU LEU SER GLY PRO CYS PRO ASN          
+SEQRES   4 A  106  LEU LYS GLU THR GLY MET GLU LYS ALA GLY SER VAL LEU          
+SEQRES   5 A  106  VAL GLN ALA GLY PRO TRP VAL GLY TYR GLU GLN ALA ASN          
+SEQRES   6 A  106  CYS LYS GLY GLU GLN PHE VAL PHE GLU LYS GLY GLU TYR          
+SEQRES   7 A  106  PRO ARG TRP ASP SER TRP THR SER SER ARG ARG THR ASP          
+SEQRES   8 A  106  SER LEU SER SER LEU ARG PRO ILE LYS VAL ASP SER GLN          
+SEQRES   9 A  106  GLU HIS                                                      
+SEQRES   1 B  106  ALA SER ASP HIS GLN THR GLN ALA GLY LYS PRO GLN PRO          
+SEQRES   2 B  106  LEU ASN PRO LYS ILE ILE ILE PHE GLU GLN GLU ASN PHE          
+SEQRES   3 B  106  GLN GLY HIS SER HIS GLU LEU SER GLY PRO CYS PRO ASN          
+SEQRES   4 B  106  LEU LYS GLU THR GLY MET GLU LYS ALA GLY SER VAL LEU          
+SEQRES   5 B  106  VAL GLN ALA GLY PRO TRP VAL GLY TYR GLU GLN ALA ASN          
+SEQRES   6 B  106  CYS LYS GLY GLU GLN PHE VAL PHE GLU LYS GLY GLU TYR          
+SEQRES   7 B  106  PRO ARG TRP ASP SER TRP THR SER SER ARG ARG THR ASP          
+SEQRES   8 B  106  SER LEU SER SER LEU ARG PRO ILE LYS VAL ASP SER GLN          
+SEQRES   9 B  106  GLU HIS                                                      
+DBREF  1E7N A  -15    88  UNP    P62696   CRBB2_MOUSE      2    107             
+DBREF  1E7N B  -15    88  UNP    P62696   CRBB2_MOUSE      2    107             

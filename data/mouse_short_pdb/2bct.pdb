@@ -1,0 +1,75 @@
+HELIX    1  A2 ILE A  153  ASN A  161  1                                   9    
+HELIX    2  A3 GLN A  165  LEU A  178  1                                  14    
+HELIX    3  B1 GLU A  182  MET A  189  1                                   8    
+HELIX    4  B2 PRO A  192  ASN A  204  1                                  13    
+HELIX    5  B3 VAL A  208  SER A  222  1                                  15    
+HELIX    6  C1 ARG A  225  LYS A  233  1                                   9    
+HELIX    7  C2 GLY A  236  LEU A  244  1                                   9    
+HELIX    8  C3 ASP A  249  LEU A  264  1                                  16    
+HELIX    9  D1 ALA A  269  ALA A  276  1                                   8    
+HELIX   10  D2 GLY A  278  LEU A  286  1                                   9    
+HELIX   11  D3 VAL A  291  ALA A  305  1                                  15    
+HELIX   12  E1 GLN A  309  SER A  318  1                                  10    
+HELIX   13  E2 GLY A  320  THR A  330  1                                  11    
+HELIX   14  E3 GLU A  334  LEU A  347  1                                  14    
+HELIX   15  F1 ASN A  353  ALA A  360  1                                   8    
+HELIX   16  F2 GLY A  362  LEU A  368  1                                   7    
+HELIX   17  F3 GLN A  375  SER A  389  1                                  15    
+HELIX   18  G2 GLU A  399  LEU A  409  1                                  11    
+HELIX   19  G3 ILE A  414  THR A  428  1                                  15    
+HELIX   20  H1 TYR A  432  GLN A  440  1                                   9    
+HELIX   21  H2 GLY A  443  ALA A  454  1                                  12    
+HELIX   22  H3 GLU A  458  LEU A  471  1                                  14    
+HELIX   23  I1 ALA A  478  LEU A  487  1                                  10    
+HELIX   24  I2 LEU A  491  LEU A  497  1                                   7    
+HELIX   25  I3 TRP A  504  LEU A  519  1                                  16    
+HELIX   26  J1 HIS A  524  GLN A  530  1                                   7    
+HELIX   27  J2 ALA A  532  GLN A  548  1                                  17    
+HELIX   28  J3 MET A  566  ALA A  581  1                                  16    
+HELIX   29  K1 VAL A  584  GLY A  592  1                                   9    
+HELIX   30  K2 ILE A  596  TYR A  604  1                                   9    
+HELIX   31  K3 GLU A  608  ALA A  622  1                                  15    
+HELIX   32  L1 LYS A  625  ALA A  633  1                                   9    
+HELIX   33  L2 THR A  637  LEU A  644  1                                   8    
+HELIX   34  L3 GLU A  649  MET A  662  1                                  14    
+SEQRES   1 A  516  THR ARG ALA ILE PRO GLU LEU THR LYS LEU LEU ASN ASP          
+SEQRES   2 A  516  GLU ASP GLN VAL VAL VAL ASN LYS ALA ALA VAL MET VAL          
+SEQRES   3 A  516  HIS GLN LEU SER LYS LYS GLU ALA SER ARG HIS ALA ILE          
+SEQRES   4 A  516  MET ARG SER PRO GLN MET VAL SER ALA ILE VAL ARG THR          
+SEQRES   5 A  516  MET GLN ASN THR ASN ASP VAL GLU THR ALA ARG CYS THR          
+SEQRES   6 A  516  ALA GLY THR LEU HIS ASN LEU SER HIS HIS ARG GLU GLY          
+SEQRES   7 A  516  LEU LEU ALA ILE PHE LYS SER GLY GLY ILE PRO ALA LEU          
+SEQRES   8 A  516  VAL LYS MET LEU GLY SER PRO VAL ASP SER VAL LEU PHE          
+SEQRES   9 A  516  TYR ALA ILE THR THR LEU HIS ASN LEU LEU LEU HIS GLN          
+SEQRES  10 A  516  GLU GLY ALA LYS MET ALA VAL ARG LEU ALA GLY GLY LEU          
+SEQRES  11 A  516  GLN LYS MET VAL ALA LEU LEU ASN LYS THR ASN VAL LYS          
+SEQRES  12 A  516  PHE LEU ALA ILE THR THR ASP CYS LEU GLN ILE LEU ALA          
+SEQRES  13 A  516  TYR GLY ASN GLN GLU SER LYS LEU ILE ILE LEU ALA SER          
+SEQRES  14 A  516  GLY GLY PRO GLN ALA LEU VAL ASN ILE MET ARG THR TYR          
+SEQRES  15 A  516  THR TYR GLU LYS LEU LEU TRP THR THR SER ARG VAL LEU          
+SEQRES  16 A  516  LYS VAL LEU SER VAL CYS SER SER ASN LYS PRO ALA ILE          
+SEQRES  17 A  516  VAL GLU ALA GLY GLY MET GLN ALA LEU GLY LEU HIS LEU          
+SEQRES  18 A  516  THR ASP PRO SER GLN ARG LEU VAL GLN ASN CYS LEU TRP          
+SEQRES  19 A  516  THR LEU ARG ASN LEU SER ASP ALA ALA THR LYS GLN GLU          
+SEQRES  20 A  516  GLY MET GLU GLY LEU LEU GLY THR LEU VAL GLN LEU LEU          
+SEQRES  21 A  516  GLY SER ASP ASP ILE ASN VAL VAL THR CYS ALA ALA GLY          
+SEQRES  22 A  516  ILE LEU SER ASN LEU THR CYS ASN ASN TYR LYS ASN LYS          
+SEQRES  23 A  516  MET MET VAL CYS GLN VAL GLY GLY ILE GLU ALA LEU VAL          
+SEQRES  24 A  516  ARG THR VAL LEU ARG ALA GLY ASP ARG GLU ASP ILE THR          
+SEQRES  25 A  516  GLU PRO ALA ILE CYS ALA LEU ARG HIS LEU THR SER ARG          
+SEQRES  26 A  516  HIS GLN GLU ALA GLU MET ALA GLN ASN ALA VAL ARG LEU          
+SEQRES  27 A  516  HIS TYR GLY LEU PRO VAL VAL VAL LYS LEU LEU HIS PRO          
+SEQRES  28 A  516  PRO SER HIS TRP PRO LEU ILE LYS ALA THR VAL GLY LEU          
+SEQRES  29 A  516  ILE ARG ASN LEU ALA LEU CYS PRO ALA ASN HIS ALA PRO          
+SEQRES  30 A  516  LEU ARG GLU GLN GLY ALA ILE PRO ARG LEU VAL GLN LEU          
+SEQRES  31 A  516  LEU VAL ARG ALA HIS GLN ASP THR GLN ARG ARG THR SER          
+SEQRES  32 A  516  MET GLY GLY THR GLN GLN GLN PHE VAL GLU GLY VAL ARG          
+SEQRES  33 A  516  MET GLU GLU ILE VAL GLU GLY CYS THR GLY ALA LEU HIS          
+SEQRES  34 A  516  ILE LEU ALA ARG ASP VAL HIS ASN ARG ILE VAL ILE ARG          
+SEQRES  35 A  516  GLY LEU ASN THR ILE PRO LEU PHE VAL GLN LEU LEU TYR          
+SEQRES  36 A  516  SER PRO ILE GLU ASN ILE GLN ARG VAL ALA ALA GLY VAL          
+SEQRES  37 A  516  LEU CYS GLU LEU ALA GLN ASP LYS GLU ALA ALA GLU ALA          
+SEQRES  38 A  516  ILE GLU ALA GLU GLY ALA THR ALA PRO LEU THR GLU LEU          
+SEQRES  39 A  516  LEU HIS SER ARG ASN GLU GLY VAL ALA THR TYR ALA ALA          
+SEQRES  40 A  516  ALA VAL LEU PHE ARG MET SER GLU ASP                          
+DBREF  2BCT A  150   665  UNP    Q02248   CTNB1_MOUSE    150    665             

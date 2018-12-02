@@ -1,0 +1,12 @@
+REMARK 650 HELIX                                                                
+HELIX    1   1 GLU A   86  LEU A   92  1                                   7    
+HELIX    2   2 THR A  119  LEU A  128  1                                  10    
+SEQRES   1 A   99  GLY SER SER GLY SER SER GLY GLY GLU LYS THR PHE THR          
+SEQRES   2 A   99  GLN ARG SER ARG LEU PHE VAL GLY ASN LEU PRO PRO ASP          
+SEQRES   3 A   99  ILE THR GLU GLU GLU MET ARG LYS LEU PHE GLU LYS TYR          
+SEQRES   4 A   99  GLY LYS ALA GLY GLU VAL PHE ILE HIS LYS ASP LYS GLY          
+SEQRES   5 A   99  PHE GLY PHE ILE ARG LEU GLU THR ARG THR LEU ALA GLU          
+SEQRES   6 A   99  ILE ALA LYS VAL GLU LEU ASP ASN MET PRO LEU ARG GLY          
+SEQRES   7 A   99  LYS GLN LEU ARG VAL ARG PHE ALA CYS HIS SER ALA SER          
+SEQRES   8 A   99  LEU THR SER GLY PRO SER SER GLY                              
+DBREF  2CPJ A   65   150  UNP    Q99K48   NONO_MOUSE      68    153             

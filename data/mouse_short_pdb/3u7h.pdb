@@ -1,0 +1,49 @@
+HELIX    1   1 GLU B  197  GLU B  208  1                                  12    
+HELIX    2   2 GLN B  218  ARG B  223  1                                   6    
+HELIX    3   3 PRO B  227  GLY B  243  1                                  17    
+HELIX    4   4 SER B  262  ALA B  272  1                                  11    
+HELIX    5   5 CYS B  307  GLY B  317  1                                  11    
+HELIX    6   6 THR B  322  LYS B  329  1                                   8    
+HELIX    7   7 ASP B  341  ILE B  345  5                                   5    
+HELIX    8   8 GLY B  376  LEU B  385  1                                  10    
+HELIX    9   9 VAL B  386  GLY B  389  5                                   4    
+HELIX   10  10 ASN B  394  LEU B  398  5                                   5    
+HELIX   11  11 VAL B  405  GLN B  414  1                                  10    
+HELIX   12  12 ASP B  426  GLY B  441  1                                  16    
+HELIX   13  13 THR B  452  ASP B  467  1                                  16    
+HELIX   14  14 SER B  474  PHE B  485  1                                  12    
+HELIX   15  15 THR B  489  GLY B  493  5                                   5    
+HELIX   16  16 ASP B  509  ARG B  517  1                                   9    
+SEQRES   1 B  381  SER SER LEU GLY TRP GLU SER LEU LYS LYS LEU LEU VAL          
+SEQRES   2 B  381  PHE THR ALA SER GLY VAL LYS PRO GLN GLY LYS VAL ALA          
+SEQRES   3 B  381  ALA PHE ALA LEU ASP GLY THR LEU ILE THR THR ARG SER          
+SEQRES   4 B  381  GLY LYS VAL PHE PRO THR SER PRO SER ASP TRP ARG ILE          
+SEQRES   5 B  381  LEU TYR PRO GLU ILE PRO LYS LYS LEU GLN GLU LEU ALA          
+SEQRES   6 B  381  ALA GLU GLY TYR LYS LEU VAL ILE PHE THR ASN GLN MSE          
+SEQRES   7 B  381  GLY ILE GLY ARG GLY LYS LEU PRO ALA GLU VAL PHE LYS          
+SEQRES   8 B  381  GLY LYS VAL GLU ALA VAL LEU GLU LYS LEU GLY VAL PRO          
+SEQRES   9 B  381  PHE GLN VAL LEU VAL ALA THR HIS ALA GLY LEU ASN ARG          
+SEQRES  10 B  381  LYS PRO VAL SER GLY MSE TRP ASP HIS LEU GLN GLU GLN          
+SEQRES  11 B  381  ALA ASN GLU GLY ILE PRO ILE SER VAL GLU ASP SER VAL          
+SEQRES  12 B  381  PHE VAL GLY ASP ALA ALA GLY ARG LEU ALA ASN TRP ALA          
+SEQRES  13 B  381  PRO GLY ARG LYS LYS LYS ASP PHE SER CYS ALA ASP ARG          
+SEQRES  14 B  381  LEU PHE ALA LEU ASN VAL GLY LEU PRO PHE ALA THR PRO          
+SEQRES  15 B  381  GLU GLU PHE PHE LEU LYS TRP PRO ALA ALA ARG PHE GLU          
+SEQRES  16 B  381  LEU PRO ALA PHE ASP PRO ARG THR ILE SER SER ALA GLY          
+SEQRES  17 B  381  PRO LEU TYR LEU PRO GLU SER SER SER LEU LEU SER PRO          
+SEQRES  18 B  381  ASN PRO GLU VAL VAL VAL ALA VAL GLY PHE PRO GLY ALA          
+SEQRES  19 B  381  GLY LYS SER THR PHE ILE GLN GLU HIS LEU VAL SER ALA          
+SEQRES  20 B  381  GLY TYR VAL HIS VAL ASN ARG ASP THR LEU GLY SER TRP          
+SEQRES  21 B  381  GLN ARG CYS VAL SER SER CYS GLN ALA ALA LEU ARG GLN          
+SEQRES  22 B  381  GLY LYS ARG VAL VAL ILE ASP ASN THR ASN PRO ASP VAL          
+SEQRES  23 B  381  PRO SER ARG ALA ARG TYR ILE GLN CYS ALA LYS ASP ALA          
+SEQRES  24 B  381  GLY VAL PRO CYS ARG CYS PHE ASN PHE CSO ALA THR ILE          
+SEQRES  25 B  381  GLU GLN ALA ARG HIS ASN ASN ARG PHE ARG GLU MSE THR          
+SEQRES  26 B  381  ASP PRO SER HIS ALA PRO VAL SER ASP MSE VAL MSE PHE          
+SEQRES  27 B  381  SER TYR ARG LYS GLN PHE GLU PRO PRO THR LEU ALA GLU          
+SEQRES  28 B  381  GLY PHE LEU GLU ILE LEU GLU ILE PRO PHE ARG LEU GLN          
+SEQRES  29 B  381  GLU HIS LEU ASP PRO ALA LEU GLN ARG LEU TYR ARG GLN          
+SEQRES  30 B  381  PHE SER GLU GLY                                              
+SEQRES   1 X    5   DT  DC  DC  DT  DT                                          
+DBREF  3U7H B  142   522  UNP    Q9JLV6   PNKP_MOUSE     142    522             
+DBREF  3U7H X  523   527  PDB    3U7H     3U7H           523    527             

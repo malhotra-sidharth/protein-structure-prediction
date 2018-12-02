@@ -1,0 +1,16 @@
+HELIX    1   1 LYS A  413  ARG A  422  1                                  10    
+HELIX    2   2 ARG A  443  GLY A  456  1                                  14    
+HELIX    3   3 ARG A  471  MET A  479  1                                   9    
+HELIX    4   4 LYS A  480  PHE A  483  5                                   4    
+SEQRES   1 A   89  LYS ARG THR ALA THR HIS THR CYS ASP TYR ALA GLY CYS          
+SEQRES   2 A   89  GLY LYS THR TYR THR LYS SER SER HIS LEU LYS ALA HIS          
+SEQRES   3 A   89  LEU ARG THR HIS THR GLY GLU LYS PRO TYR HIS CYS ASP          
+SEQRES   4 A   89  TRP ASP GLY CYS GLY TRP LYS PHE ALA ARG SER ASP GLU          
+SEQRES   5 A   89  LEU THR ARG HIS TYR ARG LYS HIS THR GLY HIS ARG PRO          
+SEQRES   6 A   89  PHE GLN CYS GLN LYS CYS ASP ARG ALA PHE SER ARG SER          
+SEQRES   7 A   89  ASP HIS LEU ALA LEU HIS MET LYS ARG HIS PHE                  
+SEQRES   1 F    7   DG  DA  DG  DG  DC  DG  DC                                  
+SEQRES   1 G    7   DG  DC  DG  DC  DC  DT  DC                                  
+DBREF  2WBS A  395   483  UNP    Q60793   KLF4_MOUSE     395    483             
+DBREF  2WBS F    1     7  PDB    2WBS     2WBS             1      7             
+DBREF  2WBS G    1     7  PDB    2WBS     2WBS             1      7             

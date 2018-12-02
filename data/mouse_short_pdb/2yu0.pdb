@@ -1,0 +1,13 @@
+HELIX    1   1 ASN A   18  ARG A   31  1                                  14    
+HELIX    2   2 THR A   44  PHE A   56  1                                  13    
+HELIX    3   3 GLY A   61  VAL A   72  1                                  12    
+HELIX    4   4 LEU A   75  SER A   87  1                                  13    
+SEQRES   1 A   94  GLY SER SER GLY SER SER GLY ILE VAL LEU LEU ARG GLY          
+SEQRES   2 A   94  LEU GLU CYS ILE ASN LYS HIS TYR PHE SER LEU PHE LYS          
+SEQRES   3 A   94  SER LEU LEU ALA ARG ASP LEU ASN LEU GLU ARG ASP ASN          
+SEQRES   4 A   94  GLN GLU GLN TYR THR THR ILE GLN ILE ALA ASN MET MET          
+SEQRES   5 A   94  GLU GLU LYS PHE PRO ALA ASP SER GLY LEU GLY LYS LEU          
+SEQRES   6 A   94  ILE GLU PHE CYS GLU GLU VAL PRO ALA LEU ARG LYS ARG          
+SEQRES   7 A   94  ALA GLU ILE LEU LYS LYS GLU ARG SER GLU SER GLY PRO          
+SEQRES   8 A   94  SER SER GLY                                                  
+DBREF  2YU0 A    8    88  UNP    Q08619   IFI5_MOUSE       8     88             

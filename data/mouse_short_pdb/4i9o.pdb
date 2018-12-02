@@ -1,0 +1,13 @@
+HELIX    1   1 LYS A  589  VAL A  595  5                                   7    
+HELIX    2   2 THR A  596  PHE A  612  1                                  17    
+HELIX    3   3 LYS A  621  ALA A  643  1                                  23    
+HELIX    4   4 SER A  645  GLU A  665  1                                  21    
+SEQRES   1 A  101  MSE ARG GLY SER HIS HIS HIS HIS HIS HIS GLY MSE ALA          
+SEQRES   2 A  101  SER GLY VAL ARG LYS GLY TRP HIS GLU HIS VAL THR GLN          
+SEQRES   3 A  101  ASP LEU ARG SER HIS LEU VAL HIS LYS LEU VAL GLN ALA          
+SEQRES   4 A  101  ILE PHE PRO THR PRO ASP PRO ALA ALA LEU LYS ASP ARG          
+SEQRES   5 A  101  ARG MSE GLU ASN LEU VAL ALA TYR ALA LYS LYS VAL GLU          
+SEQRES   6 A  101  GLY ASP MSE TYR GLU SER ALA ASN SER ARG ASP GLU TYR          
+SEQRES   7 A  101  TYR HIS LEU LEU ALA GLU LYS ILE TYR LYS ILE GLN LYS          
+SEQRES   8 A  101  GLU CYS GLU GLU LYS ARG ARG SER ARG LEU                      
+DBREF  4I9O A  586   672  UNP    P45481   CBP_MOUSE      586    672             

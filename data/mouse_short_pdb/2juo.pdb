@@ -1,0 +1,11 @@
+HELIX    1   1 PRO A   47  GLY A   49  5                                   3    
+HELIX    2   2 ASN A   50  LEU A   55  1                                   6    
+HELIX    3   3 LEU A   55  GLN A   60  1                                   6    
+SEQRES   1 A   89  MET ALA GLU CYS VAL SER GLN ALA ILE ASP ILE ASN GLU          
+SEQRES   2 A   89  PRO ILE GLY ASN LEU LYS LYS LEU LEU GLU PRO ARG LEU          
+SEQRES   3 A   89  GLN CYS SER LEU ASP ALA HIS GLU ILE CYS LEU GLN ASP          
+SEQRES   4 A   89  ILE GLN LEU ASP PRO ASP ARG SER LEU PHE ASP GLN GLY          
+SEQRES   5 A   89  VAL LYS THR ASP GLY THR VAL GLN LEU SER VAL GLN VAL          
+SEQRES   6 A   89  ILE SER TYR GLN GLY MET GLU PRO LYS LEU ASN ILE LEU          
+SEQRES   7 A   89  GLU ILE VAL LYS THR ALA GLU THR VAL GLU TRP                  
+DBREF  2JUO A   35   121  UNP    Q00422   GABPA_MOUSE     35    121             

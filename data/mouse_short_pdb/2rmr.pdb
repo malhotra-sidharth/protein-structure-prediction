@@ -1,0 +1,13 @@
+COMPND   2 MOLECULE: PAIRED AMPHIPATHIC HELIX PROTEIN SIN3A;                    
+REMARK 650 HELIX                                                                
+HELIX    1   1 TYR A  129  GLN A  136  1                                   8    
+HELIX    2   2 GLN A  142  LYS A  155  1                                  14    
+HELIX    3   3 PRO A  162  LEU A  171  1                                  10    
+HELIX    4   4 ASP A  177  PHE A  182  1                                   6    
+SEQRES   1 A   71  GLN ARG LEU LYS VAL GLU ASP ALA LEU SER TYR LEU ASP          
+SEQRES   2 A   71  GLN VAL LYS LEU GLN PHE GLY SER GLN PRO GLN VAL TYR          
+SEQRES   3 A   71  ASN ASP PHE LEU ASP ILE MET LYS GLU PHE LYS SER GLN          
+SEQRES   4 A   71  SER ILE ASP THR PRO GLY VAL ILE SER ARG VAL SER GLN          
+SEQRES   5 A   71  LEU PHE LYS GLY HIS PRO ASP LEU ILE MET GLY PHE ASN          
+SEQRES   6 A   71  THR PHE LEU PRO PRO GLY                                      
+DBREF  2RMR A  119   189  UNP    Q60520   SIN3A_MOUSE    119    189             

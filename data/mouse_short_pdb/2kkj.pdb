@@ -1,0 +1,9 @@
+HELIX    1   1 SER A    6  SER A   19  1                                  14    
+HELIX    2   2 PRO A   23  ASN A   36  1                                  14    
+HELIX    3   3 ASN A   36  ARG A   47  1                                  12    
+SEQRES   1 A   59  PRO ASN ARG SER ILE SER PRO SER ALA LEU GLN ASP LEU          
+SEQRES   2 A   59  LEU ARG THR LEU LYS SER PRO SER SER PRO GLN GLN GLN          
+SEQRES   3 A   59  GLN GLN VAL LEU ASN ILE LEU LYS SER ASN PRO GLN LEU          
+SEQRES   4 A   59  MET ALA ALA PHE ILE LYS GLN ARG THR ALA LYS TYR VAL          
+SEQRES   5 A   59  ALA ASN GLN PRO GLY MET GLN                                  
+DBREF  2KKJ A    1    59  UNP    P45481   CBP_MOUSE     2059   2117             

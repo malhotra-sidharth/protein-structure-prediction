@@ -1,0 +1,18 @@
+HELIX    1   1 ASP A    6  VAL A   17  1                                  12    
+HELIX    2   2 ASP A   44  CYS A   52  1                                   9    
+HELIX    3   3 SER A   87  VAL A  104  1                                  18    
+HELIX    4   4 ASP A  116  LEU A  120  5                                   5    
+HELIX    5   5 GLU A  121  ALA A  132  1                                  12    
+HELIX    6   6 ALA A  135  GLN A  140  5                                   6    
+SEQRES   1 A  142  MET ALA THR LYS ILE ASP LYS GLU ALA CYS ARG ALA ALA          
+SEQRES   2 A  142  TYR ASN LEU VAL ARG ASP ASP GLY SER ALA VAL ILE TRP          
+SEQRES   3 A  142  VAL THR PHE ARG TYR ASP GLY ALA THR ILE VAL PRO GLY          
+SEQRES   4 A  142  ASP GLN GLY ALA ASP TYR GLN HIS PHE ILE GLN GLN CYS          
+SEQRES   5 A  142  THR ASP ASP VAL ARG LEU PHE ALA PHE VAL ARG PHE THR          
+SEQRES   6 A  142  THR GLY ASP ALA MET SER LYS ARG SER LYS PHE ALA LEU          
+SEQRES   7 A  142  ILE THR TRP ILE GLY GLU ASP VAL SER GLY LEU GLN ARG          
+SEQRES   8 A  142  ALA LYS THR GLY THR ASP LYS THR LEU VAL LYS GLU VAL          
+SEQRES   9 A  142  VAL GLN ASN PHE ALA LYS GLU PHE VAL ILE SER ASP ARG          
+SEQRES  10 A  142  LYS GLU LEU GLU GLU ASP PHE ILE ARG SER GLU LEU LYS          
+SEQRES  11 A  142  LYS ALA GLY GLY ALA ASN TYR ASP ALA GLN SER GLU              
+DBREF  1WM4 A    1   142  UNP    Q9CQI6   COTL1_MOUSE      1    142             

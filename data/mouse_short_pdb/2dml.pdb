@@ -1,0 +1,16 @@
+HELIX    1   1 ASN A   26  VAL A   31  1                                   6    
+HELIX    2   2 CYS A   50  ARG A   52  5                                   3    
+HELIX    3   3 LEU A   53  LEU A   64  1                                  12    
+HELIX    4   4 HIS A   78  GLY A   86  1                                   9    
+HELIX    5   5 THR A  111  GLY A  126  1                                  16    
+SEQRES   1 A  130  GLY SER SER GLY SER SER GLY ALA VAL SER GLY LEU TYR          
+SEQRES   2 A  130  SER SER SER ASP ASP VAL ILE GLU LEU THR PRO SER ASN          
+SEQRES   3 A  130  PHE ASN ARG GLU VAL ILE GLN SER ASP GLY LEU TRP LEU          
+SEQRES   4 A  130  VAL GLU PHE TYR ALA PRO TRP CYS GLY HIS CYS GLN ARG          
+SEQRES   5 A  130  LEU THR PRO GLU TRP LYS LYS ALA ALA THR ALA LEU LYS          
+SEQRES   6 A  130  ASP VAL VAL LYS VAL GLY ALA VAL ASN ALA ASP LYS HIS          
+SEQRES   7 A  130  GLN SER LEU GLY GLY GLN TYR GLY VAL GLN GLY PHE PRO          
+SEQRES   8 A  130  THR ILE LYS ILE PHE GLY ALA ASN LYS ASN LYS PRO GLU          
+SEQRES   9 A  130  ASP TYR GLN GLY GLY ARG THR GLY GLU ALA ILE VAL ASP          
+SEQRES  10 A  130  ALA ALA LEU SER ALA LEU ARG SER GLY PRO SER SER GLY          
+DBREF  2DML A    8   124  UNP    Q922R8   PDIA6_MOUSE     16    132             

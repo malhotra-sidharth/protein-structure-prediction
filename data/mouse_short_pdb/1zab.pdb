@@ -1,0 +1,77 @@
+REMARK 650 HELIX                                                                
+HELIX    1   1 PRO A   12  ALA A   29  1                                  18    
+HELIX    2   2 CYS A   59  GLY A   63  5                                   5    
+HELIX    3   3 CYS A   65  GLU A   77  1                                  13    
+HELIX    4   4 CYS A   99  PHE A  109  1                                  11    
+HELIX    5   5 VAL A  129  LEU A  133  1                                   5    
+HELIX    6   6 GLY A  138  GLN A  143  5                                   6    
+HELIX    7   7 GLU B   11  ALA B   29  1                                  19    
+HELIX    8   8 CYS B   59  GLY B   63  5                                   5    
+HELIX    9   9 CYS B   65  GLU B   77  1                                  13    
+HELIX   10  10 CYS B   99  PHE B  109  1                                  11    
+HELIX   11  11 VAL B  129  LEU B  133  1                                   5    
+HELIX   12  12 GLY B  138  GLN B  143  5                                   6    
+HELIX   13  13 GLU C   11  ALA C   29  1                                  19    
+HELIX   14  14 CYS C   59  GLY C   63  5                                   5    
+HELIX   15  15 CYS C   65  GLU C   77  1                                  13    
+HELIX   16  16 CYS C   99  PHE C  109  1                                  11    
+HELIX   17  17 VAL C  129  LEU C  133  1                                   5    
+HELIX   18  18 GLY C  138  GLN C  143  5                                   6    
+HELIX   19  19 PRO D   12  ALA D   29  1                                  18    
+HELIX   20  20 CYS D   59  GLY D   63  5                                   5    
+HELIX   21  21 CYS D   65  GLU D   77  1                                  13    
+HELIX   22  22 CYS D   99  PHE D  109  1                                  11    
+HELIX   23  23 VAL D  129  LEU D  133  1                                   5    
+HELIX   24  24 GLY D  138  GLN D  143  5                                   6    
+SEQRES   1 A  146  MET ALA GLN GLU ARG PRO SER CYS ALA VAL GLU PRO GLU          
+SEQRES   2 A  146  HIS VAL GLN ARG LEU LEU LEU SER SER ARG GLU ALA LYS          
+SEQRES   3 A  146  LYS SER ALA TYR CYS PRO TYR SER ARG PHE PRO VAL GLY          
+SEQRES   4 A  146  ALA ALA LEU LEU THR GLY ASP GLY ARG ILE PHE SER GLY          
+SEQRES   5 A  146  CYS ASN ILE GLU ASN ALA CYS TYR PRO LEU GLY VAL CYS          
+SEQRES   6 A  146  ALA GLU ARG THR ALA ILE GLN LYS ALA ILE SER GLU GLY          
+SEQRES   7 A  146  TYR LYS ASP PHE ARG ALA ILE ALA ILE SER SER ASP LEU          
+SEQRES   8 A  146  GLN GLU GLU PHE ILE SER PRO CYS GLY ALA CYS ARG GLN          
+SEQRES   9 A  146  VAL MET ARG GLU PHE GLY THR ASP TRP ALA VAL TYR MET          
+SEQRES  10 A  146  THR LYS PRO ASP GLY THR PHE VAL VAL ARG THR VAL GLN          
+SEQRES  11 A  146  GLU LEU LEU PRO ALA SER PHE GLY PRO GLU ASP LEU GLN          
+SEQRES  12 A  146  LYS ILE GLN                                                  
+SEQRES   1 B  146  MET ALA GLN GLU ARG PRO SER CYS ALA VAL GLU PRO GLU          
+SEQRES   2 B  146  HIS VAL GLN ARG LEU LEU LEU SER SER ARG GLU ALA LYS          
+SEQRES   3 B  146  LYS SER ALA TYR CYS PRO TYR SER ARG PHE PRO VAL GLY          
+SEQRES   4 B  146  ALA ALA LEU LEU THR GLY ASP GLY ARG ILE PHE SER GLY          
+SEQRES   5 B  146  CYS ASN ILE GLU ASN ALA CYS TYR PRO LEU GLY VAL CYS          
+SEQRES   6 B  146  ALA GLU ARG THR ALA ILE GLN LYS ALA ILE SER GLU GLY          
+SEQRES   7 B  146  TYR LYS ASP PHE ARG ALA ILE ALA ILE SER SER ASP LEU          
+SEQRES   8 B  146  GLN GLU GLU PHE ILE SER PRO CYS GLY ALA CYS ARG GLN          
+SEQRES   9 B  146  VAL MET ARG GLU PHE GLY THR ASP TRP ALA VAL TYR MET          
+SEQRES  10 B  146  THR LYS PRO ASP GLY THR PHE VAL VAL ARG THR VAL GLN          
+SEQRES  11 B  146  GLU LEU LEU PRO ALA SER PHE GLY PRO GLU ASP LEU GLN          
+SEQRES  12 B  146  LYS ILE GLN                                                  
+SEQRES   1 C  146  MET ALA GLN GLU ARG PRO SER CYS ALA VAL GLU PRO GLU          
+SEQRES   2 C  146  HIS VAL GLN ARG LEU LEU LEU SER SER ARG GLU ALA LYS          
+SEQRES   3 C  146  LYS SER ALA TYR CYS PRO TYR SER ARG PHE PRO VAL GLY          
+SEQRES   4 C  146  ALA ALA LEU LEU THR GLY ASP GLY ARG ILE PHE SER GLY          
+SEQRES   5 C  146  CYS ASN ILE GLU ASN ALA CYS TYR PRO LEU GLY VAL CYS          
+SEQRES   6 C  146  ALA GLU ARG THR ALA ILE GLN LYS ALA ILE SER GLU GLY          
+SEQRES   7 C  146  TYR LYS ASP PHE ARG ALA ILE ALA ILE SER SER ASP LEU          
+SEQRES   8 C  146  GLN GLU GLU PHE ILE SER PRO CYS GLY ALA CYS ARG GLN          
+SEQRES   9 C  146  VAL MET ARG GLU PHE GLY THR ASP TRP ALA VAL TYR MET          
+SEQRES  10 C  146  THR LYS PRO ASP GLY THR PHE VAL VAL ARG THR VAL GLN          
+SEQRES  11 C  146  GLU LEU LEU PRO ALA SER PHE GLY PRO GLU ASP LEU GLN          
+SEQRES  12 C  146  LYS ILE GLN                                                  
+SEQRES   1 D  146  MET ALA GLN GLU ARG PRO SER CYS ALA VAL GLU PRO GLU          
+SEQRES   2 D  146  HIS VAL GLN ARG LEU LEU LEU SER SER ARG GLU ALA LYS          
+SEQRES   3 D  146  LYS SER ALA TYR CYS PRO TYR SER ARG PHE PRO VAL GLY          
+SEQRES   4 D  146  ALA ALA LEU LEU THR GLY ASP GLY ARG ILE PHE SER GLY          
+SEQRES   5 D  146  CYS ASN ILE GLU ASN ALA CYS TYR PRO LEU GLY VAL CYS          
+SEQRES   6 D  146  ALA GLU ARG THR ALA ILE GLN LYS ALA ILE SER GLU GLY          
+SEQRES   7 D  146  TYR LYS ASP PHE ARG ALA ILE ALA ILE SER SER ASP LEU          
+SEQRES   8 D  146  GLN GLU GLU PHE ILE SER PRO CYS GLY ALA CYS ARG GLN          
+SEQRES   9 D  146  VAL MET ARG GLU PHE GLY THR ASP TRP ALA VAL TYR MET          
+SEQRES  10 D  146  THR LYS PRO ASP GLY THR PHE VAL VAL ARG THR VAL GLN          
+SEQRES  11 D  146  GLU LEU LEU PRO ALA SER PHE GLY PRO GLU ASP LEU GLN          
+SEQRES  12 D  146  LYS ILE GLN                                                  
+DBREF  1ZAB A    1   146  UNP    P56389   CDD_MOUSE        1    146             
+DBREF  1ZAB B    1   146  UNP    P56389   CDD_MOUSE        1    146             
+DBREF  1ZAB C    1   146  UNP    P56389   CDD_MOUSE        1    146             
+DBREF  1ZAB D    1   146  UNP    P56389   CDD_MOUSE        1    146             

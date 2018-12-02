@@ -1,0 +1,26 @@
+HELIX    1   1 SER A  190  LEU A  208  1                                  19    
+HELIX    2   2 ASN A  210  GLY A  229  1                                  20    
+HELIX    3   3 ASP A  230  LEU A  248  1                                  19    
+HELIX    4   4 GLU A  250  LEU A  268  1                                  19    
+HELIX    5   5 ASP A  270  LEU A  288  1                                  19    
+HELIX    6   6 ASP A  290  LEU A  308  1                                  19    
+HELIX    7   7 ASP A  310  GLY A  329  1                                  20    
+HELIX    8   8 ASN A  330  ARG A  346  1                                  17    
+HELIX    9   9 VAL B   67  LYS B   78  1                                  12    
+SEQRES   1 A  164  GLY PRO GLY SER ARG ALA ALA GLN GLY ARG ALA PHE GLY          
+SEQRES   2 A  164  ASN LEU GLY ASN THR HIS TYR LEU LEU GLY ASN PHE ARG          
+SEQRES   3 A  164  ASP ALA VAL ILE ALA HIS GLU GLN ARG LEU LEU ILE ALA          
+SEQRES   4 A  164  LYS GLU PHE GLY ASP LYS ALA ALA GLU ARG ILE ALA TYR          
+SEQRES   5 A  164  SER ASN LEU GLY ASN ALA TYR ILE PHE LEU GLY GLU PHE          
+SEQRES   6 A  164  GLU THR ALA SER GLU TYR TYR LYS LYS THR LEU LEU LEU          
+SEQRES   7 A  164  ALA ARG GLN LEU LYS ASP ARG ALA VAL GLU ALA GLN SER          
+SEQRES   8 A  164  CYS TYR SER LEU GLY ASN THR TYR THR LEU LEU GLN ASP          
+SEQRES   9 A  164  TYR GLU LYS ALA ILE ASP TYR HIS LEU LYS HIS LEU ALA          
+SEQRES  10 A  164  ILE ALA GLN GLU LEU LYS ASP ARG ILE GLY GLU GLY ARG          
+SEQRES  11 A  164  ALA CYS TRP SER LEU GLY ASN ALA TYR THR ALA LEU GLY          
+SEQRES  12 A  164  ASN HIS ASP GLN ALA MET HIS PHE ALA GLU LYS HIS LEU          
+SEQRES  13 A  164  GLU ILE SER ARG GLU VAL GLY ASP                              
+SEQRES   1 B   22  ARG LEU HIS PHE MET GLN VAL ASP SER VAL GLN ARG TRP          
+SEQRES   2 B   22  MET GLU ASP LEU LYS LEU MET THR GLU                          
+DBREF  3RO3 A  191   350  UNP    Q8VDU0   GPSM2_MOUSE    198    357             
+DBREF  3RO3 B   61    82  UNP    Q3HNM7   INSC_MOUSE      66     87             

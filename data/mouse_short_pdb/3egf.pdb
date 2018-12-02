@@ -1,0 +1,6 @@
+SEQRES   1 A   53  ASN SER TYR PRO GLY CYS PRO SER SER TYR ASP GLY TYR          
+SEQRES   2 A   53  CYS LEU ASN GLY GLY VAL CYS MET HIS ILE GLU SER LEU          
+SEQRES   3 A   53  ASP SER TYR THR CYS ASN CYS VAL ILE GLY TYR SER GLY          
+SEQRES   4 A   53  ASP ARG CYS GLN THR ARG ASP LEU ARG TRP TRP GLU LEU          
+SEQRES   5 A   53  ARG                                                          
+DBREF  3EGF A    1    53  UNP    P01132   EGF_MOUSE      977   1029             
