@@ -77,33 +77,49 @@ class Extract:
     return df2_list
 
 
-  def extract_data_from_pdb(self, dir):
+  def extract_data_from_pdb(self, dir, save_to_csv=False):
     """
     Extracts data from all the pdb files in the given directory and
     returns a list of dataframes
     :param dir: Name of the directory <string>
+    :param save_to_csv: bool, true if dataframe to csv required, default False
     :return: list of dataframes for each pdb file in the given directory
     """
     files_list = [f for f in os.listdir('./data/' + dir)]
-    df_list = [self.extract_single_pdb('./data/' + dir + "/" + f) for f in files_list]
+    df_list = []
+
+    for f in files_list:
+      df = self.extract_single_pdb('./data/' + dir + "/" + f, save_to_csv, dir)
+      if df.empty:
+        print("File " + f + " excluded")
+      else:
+        df_list.append(df)
 
     return df_list
 
-
-  def extract_single_pdb(self, f):
+  def extract_single_pdb(self, f, save_to_csv=False, dir=None):
     """
     Extracts data from single pdb file and displays in pandas dataframe
     :param f: name of the file <string>
-    :return: pandas dataframe
+    :param dir: Name of the directory <string>, Required when save_to_csv True
+    :param save_to_csv: bool, true if dataframe to csv required, default False
+    :return: pandas dataframe or False is any acid is not in given dict
     """
     data = ppdb().read_pdb(f)
+    f = f[::-1]
+    idx_dot = f.index('.')
+    idx_slash = f.index('/')
+    f = f[idx_dot+1:idx_slash]
+    file_name = f[::-1]
 
     # read starting helix range
     dbref = data.df['OTHERS'][data.df['OTHERS']['record_name'] == 'DBREF']['entry']
     if len(dbref) == 0:
       dbref = data.df['OTHERS'][data.df['OTHERS']['record_name'] == 'DBREF2']['entry']
       if len(dbref) == 0:
-        return
+        # empty df
+        return pd.DataFrame({})
+
       start_range = dbref[dbref.first_valid_index()][39:49]
     else:
       start_range = dbref[dbref.first_valid_index()][49:54]
@@ -128,10 +144,33 @@ class Extract:
     label = np.zeros(len(final_str))
     for st, end in helix_ranges:
       for i in range(st, end + 1):
+        if i >= len(label) or i < (-1*len(label)):
+          # empty df
+          return pd.DataFrame({})
+
         label[i] = 1
 
     # create the dataframe
     df = pd.DataFrame({'acids': final_str, 'helix': label})
-    df['acid_num'] = df['acids'].apply(lambda x: self.refer_protein[x])
+
+    def map_acid(x):
+      if x not in self.refer_protein:
+        return None
+      else:
+        return self.refer_protein[x]
+
+    df['acid_num'] = df['acids'].apply(map_acid)
+
+    if df['acid_num'].isnull().any():
+      # empty df
+      return pd.DataFrame({})
+
+    # save to csv
+    if save_to_csv:
+      path = './data/'+dir+'/csv/'
+      if not os.path.exists(path):
+        os.mkdir(path)
+      path += file_name+'.csv'
+      df.to_csv(path, index=False)
 
     return df
