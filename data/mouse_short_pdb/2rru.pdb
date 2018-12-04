@@ -1,9 +1,0 @@
-HELIX    1   1 ASP A    8  GLY A   22  1                                  15    
-HELIX    2   2 ARG A   32  LYS A   37  1                                   6    
-HELIX    3   3 ALA A   43  THR A   47  5                                   5    
-SEQRES   1 A   53  GLY PRO LEU GLY SER GLU ALA ASP PRO ARG LEU ILE GLU          
-SEQRES   2 A   53  SER LEU SER GLN MET LEU SER MET GLY PHE SER ASP GLU          
-SEQRES   3 A   53  GLY GLY TRP LEU THR ARG LEU LEU GLN THR LYS ASN TYR          
-SEQRES   4 A   53  ASP ILE GLY ALA ALA LEU ASP THR ILE GLN TYR SER LYS          
-SEQRES   5 A   53  HIS                                                          
-DBREF  2RRU A    6    53  UNP    Q64337   SQSTM_MOUSE    391    438             

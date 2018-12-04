@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import os.path
 
-f = open('mousepdb.txt', "r")
+f = open('yeastpdb.txt', "r")
 lines = f.readlines()
 f.close()
 

@@ -1,9 +1,0 @@
-HELIX    1   1 ASP A  545  CYS A  558  1                                  14    
-HELIX    2   2 PRO A  562  PHE A  573  1                                  12    
-HELIX    3   3 GLN A  580  HIS A  593  1                                  14    
-SEQRES   1 A   57  GLY PRO HIS MET GLY ASP LEU ALA LYS GLU ARG ALA GLY          
-SEQRES   2 A   57  VAL TYR THR LYS LEU CYS GLY VAL PHE PRO PRO HIS LEU          
-SEQRES   3 A   57  VAL GLU ALA VAL MET ARG ARG PHE PRO GLN LEU LEU ASP          
-SEQRES   4 A   57  PRO GLN GLN LEU ALA ALA GLU ILE LEU SER TYR LYS SER          
-SEQRES   5 A   57  GLN HIS LEU SER GLU                                          
-DBREF  2N5L A  544   596  UNP    Q5D1E7   ZC12A_MOUSE    544    596             

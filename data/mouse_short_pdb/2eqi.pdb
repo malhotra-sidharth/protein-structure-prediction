@@ -1,8 +1,0 @@
-HELIX    1   1 PRO A   56  ASN A   58  5                                   3    
-SEQRES   1 A   69  GLY SER SER GLY SER SER GLY ARG THR VAL LYS ALA LEU          
-SEQRES   2 A   69  TYR ASP TYR LYS ALA LYS ARG SER ASP GLU LEU THR PHE          
-SEQRES   3 A   69  CYS ARG GLY ALA LEU ILE HIS ASN VAL SER LYS GLU PRO          
-SEQRES   4 A   69  GLY GLY TRP TRP LYS GLY ASP TYR GLY THR ARG ILE GLN          
-SEQRES   5 A   69  GLN TYR PHE PRO SER ASN TYR VAL GLU ASP ILE SER GLY          
-SEQRES   6 A   69  PRO SER SER GLY                                              
-DBREF  2EQI A    8    63  UNP    Q8CIH5   Q8CIH5_MOUSE   772    827             

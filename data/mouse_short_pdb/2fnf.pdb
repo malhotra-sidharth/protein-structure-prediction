@@ -1,9 +1,0 @@
-HELIX    1   1 LEU X  111  GLY X  115  5                                   5    
-HELIX    2   2 SER X  155  ILE X  161  5                                   7    
-SEQRES   1 X   72  PRO ARG ASP VAL ARG SER ILE PHE GLU GLN PRO GLN ASP          
-SEQRES   2 X   72  PRO ARG VAL LEU ALA GLU ARG GLY GLU GLY HIS ARG PHE          
-SEQRES   3 X   72  VAL GLU LEU ALA LEU ARG GLY GLY PRO GLY TRP CYS ASP          
-SEQRES   4 X   72  LEU CYS GLY ARG GLU VAL LEU ARG GLN ALA LEU ARG CYS          
-SEQRES   5 X   72  ALA ASN CYS LYS PHE THR CYS HIS SER GLU CYS ARG SER          
-SEQRES   6 X   72  LEU ILE GLN LEU ASP CYS ARG                                  
-DBREF  2FNF X   95   166  GB     2997698  AAC08580        95    166             

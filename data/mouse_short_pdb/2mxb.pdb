@@ -1,8 +1,0 @@
-HELIX    1   1 PRO A    4  ALA A   10  1                                   7    
-HELIX    2   2 ASP A   14  TRP A   48  1                                  35    
-SEQRES   1 A   55  MET SER GLU PRO ALA SER LEU LEU THR ALA SER ASP LEU          
-SEQRES   2 A   55  ASP PRO LEU ILE LEU THR LEU SER LEU ILE LEU VAL LEU          
-SEQRES   3 A   55  ILE SER LEU LEU LEU THR VAL LEU ALA LEU LEU SER HIS          
-SEQRES   4 A   55  ARG ARG THR LEU GLN GLN LYS ILE TRP PRO HIS HIS HIS          
-SEQRES   5 A   55  HIS HIS HIS                                                  
-DBREF  2MXB A    2    49  UNP    P14753   EPOR_MOUSE     236    283             

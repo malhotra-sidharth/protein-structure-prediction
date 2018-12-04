@@ -1,7 +1,0 @@
-SEQRES   1 A   41  ACE LYS GLU HIS CYS GLY SER ILE LEU HIS GLY THR TRP          
-SEQRES   2 A   41  LEU PRO LYS LYS CYS SER LEU CYS ARG CYS TRP HIS GLY          
-SEQRES   3 A   41  GLN LEU HIS CYS LEU PRO GLN THR PHE LEU PRO GLY CYS          
-SEQRES   4 A   41  ASP NH2                                                      
-DBREF  2J5H A    0     0  PDB    2J5H     2J5H             0      0             
-DBREF  2J5H A    1    39  UNP    P51865   TDGF1_MOUSE     96    134             
-DBREF  2J5H A   40    40  PDB    2J5H     2J5H            40     40             

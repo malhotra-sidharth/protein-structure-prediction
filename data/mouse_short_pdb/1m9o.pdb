@@ -1,9 +1,0 @@
-HELIX    1   1 ARG A   16  SER A   21  5                                   6    
-HELIX    2   2 GLU A   38  ALA A   42  5                                   5    
-SEQRES   1 A   77  GLY SER HIS MET THR THR SER SER ARG TYR LYS THR GLU          
-SEQRES   2 A   77  LEU CYS ARG THR TYR SER GLU SER GLY ARG CYS ARG TYR          
-SEQRES   3 A   77  GLY ALA LYS CYS GLN PHE ALA HIS GLY LEU GLY GLU LEU          
-SEQRES   4 A   77  ARG GLN ALA ASN ARG HIS PRO LYS TYR LYS THR GLU LEU          
-SEQRES   5 A   77  CYS HIS LYS PHE LYS LEU GLN GLY ARG CYS PRO TYR GLY          
-SEQRES   6 A   77  SER ARG CYS HIS PHE ILE HIS ASN PRO THR GLU ASP              
-DBREF  1M9O A    5    77  UNP    P22893   TTP_MOUSE       91    163             

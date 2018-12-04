@@ -1,8 +1,0 @@
-HELIX    1   1 THR A   96  GLY A  111  1                                  16    
-HELIX    2   2 ARG A  114  LYS A  120  1                                   7    
-HELIX    3   3 ILE A  126  HIS A  137  1                                  12    
-SEQRES   1 A   52  LEU ILE LYS GLY PRO TRP THR LYS GLU GLU ASP GLN ARG          
-SEQRES   2 A   52  LEU ILE LYS LEU VAL GLN LYS TYR GLY PRO LYS ARG TRP          
-SEQRES   3 A   52  SER VAL ILE ALA LYS HIS LEU LYS GLY ARG ILE GLY LYS          
-SEQRES   4 A   52  GLN CYS ARG GLU ARG TRP HIS ASN HIS LEU ASN PRO GLU          
-DBREF  1GVD A   90   141  UNP    P06876   MYB_MOUSE       90    141             

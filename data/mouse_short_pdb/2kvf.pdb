@@ -1,6 +1,0 @@
-REMARK 650 HELIX                                                                
-HELIX    1   1 LYS A   16  VAL A   25  1                                  10    
-SEQRES   1 A   28  MET ARG PRO TYR SER CYS SER VAL CYS GLY LYS ARG PHE          
-SEQRES   2 A   28  SER LEU LYS HIS GLN MET GLU THR HIS TYR ARG VAL HIS          
-SEQRES   3 A   28  THR GLY                                                      
-DBREF  2KVF A    2    28  UNP    Q9JKD9   ZBT32_MOUSE    348    374             

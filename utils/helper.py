@@ -32,7 +32,7 @@ class Extract:
     }
 
 
-  def get_training_data(self, df_list):
+  def get_training_data(self, df_list, window_size=10, logging=False):
     """
     Creates X and Y vector for training neural network
     from the given list of dataframes with a sliding window of
@@ -42,22 +42,25 @@ class Extract:
     """
     X = []
     Y = []
-    for df in df_list:
+    for count, df in enumerate(df_list):
       # get 10 rows at a time
-      for i in range(0, len(df) - 9):
-        ip = df[i:i + 10]
+      for i in range(0, len(df) - (window_size-1)):
+        ip = df[i:i + window_size]
         label = ip['helix']
         input_vector = ip.drop(['helix'], axis=1)
         flattened_ip_vector = input_vector.values.flatten()
         X.append(flattened_ip_vector)
         Y.append(label.values)
 
+      if count % 100 == 0 and logging:
+        print("{} csv files extracted.".format(count))
+
     X = np.array(X)
     Y = np.array(Y)
     return X, Y
 
 
-  def get_one_hot_encoding(self, df_list):
+  def get_one_hot_encoding(self, df_list, save_to_csv=False, dir=None):
     """
     Creates one hot encoding for all the acids in each dataframe
     in the given list of the dataframes
@@ -66,14 +69,21 @@ class Extract:
     """
     # https://stackoverflow.com/a/37426982
     df2_list = []
-    for df in df_list:
+    if save_to_csv:
+      path = dir+'/one_hot_encoded/'
+      if not os.path.exists(path):
+        os.mkdir(path)
+
+    for num, df in enumerate(df_list):
       df2 = df.drop(['acids'], axis=1)
       hot_encode = pd.get_dummies(df['acid_num'], dtype=float)
       hot_encode = hot_encode.T.reindex([i for i in range(0, 20)]).T.fillna(0)
       df2 = df2.drop(['acid_num'], axis=1)
       df2 = pd.concat([df2, hot_encode], axis=1)
       df2_list.append(df2)
-
+      if save_to_csv:
+        save_path = path + str(num) + '.csv'
+        df.to_csv(save_path, index=False)
     return df2_list
 
 
@@ -85,7 +95,7 @@ class Extract:
     :param save_to_csv: bool, true if dataframe to csv required, default False
     :return: list of dataframes for each pdb file in the given directory
     """
-    files_list = [f for f in os.listdir('./data/' + dir)]
+    files_list = os.listdir('./data/' + dir)
     df_list = []
 
     for f in files_list:
@@ -96,6 +106,7 @@ class Extract:
         df_list.append(df)
 
     return df_list
+
 
   def extract_single_pdb(self, f, save_to_csv=False, dir=None):
     """
@@ -126,19 +137,23 @@ class Extract:
 
     # get the helic ranges
     helix_ranges = []
+    has_chain_A = False
     for string in data.df['OTHERS'][data.df['OTHERS']['record_name'] == 'HELIX']['entry']:
       # Only get for model A
       if (string[13].strip() == 'A'):
         start = int(string[16:19]) - int(start_range)
         end = int(string[28:31]) - int(start_range)
         helix_ranges.append((start, end))
+        has_chain_A = True
 
     # gets the amino acids sequences
     final_str = []
+
     for string in data.df['OTHERS'][data.df['OTHERS']['record_name'] == 'SEQRES']['entry']:
       # Only get for model A
       if (string[5].strip() == 'A'):
         final_str.extend(string[13:].split(sep=' '))
+
 
     # create the labels
     label = np.zeros(len(final_str))
@@ -161,7 +176,7 @@ class Extract:
 
     df['acid_num'] = df['acids'].apply(map_acid)
 
-    if df['acid_num'].isnull().any():
+    if df['acid_num'].isnull().any() or (not has_chain_A):
       # empty df
       return pd.DataFrame({})
 
@@ -174,3 +189,14 @@ class Extract:
       df.to_csv(path, index=False)
 
     return df
+
+
+  def load_all_csv(self, dir, logging=False):
+    path = './data/' + dir
+    files_list = os.listdir(path)
+    protein_df_list = []
+    for f in files_list:
+      file_path = path + '/' + f
+      protein_df_list.append(pd.read_csv(file_path))
+
+    return protein_df_list

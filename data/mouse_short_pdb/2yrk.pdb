@@ -1,9 +1,0 @@
-REMARK 650 HELIX                                                                
-HELIX    1   1 ILE A   29  ILE A   33  1                                   5    
-HELIX    2   2 LYS A   36  GLU A   44  1                                   9    
-SEQRES   1 A   55  GLY SER SER GLY SER SER GLY GLY THR ASP GLY THR LYS          
-SEQRES   2 A   55  PRO GLU CYS THR LEU CYS GLY VAL LYS TYR SER ALA ARG          
-SEQRES   3 A   55  LEU SER ILE ARG ASP HIS ILE PHE SER LYS GLN HIS ILE          
-SEQRES   4 A   55  SER LYS VAL ARG GLU THR VAL GLY SER GLN LEU ASP ARG          
-SEQRES   5 A   55  GLU LYS ASP                                                  
-DBREF  2YRK A    8    55  UNP    Q9JJN2   ZFHX4_MOUSE   2937   2984             

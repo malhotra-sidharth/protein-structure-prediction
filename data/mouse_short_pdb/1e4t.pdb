@@ -1,7 +1,0 @@
-HELIX    1   1 ALA A    5  GLY A   10  1                                   6    
-SEQRES   1 A   37  ASN SER LYS ARG ALA CYS TYR ARG GLU GLY GLY GLU CYS          
-SEQRES   2 A   37  LEU GLN ARG CYS ILE GLY LEU PHE HIS LYS ILE GLY THR          
-SEQRES   3 A   37  CYS ASN PHE ARG PHE LYS CYS CYS LYS PHE GLN                  
-REVDAT   5   20-JUN-18 1E4T    1       COMPND SOURCE JRNL   DBREF               
-REVDAT   2   23-AUG-01 1E4T    1       TITLE  COMPND REMARK DBREF               
-DBREF  1E4T A    1    37  UNP    Q91V70   DEFB7_MOUSE     26     62             

@@ -1,9 +1,0 @@
-HELIX    1   1 VAL A   35  GLY A   39  5                                   5    
-HELIX    2   2 ASP A   63  GLU A   67  5                                   5    
-SEQRES   1 A   74  GLY SER SER GLY SER SER GLY PRO SER SER SER GLN SER          
-SEQRES   2 A   74  GLU GLU LYS ALA PRO GLU LEU PRO LYS PRO LYS LYS ASN          
-SEQRES   3 A   74  ARG CYS PHE MET CYS ARG LYS LYS VAL GLY LEU THR GLY          
-SEQRES   4 A   74  PHE ASP CYS ARG CYS GLY ASN LEU PHE CYS GLY LEU HIS          
-SEQRES   5 A   74  ARG TYR SER ASP LYS HIS ASN CYS PRO TYR ASP TYR LYS          
-SEQRES   6 A   74  ALA GLU ALA SER GLY PRO SER SER GLY                          
-DBREF  1WFL A    8    68  UNP    O88878   Z20D2_MOUSE    134    194             

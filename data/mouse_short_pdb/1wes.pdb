@@ -1,9 +1,0 @@
-HELIX    1   1 PHE A   44  VAL A   47  1                                   4    
-HELIX    2   2 PRO A   60  ARG A   63  1                                   4    
-SEQRES   1 A   71  GLY SER SER GLY SER SER GLY GLU PHE ALA ILE ASP PRO          
-SEQRES   2 A   71  ASN GLU PRO THR TYR CYS LEU CYS ASN GLN VAL SER TYR          
-SEQRES   3 A   71  GLY GLU MET ILE GLY CYS ASP ASN GLU GLN CYS PRO ILE          
-SEQRES   4 A   71  GLU TRP PHE HIS PHE SER CYS VAL SER LEU THR TYR LYS          
-SEQRES   5 A   71  PRO LYS GLY LYS TRP TYR CYS PRO LYS CYS ARG GLY ASP          
-SEQRES   6 A   71  SER GLY PRO SER SER GLY                                      
-DBREF  1WES A    8    65  UNP    Q9ESK4   ING2_MOUSE     205    262             

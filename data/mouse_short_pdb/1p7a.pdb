@@ -1,6 +1,0 @@
-HELIX    1   1 ARG A   23  LYS A   32  1                                  10    
-HELIX    2   2 ARG A   33  MET A   35  5                                   3    
-SEQRES   1 A   37  GLY SER THR ARG GLY SER THR GLY ILE LYS PRO PHE GLN          
-SEQRES   2 A   37  CYS PRO ASP CYS ASP ARG SER PHE SER ARG SER ASP HIS          
-SEQRES   3 A   37  LEU ALA LEU HIS ARG LYS ARG HIS MET LEU VAL                  
-DBREF  1P7A A    7    37  UNP    Q60980   KLF3_MOUSE     314    344             

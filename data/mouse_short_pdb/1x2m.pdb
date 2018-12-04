@@ -1,9 +1,0 @@
-HELIX    1   1 GLN A   10  ALA A   21  1                                  12    
-HELIX    2   2 ASP A   27  ASP A   39  1                                  13    
-HELIX    3   3 ASP A   41  GLU A   56  1                                  16    
-SEQRES   1 A   64  GLY SER SER GLY SER SER GLY THR ALA GLN PRO ASN ALA          
-SEQRES   2 A   64  ILE LEU GLU LYS VAL PHE THR ALA ILE THR LYS HIS PRO          
-SEQRES   3 A   64  ASP GLU LYS ARG LEU GLU GLY LEU SER LYS GLN LEU ASP          
-SEQRES   4 A   64  TRP ASP VAL ARG SER ILE GLN ARG TRP PHE ARG GLN ARG          
-SEQRES   5 A   64  ARG ASN GLN GLU LYS PRO SER GLY PRO SER SER GLY              
-DBREF  1X2M A    8    58  UNP    Q8C172   LASS6_MOUSE     76    126             

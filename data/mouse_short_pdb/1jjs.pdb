@@ -1,9 +1,0 @@
-HELIX    1   1 ALA A    5  LYS A   14  1                                  10    
-HELIX    2   2 VAL A   25  LYS A   30  1                                   6    
-HELIX    3   3 GLN A   34  PHE A   39  1                                   6    
-HELIX    4   4 ILE A   40  ARG A   43  5                                   4    
-SEQRES   1 A   50  GLY ALA HIS MET ALA LEU GLN ASP LEU LEU ARG THR LEU          
-SEQRES   2 A   50  LYS SER PRO SER SER PRO GLN GLN GLN GLN GLN VAL LEU          
-SEQRES   3 A   50  ASN ILE LEU LYS SER ASN PRO GLN LEU MET ALA ALA PHE          
-SEQRES   4 A   50  ILE LYS GLN ARG THR ALA LYS TYR VAL ALA ASN                  
-DBREF  1JJS A    5    50  UNP    P45481   CBP_MOUSE     2067   2112             

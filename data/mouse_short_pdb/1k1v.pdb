@@ -1,8 +1,0 @@
-HELIX    1   1 ASP A   26  THR A   31  1                                   6    
-HELIX    2   2 VAL A   34  LEU A   41  1                                   8    
-HELIX    3   3 LYS A   46  ASN A   61  1                                  16    
-SEQRES   1 A   41  LEU THR ASP GLU GLU LEU VAL THR MET SER VAL ARG GLU          
-SEQRES   2 A   41  LEU ASN GLN HIS LEU ARG GLY LEU SER LYS GLU GLU ILE          
-SEQRES   3 A   41  ILE GLN LEU LYS GLN ARG ARG ARG THR LEU LYS ASN ARG          
-SEQRES   4 A   41  GLY TYR                                                      
-DBREF  1K1V A   24    64  UNP    O54790   MAFG_MOUSE      24     64             

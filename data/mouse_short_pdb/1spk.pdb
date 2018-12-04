@@ -1,9 +1,0 @@
-REMARK 650 HELIX                                                                
-HELIX    1   1 SER A   60  TYR A   62  5                                   3    
-SEQRES   1 A   72  GLY SER SER GLY SER SER GLY GLN LYS VAL LYS THR ILE          
-SEQRES   2 A   72  PHE PRO HIS THR ALA GLY ASN ASN LYS THR LEU LEU SER          
-SEQRES   3 A   72  PHE ALA GLN GLY ASP VAL LEU THR LEU LEU ILE PRO GLU          
-SEQRES   4 A   72  GLU LYS ASP GLY TRP LEU TYR GLY GLU HIS ASP THR THR          
-SEQRES   5 A   72  LYS ALA ARG GLY TRP PHE PRO SER SER TYR THR LYS LEU          
-SEQRES   6 A   72  LEU SER GLY PRO SER SER GLY                                  
-DBREF  1SPK A    8    66  UNP    Q9DBJ3   Q9DBJ3_MOUSE   343    401             

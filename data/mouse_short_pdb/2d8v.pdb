@@ -1,8 +1,0 @@
-HELIX    1   1 ARG A   33  HIS A   39  1                                   7    
-SEQRES   1 A   67  GLY SER SER GLY SER SER GLY LEU PRO TRP CYS CYS ILE          
-SEQRES   2 A   67  CYS ASN GLU ASP ALA THR LEU ARG CYS ALA GLY CYS ASP          
-SEQRES   3 A   67  GLY ASP LEU TYR CYS ALA ARG CYS PHE ARG GLU GLY HIS          
-SEQRES   4 A   67  ASP ASN PHE ASP LEU LYS GLU HIS GLN THR SER PRO TYR          
-SEQRES   5 A   67  HIS PRO ARG ARG PRO CYS GLN GLU HIS SER GLY PRO SER          
-SEQRES   6 A   67  SER GLY                                                      
-DBREF  2D8V A    8    61  UNP    Q9DAZ9   ZFY19_MOUSE    336    389             

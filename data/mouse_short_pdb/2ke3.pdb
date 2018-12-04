@@ -1,7 +1,0 @@
-HELIX    1   1 TYR A  721  ASN A  730  1                                  10    
-HELIX    2   2 ARG A  737  GLU A  752  1                                  16    
-SEQRES   1 A   43  SER LYS LEU GLU GLY SER GLU ASP SER LEU TYR SER ASP          
-SEQRES   2 A   43  TYR VAL ASP VAL PHE TYR ASN THR LYS PRO TYR LYS HIS          
-SEQRES   3 A   43  ARG ASP ASP ARG LEU LEU GLN ALA LEU MET ASP ILE LEU          
-SEQRES   4 A   43  ASN GLU GLU ASN                                              
-DBREF  2KE3 A  711   753  UNP    P63239   NEC1_MOUSE     711    753             

@@ -1,9 +1,0 @@
-HELIX    1   1 PRO A    7  SER A   20  1                                  14    
-HELIX    2   2 ASN A   25  GLY A   37  1                                  13    
-HELIX    3   3 ASP A   39  SER A   50  1                                  12    
-SEQRES   1 A   53  GLY PRO LEU GLY SER MET PRO GLU VAL ARG PHE GLN GLN          
-SEQRES   2 A   53  GLN LEU GLU GLN LEU ASN SER MET GLY PHE ILE ASN ARG          
-SEQRES   3 A   53  GLU ALA ASN LEU GLN ALA LEU ILE ALA THR GLY GLY ASP          
-SEQRES   4 A   53  ILE ASN ALA ALA ILE GLU ARG LEU LEU GLY SER GLN LEU          
-SEQRES   5 A   53  SER                                                          
-DBREF  2KNZ A    6    53  UNP    Q99NB8   UBQL4_MOUSE    549    596             

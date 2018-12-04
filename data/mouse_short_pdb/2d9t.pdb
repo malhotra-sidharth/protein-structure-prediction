@@ -1,9 +1,0 @@
-REMARK 650 HELIX                                                                
-HELIX    1   1 LEU A   56  ASN A   58  1                                   3    
-SEQRES   1 A   78  GLY SER SER GLY SER SER GLY LYS VAL TRP LYS PRO GLY          
-SEQRES   2 A   78  ASP GLU CYS PHE ALA LEU TYR TRP GLU ASP ASN LYS PHE          
-SEQRES   3 A   78  TYR ARG ALA GLU VAL GLU ALA LEU HIS SER SER GLY MET          
-SEQRES   4 A   78  THR ALA VAL VAL LYS PHE THR ASP TYR GLY ASN TYR GLU          
-SEQRES   5 A   78  GLU VAL LEU LEU SER ASN ILE LYS PRO VAL GLN THR GLU          
-SEQRES   6 A   78  ALA TRP VAL ARG ASP PRO ASN SER GLY PRO SER SER GLY          
-DBREF  2D9T A    8    67  UNP    Q91W18   TDRD3_MOUSE    553    612             

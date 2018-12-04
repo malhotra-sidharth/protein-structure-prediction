@@ -1,7 +1,0 @@
-REVDAT   3   29-NOV-17 1GNF    1       REMARK HELIX                             
-HELIX    1  H1 ASN A  226  ASN A  235  1                                  10    
-SEQRES   1 A   46  GLY SER GLU ALA ARG GLU CYS VAL ASN CYS GLY ALA THR          
-SEQRES   2 A   46  ALA THR PRO LEU TRP ARG ARG ASP ARG THR GLY HIS TYR          
-SEQRES   3 A   46  LEU CYS ASN ALA CYS GLY LEU TYR HIS LYS MET ASN GLY          
-SEQRES   4 A   46  GLN ASN ARG PRO LEU ILE ARG                                  
-DBREF  1GNF A  198   243  UNP    P17679   GATA1_MOUSE    198    243             
