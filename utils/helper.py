@@ -53,11 +53,59 @@ class Extract:
         Y.append(label.values)
 
       if count % 100 == 0 and logging:
-        print("{} csv files extracted.".format(count))
+        print("{} Dataframes seperated into labels and features.".format(count))
 
     X = np.array(X)
     Y = np.array(Y)
     return X, Y
+
+
+  def get_test_data(self, df_list, window_size=10, logging=False):
+    """
+    Creates X and Y vector for training neural network
+    from the given list of dataframes with a sliding window of
+    10
+    :param df_list: List of dataframes
+    :return: X vector and Y vector <numpy arrays>
+    """
+    dfX = []
+    dfY = []
+    for count, df in enumerate(df_list):
+      # get 10 rows at a time
+      X = []
+      Y = []
+      for i in range(0, len(df) - (window_size-1)):
+        ip = df[i:i + window_size]
+        label = ip['helix']
+        input_vector = ip.drop(['helix'], axis=1)
+        flattened_ip_vector = input_vector.values.flatten()
+        X.append(flattened_ip_vector)
+        Y.append(label.values)
+      X = np.array(X)
+      Y = np.array(Y)
+      dfX.append(X)
+      dfY.append(Y)
+
+      if count % 100 == 0 and logging:
+        print("{} Dataframes seperated into labels and features.".format(count))
+
+    return dfX, dfY
+
+    
+    
+  def get_whole_seq_data(self, df_list, logging=False):
+    dfX = []
+    dfY = []
+    for count, df in enumerate(df_list):
+      label = df['helix']
+      input_vector = ip.drop(['helix'], axis=1)
+      dfX.append(input_vector.values)
+      dfY.append(label.values)
+
+      if count % 100 == 0 and logging:
+        print("{} Dataframes seperated into labels and features.".format(count))
+
+    return dfX, dfY
 
 
   def get_one_hot_encoding(self, df_list, save_to_csv=False, dir=None):
@@ -74,7 +122,7 @@ class Extract:
       if not os.path.exists(path):
         os.mkdir(path)
 
-    for num, df in enumerate(df_list):
+    for filename,df in df_list:
       df2 = df.drop(['acids'], axis=1)
       hot_encode = pd.get_dummies(df['acid_num'], dtype=float)
       hot_encode = hot_encode.T.reindex([i for i in range(0, 20)]).T.fillna(0)
@@ -82,8 +130,8 @@ class Extract:
       df2 = pd.concat([df2, hot_encode], axis=1)
       df2_list.append(df2)
       if save_to_csv:
-        save_path = path + str(num) + '.csv'
-        df.to_csv(save_path, index=False)
+        save_path = path + filename 
+        df2.to_csv(save_path, index=False)
     return df2_list
 
 
@@ -192,7 +240,7 @@ class Extract:
 
 
   def load_all_csv(self, dir, logging=False):
-    path = './data/' + dir
+    path = dir
     files_list = os.listdir(path)
     protein_df_list = []
     for f in files_list:
