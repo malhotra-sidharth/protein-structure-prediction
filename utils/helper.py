@@ -32,7 +32,7 @@ class Extract:
     }
 
 
-  def get_training_data(self, df_list, window_size=10, logging=False):
+  def get_training_data(self, df_list, window_size=10, max_size=40000, logging=False):
     """
     Creates X and Y vector for training neural network
     from the given list of dataframes with a sliding window of
@@ -55,12 +55,14 @@ class Extract:
       if count % 100 == 0 and logging:
         print("{} Dataframes seperated into labels and features.".format(count))
 
+      if count > max_size:
+        break
     X = np.array(X)
     Y = np.array(Y)
     return X, Y
 
 
-  def get_test_data(self, df_list, window_size=10, logging=False):
+  def get_test_data(self, df_list, window_size=10, max_size=40000, logging=False):
     """
     Creates X and Y vector for training neural network
     from the given list of dataframes with a sliding window of
@@ -88,24 +90,25 @@ class Extract:
 
       if count % 100 == 0 and logging:
         print("{} Dataframes seperated into labels and features.".format(count))
-
+      
+      if count > max_size:
+        break
+        
     return dfX, dfY
 
     
     
   def get_whole_seq_data(self, df_list, logging=False):
-    dfX = []
-    dfY = []
+    dfXY = []
     for count, df in enumerate(df_list):
       label = df['helix']
       input_vector = ip.drop(['helix'], axis=1)
-      dfX.append(input_vector.values)
-      dfY.append(label.values)
+      dfXY.append((input_vector.values,label.values))
 
       if count % 100 == 0 and logging:
         print("{} Dataframes seperated into labels and features.".format(count))
 
-    return dfX, dfY
+    return dfXY
 
 
   def get_one_hot_encoding(self, df_list, save_to_csv=False, dir=None):

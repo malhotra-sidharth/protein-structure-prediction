@@ -6,17 +6,19 @@ import numpy as np
 from utils.helper import  Extract
 import math
 
-
 class FCNN(nn.Module):
   def __init__(self, window_size=10, hidden_size=20):
     super(FCNN, self).__init__()
 
     self.linear1 = torch.nn.Linear(20*window_size, hidden_size)
+    #self.linear15 = torch.nn.Linear(hidden_size, hidden_size)
     self.linear2 = torch.nn.Linear(hidden_size, window_size)
 
   def forward(self, x):
     out_1 = self.linear1(x)
     h1_relu = F.relu(out_1)
+    #out_15 = self.linear15(h1_relu)
+    #h15_relu = F.relu(out_15)
     out_2 = self.linear2(h1_relu)
     y_pred = F.relu(out_2)
 
@@ -24,12 +26,12 @@ class FCNN(nn.Module):
 
 
 class TrainFCNN:
-  def __init__(self, window_size=10, hidden_size=20):
+  def __init__(self, window_size=10, hidden_size=20, lr=1e-3):
     self.extractor = Extract()
     self.model = FCNN(window_size, hidden_size)
     self.window_size = window_size
     self.criterion = torch.nn.MSELoss(reduction='sum')
-    self.optimizer = torch.optim.Adam(self.model.parameters(), lr=1e-3)
+    self.optimizer = torch.optim.Adam(self.model.parameters(), lr)
     self.trainX = None
     self.trainY = None
     self.testdfX = None
@@ -39,21 +41,42 @@ class TrainFCNN:
     # if torch.cuda.is_available():
       # self.model.cuda()
       # print("Using CUDA.")
+      
+  def myWeightedLoss(self, outputs, labels):
+    norm_input = lambda j: ((j-(self.window_size-1)/2)/ window_size) * 10
+    gauss = lambda j: math.exp(-(norm_input(j))**2/3**2) 
+    w = torch.tensor([gauss(i) for i in range(0, window_size)],dtype = torch.float)
+    w_sum = torch.sum(w,dim=0)
+    w = w/w_sum
+    w = w.view(window_size,1)
+    residuals = outputs-labels
+    square_resid = torch.mul(residuals,residuals)
+    return torch.sum(torch.mm(square_resid,w))
 
-  def loadTestTrainData(self, one_hot_encoded_df_train_list, one_hot_encoded_df_test_list, logging=False):
+  def myCenteredLoss(self, outputs, labels):
+    centered = lambda j: 1 if j == int(self.window_size/2) else 0 
+    w = torch.tensor([centered(i) for i in range(0, window_size)],dtype = torch.float)
+    w_sum = torch.sum(w,dim=0)
+    w = w/w_sum
+    w = w.view(window_size,1)
+    residuals = outputs-labels
+    square_resid = torch.mul(residuals,residuals)
+    return torch.sum(torch.mm(square_resid,w))
+
+  def loadTestTrainData(self, one_hot_encoded_df_train_list, one_hot_encoded_df_test_list, max_size=40000, logging=False):
     if logging:
         print('Train data extraction started.') 
-    self.trainX, self.trainY = self.extractor.get_training_data(one_hot_encoded_df_train_list, self.window_size, logging)
+    self.trainX, self.trainY = self.extractor.get_training_data(one_hot_encoded_df_train_list, self.window_size,max_size, logging)
     self.xd, self.yd = self.trainX.shape
     
     if logging:
         print('Test data extraction started.') 
-    self.testdfX, self.testdfY = self.extractor.get_test_data(one_hot_encoded_df_test_list, self.window_size, logging)
+    self.testdfX, self.testdfY = self.extractor.get_test_data(one_hot_encoded_df_test_list, self.window_size, max_size, logging)
     
     if logging:
         print("Test and Train data extracted.")
 
-  def trainNN(self, batch_size=32, num_epochs=5, logging=False):
+  def trainNN(self, batch_size=32, num_epochs=5, logging=False, save_path=None, save_after_epochs=None):
     split_indices = [i for i in range(batch_size, self.xd, batch_size)]
 
     batchXlist = np.split(self.trainX, split_indices)[:-1]
@@ -88,7 +111,11 @@ class TrainFCNN:
         self.optimizer.step()
         total_epoch_loss += loss.item()
       avg_epoch_loss = total_epoch_loss / num_batches
-      if logging:
+      
+      if save_after_epochs != None and epoch%save_after_epochs == 0:
+        torch.save(self.model.state_dict(), save_path)
+      
+      if logging and (epoch%5==0):
         print("Epoch: {} Current Loss: {} Avg Loss: {}".format(epoch + 1, loss.item(), avg_epoch_loss))
 
 
@@ -96,7 +123,7 @@ class TrainFCNN:
 
     #Loop through test proteins
     protein_list = []
-    for i in range(start,len(self.testdfX)):
+    for i in range(start,len(inputdfX)):
       testX = inputdfX[i]
       testY = inputdfY[i]
       
@@ -137,13 +164,14 @@ class TrainFCNN:
     return protein_list
     
   def predict_on_test_data(self, batch_size = 32, start = 0, single_protein = False):
-    return predict(self.testdfX, self.testdfY, batch_size, start, single_protein)
+    return self.predict(self.testdfX, self.testdfY, batch_size, start, single_protein)
 
-  def predict_on_outside_data(self, outside_data_one_hot_df_list, batch_size = 32, start = 0, single_protein = False, logging = False):
+  def predict_on_outside_data(self, outside_data_one_hot_df_list, batch_size = 32, start = 0, single_protein = False, max_size=40000, logging = False):
     if logging:
       print("Seperating Labels")
-    outsideX, outsideY = self.extractor.get_training_data(outside_data_one_hot_df_list, self.window_size, logging)
+    outsideX, outsideY = self.extractor.get_test_data(outside_data_one_hot_df_list, self.window_size, max_size, logging)
     
+
     if logging:
       print("Running Predictions")
-    return predict(outsideX, outsideY, batch_size, start, single_protein)
+    return self.predict(outsideX, outsideY, batch_size, start, single_protein)
