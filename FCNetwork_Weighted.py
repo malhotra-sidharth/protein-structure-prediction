@@ -65,14 +65,14 @@ class TrainFCNN:
     return torch.sum(torch.mm(square_resid,w))
 
   def myCenteredLoss(self, outputs, labels):
-    centered = lambda j: 1 if j == int(self.window_size/2) else 0 
+    centered = lambda j: 1 if j == int(self.window_size/2) else 0.01    
     w = torch.tensor([centered(i) for i in range(0, self.window_size)],dtype = torch.float)
     w = w.view(self.window_size,1)
     residuals = outputs-labels
     square_resid = torch.mul(residuals,residuals)
-#    return torch.sum(torch.mm(square_resid,w))
-    square_resid = square_resid[:, int(self.window_size/2)]
-    return torch.sum(square_resid)
+    return torch.sum(torch.mm(square_resid,w))
+#    square_resid = square_resid[:, int(self.window_size/2)]
+#    return torch.sum(square_resid)
     
   def loadTestTrainData(self, one_hot_encoded_df_train_list, one_hot_encoded_df_test_list, max_size=40000, logging=False):
     if logging:
