@@ -102,7 +102,7 @@ class Extract:
     dfXY = []
     for count, df in enumerate(df_list):
       label = df['helix']
-      input_vector = ip.drop(['helix'], axis=1)
+      input_vector = df.drop(['helix'], axis=1)
       dfXY.append((input_vector.values,label.values))
 
       if count % 100 == 0 and logging:

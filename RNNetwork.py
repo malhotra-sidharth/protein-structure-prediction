@@ -47,8 +47,10 @@ class TrainRNN:
     if logging:
         print('Train data extraction started.') 
     self.traindfXY = self.extractor.get_whole_seq_data(one_hot_encoded_df_train_list, logging)
-    self.xd, self.yd = self.traindfXY.shape
-    
+    self.xd, self.yd = len(self.traindfXY), len(self.traindfXY)
+
+    print(self.xd)
+
     if logging:
         print('Test data extraction started.') 
     self.testdfXY = self.extractor.get_whole_seq_data(one_hot_encoded_df_test_list, logging)
@@ -56,7 +58,7 @@ class TrainRNN:
     if logging:
         print("Test and Train data extracted.")
 
-  def trainNN(self, num_epochs=5, logging=False):
+  def trainNN(self, num_epochs=5, logging=False, save_path=None, save_after_epochs=None):
     batch_size = 1
     for epoch in range(num_epochs):
       # shuffle dataset
@@ -65,16 +67,20 @@ class TrainRNN:
       total_epoch_loss = 0
       for i in range(num_prots):
         #Get a protein
+        if logging and (i % 100 == 0):
+          print(i)
         trainX, trainY = self.traindfXY[i]
-        num_acids, istwenty = trainX.shape
+        num_acids, _ = trainX.shape
+        #print(num_acids, type(trainX))
+        # _ = input("t")
         self.optimizer.zero_grad()
         hidden = self.model.initHidden()
-        y_pred_tensor = torch.zeroes(batch_size, num_acids)
+        y_pred_tensor = torch.zeros(batch_size, num_acids)
         for j in range(num_acids):
           tensorX = torch.tensor(trainX[j], dtype=torch.float).view(batch_size, 20)
           # Run Model One Acid
           y_pred, hidden = self.model(tensorX, hidden)
-          y_pred_tensor[0][j] = y_pred.item()
+          y_pred_tensor[0][j] = y_pred
         y_true_tensor = torch.tensor(trainY, dtype=torch.float).view(batch_size, num_acids)
         loss = torch.sqrt(self.criterion(y_pred_tensor, y_true_tensor))
         #perform backward pass, update weights
@@ -82,35 +88,39 @@ class TrainRNN:
         self.optimizer.step()
         total_epoch_loss += loss.item()
       avg_epoch_loss = total_epoch_loss / num_prots
+
+      if save_after_epochs != None and epoch%save_after_epochs == 0:
+        torch.save(self.model.state_dict(), save_path)
+
       if logging:
         print("Epoch: {} Current Loss: {} Avg Loss: {}".format(epoch + 1, loss.item(), avg_epoch_loss))
 
 
   def predict(self, inputdfXY, batch_size = 1, start = 0, single_protein = False):
-    num_prots = len(self.traindfXY)
+    num_prots = len(inputdfXY)
     protein_list = []
     for i in range(start, num_prots):
       #Get a protein
-      testX, testY = self.inoutdfXY[i]
-      num_acids, istwenty = trainX.shape
+      testX, testY = inputdfXY[i]
+      num_acids, _ = testX.shape
       hidden = self.model.initHidden()
-      y_pred_tensor = torch.zeroes(batch_size, num_acids)
+      y_pred_tensor = torch.zeros(batch_size, num_acids)
       for j in range(num_acids):
         tensorX = torch.tensor(testX[j], dtype=torch.float).view(batch_size, 20)
         # Run Model One Acid
         y_pred, hidden = self.model(tensorX, hidden)
         y_pred_tensor[0][j] = y_pred.item()
-      y_true_tensor = torch.tensor(trainY, dtype=torch.float).view(batch_size, num_acids)
+      y_true_tensor = torch.tensor(testY, dtype=torch.float).view(batch_size, num_acids)
       loss = torch.sqrt(self.criterion(y_pred_tensor, y_true_tensor))
       avg_loss = loss.item() / num_acids 
       protein_list.append((avg_loss,y_pred_tensor.detach().numpy(),y_true_tensor.detach().numpy()))
       if single_protein:
-        break;
+        break
     return protein_list
   
   
   def predict_on_test_data(self, batch_size = 1, start = 0, single_protein = False):
-    return predict(self.testdfXY, batch_size, start, single_protein)
+    return self.predict(self.testdfXY, batch_size, start, single_protein)
 
   def predict_on_outside_data(self, outside_data_one_hot_df_list, batch_size = 1, start = 0, single_protein = False, logging = False):
     if logging:
@@ -118,4 +128,4 @@ class TrainRNN:
     outsideXY = self.extractor.get_whole_seq_data(outside_data_one_hot_df_list, logging)
     if logging:
       print("Running Predictions")
-    return predict(outsideXY, batch_size, start, single_protein)
+    return self.predict(outsideXY, batch_size, start, single_protein)
