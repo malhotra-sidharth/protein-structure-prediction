@@ -21,13 +21,16 @@ class RNN(nn.Module):
   def forward(self, x, last_hidden):
     combined = torch.cat((x, last_hidden), 1)
     out_1 = self.linear1(combined)
-    h1_relu = F.relu(out_1)
+    h1_relu = torch.clamp(out_1,0,1)
+    #h1_relu = F.tanh(out_1)
     out_2 = self.linear2(h1_relu)
     y_pred = F.relu(out_2)
     return y_pred, h1_relu
 
   def initHidden(self):
     return torch.zeros(1, self.hidden_size)
+  def randHidden(self):
+    return torch.rand(1, self.hidden_size)
     
     
 class TrainRNN:
@@ -43,22 +46,22 @@ class TrainRNN:
     self.hidden_size = hidden_size
 
 
-  def loadTestTrainData(self, one_hot_encoded_df_train_list, one_hot_encoded_df_test_list, logging=False):
+  def loadTestTrainData(self, one_hot_encoded_df_train_list, one_hot_encoded_df_test_list, logging=False, max_size = 40000):
     if logging:
         print('Train data extraction started.') 
-    self.traindfXY = self.extractor.get_whole_seq_data(one_hot_encoded_df_train_list, logging)
+    self.traindfXY = self.extractor.get_whole_seq_data(one_hot_encoded_df_train_list, logging, max_size)
     self.xd, self.yd = len(self.traindfXY), len(self.traindfXY)
-
-    print(self.xd)
+	
+    #print(self.xd)
 
     if logging:
         print('Test data extraction started.') 
-    self.testdfXY = self.extractor.get_whole_seq_data(one_hot_encoded_df_test_list, logging)
+    self.testdfXY = self.extractor.get_whole_seq_data(one_hot_encoded_df_test_list, logging, max_size)
     
     if logging:
         print("Test and Train data extracted.")
 
-  def trainNN(self, num_epochs=5, logging=False, save_path=None, save_after_epochs=None):
+  def trainNN(self, num_epochs=5, logging=False, save_path=None, save_after_epochs=None, recur = 1, random = False):
     batch_size = 1
     for epoch in range(num_epochs):
       # shuffle dataset
@@ -67,25 +70,29 @@ class TrainRNN:
       total_epoch_loss = 0
       for i in range(num_prots):
         #Get a protein
-        if logging and (i % 100 == 0):
+        if logging and (i % 100 == 0) and (i > 0):
           print(i)
         trainX, trainY = self.traindfXY[i]
         num_acids, _ = trainX.shape
         #print(num_acids, type(trainX))
         # _ = input("t")
-        self.optimizer.zero_grad()
-        hidden = self.model.initHidden()
-        y_pred_tensor = torch.zeros(batch_size, num_acids)
-        for j in range(num_acids):
-          tensorX = torch.tensor(trainX[j], dtype=torch.float).view(batch_size, 20)
-          # Run Model One Acid
-          y_pred, hidden = self.model(tensorX, hidden)
-          y_pred_tensor[0][j] = y_pred
-        y_true_tensor = torch.tensor(trainY, dtype=torch.float).view(batch_size, num_acids)
-        loss = torch.sqrt(self.criterion(y_pred_tensor, y_true_tensor))
-        #perform backward pass, update weights
-        loss.backward() 
-        self.optimizer.step()
+        for r in range(recur):
+          self.optimizer.zero_grad()
+          if random:
+            hidden = self.model.randHidden()
+          else:
+            hidden = self.model.initHidden()
+          y_pred_tensor = torch.zeros(batch_size, num_acids)
+          for j in range(num_acids):
+            tensorX = torch.tensor(trainX[j], dtype=torch.float).view(batch_size, 20)
+            # Run Model One Acid
+            y_pred, hidden = self.model(tensorX, hidden)
+            y_pred_tensor[0][j] = y_pred
+          y_true_tensor = torch.tensor(trainY, dtype=torch.float).view(batch_size, num_acids)
+          loss = torch.sqrt(self.criterion(y_pred_tensor, y_true_tensor))
+          #perform backward pass, update weights
+          loss.backward() 
+          self.optimizer.step()
         total_epoch_loss += loss.item()
       avg_epoch_loss = total_epoch_loss / num_prots
 
@@ -122,10 +129,10 @@ class TrainRNN:
   def predict_on_test_data(self, batch_size = 1, start = 0, single_protein = False):
     return self.predict(self.testdfXY, batch_size, start, single_protein)
 
-  def predict_on_outside_data(self, outside_data_one_hot_df_list, batch_size = 1, start = 0, single_protein = False, logging = False):
+  def predict_on_outside_data(self, outside_data_one_hot_df_list, batch_size = 1, start = 0, single_protein = False, logging = False, max_size = 40000):
     if logging:
       print("Seperating Labels")
-    outsideXY = self.extractor.get_whole_seq_data(outside_data_one_hot_df_list, logging)
+    outsideXY = self.extractor.get_whole_seq_data(outside_data_one_hot_df_list, logging, max_size)
     if logging:
       print("Running Predictions")
     return self.predict(outsideXY, batch_size, start, single_protein)

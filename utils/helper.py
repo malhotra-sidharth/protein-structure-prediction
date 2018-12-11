@@ -98,7 +98,7 @@ class Extract:
 
     
     
-  def get_whole_seq_data(self, df_list, logging=False):
+  def get_whole_seq_data(self, df_list, logging=False, max_size = 40000):
     dfXY = []
     for count, df in enumerate(df_list):
       label = df['helix']
@@ -107,6 +107,8 @@ class Extract:
 
       if count % 100 == 0 and logging:
         print("{} Dataframes seperated into labels and features.".format(count))
+      if count > max_size:
+      	break
 
     return dfXY
 
